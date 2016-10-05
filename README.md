@@ -27,8 +27,8 @@ option. These functionalities are:
 > **java -jar XMLProcessorV2.jar ext classification-Type Raw-Code-Folder Structured-Code-Folder Missed-Code-Folder**
 
 - *ext: The option to select the extraction functionality*
-- *classification-Type: It specifies the type of classification to extract its descriptions. Its value is either **ipc** for international classification code or __us__  for the US classification (national)*
-- *Raw-Code-Folder: The folder specifies the raw classificatin code files. There exist two types of folders based on the type of classification and differ in their contents. In case of __us__ classification, the folder contains the top-level classification files where each file named after a top level code. Inside each file the sub-classes codes and descriptions. In case of **ipc** classification, the folder contains the files including different codes and their descriptions in xml formats*
+- *classification-Type: It specifies the type of classification to extract its descriptions. Its value is either __ipc__ for international classification code or __us__  for the US classification (national)*
+- *Raw-Code-Folder: The folder specifies the raw classificatin code files. There exist two types of folders based on the type of classification and differ in their contents. In case of __us__ classification, the folder contains the top-level classification files where each file named after a top level code. Inside each file the sub-classes codes and descriptions. In case of __ipc__ classification, the folder contains the files including different codes and their descriptions in xml formats*
 - *Structured-Code-Folder: The folder where the pairs code-description files are stored*
 - *Missed-Code-Folder: The folder where missed codes are stored for later review. It is useful in case of __us__ classification*
 
@@ -58,4 +58,4 @@ option. These functionalities are:
 ## 4-Triplifying
 It is the targeted step in the workflow where the XML files are transformed into RDF data. This is executed by using RML Mapping [http://rml.io/] and RML Processing [https://github.com/mmlab/RMLValidator/tree/rdfunit]. The syntax is:
 > **java -jar RMLMMF.jar RML-Mapping-File Processed-Patents-Folder**
-> *Example: *java -jar RMLMMF.jar /home/../mapping.ttl  /home/../patentsProcessed/2014/
+> *Example:*java -jar RMLMMF.jar /home/../mapping.ttl  /home/../patentsProcessed/2014/
