@@ -38,12 +38,12 @@ option. These functionalities are:
 
 **java -jar XMLProcessorV2.jar pro Splitted-Patents-Folder-Year Processed-Patents-Folder IPCCode-Folder USCode-Folder MissedCodes-Folder**
 
- *pro: the option to process the patents files*
- *Splitted-Patents-Folder-Year: the yearly patents folder*
- *Processed-Patents-Folder: the folder containing the processed xml patents files*
- *IPCCode-Folder: the folder contains the IPC codes*
- *USCode-Folder: the folder contains the us codes*
- *MissedCodes-Folder: the folder contains several sub-folders based on year where each folder includes a per-XMLfile text file for all types of missed codes *
+ -*pro: the option to process the patents files*
+ -*Splitted-Patents-Folder-Year: the yearly patents folder*
+ -*Processed-Patents-Folder: the folder containing the processed xml patents files*
+ -*IPCCode-Folder: the folder contains the IPC codes*
+ -*USCode-Folder: the folder contains the us codes*
+ -*MissedCodes-Folder: the folder contains several sub-folders based on year where each folder includes a per-XMLfile text file for all types of missed codes *
 **java -jar XMLProcessorV2.jar pro /home/../patentsSplitted/2005/ /home/../patentsProcessed/2005/ /home/../IPCCodes/ /home/../US/ /home/../MissedCodes/2005/**
 *Note: that the codes files must be in the same foder with the XMLProcessorV2.jar*
 
