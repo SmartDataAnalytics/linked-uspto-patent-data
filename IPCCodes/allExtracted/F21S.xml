@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="29492">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING</text>
+						<entryReference>electric aspects or elements Section H, e.g. electric light sources <sref ref="H01J" refType="/" refLevel="c"></sref>, <sref ref="H01K" refType="/" refLevel="c"></sref>, <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F21" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the note (Note III) following the Contents of Section of Section H.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Portable" means "intended to be carried personally".</text>
+								</noteParagraph>
+								<noteParagraph><text>"Non-portable" means "not intended to be carried personally, even if capable of being moved from place to place".</text>
+								</noteParagraph>
+								<noteParagraph><text>"Electric" includes "not stated to be non-electric".</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F21S" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NON-PORTABLE LIGHTING DEVICES OR SYSTEMS, NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="g" symbol="F21S0001000000" endSymbol="F21S0009000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Electric lighting devices or systems</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing a point-like light source</text>
+							</titlePart>
+							<titlePart><text>lighting devices or systems employing a light source of unspecified shape</text>
+								<entryReference><sref ref="F21S0007000000" refType="/" refLevel="c"></sref>, <sref ref="F21S0009000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F21S0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices intended to be fixed, e.g. ceiling lamp, wall lamp</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F21S0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a pendant</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F21S0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>multi-branched, e.g. chandelier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F21S0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with suspension from a stretched wire</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F21S0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a standard, e.g. street lamp</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices intended to be free-standing, e.g. table lamp, floor lamp</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Lighting systems</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing a linear light source</text>
+								<entryReference><sref ref="F21S0007000000" refType="/" refLevel="c"></sref>, <sref ref="F21S0009000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F21S0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices intended to be fixed, e.g. ceiling lamp, wall lamp</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F21S0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a pendant</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F21S0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>multi-branched, e.g. chandelier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F21S0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with suspension from a stretched wire</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F21S0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a standard, e.g. street lamp</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices intended to be free-standing, e.g. table lamp, floor lamp</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Lighting systems</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing light sources of shapes not covered by group <sref ref="F21S0001000000" refType="/" refLevel="c"></sref> or <sref ref="F21S0003000000" refType="/" refLevel="c"></sref>
+								</text>
+								<entryReference><sref ref="F21S0007000000" refType="/" refLevel="c"></sref>, <sref ref="F21S0009000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing combinations of the light sources covered by groups <mref ref="F21S0001000000" endRef="F21S0005000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+								</text>
+								<entryReference><sref ref="F21S0009000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>electric light sources using a combination of different kinds of light generation <sref ref="H05B0035000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices with a built-in power supply</text>
+							</titlePart>
+							<titlePart><text>Lighting systems employing such devices</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F21S0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the power supply being a battery or accumulator</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the power supply being a generator</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="g" symbol="F21S0011000000" endSymbol="F21S0017000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Non-electric lighting devices or systems</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems using daylight</text>
+								<entryReference>building arrangements in general, building details <sref ref="E04" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>windows or the like <sref ref="E06B" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing a point-like light source</text>
+							</titlePart>
+							<titlePart><text>Lighting devices or systems employing a light source of unspecified shape</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F21S0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices intended to be fixed, e.g. ceiling lamp, wall lamp</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F21S0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a pendant</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F21S0013060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>multi-branched, e.g. chandelier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F21S0013080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with suspension from a stretched wire</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F21S0013100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a standard, e.g. street lamp</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0013120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices intended to be free-standing, e.g. table lamp, floor lamp</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0013140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Lighting systems</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing light sources not covered by group <sref ref="F21S0011000000" refType="/" refLevel="c"></sref> or <sref ref="F21S0013000000" refType="/" refLevel="c"></sref>
+								</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details solely applicable to the devices covered by groups <sref ref="F21S0013000000" refType="/" refLevel="c"></sref> and <sref ref="F21S0015000000" refType="/" refLevel="c"></sref>
+								</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F21S0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Fastening and lifting of the lamp-glass</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F21S0017040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Special adaptation for protection against draughts</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21S0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices or systems employing combinations of electric and non-electric light sources</text>
+							</titlePart>
+							<titlePart><text>Replacing electric by non-electric light sources or <u>vice-versa</u>
+								</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

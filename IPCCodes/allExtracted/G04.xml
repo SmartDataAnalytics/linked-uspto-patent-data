@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="13354">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G04" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HOROLOGY</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G04B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MECHANICALLY-DRIVEN CLOCKS OR WATCHES</text>
+						</titlePart>
+						<titlePart><text>MECHANICAL PARTS OF CLOCKS OR WATCHES IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>TIME-PIECES USING THE POSITION OF THE SUN, MOON, OR STARS</text>
+							<entryReference>spring- or weight-driven mechanisms in general <sref ref="F03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical clocks or watches <sref ref="G04C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical clocks with attached or built-in means operating any device at preselected times or after predetermined time intervals <sref ref="G04C0023000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>clocks or watches with stop devices <sref ref="G04F0007080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G04B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes mechanically-driven calendar clocks or clockwork calendars, and the mechanical part of such clocks or calendars.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G04C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTROMECHANICAL CLOCKS OR WATCHES</text>
+							<entryReference>mechanical parts of clocks or watches in general <sref ref="G04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electronic time-pieces with no moving parts, electronic circuitry for producing timing pulses <sref ref="G04G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G04C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes electric features of mechanically-driven clocks or watches, such as electric winding of such clocks or the provision of electric contacts thereon.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G04D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>APPARATUS OR TOOLS SPECIALLY DESIGNED FOR MAKING OR MAINTAINING CLOCKS OR WATCHES</text>
+							<entryReference>machine tools in general <sref ref="B23" refType="/" refLevel="c"></sref>, <sref ref="B24" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>hand tools in general <sref ref="B25" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G04F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TIME-INTERVAL MEASURING</text>
+							<entryReference>measuring pulse characteristics <sref ref="G01R" refType="/" refLevel="c"></sref>, e.g. <sref ref="G01R0029020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>in radar or like systems <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>masers <sref ref="H01S0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generation of oscillations <sref ref="H03B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generation or counting of pulses, frequency dividing, analogue/digital conversion <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G04F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>apparatus for measuring-off predetermined time intervals;</text>
+									</noteParagraph>
+									<noteParagraph><text>apparatus for producing such intervals as timing standards, e.g. metronomes;</text>
+									</noteParagraph>
+									<noteParagraph edition="19740701"><text>apparatus for measuring unknown intervals, e.g. precision systems for short-time-interval measurement.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G04G" ipcLevel="C" edition="19800101" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTRONIC TIME-PIECES</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G04G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19800101"><text>This sub-class <u>covers</u>:</text>
+								<subnote type="alpha">
+									<noteParagraph edition="19800101"><text>electronic time-pieces with no moving parts (electronic time-pieces with moving parts are covered by sub-class <sref ref="G04C" refType="/" refLevel="c"/>);</text>
+									</noteParagraph>
+									<noteParagraph edition="19800101"><text>electronic circuitry for producing timing pulses irrespective of the nature of the time-indicating means utilised.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="69160">
+	<ipcEntry kind="s" symbol="C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION C <emdash></emdash> CHEMISTRY AND METALLURGY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="n" symbol="C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody>
+				<note type="none">
+					<noteParagraph><text>Definitions for Section C: </text>
+						<subnote type="bullet">
+							<noteParagraph><text>Alkali metals: Li, Na, K, Rb, Cs, Fr </text>
+							</noteParagraph>
+							<noteParagraph><text>Alkaline earth metals: Ca, Sr, Ba, Ra </text>
+							</noteParagraph>
+							<noteParagraph><text>Lanthanides: elements with atomic numbers 57 to 71 inclusive </text>
+							</noteParagraph>
+							<noteParagraph><text>Rare earths: Sc, Y, Lanthanides </text>
+							</noteParagraph>
+							<noteParagraph><text>Actinides: elements with atomic numbers 89 to 103 inclusive </text>
+							</noteParagraph>
+							<noteParagraph><text>Refractory metals: Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W </text>
+							</noteParagraph>
+							<noteParagraph><text>Halogens: F, Cl, Br, I, At </text>
+							</noteParagraph>
+							<noteParagraph><text>Noble gases: He, Ne, Ar, Kr, Xe, Rn </text>
+							</noteParagraph>
+							<noteParagraph><text>Platinum group: Os, Ir, Pt, Ru, Rh, Pd </text>
+							</noteParagraph>
+							<noteParagraph><text>Noble metals: Ag, Au, Platinum group </text>
+							</noteParagraph>
+							<noteParagraph><text>Light metals: alkali metals, alkaline earth metals, Be, Al, Mg </text>
+							</noteParagraph>
+							<noteParagraph><text>Heavy metals: metals other than light metals </text>
+							</noteParagraph>
+							<noteParagraph><text>Iron group: Fe, Co, Ni </text>
+							</noteParagraph>
+							<noteParagraph><text>Non-metals: H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens </text>
+							</noteParagraph>
+							<noteParagraph><text>Metals: elements other than non-metals </text>
+							</noteParagraph>
+							<noteParagraph><text>Transition elements: elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</text>
+							</noteParagraph>
+						</subnote>
+					</noteParagraph>
+				</note>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="t" symbol="C01" endSymbol="C01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CHEMISTRY</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="C07" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ORGANIC CHEMISTRY</text>
+						<entryReference>such compounds as the oxides, sulphides, and oxysulphides of carbon, cyanogen, phosgene, hydrocyanic acid and salts thereof <sref ref="C01" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>macromolecular compounds <sref ref="C08" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>dyes <sref ref="C09" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>fermentation products <sref ref="C12" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>fermentation or enzyme-using processes to synthesise a desired chemical compound <sref ref="C12P" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>production of organic compounds by electrolysis or electrophoresis <sref ref="C25B0003000000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="C07" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph edition="19740701"><text>Anhydrides and halides of carboxylic acids are classified as the relevant acids unless otherwise indicated. Salts of a compound, unless specifically provided for, are classified as that compound, e.g. aniline hydrochloride is classified as containing carbon, hydrogen and nitrogen only (in <sref ref="C07C0087520000" refType="/" refLevel="c"/>), sodium malonate is classified as malonic acid (in <sref ref="C07C0055080000" refType="/" refLevel="c"/>), and a mercaptide is classified as the mercaptan. Metal chelates are dealt with in the same way. Similarly, metal alcoholates and metal phenates are classified in sub-class <sref ref="C07C" refType="/" refLevel="c"/> and not in sub-class <sref ref="C07F" refType="/" refLevel="c"/>
+								<emdash/> the alcoholates in <mref ref="C07C0031280000" endRef="C07C0031320000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/> and the phenates as the corresponding phenols in <sref ref="C07C0039235000" refType="/" refLevel="c"/> or <sref ref="C07C0039440000" refType="/" refLevel="c"/>. Salts or adducts formed between two or more organic compounds are classified according to all compounds forming the salts or adducts.</text>
+						</noteParagraph>
+						<noteParagraph><text>In the absence of an indication to the contrary, and with the exception referred to below, a compound is classified in the last appropriate place, e.g. a compound containing an acyclic chain and a heterocyclic ring is classified only as a heterocyclic compound, and a steroid is classified only as a cyclopentanophenanthrene compound. In general, and in the absence of an indication to the contrary (such as groups <sref ref="C07C0059580000" refType="/" refLevel="c"/>, <sref ref="C07C0059700000" refType="/" refLevel="c"/>), the terms "acyclic" and "aliphatic" are used to describe compounds in which there is no ring; and, if a ring were present, the compound would be taken by the "last place" rule to a later group for cycloaliphatic or aromatic compounds, if such a group exists. Where a compound or an entire group of compounds exists in tautomeric forms, it is classified as though existing in the form which is classified last in the system, unless the other form is specifically mentioned earlier in the system.</text>
+						</noteParagraph>
+						<noteParagraph><text>Albumens, proteins, alkaloids of unknown structure, glucosides of unknown structure are examples of compounds to be found unter <sref ref="C07G" refType="/" refLevel="c"/>.</text>
+						</noteParagraph>
+						<noteParagraph><text>Inventions dealing with chemical compounds and their preparation are classified in the groups for the type of compound prepared. The processes of preparation should be secondarily classified in the groups for the types of reaction employed when such groups exist. General processes for the preparation of a class of compounds falling into more than one main group are classified in the groups for the processes employed when such groups exist. The compounds prepared may be secondarily classified in the groups for the types of compounds prepared.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="C07H" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SUGARS</text>
+						</titlePart>
+						<titlePart><text>DERIVATIVES THEREOF</text>
+							<entryReference>derivatives of aldonic or saccharic acids <sref ref="C07C" refType="/" refLevel="c"></sref>, <sref ref="C07D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>aldonic acids, saccharic acids <sref ref="C07C0059105000" refType="/" refLevel="c"></sref>, <sref ref="C07C0059285000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>cyanohydrins <sref ref="C07C0121360000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>glycals <sref ref="C07D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>compounds of unknown constitution <sref ref="C07G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>polysaccharides, derivatives thereof <sref ref="C08B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sugar and starch industry <sref ref="C13" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="C07H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class is concerned with compounds containing saccharide radicals. Excluded are polysaccharides which for the purpose of this sub-class are defined as having more than five saccharide radicals attached to each other by glycosidic linkages. A "saccharide radical" is derived from acyclic polyhydroxy-aldehydes or acyclic polyhydroxy-ketones, or from their cyclic tautomers, by removing hydrogen atoms or by replacing hetero bonds to oxygen by the same number of hetero bonds to halogen, nitrogen, sulphur, selenium, or tellurium, in accordance with either of the following definitions:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>A "saccharide radical"</text>
+										<subnote type="roman">
+											<noteParagraph><text>consists of an uninterrupted carbon skeleton and oxygen atoms directly attached thereto, and</text>
+											</noteParagraph>
+											<noteParagraph><text>is considered to be terminated by every bond to a cyclic structure and by every bond to a carbon atom having three bonds to hetero atoms, e.g. ester or nitrile radicals, and</text>
+											</noteParagraph>
+											<noteParagraph><text>contains within the carbon skeleton an unconjugated sequence of at the most six carbon atoms in which at least three carbon atoms <emdash/> at least two in the case of a skeleton having only four carbon atoms <emdash/> have one single bond to an oxygen atom as the only hetero bond, and</text>
+												<subnote type="Alpha">
+													<noteParagraph><text>in a cyclic or acyclic sequence, at least one other carbon atom has two single bonds to oxygen atoms as the only hetero bonds, or</text>
+													</noteParagraph>
+													<noteParagraph><text>in an acyclic sequence, at least one other carbon atom has one double bond to an oxygen atom as the only hetero bond.</text>
+													</noteParagraph>
+												</subnote>
+											</noteParagraph>
+										</subnote>
+									</noteParagraph>
+									<noteParagraph edition="19740701"><text>A "saccharide radical" is also a radical derived from a radical as defined in (a) above by replacing at the most four of the specified hetero bonds to oxygen by the same number of hetero bonds to halogen, nitrogen, sulphur, selenium, or tellurium.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph edition="19740701"><text>Attention is drawn to the notes following the title of class <sref ref="C07" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph edition="19740701"><text>In the absence of an indication to the contrary, a compound is classified in the last appropriate place.</text>
+							</noteParagraph>
+							<noteParagraph edition="19740701"><text>The terms "heterocyclic radical" and "hetero ring" are considered to exclude saccharide radicals as defined above.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Processes for the preparation of sugar derivatives</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Phosphorylation</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Introducing polyphosphoric acid radicals</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Separation</text>
+								</titlePart>
+								<titlePart><text>Purification</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>from natural products</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing only hydrogen atoms and saccharide radicals having only carbon, hydrogen, and oxygen atoms</text>
+								<entryReference>preparation by hydrolysis of di- or polysaccharides <sref ref="C13" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>separation or purification of sucrose, glucose, fructose, lactose or maltose <sref ref="C13" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Monosaccharides</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Disaccharides</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Oligosaccharides, i.e. having three to five saccharide radicals attached to each other by glycosidic linkages</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Deoxysugars</text>
+								</titlePart>
+								<titlePart><text>Unsaturated sugars</text>
+									<entryReference>1,2-dideoxy-1-enoses <sref ref="C07D" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Osones</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Anhydrosugars, e.g. epoxides</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing saccharide radicals in which hetero bonds to oxygen have been replaced by the same number of hetero bonds to halogen, nitrogen, sulphur, selenium, or tellurium</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>to halogen</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>to nitrogen</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Aminosugars</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>to sulphur, selenium, or tellurium</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>to sulphur</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing non-saccharide radicals linked to saccharide radicals by a carbon-to-carbon bond</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Acyclic radicals, e.g. glucuronic acids</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Carbocyclic radicals</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Heterocyclic radicals</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing a hetero ring sharing at least two hetero atoms with a saccharide radical</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the hetero ring containing only oxygen as ring hetero atoms</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cyclic acetals</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the hetero ring containing nitrogen as ring hetero atoms</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing saccharide radicals esterified by inorganic acids</text>
+							</titlePart>
+							<titlePart><text>Metal salts thereof</text>
+								<entryReference>halo-sugars <sref ref="C07H0005020000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>thio-, seleno-, or telluro-sugars <sref ref="C07H0005080000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>esterified by carbonic acid or derivatives thereof <sref ref="C07H0013120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0011020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Nitrates</text>
+								</titlePart>
+								<titlePart><text>Nitrites</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0011040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Phosphates</text>
+								</titlePart>
+								<titlePart><text>Phosphites</text>
+								</titlePart>
+								<titlePart><text>Polyphosphates</text>
+									<entryReference>phosphonates <sref ref="C07H0013000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing saccharide radicals esterified by carbonic acid or derivatives thereof, or by organic acids, e.g. phosphonic acids</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by carboxylic acids</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having the esterifying carboxyl radicals attached to acyclic carbon atoms</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0013060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Fatty acids</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0013080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having the esterifying carboxyl radicals directly attached to carbocyclic rings</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0013100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having the esterifying carboxyl radicals directly attached to heterocyclic rings</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0013120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by acids having the group <emdash></emdash>X<emdash></emdash>C (=X)<emdash></emdash>X<emdash></emdash>, or halides thereof, in which X means nitrogen, oxygen, sulphur, selenium, or tellurium, e.g. carbonic acid, carbamic acid</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing hydrocarbon or substituted hydrocarbon radicals directly attached to hetero atoms of saccharide radicals</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Acyclic radicals, not substituted by cyclic structures</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>attached to an oxygen atom of a saccharide radical</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Fatty acid esters of sugar ethers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0015080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Polyoxyalkylene derivatives</text>
+											<entryReference>polyoxyalkylene derivatives of polyols in general <sref ref="C07C0041000000" refType="/" refLevel="c"></sref>, <sref ref="C07C0043000000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0015100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>containing unsaturated carbon-to-carbon bonds</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0015120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>attached to a nitrogen atom of a saccharide radical</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0015140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>attached to a sulphur, selenium or tellurium atom of a saccharide radical</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0015160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Lincomycin</text>
+										</titlePart>
+										<titlePart><text>Derivatives thereof</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0015180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Acyclic radicals, substituted by carbocyclic rings</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0015200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Carbocyclic rings</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0015220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cyclohexyl radicals, substituted by nitrogen atoms, e.g. streptomycins</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0015240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Condensed ring systems having three or more rings</text>
+										<entryReference>steroid glycosides <sref ref="C07J" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0015260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Acyclic or carbocyclic radicals, substituted by hetero rings</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing heterocyclic radicals directly attached to hetero atoms of saccharide radicals</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Heterocyclic radicals containing only nitrogen as ring hetero atoms</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0017040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Heterocyclic radicals containing only oxygen as ring hetero atoms</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0017060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Benzopyran radicals, e.g. anthocyanins</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0017080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Hetero rings containing eight or more ring members, e.g. erythromycins</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing a hetero ring sharing one ring hetero atom with a saccharide radical</text>
+							</titlePart>
+							<titlePart><text>Mononucleotides</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>sharing nitrogen</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0019040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Heterocyclic radicals containing only nitrogen as ring hetero atom</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0019060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Pyrimidine radicals</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="C07H0019080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with the saccharide radical being esterified by carboxylic acids</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="C07H0019100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with the saccharide radical being esterified by phosphoric acids</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0019120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Triazine radicals</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0019140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Pyrrolo-pyrimidine radicals</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0019160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Purine radicals</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="C07H0019180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with the saccharide radical being esterified by carboxylic acids</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="C07H0019200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with the saccharide radical being esterified by phosphoric acids</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="C07H0019220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Pteridine radicals</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="C07H0019240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Heterocyclic radicals containing oxygen or sulphur as ring hetero atom</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing two or more mononucleotide units, e.g. nucleic acids</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with ribosyl as saccharide radical</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="C07H0021040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with deoxyribosyl as saccharide radical</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="C07H0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compounds containing boron, silicon, or a metal, e.g. chelates, vitamin B<sub>12</sub>
+								</text>
+								<entryReference>esters with inorganic acids <sref ref="C07H0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>metal salts, see parent compounds</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

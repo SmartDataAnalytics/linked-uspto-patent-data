@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="3834">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G21" endSymbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEONICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEAR PHYSICS</text>
+					</titlePart>
+					<titlePart><text>NUCLEAR ENGINEERING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G21B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FUSION REACTORS</text>
+							<entryReference>uncontrolled reactors <sref ref="G21J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="G21B0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Alleged controlled-fusion reactors</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G21B0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using a beam of particles some of which react with other particles</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="8344">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H04" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ELECTRIC COMMUNICATION TECHNIQUE</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="H04S" ipcLevel="C" edition="19800101" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>STEREOPHONIC SYSTEMS</text>
+							<entryReference>information storage on discs or tapes <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>broadcast systems for the distribution of stereophonic information <sref ref="H04H0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>multiplex systems in general <sref ref="H04J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04S" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19800101"><text>In this sub-class, the term "stereophonic systems" covers quadraphonic or similar systems.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="H04S0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Two-channel systems</text>
+								<entryReference><sref ref="H04S0005000000" refType="/" refLevel="c"></sref>, <sref ref="H04S0007000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="H04S0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Systems employing more than two channels, e.g. quadraphonic</text>
+								<entryReference><sref ref="H04S0005000000" refType="/" refLevel="c"></sref>, <sref ref="H04S0007000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19800101" kind="1" symbol="H04S0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of the matrix type, i.e. in which input signals are combined algebraically, e.g. after having been phase shifted with respect to each other</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="H04S0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Pseudo-stereo systems, e.g. in which additional channel signals are derived from monophonic signals by means of phase shifting, time delay or reverberation</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19800101" kind="1" symbol="H04S0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of the pseudo four-channel type, e.g. in which rear channel signals are derived from two-channel stereo signals</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="H04S0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Indicating arrangements</text>
+							</titlePart>
+							<titlePart><text>Control arrangements, e.g. balance control</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="58096">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G06" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMPUTING</text>
+					</titlePart>
+					<titlePart><text>CALCULATING</text>
+					</titlePart>
+					<titlePart><text>COUNTING</text>
+						<entryReference>score computers for games <sref ref="A63B0071060000" refType="/" refLevel="c"></sref>, <sref ref="A63D0015200000" refType="/" refLevel="c"></sref>, <sref ref="A63F0001180000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>combinations of writing appliances with computing devices <sref ref="B43K0029080000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G06" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>The term "data" is understood to be synonymous with "information", and the term "information" is therefore not used in sub-class <sref ref="G06C" refType="/" refLevel="c"/> or <sref ref="G06F" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>The terms "calculating" and "computing" are both understood to include, inter alia, operations on numerical values and on data expressed in numerical form; of these words "computing" is used throughout the class. "Computation" is derived from this interpretation of "computing". In the French language the word "calcul" will serve for either word.</text>
+								</noteParagraph>
+								<noteParagraph><text>In those sub-classes which include simulators:</text>
+									<subnote type="roman">
+										<noteParagraph><text>a simulator in class <sref ref="G06" refType="/" refLevel="c"/> is concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</text>
+										</noteParagraph>
+										<noteParagraph><text>control functions derived from simulators are not in class <sref ref="G06" refType="/" refLevel="c"/> but are generally in class <sref ref="G05" refType="/" refLevel="c"/>, although they may be in the sub-class for the device controlled;</text>
+										</noteParagraph>
+										<noteParagraph><text>measurement of an individual variable to serve as an input to a simulator is in class <sref ref="G01" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator is regarded as a teaching or training device proper to class <sref ref="G09" refType="/" refLevel="c"/> if the simulator gives perceptible sensations having a likeness to the sensations the student would experience in reality in response to actions taken by him. Simulators which demonstrate, by means involving computing, the functioning of apparatus or of a system are in class <sref ref="G06" refType="/" refLevel="c"/>, if no provision exists elsewhere. Components of simulators, if identical with real devices or machines, are classified in the relevant sub-class for these devices or machines and not in class <sref ref="G06" refType="/" refLevel="c"/> or <sref ref="G09" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator may use the same time scale as the real device or operate on an expanded or compressed time scale;</text>
+										</noteParagraph>
+										<noteParagraph><text>models of real devices to reduced or expanded scales are not regarded as simulators.</text>
+										</noteParagraph>
+									</subnote>
+								</noteParagraph>
+								<noteParagraph><text>The term "record carrier" is understood to mean a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G06C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DIGITAL COMPUTERS IN WHICH ALL THE COMPUTATION IS EFFECTED MECHANICALLY</text>
+							<entryReference>score computers for card games <sref ref="A63F0001180000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>construction of keys, printing mechanisms, or other parts of general application to the typewriting or printing art <sref ref="B41" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>keys or printing mechanisms for special applications, <u>see</u> the relevant sub-class, e.g. <sref ref="G05G" refType="/" refLevel="c"></sref>, <sref ref="G06K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G06C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Details of mechanisms covered in main groups <sref ref="G06C0009000000" refType="/" refLevel="c"/>, <sref ref="G06C0011000000" refType="/" refLevel="c"/>, or <sref ref="G06C0015000000" refType="/" refLevel="c"/>, which are applicable to mechanical counters driven only through the lowest denomination, are classified in sub-class <sref ref="G06M" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Computing aids in which the computing members form at least part of the displayed result and are manipulated directly by hand, e.g. abacus, pocket adding device</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for table look-up, e.g. menstruation table</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Non-functional elements</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Housings</text>
+								</titlePart>
+								<titlePart><text>Frameworks</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Input mechanisms</text>
+								<entryReference>pin carriage <sref ref="G06C0013020000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Keyboards</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06C0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Interlocking devices, e.g. between keys</text>
+										<entryReference>interlocking devices covered by this sub-class, <u>per se</u>
+											<sref ref="G06C0025000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with one set of keys for each denomination</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0007080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with one set of keys for all denominations, e.g. ten-key board</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0007090000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Transfer of data from record carrier to computing mechanisms</text>
+									<entryReference>sensing record carriers <sref ref="G06K0007000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0007100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Transfer mechanisms, e.g. transfer of a figure from a ten-key keyboard into the pin carriage</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0007120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Resetting devices, e.g. for the keyboard</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Transfer mechanisms, e.g. for transmitting figures from the input mechanism into the computing mechanism</text>
+								<entryReference><sref ref="G06C0007100000" refType="/" refLevel="c"></sref>, <sref ref="G06C0011000000" refType="/" refLevel="c"></sref>, <sref ref="G06C0015000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Back-transfer arrangements, e.g. to transfer a value accumulated in a register back into the selection mechanism</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Output mechanisms</text>
+								<entryReference>marking record carriers in general, visual presentation in general of results of the mathematical operations <sref ref="G06K" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0011020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with visual indication, e.g. counter drum</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0011040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with printing mechanisms, e.g. for character-at-a-time or line-at-a-time printing</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06C0011060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having type hammers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0011080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with punching mechanism</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0011100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for feeding single sheets or continuous web or tape, e.g. ejection device</text>
+									<entryReference>conveying record carriers <sref ref="G06K0013000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Line-spacing devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06C0011120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for feeding tape</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Storage mechanisms</text>
+								<entryReference>mechanical counters with input only to the lowest order <sref ref="G06M" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>information storage in general <sref ref="G11" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Operand stores, e.g. pin carriage</text>
+									<entryReference>input mechanisms <sref ref="G06C0007000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Print buffer stores</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Computing mechanisms</text>
+							</titlePart>
+							<titlePart><text>Actuating devices therefor</text>
+								<entryReference>mechanisms for operating automatically upon more than two numbers otherwise than by repeated addition or subtraction <sref ref="G06C0021000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="G06C0015020000" endSymbol="G06C0015420000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph><text>Group <sref ref="G06C0015020000" refType="/" refLevel="c"/> takes precedence over groups <mref ref="G06C0015040000" endRef="G06C0015420000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>operating on the binary scale</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adding or subtracting devices</text>
+									<entryReference><sref ref="G06C0015080000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06C0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having balance totalising</text>
+									</titlePart>
+									<titlePart><text>Obtaining sub-total</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Multiplying or dividing devices</text>
+								</titlePart>
+								<titlePart><text>Devices for computing the exponent or root</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06C0015100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having more than one denominational set of keys operating directly on computing mechanism</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having pin carriage</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having pin wheel, e.g. Odhner type</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having stepped-toothed actuating drums, e.g. Thomas type</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having multiplication table for forming partial products</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G06C0015200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>adapted for short-cut multiplication or division</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for two or more computing devices</text>
+								</titlePart>
+								<titlePart><text>Arrangements for subdivision into two or more computing mechanisms, e.g. splitting</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices for counting the cycles of operation in division or multiplication</text>
+									<entryReference>item-counting devices <sref ref="G06C0025020000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices for transfer between orders, e.g. tens-transfer device</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06C0015280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>where transfer is effected in one step</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>where transfer is effected in two steps</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G06C0015320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with provision for simultaneous transfer between all orders</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>where transfer is effected by planet gear, i.e. crawl type</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G06C0015360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with aligning means</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for pin-wheel computing mechanisms</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06C0015400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for stepped-toothed-drum computing mechanism</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices for resetting to zero or other datum</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices for comparing numerical values, e.g. zero check</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for rounding-off</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0015480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for selection of one out of several counting registers</text>
+									<entryReference>arrangements for controlling subsequent operating functions <sref ref="G06C0021040000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>item counters <sref ref="G06C0025020000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Mechanisms for converting from one notational system to another, i.e. radix conversion</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Decimal-point mechanisms</text>
+							</titlePart>
+							<titlePart><text>Analogous mechanisms for non-decimal notations</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices for indicating the point</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0019040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices for printing the point</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Programming-mechanisms for determining the steps to be performed by the computing machine, e.g. when a key or certain keys are depressed</text>
+								<entryReference>mechanisms merely for producing multiplication by repeated addition <sref ref="G06C0015080000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which the operation of the mechanism is determined by the position of the carriage</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0021040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Conditional arrangements for controlling subsequent operating functions, e.g. control arrangement triggered by a function key and depending on the condition of the register</text>
+									<entryReference>arrangements for selection of one out of several counting registers <sref ref="G06C0015480000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Driving mechanisms for functional elements</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="G06C0023020000" endSymbol="G06C0023060000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph><text>Group <sref ref="G06C0023080000" refType="/" refLevel="c"/> takes precedence over groups <mref ref="G06C0023020000" endRef="G06C0023060000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0023020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of main shaft</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0023040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of pin carriage, e.g. for step-by-step movement</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0023060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of tabulation devices, e.g. of carriage skip</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06C0023080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Hydraulic or pneumatic actuation</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G06C0025000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Auxiliary functional arrangements, e.g. interlocks</text>
+								<entryReference>interlocks in keyboards <sref ref="G06C0007040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0025020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Item-counting devices</text>
+									<entryReference>devices for counting the cycles of operation in division or multiplication <sref ref="G06C0015240000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0027000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Computing machines characterised by the structural interrelation of their functional units, e.g. invoicing machines</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06C0027020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cash registers</text>
+									<entryReference>without computing mechanism <sref ref="G07G" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06C0029000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Combinations of computing machines with other machines, e.g. with typewriter, with money-changing apparatus</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

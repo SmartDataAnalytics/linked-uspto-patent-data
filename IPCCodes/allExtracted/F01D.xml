@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="79300">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F01" endSymbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINES AND PUMPS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MACHINES OR ENGINES IN GENERAL</text>
+						<entryReference>combustion engines <sref ref="F02" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>machines for liquids <sref ref="F03" refType="/" refLevel="c"></sref>, <sref ref="F04" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>ENGINE PLANTS IN GENERAL</text>
+					</titlePart>
+					<titlePart><text>STEAM ENGINES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F01D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NON-POSITIVE-DISPLACEMENT MACHINES OR ENGINES, e.g. STEAM TURBINES</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F01D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, especially as regards the definitions of "reaction type" and "impulse type".</text>
+							</noteParagraph>
+							<noteParagraph><text>The subject-matter of this sub-class comprises:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>non-positive-displacement engines for elastic fluids, e.g. steam turbines,</text>
+									</noteParagraph>
+									<noteParagraph><text>non-positive-displacement engines for liquids and elastic fluids,</text>
+									</noteParagraph>
+									<noteParagraph><text>non-positive-displacement machines for elastic fluids,</text>
+									</noteParagraph>
+									<noteParagraph><text>non-positive-displacement machines for liquids and elastic fluids.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Non-positive-displacement machines or engines, e.g. steam turbines</text>
+								<entryReference>with working-fluid flows in opposite axial directions for balancing axial thrust <sref ref="F01D0003020000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>with other than pure rotation <sref ref="F01D0023000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>turbines characterised by their use in special steam systems, cycles, or processes, regulating devices therefor <sref ref="F01K" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with stationary working-fluid guiding means and bladed or like rotor, e.g. multi-bladed impulse steam turbines</text>
+									<entryReference>of reaction type <sref ref="F01D0001180000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>traversed by the fluid substantially axially</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>traversed by the fluid substantially radially</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>having inward flow</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>having two or more stages subjected to working-fluid flow without essential intermediate pressure change, i.e. with velocity stages</text>
+										<entryReference><sref ref="F01D0001120000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with repeated action on same blade ring</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>traversed by the fluid substantially radially</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by having both reaction stages and impulse stages</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of reaction type</text>
+									<entryReference>with pressure/velocity transformation exclusively in rotor <sref ref="F01D0001320000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0001200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>traversed by the fluid substantially axially</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0001220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>traversed by the fluid substantially radially</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0001240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by counter-rotating rotors subjected to same working-fluid stream without intermediate stator blades or the like</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0001260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>traversed by the fluid substantially axially</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0001280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>traversed by the fluid substantially radially</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0001300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by having a single rotor operable in either direction of rotation, e.g. by reversing of blades</text>
+									<entryReference>combinations of machines or engines <sref ref="F01D0013000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0001320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with pressure/velocity transformation exclusively in rotor</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0001340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by non-bladed rotor, e.g. with drilled holes</text>
+									<entryReference>sirens <sref ref="G10K0007000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0001360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using fluid friction</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Machines or engines with axial-thrust balancing effected by working fluid</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by having one fluid flow in one axial direction and another fluid flow in the opposite direction</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>axial thrust being compensated by thrust-balancing dummy piston or the like</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Blades</text>
+							</titlePart>
+							<titlePart><text>Blade-carrying members</text>
+								<entryReference>nozzle boxes <sref ref="F01D0009020000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+							<titlePart><text>Heating, heat-insulating, cooling, or antivibration means on the blades or the members</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Blade-carrying members, e.g. rotors</text>
+									<entryReference>rotors of non-bladed type <sref ref="F01D0001340000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>stators <sref ref="F01D0009000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for radial-flow machines or engines</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Rotors for more than one axial stage, e.g. of drum or multiple-disc type</text>
+									</titlePart>
+									<titlePart><text>Details thereof, e.g. shafts, shaft connections</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Heating, heat-insulating, or cooling means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Antivibration means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0005120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Blades</text>
+									<entryReference>blade roots <sref ref="F01D0005300000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>rotors with blades adjustable in operation <sref ref="F01D0007000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>stator blades <sref ref="F01D0009020000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0005140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Form or construction</text>
+										<entryReference>selecting particular materials, measures against erosion or corrosion <sref ref="F01D0005280000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0005160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for counteracting blade vibration</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F01D0005180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Hollow blades</text>
+										</titlePart>
+										<titlePart><text>Heating, heat-insulating, or cooling means on blades</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F01D0005200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Specially-shaped blade tips to seal space between tips and stator</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0005220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Blade-to-blade connections, e.g. by shrouding</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0005240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using wire or the like</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0005260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Antivibration means not restricted to blade form or construction or to blade-to-blade connections</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0005280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Selecting particular materials</text>
+									</titlePart>
+									<titlePart><text>Measures against erosion or corrosion</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0005300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Fixing blades to rotors</text>
+								</titlePart>
+								<titlePart><text>Blade roots</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0005320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Locking, e.g. by final locking-blades or keys</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0005340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Rotor-blade aggregates of unitary construction</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Rotors with blades adjustable in operation</text>
+							</titlePart>
+							<titlePart><text>Control thereof</text>
+								<entryReference>for reversing <sref ref="F01D0001300000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>having adjustment responsive to speed</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Stators</text>
+								<entryReference>non-fluid guiding aspects of casings, regulating, controlling, or safety aspects, <u>see</u> the relevant groups</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Nozzles</text>
+								</titlePart>
+								<titlePart><text>Nozzle boxes</text>
+								</titlePart>
+								<titlePart><text>Stator blades</text>
+								</titlePart>
+								<titlePart><text>Guide conduits</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>forming ring or sector</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Fluid supply conduits to nozzles or the like</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Preventing or minimising internal leakage of working fluid, e.g. between stages</text>
+								<entryReference>sealings in general <sref ref="F16J" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0011020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by non-contact sealings, e.g. of labyrinth type</text>
+									<entryReference>for sealing space between rotor blade tips and stator <sref ref="F01D0011080000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0011040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using sealing fluid, e.g. steam</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0011060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Control thereof</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0011080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for sealing space between rotor blade tips and stator</text>
+									<entryReference>specially-shaped blade tips therefor <sref ref="F01D0005200000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0011100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using sealing fluid, e.g. steam</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Combinations of two or more machines or engines</text>
+								<entryReference><sref ref="F01D0015000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>regulating or controlling, <u>see</u> the relevant groups</entryReference>
+								<entryReference>combinations of two or more pumps <sref ref="F04" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>fluid gearing <sref ref="F16H" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Working-fluid interconnection of machines or engines</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Adaptations of machines or engines for special use</text>
+							</titlePart>
+							<titlePart><text>Combinations of engines with devices driven thereby</text>
+								<entryReference>regulating or controlling, <u>see</u> the relevant groups</entryReference>
+								<entryReference>aspects predominantly concerning driven devices, <u>see</u> the relevant classes for the devices</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adaptations for driving vehicles, e.g. locomotives</text>
+									<entryReference>arrangement in vehicles, <u>see</u> the relevant vehicle classes</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the vehicles being waterborne vessels</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adaptations for driving, or combinations with, hand-held tools or the like</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0015080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adaptations for driving, or combinations with, pumps</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0015100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adaptations for driving, or combinations with, electric generators</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0015120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Combinations with mechanical gearing</text>
+									<entryReference>driven by multiple engines <sref ref="F01D0013000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Regulating or controlling by varying flow</text>
+								<entryReference>for reversing <sref ref="F01D0001300000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>by varying rotor blade position <sref ref="F01D0007000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>specially for starting <sref ref="F01D0019000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>shutting-down <sref ref="F01D0021000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>regulating or controlling in general <sref ref="G05" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangement of sensing elements</text>
+									<entryReference>sensing elements <u>per se</u>, see the relevant sub-classes</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0017040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>responsive to load</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0017060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>responsive to speed</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0017080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>responsive to condition of working fluid, e.g. pressure</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0017100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Final actuators</text>
+									<entryReference>valves in general <sref ref="F16K" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0017120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>arranged in stator parts</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0017140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>varying effective cross-sectional area of nozzles or guide conduits</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F01D0017160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>by means of nozzle vanes</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F01D0017180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>varying effective number of nozzles or guide conduits</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0017200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices dealing with sensing elements or final actuators or transmitting means between them, e.g. power-assisted</text>
+									<entryReference>sensing elements alone <sref ref="F01D0017020000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>final actuators alone <sref ref="F01D0017100000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0017220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the operation or power assistance being predominantly non-mechanical</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F01D0017240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>electrical</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F01D0017260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>fluid, e.g. hydraulic</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Starting of machines or engines</text>
+							</titlePart>
+							<titlePart><text>Regulating, controlling, or safety means in connection therewith</text>
+								<entryReference>warming-up before starting <sref ref="F01D0025100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>turning or inching gear <sref ref="F01D0025340000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>dependent on temperature of component parts, e.g. of turbine casing</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Shutting-down of machines or engines, e.g. in emergency</text>
+							</titlePart>
+							<titlePart><text>Regulating, controlling, or safety means not otherwise provided for</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Shutting-down responsive to overspeed</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0021040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>responsive to undesired position of rotor relative to stator, e.g. indicating such position</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0021060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Shutting-down</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0021080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Restoring position</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0021100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>responsive to unwanted deposits on blades, in working-fluid conduits, or the like</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0021120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>responsive to temperature</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0021140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>responsive to other specific conditions</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0021160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Trip gear</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0021180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>involving hydraulic means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0021200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Checking operation of shut-down devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Non-positive-displacement machines or engines with movement other than pure rotation, e.g. of endless-chain type</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F01D0025000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Component parts, details, or accessories, not provided for in, or of interest apart from, other groups</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F01D0025020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>De-icing means for engines having icing phenomena</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Antivibration arrangements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0025060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for preventing blade vibration</text>
+										<entryReference>means on blade-carrying members or blades <sref ref="F01D0005000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cooling</text>
+									<entryReference>of machines or engines in general <sref ref="F01P" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Heating</text>
+								</titlePart>
+								<titlePart><text>Heat insulation</text>
+									<entryReference>of blade-carrying members, of blades <sref ref="F01D0005000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0025100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Heating, e.g. warming-up before starting</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0025120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cooling</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0025140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Casings modified therefor</text>
+										<entryReference>double casings <sref ref="F01D0025260000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangement of bearings</text>
+								</titlePart>
+								<titlePart><text>Supporting or mounting bearings in casings</text>
+									<entryReference>bearings <u>per se</u>
+										<sref ref="F16C" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Lubricating arrangements</text>
+									<entryReference>of machines or engines in general <sref ref="F01M" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0025200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using lubrication pumps</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F01D0025220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using working fluid or other gaseous fluid as lubricant</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Casings</text>
+									<entryReference>modified for heating or cooling <sref ref="F01D0025140000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Casing parts, e.g. diaphragms, casing fastenings</text>
+									<entryReference>casings for rotary machines or engines in general <sref ref="F16M" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0025260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Double casings</text>
+									</titlePart>
+									<titlePart><text>Measures against temperature strain in casings</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Supporting or mounting arrangements, e.g. for turbine casing</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Exhaust heads, chambers, or the like</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Collecting of condensation water</text>
+								</titlePart>
+								<titlePart><text>Drainage</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F01D0025340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Turning or inching gear</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F01D0025360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using electric motors</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

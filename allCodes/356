@@ -1,0 +1,527 @@
+2	CONTOUR PLOTTING
+3	RANGE OR REMOTE DISTANCE FINDING
+3.01	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam
+3.02	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using photodetection with a fixed axial line of sight
+3.03	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using a source beam with a fixed axial direction or plane
+3.04	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using a source beam with a fixed axial direction or plane With a single staring photodetector having one element
+3.05	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using a source beam with a fixed axial direction or plane With a single staring photodetector having one element Having moving receiver optics
+3.06	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using a source beam with a fixed axial direction or plane With a single photodetector having multiple elements
+3.07	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using a source beam with a fixed axial direction or plane With a single photodetector having multiple elements Having electronic scanning of the photodetector
+3.08	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Using a source beam with a fixed axial direction or plane With at least one paired set of staring photodetectors
+3.09	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with one projected beam Requiring scanning of a source beam
+3.1	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with two or more projected beams
+3.11	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with two or more projected beams Using photodetection at the source station(s)
+3.12	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging to a point with two or more projected beams Using photodetection remote from the source station(s)
+3.13	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging with photodetection, but with no projected beam
+3.14	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging with photodetection, but with no projected beam Using at least a pair of viewing axes
+3.15	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging with photodetection, but with no projected beam Using at least a pair of viewing axes With one viewing axis fixed
+3.16	RANGE OR REMOTE DISTANCE FINDING Triangulation ranging with photodetection, but with no projected beam Using at least a pair of viewing axes With moving optical elements in all viewing axes
+4.01	RANGE OR REMOTE DISTANCE FINDING With photodetection
+4.02	RANGE OR REMOTE DISTANCE FINDING With photodetection Of a simulation or test
+4.03	RANGE OR REMOTE DISTANCE FINDING With photodetection Of focused image size or dimensions
+4.04	RANGE OR REMOTE DISTANCE FINDING With photodetection Of degree of defocus
+4.05	RANGE OR REMOTE DISTANCE FINDING With photodetection Of focal point search
+4.06	RANGE OR REMOTE DISTANCE FINDING With photodetection Of differential amplitude at two source or detector distances
+4.07	RANGE OR REMOTE DISTANCE FINDING With photodetection Of intensity proportional to distance
+4.08	RANGE OR REMOTE DISTANCE FINDING With photodetection Of height relative to a light plane
+4.09	RANGE OR REMOTE DISTANCE FINDING With photodetection Of light interference fringes
+4.1	RANGE OR REMOTE DISTANCE FINDING With photodetection Of light interference fringes Having different frequency sources
+5.01	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time
+5.02	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having return coincide with swept display or detector
+5.03	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having one or more return pulse gates or windows
+5.04	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having one or more return pulse gates or windows Including a displayed image
+5.05	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having pulse transmission trigger significance
+5.06	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having pulse transmission trigger significance Including optical pick-off of transmission start
+5.07	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having pulse transmission trigger significance Including optical pick-off of transmission start With specific counter type timing of returns
+5.08	RANGE OR REMOTE DISTANCE FINDING With photodetection Of pulse transit time Having pulse transmission trigger significance Including specific counter type timing of returns
+5.09	RANGE OR REMOTE DISTANCE FINDING With photodetection Of frequency difference
+5.1	RANGE OR REMOTE DISTANCE FINDING With photodetection Of CW phase delay
+5.11	RANGE OR REMOTE DISTANCE FINDING With photodetection Of CW phase delay Having multiple carrier or modulation frequencies
+5.12	RANGE OR REMOTE DISTANCE FINDING With photodetection Of CW phase delay Having multiple carrier or modulation frequencies Including an alternating reference path
+5.13	RANGE OR REMOTE DISTANCE FINDING With photodetection Of CW phase delay Having an alternating reference path
+5.14	RANGE OR REMOTE DISTANCE FINDING With photodetection Of CW phase delay Having polarization discrimination
+5.15	RANGE OR REMOTE DISTANCE FINDING With photodetection Of CW phase delay Having specific IF mixing of returns
+6	RANGE OR REMOTE DISTANCE FINDING Instrument condition testing or indicating
+7	RANGE OR REMOTE DISTANCE FINDING Periscope or offset type
+8	RANGE OR REMOTE DISTANCE FINDING With view finder
+9	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument)
+10	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) With filter or light valve
+11	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Range finder combined with height finder
+12	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Stereoscopic
+13	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Stereoscopic Ortho-pseudo type
+14	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Stereoscopic Stationary measuring marks
+15	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Length of base line variable
+16	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Image displaced by moving refracting element
+17	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Image displaced by rotating reflecting element
+18	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) With mounting, supporting, adjusting, or folding structure
+19	RANGE OR REMOTE DISTANCE FINDING Base line instrument (i.e., base is a part of instrument) Prism structure for determining coincidence
+20	RANGE OR REMOTE DISTANCE FINDING External basis type
+21	RANGE OR REMOTE DISTANCE FINDING External basis type Object size or distance known
+22	RANGE OR REMOTE DISTANCE FINDING External basis type Object size or distance known With displaced images
+23	MOTION STOPPING (E.G., STROBOSCOPES)
+24	MOTION STOPPING (E.G., STROBOSCOPES) Periodically moving reflecting or refracting element
+25	MOTION STOPPING (E.G., STROBOSCOPES) Periodically moving light interrupting element
+26	MOTION STOPPING (E.G., STROBOSCOPES) Periodically moving light interrupting element Vibrating or oscillating element
+27	VELOCITY OR VELOCITY/HEIGHT MEASURING
+28	VELOCITY OR VELOCITY/HEIGHT MEASURING With light detector (e.g., photocell)
+28.5	VELOCITY OR VELOCITY/HEIGHT MEASURING With light detector (e.g., photocell) Of light interference (e.g., interferometer)
+29	OPTICAL ELEMENT OR RETICLE RESPONDS TO RELATIVE VELOCITY OF REMOTE OBJECT
+30	CRYSTAL OR GEM EXAMINATION
+31	CRYSTAL OR GEM EXAMINATION Axes determination
+32	MATERIAL STRAIN ANALYSIS
+33	MATERIAL STRAIN ANALYSIS With polarized light
+34	MATERIAL STRAIN ANALYSIS With polarized light Attached detector
+35	MATERIAL STRAIN ANALYSIS With polarized light Sheet material
+35.5	MATERIAL STRAIN ANALYSIS By light interference detector (e.g., interferometer)
+36	WITH SAMPLE PREPARATION
+37	WITH SAMPLE PREPARATION Condensation nuclei detector
+38	WITH SAMPLE PREPARATION Depositing particles on optical surface
+39	BLOOD ANALYSIS
+40	BLOOD ANALYSIS Hemoglobin concentration
+41	BLOOD ANALYSIS Hemoglobin concentration Oximeters
+42	BLOOD ANALYSIS Hemoglobin concentration Standards
+43	OPTICAL PYROMETERS
+44	OPTICAL PYROMETERS With sample engaging rod or tube
+45	OPTICAL PYROMETERS Plural color responsive
+46	OPTICAL PYROMETERS With incandescent standard
+47	OPTICAL PYROMETERS With incandescent standard Automatic intensity control
+48	OPTICAL PYROMETERS With incandescent standard Modulating (e.g., flicker beam)
+49	OPTICAL PYROMETERS With incandescent standard Telescopic
+50	OPTICAL PYROMETERS With incandescent standard Telescopic Current control
+51	INFRARED AND ULTRAVIOLET
+52	EGG CANDLING
+53	EGG CANDLING Photoelectric
+54	EGG CANDLING With counting, marking, or weighing
+55	EGG CANDLING With egg transfer
+56	EGG CANDLING With egg transfer With egg turning or jarring
+57	EGG CANDLING With egg transfer With egg turning or jarring Endless conveyor
+58	EGG CANDLING With egg transfer Endless conveyor
+59	EGG CANDLING With egg transfer Manual transfer
+60	EGG CANDLING With egg transfer Manual transfer With light shading chamber
+61	EGG CANDLING With egg transfer Manual transfer Portable receptacles
+62	EGG CANDLING With light shading chamber
+63	EGG CANDLING With light shading chamber Hood type
+64	EGG CANDLING With light box
+65	EGG CANDLING With light box With egg turning or jarring
+66	EGG CANDLING With light box With particular illumination means
+67	EGG CANDLING With light box With particular illumination means With particular electrical switching
+68	EGG CANDLING Lamp attachments
+69	CUTTING BLADE SHARPNESS
+70	OIL TESTING (E.G., CONTAMINATION)
+71	DOCUMENT PATTERN ANALYSIS OR VERIFICATION
+72	WITH PLURAL DIVERSE TEST OR ART
+73	PLURAL TEST
+73.1	FOR OPTICAL FIBER OR WAVEGUIDE INSPECTION
+300	BY DISPERSED LIGHT SPECTROSCOPY
+301	BY DISPERSED LIGHT SPECTROSCOPY With Raman type light scattering
+302	BY DISPERSED LIGHT SPECTROSCOPY For spectrographic (i.e., photographic) investigation
+303	BY DISPERSED LIGHT SPECTROSCOPY For spectrographic (i.e., photographic) investigation With spectral analysis
+304	BY DISPERSED LIGHT SPECTROSCOPY For spectrographic (i.e., photographic) investigation With sectored disc
+305	BY DISPERSED LIGHT SPECTROSCOPY For spectrographic (i.e., photographic) investigation With diffraction grating
+306	BY DISPERSED LIGHT SPECTROSCOPY With internal standard comparison
+307	BY DISPERSED LIGHT SPECTROSCOPY With background radiation comparison
+308	BY DISPERSED LIGHT SPECTROSCOPY With synchronized spectrum repetitive scanning (e.g., cathode-ray readout)
+309	BY DISPERSED LIGHT SPECTROSCOPY With synchronized spectrum repetitive scanning (e.g., cathode-ray readout) Using plural beams
+310	BY DISPERSED LIGHT SPECTROSCOPY With aperture mask
+311	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning)
+312	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By electrical resistance heating (e.g., graphite tube)
+313	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By arc or spark
+314	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By arc or spark Including sputtering
+315	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By flame
+316	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By high frequency field (e.g., plasma discharge)
+317	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By light
+318	BY DISPERSED LIGHT SPECTROSCOPY With sample excitation (e.g., burning) By light Monochromatic (e.g., laser)
+319	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam)
+320	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam) Having plural wavelengths
+321	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam) Having servo equalization
+322	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam) Having servo equalization With polarized light beams
+323	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam) Having beam modulation
+324	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam) Having beam modulation With plural dispersion
+325	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrophotometer (i.e., plural beam) Having beam modulation Prior to testing
+326	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrometer
+327	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrometer Having light polarizing means
+328	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrometer Having diffraction grating means
+329	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrometer Having diffraction grating means Including servo slit adjustment means
+330	BY DISPERSED LIGHT SPECTROSCOPY Utilizing a spectrometer Having optical gating means
+331	BY DISPERSED LIGHT SPECTROSCOPY With monochromator structure
+332	BY DISPERSED LIGHT SPECTROSCOPY With monochromator structure Having adjustable color or bandwidth
+333	BY DISPERSED LIGHT SPECTROSCOPY With monochromator structure Having adjustable color or bandwidth In a double monochromator
+334	BY DISPERSED LIGHT SPECTROSCOPY With monochromator structure Having adjustable color or bandwidth With diffraction grating means
+335	FOR SIZE OF PARTICLES
+336	FOR SIZE OF PARTICLES By particle light scattering
+337	BY PARTICLE LIGHT SCATTERING
+338	BY PARTICLE LIGHT SCATTERING With photocell detection
+339	BY PARTICLE LIGHT SCATTERING With photocell detection At right angles to the light beam (e.g., nephelometer)
+340	BY PARTICLE LIGHT SCATTERING With photocell detection At variable angle to the light beam
+341	BY PARTICLE LIGHT SCATTERING With photocell detection For light comparison means
+342	BY PARTICLE LIGHT SCATTERING With photocell detection Of back-scattered light
+343	BY PARTICLE LIGHT SCATTERING With photocell detection Using plural photocells
+344	BY ELECTROPHORESIS
+450	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER)
+451	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Spectroscopy
+452	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Spectroscopy Having particular linear mirror drive or configuration
+453	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Spectroscopy Polarization
+454	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Spectroscopy Fabry-Perot type or Etalon Type
+455	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Spectroscopy Having a rotating, pendulous, or wedge scanning element
+456	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Spectroscopy Imaging
+457	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Holography
+458	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Holography For optical configuration
+459	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros)
+460	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect)
+461	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect) Resonant loop
+462	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect) Multi-axis (X-Y-Z) having multiplexing
+463	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect) Multiple harmonic output
+464	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect) Having null feedback loop
+465	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect) Fiber coil winding
+466	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) By fiber or waveguide interferometer (e.g., Sagnac effect) Having m x n loop coupler where (m is greater than 2) and (n is greater than or equal to 2) (e.g., passive bias)
+467	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Four frequency, multi-oscillator, non-planar cavity
+468	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Cavity output beam combiner
+469	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Cavity mirror details
+470	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Passive cavity (laser source outside cavity)
+471	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Multi-axis cavity
+472	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Lock-in prevention
+473	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Lock-in prevention Path length control (PLC)
+474	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Lock-in prevention Having dither signal removal from output
+475	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Lock-in prevention Having dither signal control
+476	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Rotation rate (e.g., ring laser gyros) Lock-in prevention By dithering (suspensions, drives, flexures)
+477	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer
+478	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer Multiplexed sensor array
+479	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer Having a short coherence length source
+480	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer Resonant cavity
+481	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer Refraction indexing
+482	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer For distance or displacement measurement
+483	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Using fiber or waveguide interferometer Plural counter-propagating beams (e.g., non-motion Sagnac device)
+484	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning)
+485	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning) For dimensional measurement (e.g., thickness gap, alignment, profile)
+486	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning) For dimensional measurement (e.g., thickness gap, alignment, profile) Displacement or distance
+487	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning) For dimensional measurement (e.g., thickness gap, alignment, profile) Displacement or distance Polarization
+488	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning) For dimensional measurement (e.g., thickness gap, alignment, profile) Displacement or distance Polarization Having wavefront division (e.g., by diffraction)
+489	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning) For dimensional measurement (e.g., thickness gap, alignment, profile) Contour or profile
+490	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having light beams of different frequencies (e.g., heterodyning) For dimensional measurement (e.g., thickness gap, alignment, profile) Alignment
+491	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having polarization
+492	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having polarization For dimensional measurement
+493	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having polarization For dimensional measurement Displacement or distance
+494	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having polarization For dimensional measurement Displacement or distance Having wavefront division (e.g., by diffraction)
+495	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having polarization For dimensional measurement Contour or profile
+496	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement
+497	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Having short coherence length source
+498	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Displacement or distance
+499	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Displacement or distance Having wavefront division (e.g., by diffraction)
+500	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Displacement or distance X-Y and/or Z table
+501	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Displacement or distance Of probe head (e.g., atomic force microscope)
+502	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Displacement or distance Surface displacement due to acoustic wave propagation)
+503	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Thickness
+504	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Thickness Refraction from surfaces of different refractive index
+505	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Gap
+506	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Gap Fabry-Perot type
+507	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Gap Between slider/disc (e.g., flying height)
+508	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement For orientation or alignment
+509	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement For orientation or alignment Between mask and wafer
+510	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement For orientation or alignment Tilt
+511	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Contour or profile
+512	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Contour or profile By wavefront detection
+513	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Contour or profile By wavefront detection Of highly reflective surface (e.g., mirror)
+514	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Contour or profile By wavefront detection Of highly reflective surface (e.g., mirror) Planar surface
+515	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Contour or profile By wavefront detection Of transmission (e.g., lens)
+516	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For dimensional measurement Contour or profile Step height (differential, between points)
+517	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For refractive indexing
+518	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) For refractive indexing Having Schlieren effect
+519	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having partially reflecting plates in series (e.g., Fabry-Perot type)
+520	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having shearing
+521	BY LIGHT INTERFERENCE (E.G., INTERFEROMETER) Having wavefront division (by diffraction)
+364	BY POLARIZED LIGHT EXAMINATION
+365	BY POLARIZED LIGHT EXAMINATION With birefringent element
+366	BY POLARIZED LIGHT EXAMINATION With polariscopes
+367	BY POLARIZED LIGHT EXAMINATION With polariscopes Including polarimeters
+368	BY POLARIZED LIGHT EXAMINATION With polariscopes Including polarimeters With electro-optical light rotation
+369	BY POLARIZED LIGHT EXAMINATION Of surface reflection
+370	BY POLARIZED LIGHT EXAMINATION With light attenuation
+121	LAMP BEAM DIRECTION OR PATTERN
+122	LAMP BEAM DIRECTION OR PATTERN With lamp focusing
+123	FOCAL POSITION OF LIGHT SOURCE
+124	LENS OR REFLECTIVE IMAGE FORMER TESTING
+124.5	LENS OR REFLECTIVE IMAGE FORMER TESTING For optical transfer function
+125	LENS OR REFLECTIVE IMAGE FORMER TESTING Focal length measuring
+126	LENS OR REFLECTIVE IMAGE FORMER TESTING Focal length measuring Deflecting or interrupting optical path
+127	LENS OR REFLECTIVE IMAGE FORMER TESTING Optical center, cylinder axis, or prism measuring or determining
+128	REFRACTION TESTING (E.G., REFRACTOMETERS)
+129	REFRACTION TESTING (E.G., REFRACTOMETERS) Schlieren effect
+130	REFRACTION TESTING (E.G., REFRACTOMETERS) Differential
+131	REFRACTION TESTING (E.G., REFRACTOMETERS) Differential With servo controlled optical member
+132	REFRACTION TESTING (E.G., REFRACTOMETERS) Differential With servo controlled optical member Reflective optical member
+133	REFRACTION TESTING (E.G., REFRACTOMETERS) Refractive rod engages specimen
+134	REFRACTION TESTING (E.G., REFRACTOMETERS) Prism forming fluid specimen container
+135	REFRACTION TESTING (E.G., REFRACTOMETERS) Prism engaging specimen
+136	REFRACTION TESTING (E.G., REFRACTOMETERS) Prism engaging specimen Internally reflecting prism
+137	REFRACTION TESTING (E.G., REFRACTOMETERS) Prism engaging specimen Plural prisms
+138	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT
+139	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Plural scales or different portions of same scale simultaneously observable
+139.01	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Star/Sun/Satellite position indication with photodetection
+139.02	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Star/Sun/Satellite position indication with photodetection With reticle or slot
+139.03	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Relative attitude indication along 3 axes with photodetection
+139.04	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Automatic following or aligning while indicating measurement
+139.05	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Automatic following or aligning while indicating measurement With optical elements moving relative to fixed housing to follow or align
+139.06	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Automatic following or aligning while indicating measurement With optical housing moving to follow or align
+139.07	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Automatic following or aligning while indicating measurement With photodetection of reflected beam angle with respect to a unidirectional source beam
+139.08	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Automatic following or aligning while indicating measurement With photodetection of reflected beam angle with respect to a unidirectional source beam With source beam moving to follow or align
+139.09	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Wheel alignment with photodetection
+139.1	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Photodetection of inclination from level or vertical
+140	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station
+141.1	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With photodetection of reflected beam angle with respect to a unidirectional source beam
+141.2	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With photodetection
+141.3	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With photodetection With unidirectional or planar source beam directed at the photodetecting station
+141.4	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With photodetection With optical scanning of light beam or detector
+141.5	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With photodetection With at least 2-dimensional sensitivity
+142	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station Scale and remote point simultaneously observable
+143	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station Scale and remote point simultaneously observable Artificial reference
+144	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With plural images
+145	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With plural images Lines of sight relatively adjustable with two degrees of freedom
+146	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station With plural images Two or more lines of sight deflected
+147	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station Measurement in two planes (e.g., azimuth and elevation; hour angle and declination)
+148	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station Artificial reference
+149	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Apex of angle at observing or detecting station Artificial reference Gyroscope or pendulum stabilized optical element
+150	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Sides of angle or axes being aligned transverse to optical axis (e.g., drift meter)
+151	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Sides of angle or axes being aligned transverse to optical axis (e.g., drift meter) With light pulsing or interrupting means
+152.1	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT With photodetection remote from measured angle
+152.2	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT With photodetection remote from measured angle With reflection of a unidirectional source beam from a planar or nonretroreflective surface
+152.3	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT With photodetection remote from measured angle With reflection of a unidirectional source beam from a retroreflector
+153	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT Alignment of axes nominally coaxial
+154	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT With screen
+155	ANGLE MEASURING OR ANGULAR AXIAL ALIGNMENT With screen Wheel alignment
+600	SURFACE ROUGHNESS
+601	SHAPE OR SURFACE CONFIGURATION
+602	SHAPE OR SURFACE CONFIGURATION Triangulation
+603	SHAPE OR SURFACE CONFIGURATION Triangulation Projection of structured light pattern
+604	SHAPE OR SURFACE CONFIGURATION Triangulation Projection of structured light pattern Pattern is series of non-intersecting lines
+605	SHAPE OR SURFACE CONFIGURATION Triangulation Projection of structured light pattern Pattern is series of non-intersecting lines Moire
+606	SHAPE OR SURFACE CONFIGURATION Triangulation Line of light projected
+607	SHAPE OR SURFACE CONFIGURATION Triangulation Line of light projected Scan
+608	SHAPE OR SURFACE CONFIGURATION Triangulation Scan
+609	SHAPE OR SURFACE CONFIGURATION By focus detection
+610	SHAPE OR SURFACE CONFIGURATION By projection of coded pattern
+611	SHAPE OR SURFACE CONFIGURATION By stereo
+612	SHAPE OR SURFACE CONFIGURATION By specular reflection
+613	SHAPE OR SURFACE CONFIGURATION Silhouette
+614	POSITION OR DISPLACEMENT
+615	POSITION OR DISPLACEMENT Position transverse to viewing axis
+616	POSITION OR DISPLACEMENT Position transverse to viewing axis Having scale or grid
+617	POSITION OR DISPLACEMENT Position transverse to viewing axis Having scale or grid Coded scale
+618	POSITION OR DISPLACEMENT Position transverse to viewing axis Having scale or grid Moire
+619	POSITION OR DISPLACEMENT Position transverse to viewing axis Having scale or grid Moire Quadrature detection
+620	POSITION OR DISPLACEMENT Position transverse to viewing axis Special mark or target on object
+621	POSITION OR DISPLACEMENT Position transverse to viewing axis Occulting a projected light beam
+622	POSITION OR DISPLACEMENT Position transverse to viewing axis Position of detected arrangement relative to projected beam
+623	POSITION OR DISPLACEMENT Triangulation
+624	POSITION OR DISPLACEMENT Focus
+625	DIMENSION
+626	DIMENSION Cavities
+627	DIMENSION Volume
+628	DIMENSION Area
+629	DIMENSION Area Light scanning
+630	DIMENSION Thickness
+631	DIMENSION Thickness By triangulation
+632	DIMENSION Thickness Of light permeable material
+634	DIMENSION Length
+635	DIMENSION Width or diameter
+636	DIMENSION Width or diameter Line width
+637	DIMENSION Width or diameter Web
+638	DIMENSION Width or diameter Shadow or beam blocking
+639	DIMENSION Width or diameter Shadow or beam blocking Scanning
+640	DIMENSION Width or diameter Shadow or beam blocking Scanning Single beam scans entire width or diameter
+388	BY CONFIGURATION COMPARISON
+389	BY CONFIGURATION COMPARISON With photosensitive film or plate
+390	BY CONFIGURATION COMPARISON With two images of single article compared
+391	BY CONFIGURATION COMPARISON With projection on viewing screen
+392	BY CONFIGURATION COMPARISON With projection on viewing screen For comparison with master or desired configuration
+393	BY CONFIGURATION COMPARISON With projection on viewing screen For comparison with master or desired configuration Having master or desired configuration projection
+394	BY CONFIGURATION COMPARISON With comparison to master, desired shape, or reference voltage
+395	BY CONFIGURATION COMPARISON With relatively movable optical grids
+396	BY CONFIGURATION COMPARISON With scale or optical grid displaced relative to remote fiducial mark
+397	BY CONFIGURATION COMPARISON With object being compared and scale superimposed
+398	BY CONFIGURATION COMPARISON With object being compared and light beam moved relative to each other (e.g., scanning)
+399	BY ALIGNMENT IN LATERAL DIRECTION
+400	BY ALIGNMENT IN LATERAL DIRECTION With light detector (e.g., photocell)
+401	BY ALIGNMENT IN LATERAL DIRECTION With registration indicia (e.g., scale)
+402	BY SHADE OR COLOR
+403	BY SHADE OR COLOR With merging colors or patterns (e.g., Maxwell disc)
+404	BY SHADE OR COLOR Photography
+405	BY SHADE OR COLOR Tristimulus examination
+406	BY SHADE OR COLOR Trichromatic examination
+407	BY SHADE OR COLOR With sample responsive to plural colors applied simultaneously
+408	BY SHADE OR COLOR With sequential comparison of sample and standard
+409	BY SHADE OR COLOR Fluid color transmission examination
+410	BY SHADE OR COLOR Fluid color transmission examination Of flowing liquids
+411	BY SHADE OR COLOR Fluid color transmission examination Of flowing liquids With plural light detectors (e.g., photocells)
+412	BY SHADE OR COLOR Fluid color transmission examination With ionic determination
+413	BY SHADE OR COLOR Fluid color transmission examination With variable light path length
+414	BY SHADE OR COLOR Fluid color transmission examination With color transmitting filter
+415	BY SHADE OR COLOR Fluid color transmission examination With color transmitting filter Including liquid filter comparison
+416	BY SHADE OR COLOR With color transmitting filter
+417	BY SHADE OR COLOR With color transmitting filter Included with sample excitation
+418	BY SHADE OR COLOR With color transmitting filter Including rotating sequential filters
+419	BY SHADE OR COLOR With color transmitting filter Including multicolor filters
+420	BY SHADE OR COLOR With color transmitting filter Included with colored light sources
+421	BY SHADE OR COLOR With reflective multicolor chart or standard
+422	BY SHADE OR COLOR With reflective multicolor chart or standard Plate
+423	BY SHADE OR COLOR With reflective multicolor chart or standard Plate Disk
+424	BY SHADE OR COLOR With reflective multicolor chart or standard Drum or endless tape
+425	BY SHADE OR COLOR With color determination by light intensity comparison
+426	BY INSPECTION WITH AGITATION OR ROTATION
+427	BY INSPECTION WITH AGITATION OR ROTATION Of container contents
+428	BY INSPECTION WITH AGITATION OR ROTATION Of containers
+429	BY MONITORING OF WEBS OR THREAD
+430	BY MONITORING OF WEBS OR THREAD For flaws or imperfections
+431	BY MONITORING OF WEBS OR THREAD For flaws or imperfections Including transverse scanning
+432	FOR LIGHT TRANSMISSION OR ABSORPTION
+433	FOR LIGHT TRANSMISSION OR ABSORPTION By comparison
+434	FOR LIGHT TRANSMISSION OR ABSORPTION By comparison Photoelectric (e.g., sequential viewing)
+435	FOR LIGHT TRANSMISSION OR ABSORPTION By comparison Photoelectric (e.g., sequential viewing) With plural detectors (e.g., simultaneous viewing)
+436	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material
+437	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material Gas
+438	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material Gas Exhaust, dust or smoke
+439	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material Gas Exhaust, dust or smoke Contained
+440	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material With significant sample holder or supply
+441	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material Having particles suspended in liquid
+442	FOR LIGHT TRANSMISSION OR ABSORPTION Of fluent material Having particles suspended in liquid With light detector
+443	FOR LIGHT TRANSMISSION OR ABSORPTION Of photographic film
+444	FOR LIGHT TRANSMISSION OR ABSORPTION Of photographic film With scanning, sweeping, or moving detector over film
+445	OF LIGHT REFLECTION (E.G., GLASS)
+446	OF LIGHT REFLECTION (E.G., GLASS) With diffusion
+447	OF LIGHT REFLECTION (E.G., GLASS) With modulation (e.g., flicker beam)
+448	OF LIGHT REFLECTION (E.G., GLASS) By comparison
+213	PHOTOMETERS
+214	PHOTOMETERS Pupillary
+215	PHOTOMETERS Integrating
+216	PHOTOMETERS Heat absorbing (e.g., radiometers)
+217	PHOTOMETERS Modulating (e.g., flicker beam)
+218	PHOTOMETERS Photoelectric
+219	PHOTOMETERS Photoelectric Simultaneous sighting and reading measurement
+220	PHOTOMETERS Photoelectric Multiple housings
+221	PHOTOMETERS Photoelectric Responsive to incident or back lighting
+222	PHOTOMETERS Photoelectric Plural detectors
+223	PHOTOMETERS Photoelectric Logarithmic
+224	PHOTOMETERS Photoelectric Multisensitivity range
+225	PHOTOMETERS Photoelectric With predetector light modifier (e.g., diaphragm)
+226	PHOTOMETERS Photoelectric Detector and indicator electrical coupling (e.g., amplifying or attenuating)
+227	PHOTOMETERS Photoelectric With particular indicator
+228	PHOTOMETERS Photoelectric With particular indicator Movable scale (e.g., calibrating)
+229	PHOTOMETERS Comparison
+230	PHOTOMETERS Comparison With light standard
+231	PHOTOMETERS Comparison With light standard Variable incandescent standard
+232	PHOTOMETERS Comparison With light standard Standard movable
+233	PHOTOMETERS With variable light aperture size
+234	PHOTOMETERS Light absorbing
+235	PHOTOMETERS Light absorbing Absorber continuously variable (e.g., wedge)
+236	PHOTOMETERS Integrating spheres
+237.1	INSPECTION OF FLAWS OR IMPURITIES
+238.1	INSPECTION OF FLAWS OR IMPURITIES Textile inspection
+238.2	INSPECTION OF FLAWS OR IMPURITIES Textile inspection Elongated textile product (e.g., thread, yarn, etc.)
+238.3	INSPECTION OF FLAWS OR IMPURITIES Textile inspection Detection of foreign material (e.g., trash, splinters, contaminants, etc.)
+239.1	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material
+239.2	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Optical element (e.g., contact lens, prism, filter, lens, etc.)
+239.3	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Patterned surface
+239.4	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Containers (e.g., bottles)
+239.5	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Containers (e.g., bottles) Detection of foreign matter on or in container
+239.6	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Containers (e.g., bottles) Of container contents
+239.7	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Surface condition
+239.8	INSPECTION OF FLAWS OR IMPURITIES Transparent or translucent material Surface condition Detection of an object or particle on surface
+240.1	INSPECTION OF FLAWS OR IMPURITIES Containers or enclosures (e.g., packages, cans, etc.)
+241.1	INSPECTION OF FLAWS OR IMPURITIES Bore inspection (e.g., borescopes, intrascope, etc.)
+241.2	INSPECTION OF FLAWS OR IMPURITIES Bore inspection (e.g., borescopes, intrascope, etc.) Firearm bore inspection
+241.3	INSPECTION OF FLAWS OR IMPURITIES Bore inspection (e.g., borescopes, intrascope, etc.) With adjustable head
+241.4	INSPECTION OF FLAWS OR IMPURITIES Bore inspection (e.g., borescopes, intrascope, etc.) Flexible
+241.5	INSPECTION OF FLAWS OR IMPURITIES Bore inspection (e.g., borescopes, intrascope, etc.) Specific construction of distal end
+241.6	INSPECTION OF FLAWS OR IMPURITIES Bore inspection (e.g., borescopes, intrascope, etc.) Having guiding means
+237.2	INSPECTION OF FLAWS OR IMPURITIES Surface condition
+237.3	INSPECTION OF FLAWS OR IMPURITIES Surface condition Detection of object or particle on surface
+237.4	INSPECTION OF FLAWS OR IMPURITIES Surface condition Detection of object or particle on surface On patterned or topographical surface (e.g., wafer, mask, circuit board)
+237.5	INSPECTION OF FLAWS OR IMPURITIES Surface condition On patterned or topographical surface (e.g., wafer, mask, circuit board)
+237.6	INSPECTION OF FLAWS OR IMPURITIES Having predetermined light transmission regions (e.g., holes, aperture, multiple material articles)
+242.1	THREAD COUNTING
+243.1	STANDARD
+243.2	STANDARD For fluid suspended particles
+243.3	STANDARD Flying height testers
+243.4	STANDARD Surface standard
+243.5	STANDARD Surface standard Color
+243.6	STANDARD Surface standard Foreign object
+243.7	STANDARD Surface standard Texture
+243.8	STANDARD Surface standard Light intensity
+244	SAMPLE, SPECIMEN, OR STANDARD HOLDER OR SUPPORT (E.G., PLATES OR SLIDES)
+245	SAMPLE, SPECIMEN, OR STANDARD HOLDER OR SUPPORT (E.G., PLATES OR SLIDES) Cotton graders
+246	SAMPLE, SPECIMEN, OR STANDARD HOLDER OR SUPPORT (E.G., PLATES OR SLIDES) Fluid containers (e.g., cells or cuvettes)
+247	FIDUCIAL INSTRUMENTS
+248	FIDUCIAL INSTRUMENTS Artificial reference
+249	FIDUCIAL INSTRUMENTS Artificial reference Liquid surface (e.g., bubble level)
+250	FIDUCIAL INSTRUMENTS Artificial reference Pendular suspension of optical element or reticle
+251	FIDUCIAL INSTRUMENTS Reticle lies outside viewing path
+252	FIDUCIAL INSTRUMENTS Reticle lies outside viewing path Reticle image transversely adjustable relative to optical axis
+253	FIDUCIAL INSTRUMENTS Deflection of line of sight
+254	FIDUCIAL INSTRUMENTS Deflection of line of sight Two or more deflections
+255	FIDUCIAL INSTRUMENTS Deflection of line of sight By reflection
+256	MISCELLANEOUS
+900	INTERFEROMETERS (GO1B 9/02)
+901	INTERFEROMETERS (GO1B 9/02) Involving fiber optics or integrated optics (GO1B 9/02F)
+902	INTERFEROMETERS (GO1B 9/02) Involving diffraction gratings (GO1B 9/02G)
+903	INTERFEROMETERS (GO1B 9/02) Using holographic techniques (GO1B 9/021)
+904	MEASURING MICROSCOPES (GO1B 9/04)
+905	MEASURING TELESCOPES (GO1B 9/06)
+906	OPTICAL PROJECTION COMPARATORS, E.G., FOR PROFILE (GO1B 9/08)
+907	GONIOMETERS (GO1B 9/10)
+908	MEASURING LENGTH, WIDTH, OR THICKNESS (GO1B 11/02)
+909	MEASURING LENGTH, WIDTH, OR THICKNESS (GO1B 11/02) By means of tv-camera scanning (GO1B 11/02B)
+910	MEASURING LENGTH, WIDTH, OR THICKNESS (GO1B 11/02) By means of diode-array scanning (GO1B 11/02C)
+911	MEASURING THE DEFORMATION IN A SOLID, E.G., OPTICAL STRAIN GAUGE (GO1B 11/16)
+912	MEASURING ANGLES (GO1C 1/00)
+913	MEASURING ANGLES (GO1C 1/00) Theodolites (GO1C 1/02)
+914	MEASURING ANGLES (GO1C 1/00) Theodolites (GO1C 1/02) Combined with cameras (GO1C 1/04)
+915	MEASURING ANGLES (GO1C 1/00) Sextants (GO1C 1/08)
+916	ALTIMETERS FOR AIRCRAFT (GO1C 5/00A)
+917	MEASURING INCLINATION, E.G., BY CLINOMETERS, BY LEVELS (GO1C 9/00)
+918	PHOTOGRAMMETRY; PHOTOGRAPHIC SURVEYING (GO1C 11/00)
+919	PHOTOGRAMMETRY; PHOTOGRAPHIC SURVEYING (GO1C 11/00) Picture taking arrangements specially adapted for photogrammetry or photographic surveying, e.g., controlling overlapping of pictures (GO1C 11/02)
+920	PHOTOGRAMMETRY; PHOTOGRAPHIC SURVEYING (GO1C 11/00) Picture taking arrangements specially adapted for photogrammetry or photographic surveying, e.g., controlling overlapping of pictures (GO1C 11/02) By scanning the object (GO1C 11/02A)
+921	PHOTOGRAMMETRY; PHOTOGRAPHIC SURVEYING (GO1C 11/00) Interpretation of pictures (GO1C 11/04)
+922	PHOTOMETRY, E.G., PHOTOGRAPHIC EXPOSURE METER (GO1J 11/04)
+923	RADIATION PYROMETRY (GOLJ 5/00)
+924	MEASURING VELOCITY OF LIGHT (GOLJ 7/00)
+925	MEASURING OPTICAL PHASE DIFFERENCE: MEASURING OPTICAL WAVELENGTH (GO1J 9/00)
+926	MEASURING THE CHARACTERISTICS OF INDIVIDUAL OPTICAL PULSES OR OF OPTICAL PULSE TRAINS (GO1J 11/00)
+927	MEASURING VARIATIONS OF OPTICAL PROPERTIES OF MATERIAL WHEN IT IS STRESSED, E.G., BY PHOTOELASTIC STRESS ANALYSIS USING INFRA-RED, VISIBLE LIGHT, ULTRA-VIOLET (GO1L 1/24)
+928	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00)
+929	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Arrangements, or apparatus for facilitating the optical investigation (GO1N 21/01)
+930	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Arrangements, or apparatus for facilitating the optical investigation (GO1N 21/01) Cuvette constructions (GO1N 21/03)
+931	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17)
+932	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) With opto-acoustic detection, e.g., for gases or analyzing solids (GO1N 21/17B)
+933	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) With calorimetric detection, e.g., with thermal lens detection (GO1N 21/17C)
+934	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) With modulation of one or more physical properties of the sample during optical investigation, e.g., Electra reflectance (GO1N 21/17M)
+935	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Dichroism (GO1N 21/19)
+936	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Polarization-affecting properties (GO1N 21/21)
+937	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Polarization-affecting properties (GO1N 21/21) Ellipsometry (GO1N 21/21B)
+938	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Polarization-affecting properties (GO1N 21/21) Bi-refringence (GO1N 21/23)
+939	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25)
+940	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25) Colorimeters (GO1N 21/25B)
+941	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25) Colorimeters (GO1N 21/25B) For batch operation, i.e., multi-sample apparatus (GO1N 21/25B2)
+942	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25) Arrangements using two alternating lights and one detector (GO1N 21/25D)
+943	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25) Using photo-electric detection (GO1N 21/27)
+944	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25) Using photo-electric detection (GO1N 21/27) For following a reaction, e.g., for determining photometrically a reaction rate (GO1N 21/27C)
+945	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Color; spectral properties, i,e., comparison of effect of material on the light at two or more different wavelengths or wavelength bands (GO1N 21/25) Investigating relative effect of material at wavelengths characteristic of specific elements or molecules, e.g., atomic absorption spectrometry (GO1N 21/31)
+946	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Holographic interferometry (GO1N 21/45B)
+947	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which incident light is modified in accordance with the properties of material investigated (GO1N 21/17) Scattering, i.e., diffuse reflection (GO1N 21/47F)
+948	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which the material investigated is excited whereby it emits light or causes a change in wavelength of the incident light (GO1N 21/62)
+949	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which the material investigated is excited whereby it emits light or causes a change in wavelength of the incident light (GO1N 21/62) Optically excited (GO1N 21/63)
+950	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which the material investigated is excited whereby it emits light or causes a change in wavelength of the incident light (GO1N 21/62) Optically excited (GO1N 21/63) Using photolysis and investigating photolyzed fragments (GO1N 21/63C)
+951	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which the material investigated is excited whereby it emits light or causes a change in wavelength of the incident light (GO1N 21/62) Optically excited (GO1N 21/63) Florescence; Phosphorescence (GO1N 21/64)
+952	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Systems in which the material investigated is excited whereby it emits light or causes a change in wavelength of the incident light (GO1N 21/62) Optically excited (GO1N 21/63) Raman scattering (GO1N 21/65)
+953	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Probe photometers (GO1N 21/85B)
+954	INVESTIGATING OR ANALYZING MATERIALS BY THE USE OF OPTICAL MEANS, I.E., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1N 21/00) Scan or image signal processing arrangements specially adapted for investigating the presence of flaws or contaminates, e.g., for scan signal adjustments, for detecting different kinds of defects, for compensating for structures (GO1N 21/88)
+955	MEASURING LINEAR OR ANGULAR SPEED UTILIZING DEVICES CHARACTERIZED BY THE USE OF OPTICAL MEANS, E.G., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1P 3/36)
+956	MEASURING LINEAR OR ANGULAR SPEED UTILIZING DEVICES CHARACTERIZED BY THE USE OF OPTICAL MEANS, E.G., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1P 3/36) Using a ring laser (GO1P 3/36B)
+957	MEASURING LINEAR OR ANGULAR SPEED UTILIZING DEVICES CHARACTERIZED BY THE USE OF OPTICAL MEANS, E.G., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1P 3/36) Using diffraction of light (GO1P 3/36C)
+958	MEASURING LINEAR OR ANGULAR SPEED UTILIZING DEVICES CHARACTERIZED BY THE USE OF OPTICAL MEANS, E.G., USING INFRA-RED, VISIBLE, OR ULTRA-VIOLET LIGHT (GO1P 3/36) Using photographic means (GO1P 3/38)
+FOR000	CLASS-RELATED FOREIGN DOCUMENTS
+FOR100	INSPECTION FOR FLAWS OR IMPERFECTIONS (356/237)
+FOR105	THREAD COUNTING (356/242)
+FOR106	STANDARDS (356/243)
+FOR107	BY LIGHT INTERFERENCE (E.G., INTERFEROMETERS) (356/345)
+FOR126	FOR FLATNESS (356/371)
+FOR127	BY MENSURATION (356/372)

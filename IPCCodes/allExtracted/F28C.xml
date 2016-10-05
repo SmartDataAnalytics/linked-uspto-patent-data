@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="19592">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F28" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HEAT EXCHANGE IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F28" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Apparatus using heat exchange or heat transfer (as defined below) for specific purposes is classified either in sub-class <sref ref="F28B" refType="/" refLevel="c"/> or in the appropriate sub-classes of, for example, classes <sref ref="F22" refType="/" refLevel="c"/>, <sref ref="F24" refType="/" refLevel="c"/>, <sref ref="F25" refType="/" refLevel="c"/>, <sref ref="F26" refType="/" refLevel="c"/>, or <sref ref="F27" refType="/" refLevel="c"/>; if no such other sub-class is appropriate, such apparatus is classified in sub-clas <sref ref="F28C" refType="/" refLevel="c"/> or <sref ref="F28D" refType="/" refLevel="c"/>.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Heat exchange" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Heat transfer" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F28C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HEAT-EXCHANGE APPARATUS, NOT PROVIDED FOR IN ANOTHER SUB-CLASS, IN WHICH THE HEAT-EXCHANGE MEDIA COME INTO DIRECT CONTACT WITHOUT CHEMICAL INTERACTION</text>
+							<entryReference>safety devices in general <sref ref="F16P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid heaters having heat generating means <sref ref="F24H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>with an intermediate heat-transfer medium coming into direct contact with heat-exchange media <mref ref="F28D0015000000" endRef="F28D0019000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+							</entryReference>
+							<entryReference>details of heat-exchange apparatus of general application <sref ref="F28F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="F28C0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Direct-contact trickle coolers, e.g. cooling towers</text>
+								<entryReference>building construction <sref ref="E04H0005120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>enclosed spaces cooled by trickle <sref ref="F25" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>component parts of trickle coolers <sref ref="F28F0025000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F28C0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with counter-current only</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with cross-current only</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with both counter-current and cross-current</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for recovering heat from exhaust steam</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for suppressing noise of exhaust steam</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="F28C0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for preventing clogging by frost</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="F28C0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>comprising also a non-direct contact heat exchange</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="F28C0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for preventing condensation, precipitation or mist formation, outside the cooler</text>
+									<entryReference><sref ref="F28C0001140000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F28C0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Other direct-contact heat-exchange apparatus</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F28C0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the heat-exchange media both being gases or vapours</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the heat-exchange media both being liquids</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the heat-exchange media being a liquid and a gas or vapour</text>
+									<entryReference>temperators for cooling steam <sref ref="F22" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F28C0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with change of state, e.g. absorption, evaporation, condensation</text>
+										<entryReference>generating steam under pressure <sref ref="F22" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F28C0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>one heat-exchange medium at least being a fluent solid, e.g. a particulate material</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F28C0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the heat-exchange medium being a particulate material and a gas, vapour, or liquid</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F28C0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the particulate material moving by gravity, e.g. down a tube</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F28C0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the particulate material forming a bed, e.g. fluidised, on vibratory sieves</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F28C0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the particulate material being contained in rotating drums</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

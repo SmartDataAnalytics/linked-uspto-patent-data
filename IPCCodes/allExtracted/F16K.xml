@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="167348">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F15" endSymbol="F15" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINEERING IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F16" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINEERING ELEMENTS OR UNITS</text>
+					</titlePart>
+					<titlePart><text>GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS</text>
+					</titlePart>
+					<titlePart><text>THERMAL INSULATION IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F16K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>VALVES</text>
+						</titlePart>
+						<titlePart><text>TAPS</text>
+						</titlePart>
+						<titlePart><text>COCKS</text>
+						</titlePart>
+						<titlePart><text>ACTUATING-FLOATS</text>
+						</titlePart>
+						<titlePart><text>DEVICES FOR VENTING OR AERATING</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="g" symbol="F16K0001000000" endSymbol="F16K0013000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Constructional types</text>
+								<entryReference>check valves <sref ref="F16K0015000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="n" symbol="F16K0001000000" endSymbol="F16K0013000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19740701"><text>An initial seal breaking or final sealing movement which is different from the opening or closing movement of the valve is not considered in determining the movement to be classified.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lift valves, i.e. cut-off apparatus with closure members having at least a component of their opening and closing motion perpendicular to the closing faces</text>
+								<entryReference>diaphragm valves <sref ref="F16K0007000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with screw-spindle</text>
+									<entryReference><mref ref="F16K0001120000" endRef="F16K0001280000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+									<entryReference>actuating mechanisms with screw-spindles <sref ref="F16K0031500000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a cut-off member rigid with the spindle, e.g. main valves</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Special arrangements for improving the flow, e.g. special shape of passages or casings</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in which the spindle is perpendicular to the general direction of flow</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in which the spindle is inclined to the general direction of flow</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with streamlined valve member around which the fluid flows when the valve is opened</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with ball-shaped valve members</text>
+									<entryReference>check valves <sref ref="F16K0015040000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with pivoted closure members</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with pivoted discs or flaps</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0001200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with axis of rotation arranged externally of valve member</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0001220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with axis of rotation crossing the valve member, e.g. butterfly valves</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F16K0001226000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Shaping or arrangement of the sealing</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="5" symbol="F16K0001228000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Movable sealing bodies</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0001240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with valve members that, on opening of the valve, are initially lifted from the seat and next are turned around an axis parallel to the seat</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0001260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Shape or arrangement of the sealing</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0001280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Movable sealing bodies</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0001300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>specially adapted for pressure containers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0001320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+									<entryReference>details of more general applicability <mref ref="F16K0025000000" endRef="F16K0051000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0001340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cutting-off parts, e.g. valve members, seats</text>
+										<entryReference><sref ref="F16K0001060000" refType="/" refLevel="c"></sref>, <sref ref="F16K0001120000" refType="/" refLevel="c"></sref>, <sref ref="F16K0001140000" refType="/" refLevel="c"></sref>, <sref ref="F16K0001260000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0001360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Valve members</text>
+											<entryReference>for double-seat valves <sref ref="F16K0001440000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F16K0001380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>of conical shape</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="F16K0001400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>of helical shape</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0001420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Valve seats</text>
+											<entryReference>for double-seat valves <sref ref="F16K0001440000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0001440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Details of seats or valve members of double-seat valves</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0001460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Attachment of sealing rings</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0001480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Attaching valve members to screw-spindles</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0001500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Preventing rotation of valve members</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0001520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Means for additional adjustment of the rate of flow</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0001540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Arrangements for modifying the way in which the rate of flow varies during the actuation of the valve</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Gate valves or sliding valves, i.e. cutt-off apparatus with closing members having a sliding movement along the seat for opening and closing</text>
+								<entryReference><sref ref="F16K0005000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>in barrages or weirs <sref ref="E02B0008040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with flat sealing faces</text>
+								</titlePart>
+								<titlePart><text>Packings therefor</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0003030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a closure member in the form of an iris-diaphragm</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with pivoted closure members</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in the form of closure plates arranged between supply and discharge passages</text>
+											<entryReference><sref ref="F16K0003100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F16K0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with circular closure plates rotatable around their centres</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with special arrangements for separating the sealing faces or for pressing them together</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with wedge-shaped arrangements of sealing faces</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with special arrangements for separating the sealing faces or for pressing them together</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with special arrangements for separating the sealing faces or for pressing them together</text>
+										<entryReference><sref ref="F16K0003100000" refType="/" refLevel="c"></sref>, <sref ref="F16K0003140000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by movement of the closure members</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0003200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by movement of the seats</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0003220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with sealing faces shaped as surfaces of solids of revolution</text>
+									<entryReference><sref ref="F16K0013020000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									<entryReference>with resilient valve members <sref ref="F16K0003280000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0003240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with cylindrical valve members</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0003260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with fluid passages in the valve member</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0003280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with resilient valve members</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0003300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0003312000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Line blinds</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003314000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Forms or constructions of slides</text>
+									</titlePart>
+									<titlePart><text>Attachment of the slide to the spindle</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003316000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Guiding of the slide</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Means for additional adjustment of the rate of flow</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Arrangements for modifying the way in which the rate of flow varies during the actuation of the valve</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0003360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Features relating to lubrication</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Taps or cocks comprising only cut-off apparatus having at least one of the sealing faces shaped as a more or less complete surface of a solid of revolution, the opening and closing movement being predominantly rotary</text>
+								<entryReference>taps of the lift-valve type <sref ref="F16K0001000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with plugs having conical surfaces</text>
+								</titlePart>
+								<titlePart><text>Packings therefor</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with plugs having cylindrical surfaces</text>
+								</titlePart>
+								<titlePart><text>Packings therefor</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with plugs having spherical surfaces</text>
+								</titlePart>
+								<titlePart><text>Packings therefor</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Means for additional adjustment of the rate of flow</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0005120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Arrangements for modifying the way in which the rate of flow varies during the actuation of the valve</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0005140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Special arrangements for separating the sealing faces or for pressing them together</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0005160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for plugs with conical surfaces</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0005180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for plugs with cylindrical surfaces</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0005200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for plugs with spherical surfaces</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0005220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Features relating to lubrication</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Diaphragm cut-off apparatus, e.g. with a member deformed, but not moved bodily, to close the passage</text>
+								<entryReference>means for plugging pipes or hoses <sref ref="F16L0055100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with tubular diaphragm</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>constrictable by external radial force</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by means of a screw-spindle, cam, or other mechanical means</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0007070000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by means of fluid pressure</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0007080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>constrictable by twisting</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0007100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with inflatable member</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0007120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with flat, dished, or bowl-shaped diaphragm</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0007140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>arranged to be deformed against a flat seat</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0007160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the diaphragm being mechanically actuated, e.g. by screw-spindle or cam</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0007170000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the diaphragm being actuated by fluid pressure</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0007180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with diaphragm secured at one side only, e.g. to be laid on the seat by rolling action</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0007200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with a compressible solid closure member</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for cutting-off by means of liquid or granular medium</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Multiple-way valves, e.g. mixing valves</text>
+							</titlePart>
+							<titlePart><text>Pipe fittings incorporating such valves</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0011020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with all movable sealing faces moving as one unit</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0011040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>comprising only lift valves</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0011060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>comprising only sliding valves</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0011070000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with cylindrical slides</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0011080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>comprising only taps or cocks</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="F16K0011083000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with tapered plug</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="F16K0011085000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with cylindrical plug</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="F16K0011087000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with spherical plug</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0011100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with two or more closure members not moving as a unit</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0011120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with one plug turning in another</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0011140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>operated by one actuating member, e.g. a handle</text>
+										<entryReference>with one plug turning in another <sref ref="F16K0011120000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0011160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>which only slides, or only turns, or only swings in one plane</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0011180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with separate operating movements for separate closure members</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0011200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>operated by separate actuating members</text>
+										<entryReference>with one plug turning in another <sref ref="F16K0011120000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0011220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with an actuating member for each valve, e.g. interconnected to form multiple-way valves</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0011240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with an e ectromagnetically-operated valve, e.g. for washing machines</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Other constructional types of cut-off apparatus</text>
+								<entryReference>means for plugging pipes or hoses <sref ref="F16L0055100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with both sealing faces shaped as small segments of a cylinder and the moving member pivotally mounted</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with a breakable closure member</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0013060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>constructed to be ruptured by an explosion</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="g" symbol="F16K0015000000" endSymbol="F16K0024000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Functional types</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="n" symbol="F16K0015000000" endSymbol="F16K0024000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19740701"><text>Attention is drawn to Note (1) and the subdivision of sub-class <sref ref="G05D" refType="/" refLevel="c"/> according to which pressure regulators, even with the whole regulating system contained in a valve, operating with or without auxiliary power, are covered by <sref ref="G05D0016000000" refType="/" refLevel="c"/>. Details of the valve parts <u>per se</u> are classified in the appropriate groups of sub-class <sref ref="F16K" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Check valves</text>
+								<entryReference>valves specially adapted for inflatable balls <sref ref="A63B0041000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with guided rigid valve members</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0015030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a hinged closure member</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>shaped as balls</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with guided stems</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0015080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>shaped as rings</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0015100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>integral with, or rigidly fixed to, a common valve plate</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0015120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Springs for ring valves</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0015140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with flexible valve members</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0015160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with tongue-shaped laminae</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0015180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with actuating mechanism</text>
+								</titlePart>
+								<titlePart><text>Combined check valves and actuated valves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0015200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Specially designed for inflatable bodies, e.g. tyres</text>
+									<entryReference>combinations of valves with inflatable bodies <sref ref="B60C" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Safety valves</text>
+							</titlePart>
+							<titlePart><text>Equalising valves</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>opening on surplus pressure on one side</text>
+								</titlePart>
+								<titlePart><text>closing on insufficient pressure on one side</text>
+									<entryReference>check valves <sref ref="F16K0015000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0017040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>spring-loaded</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0017060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with special arrangements for adjusting the opening pressure</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0017080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with special arrangements for providing a large discharge passage</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0017100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with auxiliary valve for fluid operation of the main valve</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0017120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>weight-loaded</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0017140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with fracturing member</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0017160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with fracturing diaphragm</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0017164000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>and remaining closed after return of the normal pressure</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0017168000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>combined with manually-controlled valves, e.g. a valve combined with a safety valve</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0017180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>opening on surplus pressure on either side</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0017190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Equalising valves predominantly for tanks</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0017192000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with closure member in the form of a movable liquid column</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0017194000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>weight-loaded</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0017196000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>spring-loaded</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0017200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Excess-flow valves</text>
+									<entryReference>actuated in consequence of shock or similar extraneous influence <sref ref="F16K0017360000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0017220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>actuated by the difference of pressure between two places in the flow line</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0017240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>acting directly on the cutting-off member</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F16K0017260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>operating in either direction</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="F16K0017280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>operating in one direction only</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="5" symbol="F16K0017300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>spring-loaded</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0017320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>acting on a servo-mechanism or on a catch-releasing mechanism</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0017340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the flow-energy of the flowing medium actuates the closing mechanism</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0017360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>actuated in consequence of extraneous circumstances, e.g. shock, change of position</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0017380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of excessive temperature</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0017400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with a fracturing member, e.g. fracturing diaphragm, glass, fusible joint</text>
+									<entryReference>valves opening on surplus pressure <sref ref="F16K0017140000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0017420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Valves preventing penetration of air in the outlet of containers for liquids</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="F16K0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements of valves and flow lines specially adapted for mixing fluids</text>
+								<entryReference>multiple-way valves <sref ref="F16K0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Fluid-delivery valves</text>
+								<entryReference>for liquid handling <sref ref="B67D" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for flushing devices for water-closets or the like <sref ref="E03D" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>providing a continuous small flow</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0021040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Self-closing valves, i.e. closing automatically after operation</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0021060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the closing movement, either retarded or not, starts immediately after opening</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0021080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with ball-shaped closing members</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0021100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with hydraulic brake cylinder acting on the closure member</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0021120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with hydraulically-operated opening means</text>
+										</titlePart>
+										<titlePart><text>with arrangements for pressure relief before opening</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0021140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with special means for preventing the self-closing</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0021160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>closing after a predetermined quantity of fluid has been delivered</text>
+										<entryReference><sref ref="F16K0021100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0021180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>closed when a rising liquid reaches a predetermined level</text>
+										<entryReference>float-actuated valves <sref ref="F16K0031180000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0021200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by means making use of air-suction through an opening closed by the rising liquid</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Valves for preventing drip from nozzles</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="F16K0024000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices, e.g. valves, for venting or aerating enclosures</text>
+								<entryReference>equalising valves <sref ref="F16K0017000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>arrangement or mounting in pipes or pipe systems <sref ref="F16L0055070000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>venting or aerating as an additional function of steam traps or like apparatus <sref ref="F16T" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>ventilation of rooms, vehicles, <u>see</u> the appropriate sub-class, e.g. <sref ref="F24F" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="F16K0024020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the enclosure being itself a valve, tap, or cock</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F16K0024040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for venting only</text>
+									<entryReference><sref ref="F16K0024020000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F16K0024060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for aerating only</text>
+									<entryReference><sref ref="F16K0024020000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="g" symbol="F16K0025000000" endSymbol="F16K0051000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="n" symbol="F16K0025000000" endSymbol="F16K0051000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Details not provided for in the following groups are classified in the preceding groups.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0025000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details relating to contact between valve members and seats</text>
+								<entryReference>sealing constructions, <u>see</u> the appropriate groups according to the type of valve</entryReference>
+								<entryReference>movement of valve members other than for opening and closing <sref ref="F16K0029000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0025020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements using fluid issuing from valve members or seats</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0025040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for preventing erosion, not otherwise provided for</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0027000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Construction of housings</text>
+								<entryReference>methods for welding housings <sref ref="B23K" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+							<titlePart><text>Use of materials therefor</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0027020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of lift valves</text>
+									<entryReference>for reducing the flow resistance of screw-spindle lift-valves <sref ref="F16K0001060000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0027030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted for tank-cars</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0027040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of sliding valves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0027060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>of taps or cocks</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0027080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Guiding yokes for spindles</text>
+								</titlePart>
+								<titlePart><text>Means for closing housings</text>
+								</titlePart>
+								<titlePart><text>Dust caps, e.g. for tyre valves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0027100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Welded housings</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0027120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Covers for housings</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0029000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for movement of valve members other than for opening and closing the valve, e.g. for grinding-in, for preventing sticking</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0029020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>providing for continuous motion</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0031000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Operating means</text>
+							</titlePart>
+							<titlePart><text>Releasing devices</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0031020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+								<titlePart><text>magnetic</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0031040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using a motor</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>specially adapted for operating hand-operated valves or for combined motor and hand operation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using a magnet</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using a permanent magnet</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with additional mechanism between armature and closure member</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="F16K0031110000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with additional hand operating means</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0031120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>actuated by fluid</text>
+									<entryReference>fluid-actuated check valves <sref ref="F16K0015000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>fluid-actuated safety valves <sref ref="F16K0017000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="F16K0031122000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the fluid acting on a piston</text>
+										<entryReference><sref ref="F16K0031143000" refType="/" refLevel="c"></sref>, <sref ref="F16K0031163000" refType="/" refLevel="c"></sref>, <sref ref="F16K0031363000" refType="/" refLevel="c"></sref>, <sref ref="F16K0031383000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="F16K0031124000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>servo actuated</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F16K0031126000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the fluid acting on a diaphragm, bellows, or the like</text>
+										<entryReference><sref ref="F16K0031145000" refType="/" refLevel="c"></sref>, <sref ref="F16K0031165000" refType="/" refLevel="c"></sref>, <sref ref="F16K0031365000" refType="/" refLevel="c"></sref>, <sref ref="F16K0031385000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="F16K0031128000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>servo actuated</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for mounting on, or in combination with, hand-actuated valves</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031143000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the fluid acting on a piston</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031145000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the fluid acting on a diaphragm</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a mechanism, other than pulling- or pushing-rod, between fluid motor and closure member</text>
+										<entryReference>with float <sref ref="F16K0031180000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031163000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the fluid acting on a piston</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031165000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the fluid acting on a diaphragm</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>actuated by a float</text>
+										<entryReference>floats <sref ref="F16K0033000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>actuating a lift valve</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F16K0031220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with the float rigidly connected to the valve</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="F16K0031240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with a transmission with parts linked together from a single float to a single valve</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="5" symbol="F16K0031260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>with the valve guided for rectilinear movement and the float attached to a pivoted arm</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="F16K0031280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with two or more floats actuating one valve</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>actuating a gate valve or sliding valve</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>actuating a tap or cock</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>acting on pilot valve controlling the cut-off apparatus</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which fluid from the conduit is constantly supplied to the fluid motor</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031363000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the fluid acting on a piston</text>
+											<entryReference><sref ref="F16K0031380000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031365000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the fluid acting on a diaphragm</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in which the fluid works directly on both sides of the fluid motor, one side being connected by means of a restricted passage and the motor being actuated by operating a discharge from that side</text>
+											<entryReference><sref ref="F16K0031400000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F16K0031383000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>the fluid acting on a piston</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="F16K0031385000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>the fluid acting on a diaphragm</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with electrically-actuated member in the discharge of the motor</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by means of electrically-actuated members in the supply or discharge conduits of the fluid motor</text>
+										<entryReference><sref ref="F16K0031400000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0031440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Mechanical actuating means</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0031460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for remote operation</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>actuated by mechanical timing-device, e.g. with dash-pot</text>
+										<entryReference>self-closing valves <sref ref="F16K0021160000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with screw-spindle</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with crank, eccentric, or cam</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031524000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with a cam</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F16K0031528000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with pin and slot</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031530000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with toothed gearing</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F16K0031540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with pinion and rack</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>without stable intermediate position, e.g. with snap action</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>comprising a movable discharge-nozzle</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Handles</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0031620000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Pedals or like operating members, e.g. actuated by knee or hip</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0033000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Floats for actuation of valves or other apparatus</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0035000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Means to prevent accidental or unauthorised actuation</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0035020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>to be locked or disconnected by means of a push or pull</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>yieldingly resisting the actuation</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using a removable actuating or locking member, e.g. a key</text>
+									<entryReference><sref ref="F16K0035100000" refType="/" refLevel="c"></sref>, <sref ref="F16K0035120000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>requiring setting according to a code, e.g. permutation locks</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with locking caps or locking bars</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with sealing wire</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>interlocking two or more valves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0035160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with locking member actuated by magnet</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0037000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Special means in or on valves or other cut-off apparatus for indicating or recording operation thereof, or for enabling an alarm to be given</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0039000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices for relieving the pressure on the sealing faces</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0039020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for lift valves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0039040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for sliding valves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0039060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for taps or cocks</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0041000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Spindle sealings</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0041020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with stuffing-box</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0041040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with at least one ring of rubber or like material between spindle and housing</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0041060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with at least one ring attached to both spindle and housing</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0041080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with at least one ring provided with axially-protruding peripheral closing-lip</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0041100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with diaphragm, e.g. shaped as bellows or tube</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0041120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with approximately flat diaphragm</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0041140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with conical flange on the spindle which co-operates with a conical surface in the housing</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0041160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with a flange on the spindle which rests on a sealing ring</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0041180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>sealing only when the closure member is in the opened position</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0043000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Auxiliary closure means in valves, which in case of repair, e.g. rewashering, of the valve, can take over the function of the normal closure means</text>
+							</titlePart>
+							<titlePart><text>Devices for temporary replacement of parts of valves for the same purpose</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0047000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Means in valves for absorbing fluid energy</text>
+								<entryReference>for pipes <sref ref="F16L0055000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F16K0047020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for preventing water-hammer or noise</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0047040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for decreasing pressure, the throttle being incorporated in the closure member</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0047060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with a throttle in the form of a helical channel</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F16K0047080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for decreasing pressure and having a throttling member separate from the closure member</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F16K0047100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the medium in one direction must flow through the throttling channel, and in the other direction may flow through a much wider channel parallel to the throttling channel</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0047120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the throttling channel being of helical form</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0047140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the throttling member being a perforated membrane</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F16K0047160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the throttling member being a cone</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0049000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Means in or on valves for heating or cooling</text>
+								<entryReference>for pipes <sref ref="F16L0053000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>thermal insulation in connection with pipes or pipe systems <sref ref="F16L0059160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F16K0051000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Other details not peculiar to particular types of valves or cut-off apparatus</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="F16K0051020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>specially adapted for high-vacuum installations</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

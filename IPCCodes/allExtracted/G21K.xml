@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="17422">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G21" endSymbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEONICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEAR PHYSICS</text>
+					</titlePart>
+					<titlePart><text>NUCLEAR ENGINEERING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G21K" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TECHNIQUES FOR HANDLING PARTICLES OR ELECTROMAGNETIC RADIATION NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+						<titlePart><text>IRRADIATION DEVICES</text>
+						</titlePart>
+						<titlePart><text>GAMMA- OR X-RAY MICROSCOPES</text>
+							<entryReference>X-ray technique <sref ref="H05G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>plasma technique <sref ref="H05H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry edition="19740701" kind="m" symbol="G21K0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for handling radiation or particles, e.g. focusing, moderating</text>
+								<entryReference>radiation filters <sref ref="G21K0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using diaphragms, collimators</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G21K0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using variable diaphragms, shutters, choppers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using diffraction, refraction, or reflection, e.g. monochromators</text>
+									<entryReference><sref ref="G21K0001100000" refType="/" refLevel="c"></sref>, <sref ref="G21K0007000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Deviation, concentration, or focusing of the beam by electric or magnetic means</text>
+									<entryReference>electron-optical arrangements in electric discharge tubes <sref ref="H01J0029460000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Scattering devices</text>
+								</titlePart>
+								<titlePart><text>Absorbing devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G21K0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Resonant absorbers or driving arrangements therefor, e.g. for Mössbauer-effect devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G21K0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using charge exchange devices, e.g. for neutralising or changing the sign of the electrical charges of beams</text>
+									<entryReference>producing or accelerating neutral particle beams <sref ref="H05H0003000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G21K0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using polarising devices, e.g. for obtaining a polarised ion beam</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G21K0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Radiation filters, e.g. X-ray filters</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="G21K0004000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Conversion screens for the conversion of the spatial distribution of X-rays or particle radiation into visible images, e.g. fluoroscopic screens</text>
+								<entryReference>photographic processes using X-ray intensifiers <sref ref="G03C0005170000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>discharge tubes comprising luminescent screens <sref ref="H01J0001620000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>cathode ray tubes for X-ray conversion with optical output <sref ref="H01J0031500000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G21K0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Irradiation devices</text>
+								<entryReference>adaptations of reactors to facilitate irradiation <sref ref="G21C0023000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>discharge tubes for irradiating <sref ref="H01J0033000000" refType="/" refLevel="c"></sref>, <sref ref="H01J0037000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>having no beam-forming means</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with beam-forming means</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="G21K0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G21K0005100000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+									<coveredBy>
+										<sref ref="G21K0005000000" refType="/" refLevel="c"></sref>
+									</coveredBy>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G21K0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Holders for targets or for objects to be irradiated</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G21K0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with provision for relative movement of beam source and object to be irradiated</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G21K0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Gamma- or X-ray microscopes</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

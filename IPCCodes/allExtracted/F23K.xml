@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="15020">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F23" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMBUSTION APPARATUS</text>
+					</titlePart>
+					<titlePart><text>COMBUSTION PROCESSES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F23" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Combustion" means the direct combination of oxygen gas, e.g. in air, and a burnable substance. Any other heat-producing combination of chemical substances, e.g. hydrogen peroxide and methane, iron oxide and aluminium, is provided for in Section C or in sub-class <sref ref="F24J" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Combustion chamber" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Burner" means a device by which fluent fuel is passed to a combustion space where it burns to produce a self-supporting flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Air" means a mixture of gases containing free oxygen and able to promote or support combustion.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FEEDING FUEL TO COMBUSTION APPARATUS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="F23K0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Preparation of lump or pulverulent fuel in readiness for delivery to combustion apparatus</text>
+								<entryReference>filtration <sref ref="B01D" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>mixing <sref ref="B01F" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>pulverising <sref ref="B02C" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>drying <sref ref="F26B" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F23K0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Mixing solid fuel with a liquid, e.g. preparing slurries</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Heating fuel prior to delivery to combustion apparatus</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F23K0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Feeding or distributing of lump or pulverulent fuel to combustion apparatus</text>
+								<entryReference>conveying in general <sref ref="B65G" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F23K0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Pneumatic feeding arrangements, i.e. by air blast</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for locomotive boiler furnaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for shaft-type furnaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for furnaces having movable grate bars</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Under-feed arrangements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F23K0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>feeding by piston</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F23K0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>feeding by screw</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Over-feed arrangements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F23K0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Spreader stokers</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F23K0003200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with moving hoppers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F23K0003220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Controlling thickness of fuel bed</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F23K0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Feeding other fuel to combustion apparatus</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

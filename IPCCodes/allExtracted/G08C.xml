@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="37228">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G08" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SIGNALLING</text>
+						<entryReference>indicating or display devices <u>per se</u>
+							<sref ref="G09F" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>transmission of pictures <sref ref="H04N" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>arrangements for selective calling from one station to another <sref ref="H04Q0009000000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G08C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TRANSMISSION SYSTEMS FOR MEASURED VALUES, CONTROL OR SIMILAR SIGNALS</text>
+							<entryReference>fluid pressure transmission systems <sref ref="F15B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensing members for specific physical variables, <u>see</u> the relevant sub-classes, e.g. of <sref ref="G01" refType="/" refLevel="c"></sref>, of <sref ref="H01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>indicators or recorders, see the relevant sub-classes, e.g. <sref ref="G01D" refType="/" refLevel="c"></sref>, <sref ref="G09F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>mechanical means for transferring the output of a sensing member <sref ref="G01D0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>means for converting the output of the sensing member into a different variable <sref ref="G01D0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>self-balancing bridges <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>position control in general <sref ref="G05D0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>mechanical control systems <sref ref="G05G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems for transmitting "on/off" signals only, systems for transmitting alarm conditions <sref ref="G08B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>order telegraph systems <sref ref="G08B0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generating, coding or decoding electric pulses <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>radio or line transmission systems in general <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transmission of digital information <sref ref="H04L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>selective calling from one station to another <sref ref="H04Q0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="G08C0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices for representing the variable to be transmitted in digital form, e.g. disc converter</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G08C0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Capacitive or electrostatic devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Magnetic or inductive devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Photoelectric devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0009080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using electric contacts</text>
+								</titlePart>
+								<titlePart><text>using coded patterns of electric contacts</text>
+								</titlePart>
+								<titlePart><text>using coded patterns of both conductive and non-conductive strips</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices for representing in mechanical form each of the signals which a particular digital electric transmission system is prepared to handle, e.g. for decoding</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for influencing the relationship between signals at input and output, e.g. differentiating, delaying</text>
+								<entryReference>transferring the output of a sensing member to an indicating or recording part not yielding momentary value <sref ref="G01D0001000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>systems for control of position involving comparison between actual and desired values <sref ref="G05D0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>computing in general <sref ref="G06" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G08C0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>to yield a signal which is a function of two or more signals, e.g. sum, product</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements characterised by the use of multiplexing for the transmission of a plurality of signals over a common path</text>
+								<entryReference>multiplex transmission in general <sref ref="H04J" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G08C0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>simultaneously, i.e. using frequency division</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the signals being modulated on carrier frequencies</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>successively, i.e. using time division</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0015080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the signals being represented by amplitude of current or voltage in transmission link</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0015100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the signals being represented by frequencies or phase of current or voltage in transmission link</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0015120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the signals being represented by pulse characteristics in transmission link</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for transmitting signals characterised by the use of a radio link</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Electric signal transmission systems</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G08C0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which the signal transmitted is magnitude of current or voltage</text>
+									<entryReference><sref ref="G08C0019360000" refType="/" refLevel="c"></sref>, <sref ref="G08C0019380000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0019040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using variable resistance</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using variable inductance</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G08C0019080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>differentially influencing two coils</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using variable capacitance</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0019120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which the signal transmitted is frequency or phase of ac</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0019140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using combination of fixed frequencies</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0019160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which transmission is by pulses</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0019180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using a variable number of pulses in a train</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G08C0019200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>operating on dynamo-electric devices, e.g. step motor</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by varying the duration of individual pulses</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using time shift of pulses</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by varying pulse repetition frequency</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using pulse code</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0019300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which transmission is by selection of one or more conductors or channels from a plurality of conductors or channels</text>
+									<entryReference><sref ref="G08C0019380000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0019320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of one conductor or channel</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of a combination of conductors or channels</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0019360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using optical means to convert the input signal</text>
+									<entryReference>analogue /digital converters <u>per se</u>
+										<sref ref="G08C0009000000" refType="/" refLevel="c"></sref>, <sref ref="H03K" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0019380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using dynamo-electric devices</text>
+									<entryReference>operated by pulses <sref ref="G08C0019200000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>dynamo-electric machines <u>per se</u>
+										<sref ref="H02K" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G08C0019400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of which only the rotor or the stator carries a winding to which a signal is applied, e.g. using step motor</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G08C0019420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>having three stator poles</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G08C0019440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>having more than three stator poles</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G08C0019460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of which both rotor and stator carry windings</text>
+										<entryReference>having squirrel-cage rotor <sref ref="G08C0019400000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G08C0019480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>being of the type with a three-phase stator and a rotor fed by constant-frequency ac, e.g. selsyn, magslip</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Systems for transmitting the position of an object with respect to a predetermined reference system, e.g. tele-autographic system</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Non-electric signal transmission systems</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G08C0025000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for preventing or correcting errors</text>
+							</titlePart>
+							<titlePart><text>Monitoring arrangements</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G08C0025020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by signalling back from receiving station to transmitting station</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G08C0025040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by recording transmitted signals</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

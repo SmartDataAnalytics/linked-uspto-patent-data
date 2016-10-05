@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="68342">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G11" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INFORMATION STORAGE</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G11C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>STATIC STORES</text>
+							<entryReference>recording and playback of information by relative movement between a record track and a transducer <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pulse technique in general <sref ref="H03K" refType="/" refLevel="c"></sref>, e.g. electronic switches <sref ref="H03K0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G11C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with devices or arrangements for storage of digital or analogue information:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>in which no relative movement takes place between an information storage element and a transducer;</text>
+									</noteParagraph>
+									<noteParagraph><text>which incorporate a selecting-device for writing-in or reading-out the information into or from the store.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, a storage element is provided with means for writing-in and reading-out at least one item of information. Elements not adapted for storage and not provided with such means are classified in the appropriate sub-class, e.g. of <sref ref="H01" refType="/" refLevel="c"/>, <sref ref="H03K" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details of stores covered by group <sref ref="G11C0011000000" refType="/" refLevel="c"></sref>
+								</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G11C0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Disposition of storage elements, e.g. in the form of a matrix array</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G11C0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Supports for storage elements</text>
+									</titlePart>
+									<titlePart><text>Mounting or fixing of storage elements on such supports</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0005050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Supporting of cores in matrix</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for interconnecting storage elements electrically, e.g. by wiring</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G11C0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for interconnecting magnetic elements, e.g. toroidal cores</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G11C0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for interconnecting capacitors</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0005120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Apparatus or processes for interconnecting storage elements, e.g. for threading magnetic cores</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G11C0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for writing information into, or reading information out from, a digital store</text>
+								<entryReference><sref ref="G11C0005000000" refType="/" refLevel="c"></sref>, <sref ref="G11C0011000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G11C0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with means for avoiding parasitic signals</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with means for avoiding disturbances due to temperature effects</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adaptations of amplifiers</text>
+									<entryReference>amplifiers <u>per se</u>
+										<sref ref="H03F" refType="/" refLevel="c"></sref>, <sref ref="H03K" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G11C0008000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for selecting an address in a digital store</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0008020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using selecting matrix</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Transmission of digital information between stores, e.g. of different types</text>
+								<entryReference>in digital computing arrangements <sref ref="G06F0013000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Transfer between registers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Transfer between location-addressed stores</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with hierarchically-ordered stores, e.g. between scratchpad and main store, between fast and slow stores, between small working stores and bulk stores</text>
+									</titlePart>
+									<titlePart><text>Block transfer, paging</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0009080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>between content-addressed and location-addressed stores</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores characterised by the use of particular electric or magnetic storage elements</text>
+							</titlePart>
+							<titlePart><text>Storage elements therefor</text>
+								<entryReference><mref ref="G11C0015000000" endRef="G11C0021000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="G11C0011020000" endSymbol="G11C0011540000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph edition="19740701"><text>Group <sref ref="G11C0011560000" refType="/" refLevel="c"/> takes precedence over groups <mref ref="G11C0011020000" endRef="G11C0011540000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0011020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using magnetic elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using storage elements having cylindrical form, e.g. rod, wire</text>
+										<entryReference><sref ref="G11C0011120000" refType="/" refLevel="c"></sref>, <sref ref="G11C0011140000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G11C0011060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using single-aperture storage elements, e.g. ring core</text>
+									</titlePart>
+									<titlePart><text>using multi-aperture plates in which each individual aperture forms a storage element</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011061000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using elements with single aperture or magnetic loop for storage, one element per bit, and for destructive read-out</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="G11C0011063000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>bit-organised, such as, 2L/2D-, 3D-organisation, i.e. for selection of an element by means of at least two coincident partial currents both for reading and for writing</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="G11C0011065000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>word-organised, such as 2D-organisation, or linear selection, i.e. for selection of all the elements of a word by means of a single full current for reading</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011067000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using elements with single aperture or magnetic loop for storage, one element per bit, and for non-destructive read-out</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using multi-aperture storage elements, e.g. using transfluxors</text>
+									</titlePart>
+									<titlePart><text>using plates incorporating several individual multi-aperture storage elements</text>
+										<entryReference><sref ref="G11C0011100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										<entryReference>using multi-aperture plates in which each individual aperture forms a storage element <sref ref="G11C0011060000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G11C0011100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using multi-axial storage elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G11C0011120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using tensors</text>
+									</titlePart>
+									<titlePart><text>using twistors, i.e. elements in which one axis of magnetisation is twisted</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G11C0011140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using thin-film elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011150000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using multiple magnetic layers</text>
+											<entryReference><sref ref="G11C0011155000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011155000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with cylindrical configuration</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G11C0011160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using elements in which the storage effect is based on magnetic spin effect</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0011180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using Hall-effect devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0011190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using non-linear reactive devices in resonant circuits</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using parametrons</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0011210000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using electric elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using ferroelectric elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011230000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using electrostatic storage on a common layer, e.g. Forrester-Haeff tubes</text>
+										<entryReference><sref ref="G11C0011220000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using capacitors</text>
+										<entryReference><sref ref="G11C0011220000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using discharge tubes</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using gas-filled tubes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using vacuum tubes</text>
+											<entryReference><sref ref="G11C0011230000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using semiconductor devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using diodes, e.g. as threshold elements</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="G11C0011380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using tunnel diodes</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G11C0011400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using transistors</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using electro-optical elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0011440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using super-conductive elements, e.g. cryotron</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0011460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using thermoplastic elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0011480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using displaceable coupling elements, e.g. ferromagnetic cores, to produce change between different states of mutual or self-inductance</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0011500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using actuation of electric contacts to store the information</text>
+									<entryReference>mechanical stores <sref ref="G11C0023000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>switches providing a selected number of consecutive operations of the contacts by a single manual actuation of the operating part <sref ref="H01H0041000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G11C0011520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using electromagnetic relays</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0011540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using elements simulating biological cells, e.g. neuron</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0011560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Storage elements with more than two stable states represented by steps, e.g. of voltage, current, phase, frequency</text>
+									<entryReference>counting arrangements comprising multi-stable elements of this type <sref ref="H03K0025000000" refType="/" refLevel="c"></sref>, <sref ref="H03K0029000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores characterised by the use of storage elements not covered by groups <sref ref="G11C0011000000" refType="/" refLevel="c"></sref>, <sref ref="G11C0023000000" refType="/" refLevel="c"></sref>, or <sref ref="G11C0025000000" refType="/" refLevel="c"></sref>
+								</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G11C0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using elements whose operation depends upon chemical change</text>
+									<entryReference>using electrochemical charge <sref ref="G11C0011000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G11C0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using optical elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0013060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using magneto-optical elements</text>
+										<entryReference>magneto-optics in general <sref ref="G02F" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0013080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using electro-optical elements</text>
+										<entryReference>electro-optics in general <sref ref="G02F" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G11C0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores in which information comprising one or more characteristic parts is written into the store and in which information is read-out by searching for one or more of these characteristic parts, i.e. associative or content-addressed stores</text>
+								<entryReference>in which information is addressed to a specific location <sref ref="G11C0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using magnetic elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using semiconductor elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using cryogenic elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G11C0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Permanent stores with provision only for reading-out of information, i.e. read-only memories</text>
+							</titlePart>
+							<titlePart><text>Semi-permanent stores, e.g. manually-replaceable information cards</text>
+								<entryReference>coders, decoders <sref ref="H03K0013240000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using magnetic or inductive elements or coupling</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0017040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using capacitive elements or coupling</text>
+									<entryReference><sref ref="G11C0017060000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0017060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using diode elements or coupling</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores in which the information is moved stepwise, e.g. shift register</text>
+								<entryReference>counting chains <sref ref="H03K0023000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using magnetic elements</text>
+									<entryReference><sref ref="G11C0019140000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0019040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using cores with one aperture or magnetic loop</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0019060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using structures with a number of apertures or magnetic loops, e.g. transfluxors</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0019080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using thin films in plane structure</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G11C0019100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using thin films on rods</text>
+									</titlePart>
+									<titlePart><text>with twistors</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using non-linear reactive devices in resonant circuits</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using magnetic elements in combination with active elements, e.g. discharge tubes, semiconductor elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using capacitors as main elements of the stages</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using discharge tubes</text>
+									<entryReference><sref ref="G11C0019140000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using semiconductor elements</text>
+									<entryReference><sref ref="G11C0019140000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using opto-electronic devices, i.e. light-emitting and photoelectric devices electrically- or optically-coupled</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0019320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using super-conductive elements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores in which the information circulates</text>
+								<entryReference>stepwise <sref ref="G11C0019000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G11C0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using electromechanical delay lines, e.g. using a mercury tank</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores characterised by movement of mechanical parts to effect storage, e.g. using balls</text>
+							</titlePart>
+							<titlePart><text>Storage elements therefor</text>
+								<entryReference>storing by actuating contacts <sref ref="G11C0011480000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0025000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Digital stores characterised by the use of flowing media</text>
+							</titlePart>
+							<titlePart><text>Storage elements therefor</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0027000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Electric analogue stores, e.g. for storing instantaneous values</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G11C0027020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Sample-and-hold arrangements</text>
+									<entryReference>sampling electrical signals in general <sref ref="H03K" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G11C0029000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Checking stores for correct operation</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

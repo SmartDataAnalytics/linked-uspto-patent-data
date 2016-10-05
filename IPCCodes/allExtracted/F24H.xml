@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="49826">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F24" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HEATING</text>
+					</titlePart>
+					<titlePart><text>RANGES</text>
+					</titlePart>
+					<titlePart><text>VENTILATING</text>
+						<entryReference>protecting plants by heating in gardens, orchards, or forests <sref ref="A01G0013060000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>baking ovens and apparatus <sref ref="A21B" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>cooking devices other than ranges <sref ref="A47J" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>specially adapted for vehicles, <u>see</u> the relevant sub-classes of classes <mref ref="B60" endRef="B64" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+						</entryReference>
+						<entryReference>combustion apparatus in general <sref ref="F23" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>drying <sref ref="F26B" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>ovens in general <sref ref="F27" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>electric heating elements and arrangements <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F24" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Stove" includes an open fire.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Range" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F24H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FLUID HEATERS, e.g. WATER OR AIR HEATERS, HAVING HEAT-GENERATING MEANS, IN GENERAL</text>
+							<entryReference>tube furnaces for thermal non-catalytic cracking <sref ref="C10G0009200000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>devices, e.g. valves, for venting and aerating enclosures <sref ref="F16K0024000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>steam traps or like apparatus <sref ref="F16T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>steam generation <sref ref="F22" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combustion apparatus <u>per se</u>
+								<sref ref="F23" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>domestic stoves or ranges <sref ref="F24B" refType="/" refLevel="c"></sref>, <sref ref="F24C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>domestic- or space-heating systems <sref ref="F24D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>furnaces, kilns, ovens, retorts <sref ref="F27" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>heat-exchangers <sref ref="F28" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electric heating elements or arrangements <u>per se</u>
+								<sref ref="H05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F24H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19800101"><text>In this sub-class, the following terms are used with the meanings indicated:</text>
+								<subnote type="alpha">
+									<noteParagraph edition="19800101"><text>"Water" includes other liquids; "air" includes other gases or gas mixtures; "water" and "air" always mean, respectively, the liquid and gas to be heated.</text>
+									</noteParagraph>
+									<noteParagraph edition="19800101"><text>"Furnace tubes" means tubes inside the heater wherein combustion is performed.</text>
+									</noteParagraph>
+									<noteParagraph edition="19800101"><text>"Fire tubes" means tubes inside the heater through which flue-gases flow from a combustion chamber located outside the tubes.</text>
+									</noteParagraph>
+									<noteParagraph edition="19800101"><text>"Heater" refers to apparatus including both heat generating means and means for transferring the generated heat to water or air.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>The distinguishing feature of the air heaters classified in sub-class <sref ref="F24H" refType="/" refLevel="c"/> is that the heat is predominantly released to the air by convection, mostly by forced circulation of the air. The domestic stoves or ranges covered by sub-classes <sref ref="F24B" refType="/" refLevel="c"/>, <sref ref="F24C" refType="/" refLevel="c"/> may also be fired or electric air heaters but they release their heat to a considerable extent by radiation and only to some extent by natural convection. Attention is, however, drawn to the fact that all storage heaters are classified in <sref ref="F24H0007000000" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F24H0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Water heaters having heat generating means, e.g. boiler, flow-heater, water-storage heater</text>
+								<entryReference><sref ref="F24H0007000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>details <sref ref="F24H0009000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>steam boilers <sref ref="F22B" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>domestic stoves or ranges with additional provisions for heating water <sref ref="F24B0009000000" refType="/" refLevel="c"></sref>, <sref ref="F24C0013000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="d" symbol="F24H0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<sref ref="F24B0009000000" refType="/" refLevel="c"></sref>
+									<sref ref="F24C0013000000" refType="/" refLevel="c"></sref>
+								</transferredTo>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Portable or mobile, e.g. collapsible</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Packaged or self-contained boilers, i.e. water heaters with control devices and pump in a single unit</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Continuous-flow heaters, i.e. heaters in which heat is generated only while the water is flowing, e.g. with direct contact of the water with the heating medium</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F24H0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the water is kept separate from the heating medium</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F24H0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by tubes, e.g. bent in serpentine form</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F24H0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>helically or spirally coiled</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Water-storage heaters</text>
+									<entryReference>combined with water-heating stoves for central heating <sref ref="F24H0001220000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F24H0001200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with immersed heating elements, e.g. electric elements or furnace tubes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0001220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Water heaters other than continuous-flow or water-storage heaters, e.g. water heaters for central heating</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F24H0001240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with water mantle surrounding the combustion chamber or chambers</text>
+										<entryReference><sref ref="F24H0001400000" refType="/" refLevel="c"></sref>, <sref ref="F24H0001440000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F24H0001260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the water mantle forming an integral body</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F24H0001280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>including one or more furnace or fire tubes</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F24H0001300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the water mantle being built-up from sections</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="F24H0001320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with vertical sections arranged side by side</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F24H0001340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with water chamber arranged adjacent to the combustion chamber or chambers, e.g. above or at side</text>
+										<entryReference><sref ref="F24H0001240000" refType="/" refLevel="c"></sref>, <sref ref="F24H0001440000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F24H0001360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the water chamber including one or more fire tubes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F24H0001380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with water contained in separate elements, e.g. radiator-type element</text>
+										<entryReference><sref ref="F24H0001400000" refType="/" refLevel="c"></sref>, <sref ref="F24H0001440000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F24H0001400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with water tube or tubes</text>
+										<entryReference><sref ref="F24H0001440000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="F24H0001410000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in serpentine form</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="d" symbol="F24H0001420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><deleted>
+											<transferredTo>
+												<sref ref="F24H0001410000" refType="/" refLevel="c"></sref>
+												<sref ref="F24H0001430000" refType="/" refLevel="c"></sref>
+											</transferredTo>
+											<coveredBy>
+												<sref ref="F24H0001400000" refType="/" refLevel="c"></sref>
+											</coveredBy>
+										</deleted>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="F24H0001430000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>helically or spirally coiled</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F24H0001440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with combinations of two or more of the types covered by groups <mref ref="F24H0001240000" endRef="F24H0001400000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+										</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="d" symbol="F24H0001460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><deleted>
+										<coveredBy>
+											<sref ref="F28" refType="/" refLevel="c"></sref>
+										</coveredBy>
+									</deleted>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F24H0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Air heaters having heat generating means</text>
+								<entryReference><sref ref="F24H0007000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>details <sref ref="F24H0009000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>domestic stoves or ranges with additional provisions for convection heating of air <sref ref="F24B" refType="/" refLevel="c"></sref>, <sref ref="F24C" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F24H0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with forced circulation</text>
+									<entryReference><sref ref="F24H0003120000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F24H0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the air being in direct contact with the heating medium, e.g. electric heating element</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F24H0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the air being kept separate from the heating medium, e.g. using forced circulation of air over radiators</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F24H0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by tubes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="F24H0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by plates</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with additional heating arrangements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="F24H0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<coveredBy>
+										<sref ref="F28" refType="/" refLevel="c"></sref>
+									</coveredBy>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F24H0006000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Combined water and air heaters</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F24H0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Storage heaters, i.e. heaters in which the energy is stored as heat in masses for subsequent release</text>
+								<entryReference>domestic stoves or ranges with additional heat storage masses <sref ref="F24B0001240000" refType="/" refLevel="c"></sref>, <sref ref="F24C0015340000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>materials for storage masses, <u>see</u> the relevant sub-classes</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F24H0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the released heat being conveyed to a transfer fluid, e.g. air, water</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F24H0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with forced circulation of the transfer fluid</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the released heat being radiated</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F24H0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F24H0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Casings</text>
+								</titlePart>
+								<titlePart><text>Cover lids</text>
+								</titlePart>
+								<titlePart><text>Ornamental panels</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="F24H0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="F24D0019060000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangement of mountings or supports</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="F24H0009080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="F24D0019020000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+									<coveredBy>
+										<sref ref="F24H0009060000" refType="/" refLevel="c"></sref>
+									</coveredBy>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="F24H0009100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="F24D0019040000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0009120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Connecting heaters to circulation pipes</text>
+									<entryReference>pipe joints in general <sref ref="F16L" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0009140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Connecting different sections, e.g. in water heaters</text>
+									<entryReference>in radiators <sref ref="F28F0009260000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0009160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for water drainage</text>
+									<entryReference>valves for drainage <sref ref="F16K" refType="/" refLevel="c"></sref>, e.g. <sref ref="F16K0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>in pipes or pipe systems in general <sref ref="F16L0055000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>in domestic- or space-heating systems <sref ref="F24D0019080000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0009180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangement or mounting of grates, burners, or heating elements</text>
+									<entryReference>burners <sref ref="F23D" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>grates <sref ref="F23H" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>electric heating elements <sref ref="H05B" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="F24H0009200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangement or mounting of control or safety devices</text>
+									<entryReference>control valves <u>per se</u>
+										<sref ref="F16K" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>safety devices for burners <sref ref="F23D" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>combustion control devices <sref ref="F23N" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>of systems comprising a heater, <u>see</u> the relevant sub-classes, e.g. of control heating systems <sref ref="F24D0019100000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>control devices <u>per se</u>
+										<sref ref="G05" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>automatic switching for electric heating apparatus <sref ref="H05B0001020000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

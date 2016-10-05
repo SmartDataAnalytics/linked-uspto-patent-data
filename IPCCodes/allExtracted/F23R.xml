@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="28990">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F23" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMBUSTION APPARATUS</text>
+					</titlePart>
+					<titlePart><text>COMBUSTION PROCESSES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F23" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Combustion" means the direct combination of oxygen gas, e.g. in air, and a burnable substance. Any other heat-producing combination of chemical substances, e.g. hydrogen peroxide and methane, iron oxide and aluminium, is provided for in Section C or in sub-class <sref ref="F24J" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Combustion chamber" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Burner" means a device by which fluent fuel is passed to a combustion space where it burns to produce a self-supporting flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Air" means a mixture of gases containing free oxygen and able to promote or support combustion.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23R" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GENERATING COMBUSTION PRODUCTS OF HIGH PRESSURE OR HIGH VELOCITY, e.g. GAS-TURBINE COMBUSTION CHAMBERS</text>
+							<entryReference>using such products for specific purposes, <u>see</u> the relevant classes for the purposes</entryReference>
+							<entryReference>chemical aspects of gas production <sref ref="C06D0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gas-turbine plants characterised by the arrangement of the combustion chamber in the plant <sref ref="F02C0003140000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangement of afterburners in jet-propulsion plants <sref ref="F02K0003100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combustion chambers of rocket engine plants <sref ref="F02K0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="d" symbol="F23R0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><deleted>
+							<transferredTo>
+								<mref ref="F23R0003000000" endRef="F23R0007000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+							</transferredTo>
+						</deleted>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="F23R0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Continuous combustion chambers using liquid or gaseous fuel</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19800101" kind="1" symbol="F23R0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by the air-flow or gas-flow configuration</text>
+									<entryReference>reverse-flow combustion chambers <sref ref="F23R0003540000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>cyclone or vortex type combustion chambers <sref ref="F23R0003580000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Air inlet arrangements</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="F23R0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Arrangement of apertures along the flame tube</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19800101" kind="4" symbol="F23R0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>between annular flame tube sections, e.g. flame tubes with telescopic sections</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="F23R0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for primary air</text>
+											<entryReference><sref ref="F23R0003060000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19800101" kind="4" symbol="F23R0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>inducing a vortex</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19800101" kind="5" symbol="F23R0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>by using swirl vanes</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with devices inside the flame tube or the combustion chamber to influence the air or gas flow</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="F23R0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Flame stabilizing means, e.g. flame holders for after-burners of jet-propulsion plants</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19800101" kind="4" symbol="F23R0003200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>incorporating fuel injection means</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="F23R0003220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>movable, e.g. to an inoperative position</text>
+											</titlePart>
+											<titlePart><text>adjustable, e.g. self-adjusting</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="F23R0003240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>of the fluid-screen type</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Controlling the air flow</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="F23R0003280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by the fuel supply</text>
+									<entryReference>burners <u>per se</u>
+										<sref ref="F23D" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>comprising fuel prevapourising devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="F23R0003320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>being tubular</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Feeding into different combustion zones</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Supply of different fuels</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>comprising rotary fuel injection means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="F23R0003400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by the use of catalytic means</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="F23R0003420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by the arrangement or form of the flame tubes or combustion chambers</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Combustion chambers comprising a tubular flame tube within a tubular casing</text>
+										<entryReference>reverse-flow combustion chambers <sref ref="F23R0003540000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Combustion chambers comprising an annular arrangement of flame tubes within a common annular casing or within individual casings</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="F23R0003480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Flame tube interconnectors, e.g. cross-over tubes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Combustion chambers comprising an annular flame tube within an annular casing</text>
+										<entryReference>toroidal combustion chambers <sref ref="F23R0003520000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Toroidal combustion chambers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Reverse-flow combustion chambers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Combustion chambers having rotary flame tubes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cyclone or vortex type combustion chambers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="F23R0003600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Support structures</text>
+									</titlePart>
+									<titlePart><text>Attaching or mounting means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="F23R0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Continuous combustion chambers using solid or pulverulent fuel</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="F23R0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Intermittent or explosive combustion chambers</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

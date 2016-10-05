@@ -1,0 +1,133 @@
+1	INPUT/OUTPUT DATA PROCESSING
+2	INPUT/OUTPUT DATA PROCESSING Input/Output expansion
+3	INPUT/OUTPUT DATA PROCESSING Input/Output addressing
+4	INPUT/OUTPUT DATA PROCESSING Input/Output addressing Address data transfer
+5	INPUT/OUTPUT DATA PROCESSING Input/Output command process
+6	INPUT/OUTPUT DATA PROCESSING Input/Output command process Operation scheduling
+7	INPUT/OUTPUT DATA PROCESSING Input/Output command process Concurrently performing Input/Output operation and other operation unrelated to Input/Output
+8	INPUT/OUTPUT DATA PROCESSING Peripheral configuration
+9	INPUT/OUTPUT DATA PROCESSING Peripheral configuration Address assignment
+10	INPUT/OUTPUT DATA PROCESSING Peripheral configuration Configuration initialization
+11	INPUT/OUTPUT DATA PROCESSING Peripheral configuration Protocol selection
+12	INPUT/OUTPUT DATA PROCESSING Peripheral configuration As input or output
+13	INPUT/OUTPUT DATA PROCESSING Peripheral configuration By detachable memory
+14	INPUT/OUTPUT DATA PROCESSING Peripheral configuration Mode selection
+15	INPUT/OUTPUT DATA PROCESSING Peripheral monitoring
+16	INPUT/OUTPUT DATA PROCESSING Peripheral monitoring Characteristic discrimination
+17	INPUT/OUTPUT DATA PROCESSING Peripheral monitoring Availability monitoring
+18	INPUT/OUTPUT DATA PROCESSING Peripheral monitoring Activity monitoring
+19	INPUT/OUTPUT DATA PROCESSING Peripheral monitoring Status updating
+20	INPUT/OUTPUT DATA PROCESSING Concurrent Input/Output processing and data transfer
+21	INPUT/OUTPUT DATA PROCESSING Concurrent Input/Output processing and data transfer Concurrent data transferring
+22	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA)
+23	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA) Programmed control memory accessing
+24	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA) By command chaining
+25	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA) Timing
+26	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA) Using addressing
+27	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA) Via separate bus
+28	INPUT/OUTPUT DATA PROCESSING Direct Memory Accessing (DMA) With access regulating
+29	INPUT/OUTPUT DATA PROCESSING Flow controlling
+30	INPUT/OUTPUT DATA PROCESSING Frame forming
+31	INPUT/OUTPUT DATA PROCESSING Transfer direction selection
+32	INPUT/OUTPUT DATA PROCESSING Transfer termination
+33	INPUT/OUTPUT DATA PROCESSING Data transfer specifying
+34	INPUT/OUTPUT DATA PROCESSING Data transfer specifying Transferred data counting
+35	INPUT/OUTPUT DATA PROCESSING Data transfer specifying Burst data transfer
+36	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation
+37	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access dedication
+38	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Path selection
+39	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access request queuing
+40	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access prioritization
+41	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access prioritization Dynamic
+42	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access prioritization Group
+43	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access prioritization Physical position
+44	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access prioritization Prioritized polling
+45	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Access prioritization Time-slot accessing
+46	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Input/Output polling
+47	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Input/Output polling Polled interrupt
+48	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Input/Output interrupting
+49	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Input/Output interrupting Masking
+50	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Input/Output interrupting Vectored
+51	INPUT/OUTPUT DATA PROCESSING Input/Output access regulation Accessing via a multiplexer
+52	INPUT/OUTPUT DATA PROCESSING Input/Output data buffering
+53	INPUT/OUTPUT DATA PROCESSING Input/Output data buffering Alternately filling or emptying buffers
+54	INPUT/OUTPUT DATA PROCESSING Input/Output data buffering Queue content modification
+55	INPUT/OUTPUT DATA PROCESSING Input/Output data buffering Contents validation
+56	INPUT/OUTPUT DATA PROCESSING Input/Output data buffering Buffer space allocation or deallocation
+57	INPUT/OUTPUT DATA PROCESSING Input/Output data buffering Fullness indication
+58	INPUT/OUTPUT DATA PROCESSING Input/Output process timing
+59	INPUT/OUTPUT DATA PROCESSING Input/Output process timing Processing suspension
+60	INPUT/OUTPUT DATA PROCESSING Input/Output process timing Transfer rate regulation
+61	INPUT/OUTPUT DATA PROCESSING Input/Output process timing Synchronous data transfer
+62	INPUT/OUTPUT DATA PROCESSING Peripheral adapting
+63	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Universal
+64	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Via common units and peripheral-specific units
+65	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification
+66	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification Width conversion
+67	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification Keystroke interpretation
+68	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification Data compression and expansion
+69	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification Analog-to-digital or digital-to-analog
+70	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification Digital-to-digital
+71	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Input/Output data modification Serial-to-parallel or parallel-to-serial
+72	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Application-specific peripheral adapting
+73	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Application-specific peripheral adapting For user input device
+74	INPUT/OUTPUT DATA PROCESSING Peripheral adapting Application-specific peripheral adapting For data storage device
+100	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING)
+300	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus expansion or extension
+301	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus expansion or extension Card insertion
+302	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus expansion or extension Card insertion Hot insertion
+303	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus expansion or extension Docking station
+304	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus expansion or extension Docking station Hot docking
+104	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) System configuring
+105	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Protocol
+106	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Protocol Using transmitter and receiver
+107	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation
+108	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Bus locking
+109	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Bus polling
+110	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Bus master/slave controlling
+111	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Rotational prioritizing (i.e., round robin)
+112	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Bus request queuing
+113	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Centralized bus arbitration
+114	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Centralized bus arbitration Static bus prioritization
+115	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Centralized bus arbitration Static bus prioritization Physical position bus prioritization
+116	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Centralized bus arbitration Dynamic bus prioritization
+117	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Centralized bus arbitration Time-slotted bus accessing
+118	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Centralized bus arbitration Delay reduction
+119	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration
+120	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration Hierarchical or multilevel accessing
+121	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration Static bus prioritization
+122	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration Static bus prioritization Physical position bus prioritization
+123	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration Dynamic bus prioritization
+124	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration Time-slotted bus accessing
+125	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus access regulation Decentralized bus arbitration Delay reduction
+305	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture
+306	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge
+307	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Variable or multiple bus width
+308	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Direct memory access (e.g., DMA)
+309	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Arbitration
+310	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Buffer or que control
+311	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Intelligent bridge
+312	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Multiple bridges
+313	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Peripheral bus coupling (e.g., PCI, USB, ISA, and etc.)
+314	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Common protocol (e.g., PCI to PCI)
+315	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Bus bridge Different protocol (e.g., PCI to ISA)
+316	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Path selecting switch
+317	INTRASYSTEM CONNECTION (E.G., BUS AND BUS TRANSACTION PROCESSING) Bus interface architecture Path selecting switch Crossbar
+200	ACCESS LOCKING
+220	ACCESS POLLING
+240	ACCESS ARBITRATING
+241	ACCESS ARBITRATING Centralized arbitrating
+242	ACCESS ARBITRATING Decentralized arbitrating
+243	ACCESS ARBITRATING Hierarchical or multilevel arbitrating
+244	ACCESS ARBITRATING Access prioritizing
+260	INTERRUPT PROCESSING
+261	INTERRUPT PROCESSING Multimode interrupt processing
+262	INTERRUPT PROCESSING Interrupt inhibiting or masking
+263	INTERRUPT PROCESSING Interrupt queuing
+264	INTERRUPT PROCESSING Interrupt prioritizing
+265	INTERRUPT PROCESSING Interrupt prioritizing Variable
+266	INTERRUPT PROCESSING Programmable interrupt processing
+267	INTERRUPT PROCESSING Processor status
+268	INTERRUPT PROCESSING Source or destination identifier
+269	INTERRUPT PROCESSING Handling vector
+FOR000	CLASS-RELATED FOREIGN DOCUMENTS

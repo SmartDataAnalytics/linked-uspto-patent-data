@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="32100">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F15" endSymbol="F15" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINEERING IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F17" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>STORING OR DISTRIBUTING GASES OR LIQUIDS</text>
+						<entryReference>water supply <sref ref="E03B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F17D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PIPE-LINE SYSTEMS</text>
+						</titlePart>
+						<titlePart><text>PIPE-LINES</text>
+							<entryReference>pumps or compressors <sref ref="F04" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid dynamics <sref ref="F15D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>valves or the like <sref ref="F16K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pipes, laying pipes, supports, joints, branches, repairing, work on the entire line, accessories <sref ref="F16L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>steam traps or the like <sref ref="F16T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid-pressure electric cables <sref ref="H01B0009060000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F17D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, pipe-line systems are interpreted as systems described in flow sheets as well as arrangements of co-operating elements, the elements <u>per se</u> being covered in the relevant sub-classes.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="F17D0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Pipe-line systems</text>
+								<entryReference>conveying articles or materials through a pipe-line by means of a fluid carrier <sref ref="B65G0051000000" refType="/" refLevel="c"></sref>, <sref ref="B65G0053000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>liquids <sref ref="B67D" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>special devices for transferring liquids from bulk storage containers into vehicles or boats or <u>vice versa</u>, e.g. loading or unloading vehicles or portable containers <sref ref="B67D0005000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>conveying material which has been excavated by a dredger or soil shifter through a pipe-line <sref ref="E02F0007100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>sewer pipe-line systems <sref ref="E03F0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>thermal insulation of pipe-lines <sref ref="F16L0059000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>central heating systems <sref ref="F24D" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F17D0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for gases or vapours</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="F17D0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for distribution of gas</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="F17D0001050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Preventing freezing</text>
+											<entryReference>by heating <sref ref="F16L0053000000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="F17D0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for steam</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0001065000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Arrangements for producing propulsion of gases or vapours</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="F17D0001070000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by compression</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="F17D0001075000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by mere expansion from an initial pressure level, e.g. by arrangement of a flow-control valve</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for liquids or viscous products</text>
+									<entryReference>water-main or service pipe systems <sref ref="E03B0007040000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>domestic hot-water supply systems <sref ref="F24D0017000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Conveying liquids or viscous products by pressure of another fluid</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0001130000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Conveying liquids or viscous products by gravity</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Conveying liquids or viscous products by pumping</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Facilitating the conveyance of liquids or effecting the conveyance of viscous products by modification of their viscosity</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="F17D0001170000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by mixing with another liquid</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="F17D0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by heating</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0001200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements or systems of devices for influencing or altering dynamic characteristics of the systems, e.g. for damping pulsations caused by opening or closing of valves</text>
+									<entryReference>fluid dynamics <sref ref="F15D" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>damping pulsations in fluids in pipes in general <sref ref="F16L0055040000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F17D0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for supervising or controlling working operations</text>
+								<entryReference>supervising or controlling <u>per se</u>, <u>see</u> the relevant classes of Section G</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for controlling, signalling, or supervising the conveyance of a product</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for controlling, signalling, or supervising the conveyance of several different products following one another in the same conduit, e.g. for switching from one receiving tank to another</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0003050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the different products not being separated</text>
+										<entryReference>separation of contaminants by distillation <sref ref="B01D0003000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the different products being separated by "go-devils", e.g. spheres</text>
+										<entryReference>cleaning devices moved along inside a pipe-line by fluid pressure <sref ref="B08B0009040000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for taking out the product in the line</text>
+									<entryReference>sampling in general, examining the physical or chemical properties of materials <sref ref="G01N" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for injecting a composition into the line</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for eliminating water</text>
+									<entryReference>separation of liquids <sref ref="B01D" refType="/" refLevel="c"></sref>, e.g. <sref ref="B01D0017000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>separation of gases or vapours <sref ref="B01D0053000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for eliminating particles in suspension</text>
+									<entryReference>from liquids by sedimentation <sref ref="B01D0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>separation by filtration or otherwise <mref ref="B01D0023000000" endRef="B01D0051000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</entryReference>
+									<entryReference>centrifugal apparatus <u>per se</u>
+										<sref ref="B04" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the quantity of conveyed product</text>
+									<entryReference>measuring volume or volume flow, in general <sref ref="G01F" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="F17D0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Protection or supervision of installations</text>
+								<entryReference>arrangements for protecting foundations <sref ref="E02D0031000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>protecting pipes from damage or internal or external wear <sref ref="F16L0057000000" refType="/" refLevel="c"></sref>, against corrosion and scale <sref ref="F16L0058000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>investigation of the fluid-tightness of structures <sref ref="G01M0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Preventing, monitoring, or locating loss</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by means of a signalling fluid enclosed in a double wall</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="F17D0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using electric or acoustic means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="F17D0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Protection of installations or persons from the effects of high voltage induced in the pipe-line</text>
+									<entryReference>emergency protective circuit arrangements <u>per se</u>
+										<sref ref="H02H" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

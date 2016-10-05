@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="9678">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G07" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CHECKING-DEVICES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G07B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TICKET-ISSUING APPARATUS</text>
+						</titlePart>
+						<titlePart><text>FARE-REGISTERING APPARATUS</text>
+						</titlePart>
+						<titlePart><text>FRANKING APPARATUS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G07C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TIME OR ATTENDANCE REGISTERS</text>
+						</titlePart>
+						<titlePart><text>REGISTERING OR INDICATING THE WORKING OF MACHINES</text>
+						</titlePart>
+						<titlePart><text>GENE- RATING RANDOM NUMBERS</text>
+						</titlePart>
+						<titlePart><text>VOTING OR LOTTERY APPARATUS</text>
+						</titlePart>
+						<titlePart><text>ARRANGEMENTS, SYSTEMS, OR APPARATUS FOR CHECKING NOT PROVIDED FOR ELSEWHERE</text>
+							<entryReference>finger-printing <sref ref="A61B0005100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>indicating or recording apparatus for measuring in general, analogous apparatus but in which the input is not a variable to be measured, e.g. a hand operation, <sref ref="G01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>clocks, clock mechanisms <sref ref="G04B" refType="/" refLevel="c"></sref>, <sref ref="G04C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>time-interval measuring <sref ref="G04F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>counting mechanisms <u>per se</u>
+								<sref ref="G06M" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G07D" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SORTING, TESTING, CHANGING, DELIVERING, OR OTHERWISE HANDLING COINS</text>
+						</titlePart>
+						<titlePart><text>TESTING OR CHANGING PAPER CURRENCY</text>
+						</titlePart>
+						<titlePart><text>TESTING SECURITIES, BONDS, OR SIMILAR VALUABLE PAPERS</text>
+							<entryReference>sorting in general <sref ref="B07C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G07D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the term "coins" embraces also tokens or the like.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G07F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>COIN-FREED OR LIKE APPARATUS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G07F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>In this sub-class, the term "coins" embraces also tokens or the like.</text>
+							</noteParagraph>
+							<noteParagraph><text>Constructions or details of apparatus which includes, or is combined with, coin-actuated mechanisms but is not specially adapted or modified for use therewith are classified in the sub-class for the particular apparatus.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G07G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>REGISTERING THE RECEIPT OF CASH, VALUABLES, OR TOKENS</text>
+							<entryReference>apparatus comprising computing mechanisms <sref ref="G06C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="9296">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F27" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>FURNACES</text>
+					</titlePart>
+					<titlePart><text>KILNS</text>
+					</titlePart>
+					<titlePart><text>OVENS</text>
+					</titlePart>
+					<titlePart><text>RETORTS</text>
+						<entryReference>specially adapted for a purpose covered by a single other class and specifically mentioned <u>per se</u> in that class, <u>see</u> the class in question, e.g. bakery ovens <sref ref="A21B" refType="/" refLevel="c"></sref>, coke or gas-making apparatus <sref ref="C10B" refType="/" refLevel="c"></sref>, <sref ref="C10J" refType="/" refLevel="c"></sref>, apparatus for craking hydrocarbons <sref ref="C10G" refType="/" refLevel="c"></sref>, blast furnaces <sref ref="C21B" refType="/" refLevel="c"></sref>, Bessemer converters for making steel <sref ref="C21C" refType="/" refLevel="c"></sref>, furnaces for heat treatment of metal <sref ref="C21D" refType="/" refLevel="c"></sref>, enamelling ovens <sref ref="C23D" refType="/" refLevel="c"></sref>, combustion apparatus <sref ref="F23" refType="/" refLevel="c"></sref>, electric heating <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F27" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>This class deals with furnaces, kilns, ovens, retorts, open sintering apparatus, and details or accessories therefor, in general. It includes the arrangement of electrical heating elements in or on furnaces, but not the elements themselves. It is not concerned with the processes carried on within the furnaces.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, where appropriate, the term "furnaces" is to be understood as covering kilns, ovens, or retorts.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F27B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FURNACES, KILNS, OVENS, OR RETORTS IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>OPEN SINTERING OR LIKE APPARATUS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F27B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the references and notes following the title of class <sref ref="F27" refType="/" refLevel="c"/> and the note (para. III) following the Contents of Section of Section H.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F27D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DETAILS OR ACCESSORIES OF FURNACES, KILNS, OVENS, OR RETORTS, IN SO FAR AS THEY ARE OF KINDS OCCURRING IN MORE THAN ONE KIND OF FURNACE</text>
+							<entryReference>combustion apparatus <u>per se</u>
+								<sref ref="F23" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F27D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the references and notes following the title of class <sref ref="F27" refType="/" refLevel="c"/> and the note (Note III) following the Contents of Section of Section H.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

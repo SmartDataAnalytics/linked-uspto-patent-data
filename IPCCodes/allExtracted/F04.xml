@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="15298">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F01" endSymbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINES AND PUMPS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F04" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>POSITIVE-DISPLACEMENT MACHINES FOR LIQUIDS</text>
+					</titlePart>
+					<titlePart><text>PUMPS FOR LIQUIDS OR ELASTIC FLUIDS</text>
+						<entryReference>charging or scavenging combustion engines by pumps <sref ref="F02B" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>engine fuel-injection pumps <sref ref="F02M" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>ion pumps <sref ref="H01J0041120000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>electrodynamic pumps <sref ref="H02K0044020000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F04" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>Combinations of positive-displacement and non-positive-displacement pumps are to be found in the following sub-classes: <sref ref="F04B" refType="/" refLevel="c"/> as a general sub-class for pumps; <sref ref="F04C" refType="/" refLevel="c"/>, <sref ref="F04D" refType="/" refLevel="c"/> in respect of matter peculiar to these sub-classes.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F04B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>POSITIVE-DISPLACEMENT MACHINES FOR LIQUIDS</text>
+						</titlePart>
+						<titlePart><text>PUMPS</text>
+							<entryReference>machines for liquids, or pumps, of rotary-piston or oscillating-piston type <sref ref="F04C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>non-positive-displacement pumps <sref ref="F04D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pumping of fluid by direct contact of another fluid or by using inertia of fluid to be pumped <sref ref="F04F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>crankshafts, crossheads, connecting-rods <sref ref="F16C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>flywheels <sref ref="F16F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gearings for interconverting rotary motion and reciprocating motion in general <sref ref="F16H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pistons, piston-rods, cylinders, in general <sref ref="F16J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F04B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, especially as regards the definitions of "machines", "pumps", and 'positive-displacement".</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the term "piston" also covers a plunger.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F04C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ROTARY-PISTON, OR OSCILLATING-PISTON, POSITIVE-DISPLACEMENT MACHINES FOR LIQUIDS</text>
+							<entryReference>engines <sref ref="F03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>ROTARY-PISTON, OR OSCILLATING-PISTON, POSITIVE-DISPLACEMENT PUMPS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F04C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, especially as regards the meanings of "machines", "pumps", "positive displacement", "rotary-piston machines", "oscillating-piston machines", "rotary piston", "co-operating members", "movement of co-operating members", "teeth or tooth-equivalents", and "internal axis".</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F04D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NON-POSITIVE-DISPLACEMENT PUMPS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F04D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, especially as regards the definition of the term "pump".</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class comprises: non-positive-displacement pumps for liquids, for elastic fluids, or for liquids and elastic fluids, whether rotary or not having pure rotation.</text>
+							</noteParagraph>
+							<noteParagraph><text>Combinations of non-positive-displacement pumps with other pumps are dealt with in sub-class <sref ref="F04B" refType="/" refLevel="c"/>, except that the use of such other pumps for priming or boosting non-positive-displacement pumps is dealt with in the present sub-class.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F04F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PUMPING OF FLUID BY DIRECT CONTACT OF ANOTHER FLUID OR BY USING INERTIA OF FLUID TO BE PUMPED</text>
+							<entryReference>containers or packages with special means for dispensing liquid or semi-liquid contents by internal gaseous pressure <sref ref="B65D0083140000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>SIPHONS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F04F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>Combinations of pumps belonging to this sub-class with other pumps are only classified in this sub-class if such other pumps are fore pumps of diffusion pumps.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

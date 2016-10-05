@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="14326">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G11" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INFORMATION STORAGE</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G11B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>INFORMATION STORAGE BASED ON RELATIVE MOVEMENT BETWEEN RECORD CARRIER AND TRANSDUCER</text>
+							<entryReference>recording measured values in a way that does not require playback through a transducer <sref ref="G01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>photochemical processing of recordings <sref ref="G03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>recording or playback apparatus using mechanically marked tape, e.g. punched paper tape, or using unit records, e.g. punched or magnetically marked cards, <sref ref="G06K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transferring data from one type of record carrier to another <sref ref="G06K0001180000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>printing of data from record carriers <sref ref="G06K0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangements for producing a permanent visual presentation of the output data <sref ref="G06K0015000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangements or circuits for control of indicating devices using static means to present variable information <sref ref="G09G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transmission of digital data between dynamic and static stores <sref ref="G11D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>circuits for coupling output of reproducer to radio receiver <sref ref="H04B0001200000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>circuits specially adapted for television signal recording <sref ref="H04N0005760000" refType="/" refLevel="c"></sref>, <sref ref="H04N0009491000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical transducers and circuits therefor <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G11B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with the recording and playback of information by relative movement between a record track and a transducer, the transducer directly producing, or being directly actuated by, modulation in the track being recorded or played-back, and the extent of modulation corresponding to the signal being recorded or played-back.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class includes</text>
+								<subnote type="alpha">
+									<noteParagraph><text>apparatus and machines for recording or playback, and parts thereof, such as heads;</text>
+									</noteParagraph>
+									<noteParagraph><text>record carriers for use with such apparatus and machines; </text>
+									</noteParagraph>
+									<noteParagraph><text>associated working of other apparatus with such apparatus and machines.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>The term "head" includes any means for converting sinusoidal or non-sinusoidal electric wave-forms into variations of the physical condition of at least the adjacent surface of the record carrier, or <u>vice versa</u>.</text>
+									</noteParagraph>
+									<noteParagraph><text>A record carrier is understood to be a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relatively to the record carrier.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G11C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>STATIC STORES</text>
+							<entryReference>recording and playback of information by relative movement between a record track and a transducer <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pulse technique in general <sref ref="H03K" refType="/" refLevel="c"></sref>, e.g. electronic switches <sref ref="H03K0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G11C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with devices or arrangements for storage of digital or analogue information:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>in which no relative movement takes place between an information storage element and a transducer;</text>
+									</noteParagraph>
+									<noteParagraph><text>which incorporate a selecting-device for writing-in or reading-out the information into or from the store.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, a storage element is provided with means for writing-in and reading-out at least one item of information. Elements not adapted for storage and not provided with such means are classified in the appropriate sub-class, e.g. of <sref ref="H01" refType="/" refLevel="c"/>, <sref ref="H03K" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G11D" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TRANSMISSION OF DIGITAL DATA BETWEEN DYNAMIC AND STATIC STORES</text>
+							<entryReference>transmission of digital data between dynamic stores only <sref ref="G11B" refType="/" refLevel="c"></sref>, between static stores only <sref ref="G11C0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="35736">
+	<ipcEntry kind="s" symbol="E" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION E <emdash></emdash> FIXED CONSTRUCTIONS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="E01" endSymbol="E01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BUILDING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="E01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CONSTRUCTION OF ROADS, RAILWAYS, OR BRIDGES</text>
+						<entryReference>of tunnels <sref ref="E21D" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="E01H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>STREET CLEANING</text>
+						</titlePart>
+						<titlePart><text>CLEANING OF PERMANENT WAYS</text>
+						</titlePart>
+						<titlePart><text>CLEANING BEACHES</text>
+						</titlePart>
+						<titlePart><text>DISPERSING FOG IN GENERAL</text>
+							<entryReference>cleaning in general <sref ref="B08B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="E01H0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Removing undesirable matter from roads or like surfaces, with or without moistening of the surface</text>
+								<entryReference>for snow or ice <sref ref="E01H0005000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>cleaning tramway rails <sref ref="E01H0008000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>obstruction-removers on vehicles <sref ref="B60R0019000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>in combination with application of bitumen or the like <sref ref="E01C0019160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>in combination with application of traffic lines <sref ref="E01C0023160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="E01H0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Brushing apparatus</text>
+									<entryReference><mref ref="E01H0001080000" endRef="E01H0001140000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+								</titlePart>
+								<titlePart><text>brushes <u>per se</u>
+										<sref ref="A46B" refType="/" refLevel="c"></sref>)</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="E01H0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>taking-up the sweepings, e.g. for collecting, for loading</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="E01H0001050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with driven brushes</text>
+										<entryReference><sref ref="E01H0001040000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Pneumatically dislodging or taking-up undesirable matter</text>
+									<entryReference>suction cleaners in general <mref ref="A47L0005000000" endRef="A47L0009000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Drying by heat only, or by streams of gas</text>
+									<entryReference>permanently-installed heating or blowing devices <sref ref="E01C0011260000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>heating or drying for road building or repairing <sref ref="E01C0023140000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Cleaning by projecting abrasive particles</text>
+									<entryReference>sand-blasting in general <sref ref="B24C" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Hydraulically loosening or dislodging undesirable matter</text>
+									<entryReference>stationary flushing devices <sref ref="E01H0003040000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+								<titlePart><text>Raking or scraping apparatus</text>
+									<entryReference>hand implements <sref ref="E01H0001120000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Hand implements, e.g. litter pickers</text>
+									<entryReference>rakes <sref ref="A01D0007000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Removing by magnetic effect</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Applying liquids to roads or like surfaces, e.g. for dust control</text>
+							</titlePart>
+							<titlePart><text>Stationary flushing devices</text>
+								<entryReference>combined with removal of undesirable matter <sref ref="E01H0001000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>spray heads, other outlets <sref ref="B05B" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="E01H0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Mobile apparatus, e.g. watering-vehicles</text>
+									<entryReference>vehicle features <sref ref="B60P0003220000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>applying liquid materials for road paving <sref ref="E01C0019160000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Fixed devices, e.g. permanently-installed flushing means</text>
+									<entryReference>hydrants <sref ref="E03B0009000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0004000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Compacting snow to provide surfaces suitable for traffic purposes</text>
+								<entryReference>specially adapted for ski tracks <sref ref="A63C0019100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Removing snow or ice from roads or like surfaces</text>
+							</titlePart>
+							<titlePart><text>Grading or roughening snow or ice</text>
+								<entryReference>by applying de-icing agents <sref ref="E01H0010000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>specially adapted for ice rinks <sref ref="A63C0019100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>obstruction-removers on vehicles <sref ref="B60R0019000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>sand, gravel, or salt spreaders <sref ref="E01C0019200000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="E01H0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Hand implements</text>
+									<entryReference><sref ref="E01H0005040000" refType="/" refLevel="c"></sref>, <sref ref="E01H0005100000" refType="/" refLevel="c"></sref>, <sref ref="E01H0005120000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Apparatus propelled by animal or engine power</text>
+								</titlePart>
+								<titlePart><text>Apparatus propelled by hand with driven dislodging or conveying elements, e.g. conveying pneumatically</text>
+									<entryReference><sref ref="E01H0005100000" refType="/" refLevel="c"></sref>, <sref ref="E01H0005120000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="E01H0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>dislodging essentially by non-driven elements, e.g. scraper blades</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="E01H0005070000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>and conveying dislodged material by driven or pneumatic means</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="E01H0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>dislodging essentially by driven elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="E01H0005090000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the elements being rotary or moving along a closed circular path, e.g. rotary cutter, digging wheels</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by application of heat</text>
+									<entryReference>stationary blowing or paving-heating means <sref ref="E01C0011260000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0005120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Apparatus or implements specially adapted for breaking, disintegrating, or loosening layers of ice or hard snow</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0006000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Apparatus equipped with, or having provisions for equipping with, both elements for removal of refuse or the like and elements for removal of snow or ice</text>
+								<entryReference><sref ref="E01H0008100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0008000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Removing undesirable matter from the permanent way of railways</text>
+							</titlePart>
+							<titlePart><text>Removing undesirable matter from tramway rails</text>
+								<entryReference><mref ref="E01H0001000000" endRef="E01H0006000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="E01H0008020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Methods or apparatus for removing ice or snow from railway tracks, e.g. using snow-ploughs</text>
+									<entryReference>operating only on rails or flange grooves <sref ref="E01H0008100000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="E01H0008040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>essentially by non-driven elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="E01H0008060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>essentially by driven tools</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="E01H0008080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by application of heat</text>
+										<entryReference>heated track <sref ref="E01B0019000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="E01H0008100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Removing undesirable matter from rails, flange grooves, or the like, e.g. removing ice from contact rails, removing mud from flange grooves</text>
+									<entryReference>heating, blowing, or fluid-applying devices installed in the track <sref ref="E01B0019000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>built-in draining devices for rails <sref ref="E01B0021020000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>removing ballast from rails <sref ref="E01B0027040000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="E01H0008120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted to grooved rails, flangeways, or the like</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0010000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Improving gripping of ice-bound or other slippery traffic surfaces, e.g. using gritting or thawing materials</text>
+								<entryReference>roughening ice by means of tools <sref ref="E01H0005120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>applying de-icing agents to rails <sref ref="E01H0008100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>thawing materials <sref ref="C09K0003180000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>by constructional features <sref ref="E01C0011240000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Control of undesirable vegetation on roads or permanent ways of railways</text>
+								<entryReference>destruction of undesirable vegetation in general <mref ref="A01M0007000000" endRef="A01M0015000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, <sref ref="A01M0021000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>weeding involving working the ballast <sref ref="E01B0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+							<titlePart><text>Applying liquids, e.g. water, weed-killer, bitumen, to permanent ways</text>
+								<entryReference>specially to rails <sref ref="E01H0008100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for preserving sleepers <sref ref="E01B0031200000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0012000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Cleaning beaches</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="E01H0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Dispersing fog in general, e.g. on roads, on airfields</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

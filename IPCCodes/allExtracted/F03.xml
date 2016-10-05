@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="13356">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F01" endSymbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINES AND PUMPS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F03" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MACHINES OR ENGINES FOR LIQUIDS</text>
+						<entryReference>for liquids and elastic fluids <sref ref="F01" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>positive-displacement machines for liquids <sref ref="F04" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>WIND, SPRING, WEIGHT, OR MISCELLANEOUS MOTORS</text>
+					</titlePart>
+					<titlePart><text>PRODUCING MECHANICAL POWER OR A REACTIVE PROPULSIVE THRUST, NOT OTHERWISE PROVIDED FOR</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F03B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MACHINES OR ENGINES FOR LIQUIDS</text>
+							<entryReference>machines or engines for liquids and elastic fluids <sref ref="F01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>positive-displacement engines for liquids <sref ref="F03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>positive-displacement machines for liquids <sref ref="F04" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F03B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, especially as regards the definition of "reaction type".</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class comprises</text>
+								<subnote type="alpha">
+									<noteParagraph><text>engines, other than of positive-displacement type, driven by liquids,</text>
+									</noteParagraph>
+									<noteParagraph><text>machines, other than of positive-displacement type, for liquids.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F03C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>POSITIVE-DISPLACEMENT ENGINES DRIVEN BY LIQUIDS</text>
+							<entryReference>positive-displacement engines for liquids and elastic fluids <sref ref="F01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>positive-displacement machines for liquids <sref ref="F04" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid-pressure actuators <sref ref="F15B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid gearing <sref ref="F16H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F03C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, especially as regards the meanings of "positive displacement", "rotary-piston machines", "oscillating-piston machines", "rotary-piston", "co-operating members", "movement of co-operating members", "teeth or tooth-equivalents", and "internal axis".</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F03D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WIND MOTORS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F03D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the following terms are used with the meanings indicated:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>"Wind motor" means a mechanism for converting the energy of natural wind into useful mechanical power, and the transmission of such power to its point of use.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Rotor" means the wind-engaging parts of the wind motor and the rotary member carrying them.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Rotation axis" means the axis of rotation of the rotor.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F03G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SPRING, WEIGHT, INERTIA, OR LIKE MOTORS</text>
+						</titlePart>
+						<titlePart><text>MECHANICAL-POWER-PRODUCING DEVICES OR MECHANISMS, NOT OTHERWISE PROVIDED FOR OR USING ENERGY SOURCES NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F03G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the term "motors" means mechanisms for producing mechanical power from potential energy of solid bodies.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F03H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PRODUCING A REACTIVE PROPULSIVE THRUST, NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>from combustion products <sref ref="F02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

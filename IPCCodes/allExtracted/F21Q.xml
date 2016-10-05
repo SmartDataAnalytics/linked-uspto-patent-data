@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="9366">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING</text>
+						<entryReference>electric aspects or elements Section H, e.g. electric light sources <sref ref="H01J" refType="/" refLevel="c"></sref>, <sref ref="H01K" refType="/" refLevel="c"></sref>, <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F21" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the note (Note III) following the Contents of Section of Section H.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Portable" means "intended to be carried personally".</text>
+								</noteParagraph>
+								<noteParagraph><text>"Non-portable" means "not intended to be carried personally, even if capable of being moved from place to place".</text>
+								</noteParagraph>
+								<noteParagraph><text>"Electric" includes "not stated to be non-electric".</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F21Q" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NON-PORTABLE LIGHTING DEVICES FOR SIGNALLING</text>
+							<entryReference>arrangements or adaptation of optical signalling devices for vehicles, <u>see</u> the relevant classes <mref ref="B60" endRef="B64" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+							</entryReference>
+							<entryReference>burners, combustion apparatus <sref ref="F23" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>signalling arrangements or devices, other than lamps or shutters therefor, <sref ref="G08B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="F21Q0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices for signalling adapted to be mounted on the exterior of vehicles</text>
+								<entryReference><sref ref="F21Q0005000000" refType="/" refLevel="c"></sref> takes precedende</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21Q0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Other lighting devices for signalling, e.g. indicator lamps</text>
+								<entryReference><sref ref="F21Q0005000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="F21Q0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices producing a focused beam, e.g. for lighthouses</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="F21Q0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Lighting devices for signalling employing combinations of electric and non-electric light sources</text>
+							</titlePart>
+							<titlePart><text>Replacing electric by non-electric light sources or <u>vice-versa</u>, in lighting devices for signalling</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

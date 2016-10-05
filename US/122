@@ -1,0 +1,609 @@
+1R	PLANTS
+2	PLANTS Garbage
+3	PLANTS Motor vehicle
+1A	PLANTS Air heaters
+1B	PLANTS Once through
+1C	PLANTS Feed water heaters
+4R	MISCELLANEOUS
+4A	MISCELLANEOUS Electric boiler
+4C	MISCELLANEOUS Water-cooled stoker
+4D	MISCELLANEOUS Catalyst
+5	GAS-PRODUCER
+5.51	AIR-INJECTED
+5.52	AIR-INJECTED Combustion gas and vapor contact
+6R	INDUSTRIAL
+6.5	INDUSTRIAL Port
+6.6	INDUSTRIAL Tuyeres
+6.7	INDUSTRIAL Tuyeres Forge
+7R	INDUSTRIAL Waste heat
+7A	INDUSTRIAL Waste heat Steel converter
+7B	INDUSTRIAL Waste heat Additional burner
+7C	INDUSTRIAL Waste heat Waste sulfite
+7D	INDUSTRIAL Waste heat Carbon monoxide
+8	INDUSTRIAL Water firebox
+9	INDUSTRIAL Water firebox Water tube type
+6A	INDUSTRIAL Water-cooled walls
+6B	INDUSTRIAL Bosh plates
+6C	INDUSTRIAL Skew arch coolers
+10	FOR FLUID FUEL BURNER
+11	ROTARY
+12	ROTATABLY SUPPORTED
+13.01	STAND BOILER (E.G., WATER HEATER, ETC.)
+13.3	STAND BOILER (E.G., WATER HEATER, ETC.) And delivery means to dispensing feature
+14.1	STAND BOILER (E.G., WATER HEATER, ETC.) And condition responsive feature
+14.2	STAND BOILER (E.G., WATER HEATER, ETC.) And condition responsive feature Controls burner
+14.21	STAND BOILER (E.G., WATER HEATER, ETC.) And condition responsive feature Controls burner By other than temperature of water
+14.22	STAND BOILER (E.G., WATER HEATER, ETC.) And condition responsive feature Controls burner By temperature of water in a water containing chamber or external tank
+14.3	STAND BOILER (E.G., WATER HEATER, ETC.) And condition responsive feature Having water flow control feature
+14.31	STAND BOILER (E.G., WATER HEATER, ETC.) And condition responsive feature Having water flow control feature Using valve actuated by flow or pressure (e.g., check valve, etc.)
+15.1	STAND BOILER (E.G., WATER HEATER, ETC.) Heated by liquid or steam (e.g., indirect heating, etc.)
+16.1	STAND BOILER (E.G., WATER HEATER, ETC.) Solid fuel burner
+17.1	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner
+17.2	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner Liquid fuel burner
+18.1	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner Having heat exchange feature
+18.2	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner Having heat exchange feature Preheater
+18.3	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner Having heat exchange feature Fire tube or flue surrounded by water containing chamber
+18.31	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner Having heat exchange feature Fire tube or flue surrounded by water containing chamber Penetrates one side of water chamber to another
+18.4	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner Having heat exchange feature Water tube surrounded by burned fuel
+18.5	STAND BOILER (E.G., WATER HEATER, ETC.) Fluid fuel burner And external water tank
+19.1	STAND BOILER (E.G., WATER HEATER, ETC.) Water containing chamber or external tank having circulation feature within
+19.2	STAND BOILER (E.G., WATER HEATER, ETC.) And casing feature for stand boiler or external water tank therefor
+20R	SUBSIDIARY
+20A	SUBSIDIARY Subsidiary-heater firebox
+20B	SUBSIDIARY Subsidiary-heater offtake flue
+29	ANNULAR FIREBOX
+30	MAGAZINE
+32	SUBSIDIARY Subsidiary-heater offtake flue Surface
+33	SUBSIDIARY Subsidiary-heater offtake flue Surface Furnace
+34	SUBSIDIARY Subsidiary-heater offtake flue Surface Separator
+31.1	INDIRECTLY HEATED SEPARATE INJECTED FLUID
+31.2	INDIRECTLY HEATED SEPARATE INJECTED FLUID Submerged flame
+35	ACCUMULATOR
+36	AUXILIARY STEAM HEATER
+37	COMPARTMENT
+38	INDIRECTLY HEATED SEPARATE INJECTED FLUID Submerged flame Draft regulator
+39	FILM
+40	FLASHER
+41	FLASHER Fluid fuel
+42	FIRE AND WATER TUBE
+43	FIRE AND WATER TUBE Fluid fuel
+44.1	FIRE TUBE
+44.2	FIRE TUBE With baffle in flue
+49	FIRE TUBE Horizontal and vertical
+50	INDIRECTLY HEATED SEPARATE INJECTED FLUID Submerged flame Draft regulator Flue
+51	FIRE TUBE Horizontal
+52	FIRE TUBE Horizontal Plural
+53	FIRE TUBE Horizontal Plural Water tube
+54	FIRE TUBE Horizontal Plural Double outlet
+55	FIRE TUBE Horizontal Cylinder
+56	FIRE TUBE Horizontal Cylinder Rear of bridge wall
+57	FIRE TUBE Horizontal Cylinder Alternate smoke return
+58R	FIRE TUBE Horizontal Drop water firebox
+59	FIRE TUBE Horizontal Drop water firebox Circulation conduit
+60	FIRE TUBE Horizontal Drop water firebox Circulation conduit Alternate smoke return
+61	FIRE TUBE Horizontal Drop water firebox Drop water baffle
+62	FIRE TUBE Horizontal Drop water firebox Front and rear water baffle
+63	FIRE TUBE Horizontal Drop water firebox Front water baffle
+64	FIRE TUBE Horizontal Drop water firebox Interposed combustion chamber
+65	FIRE TUBE Horizontal Drop water firebox Rear water baffle
+66	FIRE TUBE Horizontal Drop water firebox Water coking chamber
+67	FIRE TUBE Horizontal Drop water firebox Water coking chamber Intermediate draft
+68	FIRE TUBE Horizontal Drop water firebox Water tube
+69	FIRE TUBE Horizontal Drop water firebox Water coking chamber Intermediate draft Check-valved
+70	FIRE TUBE Horizontal Drop water firebox Water tube Feeding air
+71	FIRE TUBE Horizontal Drop water firebox Water tube Solid baffle
+58FB	FIRE TUBE Horizontal Drop water firebox Fire box construction
+72	FIRE TUBE Horizontal Projecting into firebox
+73	FIRE TUBE Horizontal Projecting into firebox Drop water firebox
+74	FIRE TUBE Horizontal Projecting into firebox Drop water firebox
+75	FIRE TUBE Horizontal Return fire tube
+76	FIRE TUBE Horizontal Return fire tube Drop water firebox
+77	FIRE TUBE Horizontal Return fire tube Drop water firebox Internal water tube
+78	FIRE TUBE Horizontal Return fire tube Drop water firebox Flue
+79	FIRE TUBE Horizontal Subjacent water arch
+80	FIRE TUBE Horizontal Subjacent flue
+81	FIRE TUBE Horizontal Subjacent transverse fire tube
+82	FIRE TUBE Horizontal Subjacent transverse fire tube In communication
+83	FIRE TUBE Horizontal Transverse diaphragm
+84	FIRE TUBE Horizontal Transverse diaphragm Great diameter over firebox
+85	FIRE TUBE Horizontal Transverse diaphragm Small diameter over firebox
+86	FIRE TUBE Horizontal Transverse diaphragm Small diameter over firebox Water firebox
+87	FIRE TUBE Horizontal U-coupling
+88	FIRE TUBE Horizontal Upper drum
+89	FIRE TUBE Horizontal Upper drum Rear of fire tube
+90	FIRE TUBE Horizontal Water firebox
+91	FIRE TUBE Horizontal Upper drum Rear of fire tube Trapped circuit
+92	FIRE TUBE Horizontal Water firebox Magazine
+93	FIRE TUBE Horizontal Water firebox Offset
+94.1	FIRE TUBE Horizontal Water firebox Offset Water tube type
+95.1	FIRE TUBE Horizontal Water firebox Plural with common combustion chamber
+95.2	FIRE TUBE Horizontal Water firebox Plural with common combustion chamber Multiboilers
+96	FIRE TUBE Horizontal Water firebox Superposed
+97	FIRE TUBE Horizontal Water firebox Superposed Downdraft
+98	FIRE TUBE Horizontal Water firebox Superposed Updraft
+99	FIRE TUBE Horizontal Water firebox Superposed Straddle
+100	FIRE TUBE Horizontal Water firebox Superposed Interposed flue
+101	FIRE TUBE Horizontal Water smoke box
+102	FIRE TUBE Horizontal Water firebox Superposed Over bridge wall
+103	FIRE TUBE Horizontal Water smoke box Rear of fire tube
+104	FIRE TUBE Horizontal Water smoke box Rear of fire tube Over bridge wall
+105	FIRE TUBE Horizontal Water smoke box Rear of fire tube Over bridge wall
+106	FIRE TUBE Horizontal Water wall
+107	FIRE TUBE Horizontal Water wall Drop water firebox
+108	FIRE TUBE Horizontal Water wall Subjacent water tube
+109	FIRE TUBE Inclined
+110	FIRE TUBE Inclined Horizontal boiler
+111	FIRE TUBE Inclined Vertical boiler
+112	FIRE TUBE Inclined Vertical boiler Water firebox
+113	FIRE TUBE Inclined Water tube
+114	FIRE TUBE Vertical
+116	FIRE TUBE Vertical Central fire dome
+117	FIRE TUBE Vertical Central magazine
+118	FIRE TUBE Vertical Central magazine Internal
+119	FIRE TUBE Vertical Cylinder
+120	FIRE TUBE Vertical Offset firebox
+121	FIRE TUBE Vertical Return fire tube
+122	FIRE TUBE Vertical Return fire tube Water firebox
+123	FIRE TUBE Vertical Separate compartment
+124	FIRE TUBE Vertical Side magazine
+125	FIRE TUBE Vertical Top water chamber
+126	FIRE TUBE Vertical Water firebox
+127	FIRE TUBE Vertical Water firebox Annular
+128	FIRE TUBE Vertical Water firebox Central magazine
+129	FIRE TUBE Vertical Water firebox Downdraft
+130	FIRE TUBE Vertical Water tube
+131	FIRE TUBE Vertical Water tube Internal
+132	FIRE TUBE Vertical Water tube Radial loop
+133	FIRE TUBE Vertical Water tube Spur
+115	FIRE TUBE Vertical Fluid fuel
+134	FIRE TUBE Volute
+46	FIRE TUBE Magazine
+47	FIRE TUBE Magazine Horizontal
+48	FIRE TUBE Magazine Vertical
+45	FIRE TUBE Fluid fuel
+135.1	FLUE
+135.2	FLUE Alternative stack
+135.3	FLUE Sinusoidal flue
+136R	FLUE Horizontal
+137	FLUE Horizontal Plural
+138	FLUE Horizontal Plural Water tube
+139	FLUE Horizontal Drop water firebox
+140.1	FLUE Horizontal Internal water tube
+140.2	FLUE Horizontal Internal water tube Having water tube in flue
+141	FLUE Horizontal Internal water tube Having water tube in flue Drop water firebox
+142	FLUE Horizontal Internal water tube Return fire tube
+143	FLUE Horizontal Internal water tube Spur
+144	FLUE Horizontal Internal water tube Subjacent firebox
+145	FLUE Horizontal Internal water tube Transverse
+146	FLUE Horizontal Internal water tube Transverse Drop water firebox
+147	FLUE Horizontal Internal water tube Transverse Return fire tube
+148	FLUE Horizontal Internal water tube Water firebox
+149	FLUE Horizontal Return fire tube
+150	FLUE Horizontal Return fire tube Rear water tube
+151	FLUE Horizontal Return fire tube Rear water tube Separate
+152	FLUE Horizontal Water grate in flue
+153	FLUE Horizontal Water tube
+154	FLUE Horizontal Water tube Over bridge wall
+136C	FLUE Horizontal Horizontal-corrugated or finned
+155.1	FLUE Vertical
+155.2	FLUE Vertical With flue baffle
+155.3	FLUE Vertical Having exterior heating flue
+155.4	FLUE Vertical Having corrugated flue
+155.5	FLUE Vertical Having undulating flue
+157	FLUE Vertical Central magazine
+158	FLUE Vertical Central magazine Water jacket
+159	FLUE Vertical Central magazine Internal
+160	FLUE Vertical Concentric shell
+161	FLUE Vertical Concentric shell Fluid fuel
+162	FLUE Vertical Concentric shell Central magazine
+163	FLUE Vertical Exterior drum
+165	FLUE Vertical Internal water heater
+166.1	FLUE Vertical With internal water tube
+166.2	FLUE Vertical With internal water tube Loop-type tube
+168	FLUE Vertical With internal water tube Central magazine
+169	FLUE Vertical With internal water tube Coil
+170	FLUE Vertical With internal water tube Coil Header
+171	FLUE Vertical With internal water tube Contracted inlet
+172	FLUE Vertical With internal water tube Header
+173	FLUE Vertical With internal water tube Horizontal spur
+174	FLUE Vertical With internal water tube Internal fire tube
+175	FLUE Vertical With internal water tube Offset water firebox
+176	FLUE Vertical With internal water tube Transverse
+177	FLUE Vertical With internal water tube Transverse Fluid fuel
+178	FLUE Vertical With internal water tube Vertical aligned fire tube
+179	FLUE Vertical With internal water tube Vertical aligned fire tube Fluid fuel
+180	FLUE Vertical With internal water tube Vertical aligned fire tube Spur water tube
+181	FLUE Vertical With internal water tube Vertical spur
+167	FLUE Vertical With internal water tube Fluid fuel
+182.1	FLUE Vertical With return fire tube
+182.2	FLUE Vertical With return fire tube Having symmetrical arrangement of tubes
+182.3	FLUE Vertical With return fire tube Having tubes offset from firebox
+183	FLUE Vertical With return fire tube Fluid fuel
+184	FLUE Vertical With return fire tube Fluid fuel Annular firebox
+185	FLUE Vertical With return fire tube Fluid fuel Loop
+186	FLUE Vertical With return fire tube Fluid fuel Spur
+187	FLUE Vertical Transverse fire tube
+164	FLUE Vertical Insulated outlet flue
+156	FLUE Vertical Fluid fuel
+188	FLUE Drop water baffle
+189	FLUE Drop water baffle Water roof
+190	FLUE Drop water baffle Water tube
+191	FLUE Drop water baffle Beyond bridge wall
+192	FLUE Water bridge wall
+193	FLUE Water firebox
+194	FLUE Water firebox Water tube type
+195	FLUE Water tube
+196	FLUE Water firebox Water tube type Check-valved
+197	FLUE Water tube Lateral-longitudinal
+198	FLUE Water tube Lateral-vertical
+199	FLUE Water tube Lateral-vertical Firebox
+200	FLUE Water tube Over fuel grate
+201	FLUE Water tube Subjacent internal fire tube
+202	FLUE Water tube Trapped circuit
+203	FLUE Water tube Trapped circuit Downdraft
+204	FLUE Water tube Trapped circuit Intermediate draft
+205	FLUE Water tube Trapped circuit Multiple series
+206	FLUE Water tube Trapped circuit Solid and water bar
+207	FLUE Water tube Trapped circuit Updraft
+208	FLUE Water tube Fluid fuel
+209.1	SECTIONAL
+209.2	SECTIONAL Feeding air
+213	SECTIONAL Plural firebox
+214	SECTIONAL Plural firebox Superimposed
+215	SECTIONAL Plural firebox Superimposed Central connection
+216	SECTIONAL Plural firebox Superimposed Central connection Fluid fuel
+217	SECTIONAL Plural firebox Superimposed Central connection Water firebox
+218	SECTIONAL Plural firebox Superimposed Water firebox
+219	SECTIONAL Plural firebox Superimposed Water firebox Central magazine
+220	SECTIONAL Plural firebox Superimposed Water firebox Central magazine Water firebox
+221	SECTIONAL Plural firebox Annularly positioned
+222	SECTIONAL Plural firebox Annularly positioned Central magazine
+223	SECTIONAL Plural firebox Longitudinally positioned
+224	SECTIONAL Plural firebox Longitudinally positioned Casing
+225R	SECTIONAL Plural firebox Transversely positioned
+226	SECTIONAL Plural firebox Transversely positioned Casing
+227	SECTIONAL Plural firebox Transversely positioned Casing Divided section
+228	SECTIONAL Plural firebox Transversely positioned Divided section
+229	SECTIONAL Plural firebox Transversely positioned Water grate
+225A	SECTIONAL Plural firebox Transversely positioned Water heater in flue
+225B	SECTIONAL Plural firebox Transversely positioned Water heater in boiler
+225F	SECTIONAL Plural firebox Transversely positioned Feeding air
+230	SECTIONAL Plural firebox Two-section
+212.1	SECTIONAL With magazine
+212.2	SECTIONAL With magazine With return or alternate flue
+211	SECTIONAL Fluid or solid fuel
+210	SECTIONAL Fluid fuel
+232	SECTIONAL Water grate
+231	SECTIONAL Accessories
+233	SECTIONAL Horizontal
+234	SECTIONAL Vertical
+235.11	WATER TUBE
+235.12	WATER TUBE Wall structure
+235.13	WATER TUBE With fuel burners having posts and tuyeres
+235.14	WATER TUBE Tube structure
+235.15	WATER TUBE Headers and connections
+235.16	WATER TUBE For plural fluids
+235.17	WATER TUBE Having baffles
+235.18	WATER TUBE Having seals
+235.19	WATER TUBE D-type tube
+235.21	WATER TUBE D-type tube Multiple D-type tubes
+235.22	WATER TUBE Wall loop
+235.23	WATER TUBE Having specific tube patterns
+235.24	WATER TUBE Screens
+235.25	WATER TUBE Screens Floor screens
+235.26	WATER TUBE Having slag and ash disposal
+235.27	WATER TUBE Locomotive-type
+235.28	WATER TUBE Having rotary flame
+235.29	WATER TUBE Having forced circulation system
+235.31	WATER TUBE Having specific intenal drum and head structure
+235.32	WATER TUBE With combustion
+235.33	WATER TUBE With convection zone regulation
+235.34	WATER TUBE With parallel multiple fireboxes
+235.35	WATER TUBE With serial multiple fireboxes
+238	WATER TUBE Offset firebox
+239	WATER TUBE Superimposed firebox
+240.1	WATER TUBE Having plural fireboxes
+240.2	WATER TUBE Having plural fireboxes Series connected
+240.3	WATER TUBE Having plural fireboxes Parallel connected
+241	WATER TUBE Firebox in drum
+242	WATER TUBE Capillary
+243	WATER TUBE Capillary Fluid fuel
+244	WATER TUBE Capillary Central standpipe
+245	WATER TUBE Capillary Central standpipe Fluid fuel
+246	WATER TUBE Capillary Central standpipe Annular firebox
+247	WATER TUBE Coil
+248	WATER TUBE Capillary Central standpipe Fluid fuel
+249	WATER TUBE Coil Vertical
+250R	WATER TUBE Coil Vertical Fluid fuel
+250S	WATER TUBE Coil Vertical Fluid fuel Standpipe
+251	WATER TUBE Coil Vertical Central magazine
+252	WATER TUBE Coil Vertical Water firebox
+253	WATER TUBE Cross
+254	WATER TUBE Cross Over bridge wall
+255	WATER TUBE Coil Vertical Fluid fuel Standpipe Drum
+256	WATER TUBE Coil Vertical Fluid fuel Standpipe Drum
+257	WATER TUBE Coil Vertical Water firebox Drum
+258	WATER TUBE Downflow
+259	WATER TUBE Drum type
+260	WATER TUBE Flat
+261	WATER TUBE Flat Volute
+262	WATER TUBE Horizontal
+263	WATER TUBE Horizontal Over bridge wall
+264	WATER TUBE Horizontal Over firebox
+265	WATER TUBE Inclined
+266	WATER TUBE Internal fire tube
+267	WATER TUBE Internal fire tube Horizontal
+268	WATER TUBE Internal fire tube Inclined
+269	WATER TUBE Internal fire tube Plural fire tube
+270	WATER TUBE Internal fire tube Straddle
+271	WATER TUBE Internal fire tube Vertical
+272	WATER TUBE Internal fire tube Vertical Central magazine
+273	WATER TUBE Longitudinal upper drum
+274	WATER TUBE Longitudinal upper drum Fluid fuel
+275	WATER TUBE Loop
+276	WATER TUBE Loop Firebox enclosing
+277	WATER TUBE Loop Over bridge wall
+278	WATER TUBE Loop Over bridge wall Cross
+279	WATER TUBE Loop Over bridge wall Horizontal
+280	WATER TUBE Loop Over bridge wall Horizontal Bridge wall header
+281	WATER TUBE Loop Over bridge wall Standpipe
+282	WATER TUBE Loop Over bridge wall Vertical
+283	WATER TUBE Loop Over bridge wall Vertical Fluid fuel
+284	WATER TUBE Loop Headers at right angles
+285	WATER TUBE Loop Transverse water baffle
+286	WATER TUBE Loop Transverse water baffle Downdraft
+287	WATER TUBE Loop Transverse water baffle Intermediate draft
+288	WATER TUBE Loop Headers at right angles
+289	WATER TUBE Loop Headers at right angles Updraft
+290	WATER TUBE Loop Headers at right angles Front and rear header
+291	WATER TUBE Loop Headers at right angles Front and rear header Horizontal-longitudinal drum
+292	WATER TUBE Loop Headers at right angles Front and rear header Horizontal-longitudinal drum Firebox tube
+293	WATER TUBE Loop Headers at right angles Front and rear header Horizontal-longitudinal drum Longitudinal water baffle
+294	WATER TUBE Loop Headers at right angles Front and rear header Horizontal-longitudinal drum Water wall
+295	WATER TUBE Loop Headers at right angles Front and rear header Internal water tube
+296	WATER TUBE Loop Headers at right angles Front and rear header Longitudinal-declined drum
+297	WATER TUBE Loop Headers at right angles Front and rear header Transverse drum
+298	WATER TUBE Loop Headers at right angles Front and rear header Horizontal-longitudinal drum
+299	WATER TUBE Loop Headers at right angles Front and rear header Transverse drum
+300	WATER TUBE Loop Headers at right angles Front and rear header Tubes beyond side wall
+301	WATER TUBE Loop Headers at right angles Plural lower transverse drum
+302	WATER TUBE Loop Headers at right angles Single lower transverse drum
+303	WATER TUBE Loop Headers at right angles Single lower transverse drum Transverse drum
+304	WATER TUBE Loop Opposite fireboxes
+305	WATER TUBE Spur
+306	WATER TUBE Spur Bridge wall header
+307	WATER TUBE Spur Central standpipe
+308	WATER TUBE Spur Central standpipe Fluid fuel
+309	WATER TUBE Spur Central standpipe Annular firebox
+310	WATER TUBE Spur Central standpipe Central magazine
+311	WATER TUBE Spur Cross
+312	WATER TUBE Spur Horizontal-longitudinal drum
+313	WATER TUBE Spur Over bridge wall
+314	WATER TUBE Spur Over bridge wall Central header
+315	WATER TUBE Spur Over bridge wall Declined
+316	WATER TUBE Spur Over bridge wall Horizontal
+317	WATER TUBE Spur Straddle
+318	WATER TUBE Spur Vertical
+319	WATER TUBE Spur Vertical Fluid fuel
+320	WATER TUBE Spur Vertical Central magazine
+321	WATER TUBE Standpipe
+322	WATER TUBE Standpipe Fluid fuel
+323	WATER TUBE Standpipe Annular firebox
+324	WATER TUBE Straddle
+325	WATER TUBE Standpipe Annular firebox Plural lower drum
+326	WATER TUBE Standpipe Annular firebox Plural lower drum Cross
+327	WATER TUBE Standpipe Annular firebox Plural lower drum
+328	WATER TUBE Standpipe Annular firebox Plural lower drum Fluid fuel
+329	WATER TUBE Standpipe Annular firebox Plural lower drum Cross
+330	WATER TUBE Standpipe Annular firebox Plural lower drum Plural firebox
+331	WATER TUBE Transverse horizontal drum
+332	WATER TUBE Vertical
+333	WATER TUBE Vertical Fluid fuel
+334	WATER TUBE Vertical Side magazine
+335	WATER TUBE Vertical Annular firebox
+336	WATER TUBE Vertical Offset firebox
+337	WATER TUBE Vertical Offset firebox Elevated
+338	WATER TUBE Vertical Offset firebox Annular upper drum
+339	WATER TUBE Vertical Offset firebox Annular upper drum Central magazine
+340	WATER TUBE Vertical Offset firebox Annular upper drum Tubes over firebox
+341	WATER TUBE Vertical Offset firebox Fire tube upper drum
+342	WATER TUBE Vertical Offset firebox Spur tube upper drum
+343	WATER TUBE Vertical Offset firebox Upper drum
+344	WATER TUBE Vertical Offset firebox Upper drum Central magazine
+345	WATER TUBE Vertical Beyond bridge wall
+346	WATER TUBE Vertical Beyond bridge wall Gas return
+347	WATER TUBE Vertical Beyond bridge wall Gas return Longitudinal lower drum
+348	WATER TUBE Vertical Beyond bridge wall Fluid fuel
+349	WATER TUBE Vertical Over firebox
+350	WATER TUBE Vertical Over firebox Gas return
+351	WATER TUBE Vertical Over firebox Plural lower longitudinal drum
+352	WATER TUBE Vertical Over firebox Plural lower longitudinal drum Offset firebox
+353	WATER TUBE Water grate
+354	WATER TUBE Water grate Downdraft
+355	WATER TUBE Zigzag
+356	WATER TUBE Zigzag Fluid fuel
+357	WATER TUBE Zigzag Fluid fuel Longitudinal drum
+358	WATER TUBE Zigzag Fluid fuel Transverse drum
+359	WATER TUBE Zigzag Over firebox
+237	WATER TUBE Magazine
+236	WATER TUBE Fluid fuel
+360	WATER TUBE Fluid fuel Closures and couplings
+361	WATER TUBE Fluid fuel Closures and couplings Cleaning
+362	WATER TUBE Fluid fuel Closures and couplings Concentric tube
+363	WATER TUBE Fluid fuel Closures and couplings Drum
+364	WATER TUBE Fluid fuel Closures and couplings Tube closures
+365	WATER TUBE Drums and couplings
+366	WICK
+367.1	HEAT TRANSMITTER
+367.2	HEAT TRANSMITTER Double immersed heat transmitters
+367.3	HEAT TRANSMITTER Corrugated and finned heat transmitters
+367.4	HEAT TRANSMITTER Pebble furnaces
+368	WATER FIREBOX
+369	WATER FIREBOX Mud ring
+370	WATER FIREBOX Plural
+371	WATER GRATE
+372	WATER TUBE Fluid fuel Closures and couplings Tube closures Updraft
+373	WATER GRATE Cage
+374	WATER GRATE Grate structure
+375	WATER GRATE Grate structure Solid and water bar
+376	WATER GRATE Progressive feed
+377	WATER GRATE Grate structure Solid and water bar Updraft
+378	WATER GRATE Progressive feed Updraft
+21	CHEMICAL
+22	FLUID AND SOLID FUEL
+23	FLUID FUEL
+24	FLUID FUEL Explosion
+25	FLUID FUEL Explosion Superimposed
+26	FRICTION GENERATOR
+27	FRICTION GENERATOR Surface
+28	FRICTION GENERATOR Water in contact
+379	CLEANING
+380	CLEANING Agitating circulator
+381	CLEANING Agitating circulator Bottom and surface
+382	CLEANING Agitating circulator Bottom
+383	CLEANING Agitating circulator Bottom Internal conduit
+384	CLEANING Agitating circulator Bottom Internal conduit Ejector
+385	CLEANING Agitating circulator Bottom Internal conduit Mud ring
+386	CLEANING Agitating circulator Bottom Internal conduit Pan
+387	CLEANING Agitating circulator Bottom Internal conduit Scraper
+388	CLEANING Agitating circulator Bottom Internal conduit Valved
+389	CLEANING Agitating circulator Surface exit
+390	CLEANING Fluid jet
+391	CLEANING Fluid jet Horizontal fire tube boiler
+392	CLEANING Fluid jet Water tube boiler
+393	CLEANING Mud drum
+394	CLEANING Pans
+395	CLEANING Sandblast
+396	CLEANING Systems
+397	CLEANING Trapped circuit
+398	CLEANING Trapped circuit Feeding water
+399	CLEANING Trapped circuit Surface and bottom exit
+400	CLEANING Trapped circuit Surface exit
+401	CLEANING Trapped circuit Surface exit Chemical feeder
+402	CLEANING Trapped circuit Surface exit Circulating pump
+403	CLEANING Trapped circuit Surface exit Feed heater
+404	CLEANING Trapped circuit Surface exit Steam injector
+405	CLEANING Wash-out nozzle
+406.1	CIRCULATION
+406.2	CIRCULATION Having anticavitation devices
+406.3	CIRCULATION Having restrictors and orifices
+406.4	CIRCULATION Once through
+406.5	CIRCULATION With start-up operations
+407	CIRCULATION Injector
+408.1	CIRCULATION Having internal conduit
+408.2	CIRCULATION Having internal conduit With internal geyser tube
+409	CIRCULATION Having internal conduit Horizontal flue boiler
+410	CIRCULATION Having internal conduit Horizontal flue boiler Return fire tube
+411	CIRCULATION Having internal conduit Internal
+412	FEED HEATERS
+413	FEED HEATERS Ash pan
+414	FEED HEATERS Ash pan Feed-injected
+415	CIRCULATION Having internal conduit Horizontal flue boiler Return fire tube Feed-injected
+417	FEED HEATERS Drip plate in boiler
+418	FEED HEATERS Ash pan Feed-injected Attached
+419	FEED HEATERS Ash pan Feed-injected Detachable
+420	FEED HEATERS Furnace gases
+421	FEED HEATERS Offtake flue
+422	FEED HEATERS Furnace gases and steam
+423	FEED HEATERS Furnace gases and steam Smoke box
+424	FEED HEATERS Furnace gases and steam Smoke box Exhaust pipe
+425	FEED HEATERS Furnace gases and steam Smoke box Furnace gases and steam
+426	FEED HEATERS Furnace gases and steam Smoke box Water tube
+427	FEED HEATERS Furnace gases and steam Smoke chamber
+428	FEED HEATERS Internal conduit
+429	FEED HEATERS Internal conduit Automatic sediment valve
+430	FEED HEATERS Internal conduit Blow-off delivery
+431	FEED HEATERS Internal conduit Filter in boiler
+432	FEED HEATERS Internal conduit Furnace gases
+433	FEED HEATERS Internal conduit Trap outside boiler
+434	FEED HEATERS Locomotive tender
+435	FEED HEATERS Pan in steam space
+436	FEED HEATERS Pan in steam space Spray
+437	FEED HEATERS Safety valve
+438	FEED HEATERS Spray to steam space
+439	FEED HEATERS Stack
+441	FEED HEATERS Steam
+442	FEED HEATERS Steam Injected
+443	FEED HEATERS Furnace gases and steam Smoke box Water tube Open to steam space
+444	FEED HEATERS Water tube boiler
+446	FEED HEATERS Water tube boiler Fluid fuel
+447	FEED HEATERS Water tube boiler Fluid fuel Cutoff
+449	FEED HEATERS Water tube boiler Fluid fuel Solid fuel
+450	FEED HEATERS Suspended boiler
+448.1	AUTOMATIC CONTROL OF FLUID FUEL AND WATER
+448.2	AUTOMATIC CONTROL OF FLUID FUEL AND WATER Having fuel or feed bypass
+448.3	AUTOMATIC CONTROL OF FLUID FUEL AND WATER Multiple boiler regulation
+448.4	AUTOMATIC CONTROL OF FLUID FUEL AND WATER Once through
+451R	FEEDERS
+451.1	AUTOMATIC CONTROL OF FLUID FUEL AND WATER Once through Thermally controlled
+451.2	AUTOMATIC CONTROL OF FLUID FUEL AND WATER Once through Thermally controlled Pressure-operated valve
+452	FEEDERS Boiler pressure
+456	FEEDERS Boiler pressure Automatic
+457	FEEDERS Boiler pressure Automatic Heater
+458	FEEDERS Boiler pressure Heater
+451S	FEEDERS Once through
+459	STEAM TREATMENT
+460	STEAM TREATMENT Boilers with superheaters
+461	FEEDERS Boiler pressure Heater Superheater
+462	FEED HEATERS Furnace gases and steam Smoke box Water tube Open to steam space From smoke box
+463	FEED HEATERS Furnace gases and steam Smoke box Water tube Open to steam space Internal fire tube
+464	FEED HEATERS Furnace gases and steam Smoke box Water tube Open to steam space Fire tube
+465	FEED HEATERS Furnace gases and steam Smoke box Water tube Open to steam space Steam tube
+466	STEAM TREATMENT Boilers with superheaters Superheater and feed heater
+467	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater
+468	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater Superheater
+469	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Rear of firebox
+470	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Waste-heat flue
+471	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater Superheater Superheater
+472	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater Superheater Superheater
+473	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater
+474	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater
+475	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater Superheater
+478	STEAM TREATMENT Boilers with superheaters Superheater and feed heater Superheater
+477	STEAM TREATMENT Boilers with superheaters Superheater and feed heater
+476	STEAM TREATMENT Boilers with superheaters Superheater
+480	STEAM TREATMENT Boilers with superheaters Damper-controlled
+481	STEAM TREATMENT Boilers with superheaters Firebox
+482	STEAM TREATMENT Boilers with superheaters Fire tube in steam space
+483	STEAM TREATMENT Boilers with superheaters Indirectly heated
+484	STEAM TREATMENT Boilers with superheaters Separate charges
+485	STEAM TREATMENT Boilers with superheaters Separate furnace
+486	STEAM TREATMENT Boilers with superheaters Steam dome
+487	STEAM TREATMENT Boilers with superheaters Water-injected
+479.1	STEAM TREATMENT Automatic heat regulation of superheater
+479.2	STEAM TREATMENT Automatic heat regulation of superheater Having gas recirculation
+479.3	STEAM TREATMENT Automatic heat regulation of superheater Having flame positioning
+479.4	STEAM TREATMENT Automatic heat regulation of superheater With variable firing
+479.5	STEAM TREATMENT Automatic heat regulation of superheater Having dampers
+479.6	STEAM TREATMENT Automatic heat regulation of superheater Plural furnaces
+479.7	STEAM TREATMENT Automatic heat regulation of superheater Once through
+488	STEAM TREATMENT Boiler circulation
+489	STEAM TREATMENT Boiler return
+490	STEAM TREATMENT For tilting boilers
+491	STEAM TREATMENT Interior of boilers
+492	STEAM TREATMENT Steam dome
+493	BRACES AND STAYS
+494	CASINGS
+495	CROWN SHEETS PROTECTING
+496	CROWN SHEETS AND STAYS
+497	FRONTS
+498	FRONTS Doors
+499	FRONTS Mouths
+500	FRONTS Mouths Water firebox
+501	FLUID-DISPLACER
+502	FLUID-DISPLACER Fluid fuel
+503	FUEL BAFFLES
+504	SAFETY DEVICES
+504.1	SAFETY DEVICES Fusible control
+504.2	SAFETY DEVICES Alarms or indicators
+504.3	SAFETY DEVICES Alarms or indicators Fusible control
+505	SAFETY DEVICES Alarms or indicators Float-controlled
+506	SAFETY DEVICES Alarms or indicators Pressure-controlled
+507	SAFETY DEVICES Self-closing valve
+508	STEAM DOMES
+509	SUBMERGED STEAM CHAMBER
+510	SUPPORTS
+511	TUBES AND CONNECTIONS
+512	TUBE SHEETS
+FOR000	CLASS-RELATED FOREIGN DOCUMENTS
+FOR100	STAND BOILER (122/13.1)

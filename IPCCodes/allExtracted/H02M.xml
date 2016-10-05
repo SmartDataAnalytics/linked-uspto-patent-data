@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="95844">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>GENERATION, CONVERSION, OR DISTRIBUTION OF ELECTRIC POWER</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="H02M" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>APPARATUS FOR CONVERSION BETWEEN AC AND AC, BETWEEN AC AND DC, OR BETWEEN DC AND DC, AND FOR USE WITH MAINS OR SIMILAR POWER SUPPLY SYSTEMS</text>
+						</titlePart>
+						<titlePart><text>CONVERSION OF DC OR AC INPUT POWER INTO SURGE OUTPUT POWER</text>
+							<entryReference>transformers <sref ref="H01F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>dynamo-electric converters <sref ref="H02K0047000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>control of converters <sref ref="H02P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pulse generators <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H02M" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals only with circuits or apparatus for the conversion of electric power. The electrotechnical elements employed are dealt with in the appropriate sub-classes, e.g. inductors, transformers <sref ref="H01F" refType="/" refLevel="c"/>, capacitors, electrolytic rectifiers <sref ref="H01G" refType="/" refLevel="c"/>, mercury rectifying or other discharge tubes <sref ref="H01J" refType="/" refLevel="c"/>, semiconductor devices <sref ref="H01L" refType="/" refLevel="c"/>, impedance networks or resonant circuits not primarily concerned with the transfer of electric power <sref ref="H03H" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02M0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details of apparatus for conversion</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="H02M0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Circuits specially adapted for the generation of grid-control or igniter-control voltages for discharge tubes incorporated in static converters</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for tubes with grid control</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H02M0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Circuits specially adapted for rendering non-conductive gas discharge tubes or equivalent semiconductor devices, e.g. thyratrons, thyristors</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Circuits specially adapted for the generation of control voltages for semiconductor devices incorporated in static converters</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements incorporating converting means for enabling loads to be operated at will from different kinds of power supplies, e.g. from ac or dc</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for reducing harmonics from ac input or output</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for reducing ripples from dc input or output</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Means for providing current step on switching, e.g. with saturable reactor</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Means for protecting converters</text>
+									<entryReference>circuit arrangements for providing protection <sref ref="H02H0007100000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0001200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Contact mechanisms of dynamic converters</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0001220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>incorporating collectors and brushes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0001240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>incorporating rolling or tumbling contacts</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0001260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>incorporating cam-operated contacts</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0001280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>incorporating electromagnetically-operated vibrating contacts</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0001300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>incorporating liquid contacts</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02M0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Conversion of dc power input into dc power output</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="H02M0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>without intermediate conversion into ac</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using resistors or capacitors, e.g. potential divider</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes without control electrode or semiconductor devices without control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes with control electrode or semiconductor devices with control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0003125000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003130000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003135000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0003145000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or transistor type requiring continuous application of a control signal</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003150000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003155000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using capacitors or batteries which are alternately charged and discharged, e.g. charged in parallel and discharged in series</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0003200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0003220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with intermediate conversion into ac</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0003240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0003260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes without control electrode or semiconductor devices without control electrode to produce the intermediate ac</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0003280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes with control electrode or semiconductor devices with control electrode to produce the intermediate ac</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0003305000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003310000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003315000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0003325000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or a transistor type requiring continuous application of a control signal</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003330000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0003335000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0003340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0003360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical parts to select progressively or to vary continuously the input potential</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0003380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical contact-making and -breaking parts to interrupt a single potential</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0003400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>wherein the parts are rotating and collectors co-operate with brushes or rollers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0003420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with el ctromagnetically-operated vibrating contacts, e.g. chopper</text>
+												<entryReference>self-interrupters in general <sref ref="H01H0051340000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0003440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02M0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Conversion of ac power input into ac power output, e.g. for change of voltage, for change of frequency, for change of number of phases</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="H02M0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>without intermediate conversion into dc</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using impedances</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using capacitors only</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using transformers</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0005120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>for conversion of voltage or current amplitude only</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0005140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>for conversion between circuits of different phase number</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0005160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>for conversion of frequency</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0005180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>for conversion of waveform</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0005200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes without control electrode or semiconductor devices without control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0005220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes with control electrode or semiconductor devices with control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0005250000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+												<entryReference><sref ref="H02M0005270000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005253000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005257000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005270000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for conversion of frequency</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0005275000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or transistor type requiring continuous application of a control signal</text>
+												<entryReference><sref ref="H02M0005297000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005290000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005293000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005297000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for conversion of frequency</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0005320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0005340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical contact-making and -breaking parts</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0005360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>wherein the parts are rotating and collectors co-operate with brushes or rollers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0005380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0005400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with intermediate conversion into dc</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0005420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0005440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes or semiconductor devices to convert the intermediate dc into ac</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0005443000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005447000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005450000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0005453000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or transistor type requiring continuous application of a control signal</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005456000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0005458000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0005460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0005480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02M0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Conversion of ac power input into dc power output</text>
+							</titlePart>
+							<titlePart><text>Conversion of dc power input into ac power output</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="H02M0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Conversion of ac power input into dc power output without possibility of reversal</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes without control electrode or semiconductor devices without control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0007080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>arranged for operation in parallel</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0007100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>arranged for operation in series, e.g. for multiplication of voltage</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes with control electrode or semiconductor devices with control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0007145000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+												<entryReference><sref ref="H02M0007170000" refType="/" refLevel="c"></sref>, <sref ref="H02M0007190000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007150000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007155000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007170000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>arranged for operation in parallel</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>arranged for operation in series, e.g. for voltage multiplication</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0007210000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or transistor type requiring continuous application of a control signal</text>
+												<entryReference><sref ref="H02M0007230000" refType="/" refLevel="c"></sref>, <sref ref="H02M0007250000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007213000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007217000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007230000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>arranged for operation in parallel</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007250000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>arranged for operation in series, e.g. for multiplication of voltage</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using open-spark devices, e.g. Marx rectifier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using electrolytic rectifiers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0007300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0007320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical contact-making and -breaking parts</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0007340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>wherein the parts are rotating and collectors co-operate with brushes or rollers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0007360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with el ctromagnetically-operated vibrating contacts, e.g. chopper</text>
+												<entryReference>self-interrupters in general <sref ref="H01H0051340000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using one or more sparking electrodes rotating over counterelectrodes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0007400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0007420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Conversion of dc power input into ac power output without possibility of reversal</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0007440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0007460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes without control electrode or semiconductor devices without control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes with control electrode or semiconductor devices with control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0007505000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007510000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007515000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0007530000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or transistor type requiring continuous application of a control signal</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007533000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007537000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0007540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0007560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical parts to select progressively, or to vary continuously, the input potential</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical contact-making and -breaking parts to interrupt a single potential</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0007600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>wherein the parts are rotating and collectors co-operate with brushes or rollers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0007620000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with el ctromagnetically-operated vibrating contacts, e.g. chopper</text>
+												<entryReference>self-interrupters in general <sref ref="H01H0051340000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0007640000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02M0007660000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with possibility of reversal</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02M0007680000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0007700000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes without control electrode or semiconductor devices without control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007720000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using discharge tubes with control electrode or semiconductor devices with control electrode</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0007750000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a thyratron or thyristor type requiring extinguishing means</text>
+												<entryReference><sref ref="H02M0007770000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007753000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007757000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007770000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>arranged for operation in parallel</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H02M0007790000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using devices of a triode or transistor type requiring continuous application of a control signal</text>
+												<entryReference><sref ref="H02M0007810000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007793000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discharge tubes only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007797000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using semiconductor devices only</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H02M0007810000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>arranged for operation in parallel</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007820000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using open-spark devices, e.g. Marx rectifier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007840000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using electrolytic rectifiers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0007860000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by dynamic converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02M0007880000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical parts to select progressively or to vary continuously the input potential</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="H02M0007900000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using mechanical contact-making and -breaking parts to interrupt a single potential</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="H02M0007920000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>wherein the parts are rotating and collectors co-operate with brushes or rollers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0007940000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>wherein the parts are operated by rotating cams or cam-like devices</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0007950000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with el ctromagnetically-operated vibrating contacts, e.g. chopper</text>
+												<entryReference>self-interrupters in general <sref ref="H01H0051340000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="H02M0007960000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with moving liquid contacts</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02M0007980000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by combination of static with dynamic converters</text>
+									</titlePart>
+									<titlePart><text>by combination of dynamo-electric with other dynamic or static converters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H02M0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Conversion of dc or ac input power into surge output power</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H02M0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with dc input power</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H02M0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using capacitative stores</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H02M0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>with ac input power</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

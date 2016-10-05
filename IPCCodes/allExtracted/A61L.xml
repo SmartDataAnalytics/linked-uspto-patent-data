@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="33798">
+	<ipcEntry kind="s" symbol="A" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION A <emdash></emdash> HUMAN NECESSITIES</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="A61" endSymbol="A61" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HEALTH AND AMUSEMENT</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="A61" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MEDICAL AND VETERINARY SCIENCE</text>
+					</titlePart>
+					<titlePart><text>HYGIENE</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="A61L" ipcLevel="C" edition="19800101" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>METHODS OR APPARATUS FOR STERILISING MATERIALS OR OBJECTS IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>DISINFECTION, STERILISATION, OR DEODORISATION OF AIR</text>
+						</titlePart>
+						<titlePart><text>CHEMICAL ASPECTS OF, OR USE OF MATERIALS FOR, BANDAGES OR DRESSINGS</text>
+						</titlePart>
+						<titlePart><text>MATERIALS FOR SURGICAL SUTURE OR FOR LIGATURING BLOOD VESSELS</text>
+							<entryReference>preservation of bodies, disinfecting characterised by the agent employed <sref ref="A01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>preserving, e.g. sterilising, food or foodstuffs <sref ref="A23" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>preparation of ozone <sref ref="C01B0013100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="g" symbol="A61L0002000000" endSymbol="A61L0011000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Disinfection or sterilising</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="d" symbol="A61L0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><deleted>
+							<transferredTo>
+								<sref ref="A61L0002000000" refType="/" refLevel="c"></sref>
+							</transferredTo>
+						</deleted>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="A61L0002000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Methods or apparatus for disinfecting or sterilising materials or objects other than foodstuffs</text>
+								<entryReference>atomisers for disinfecting agents <sref ref="A61M" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>sterilisation of packages or package contents in association with packaging <sref ref="B65B0055000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>disinfecting paper <sref ref="D21H0005220000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>disinfecting devices for water closets <sref ref="E03D" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>articles having provision for disinfection, <u>see</u> the relevant sub-classes for these articles, e.g. <sref ref="H04R0001120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0002020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using physical phenomena, e.g. ultrasonics</text>
+								</titlePart>
+								<titlePart><text>using electrolysis</text>
+									<entryReference>generating these phenomena, <u>see</u> the relevant sub-classes</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0002040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Heat</text>
+										<entryReference><sref ref="A61L0002080000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="A61L0002060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Hot gas, e.g. steam</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0002080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Radiation</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="A61L0002100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Ultra-violet radiation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="A61L0002120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Microwaves</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0002140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Plasma, i.e. ionised gases</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0002160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using chemical substances</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0002180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>liquid substances</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0002200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>gaseous substances, e.g. vapours</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0002220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>phase substances, e.g. smokes, aerosols</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0002240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Apparatus using programmed or automatic operation</text>
+									<entryReference>controlling, regulating, or computing devices or systems <u>per se</u>, see <sref ref="G05" refType="/" refLevel="c"></sref>, <sref ref="G06" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0002260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Accessories</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="A61L0003000000" endSymbol="A61L0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="A61L0002000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="A61L0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Disinfection, sterilisation or deodorisation of air</text>
+								<entryReference>body deodorants <sref ref="A61K0007320000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>purifying air by respirators <sref ref="A62B" refType="/" refLevel="c"></sref>, <sref ref="A62D0009000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>separating dispersed particles from gases or vapours <mref ref="B01D0045000000" endRef="B01D0051000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, <sref ref="B03C0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>chemical purification of waste gases, e.g. smoke, fumes, flue gases, engine exhaust gases <sref ref="B01D0053340000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>production of ozone <sref ref="C01B0013100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>air-conditioning systems incorporating sterilisation <sref ref="F24F0003160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="A61L0009010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Deodorant compositions</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0009015000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using gaseous or vaporous substances, e.g. ozone</text>
+									<entryReference><sref ref="A61L0009200000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="A61L0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using substances evaporated in the air by heating or combustion</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="A61L0009030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Apparatus therefor</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="A61L0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using substances evaporated in the air without heating</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="d" symbol="A61L0009060000" endSymbol="A61L0009100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><deleted>
+										<coveredBy>
+											<sref ref="A62B0007000000" refType="/" refLevel="c"></sref>
+											<sref ref="A62B0011000000" refType="/" refLevel="c"></sref>
+										</coveredBy>
+									</deleted>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="A61L0009120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Apparatus, e.g. holders, therefor</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0009140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using sprayed or atomised substances</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="A61L0009160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using physical phenomena</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0009180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Radiation</text>
+										<entryReference><sref ref="A61L0009220000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="A61L0009200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Ultra-violet radiation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="A61L0009220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Ionisation</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="A61L0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Methods specially adapted for refuse</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="d" symbol="A61L0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<mref ref="A01N0025000000" endRef="A01N0065000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+								</transferredTo>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="g" symbol="A61L0015000000" endSymbol="A61L0017000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Chemical aspects of, or use of materials for, bandages or dressings</text>
+							</titlePart>
+							<titlePart><text>Materials for surgical suture or for ligaturing blood vessels</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="A61L0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Chemical aspects of, or use of materials for, bandages or dressings</text>
+								<entryReference>shape or structure of bandages or dressings <sref ref="A61F0013000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>radioactive dressings <sref ref="A61N0005120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="A61L0015010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for wounds</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="A61L0015030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>bandages or dressings with incorporated medicaments</text>
+										<entryReference><sref ref="A61L0015060000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="A61L0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>resorbable by the body</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="A61L0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Adhesive plasters or dressings</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="A61L0015070000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Plaster of Paris or other stiffening bandages</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="A61L0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Materials for surgical suture or for ligaturing blood vessels</text>
+								<entryReference>implements <sref ref="A61B0017040000" refType="/" refLevel="c"></sref>, <sref ref="A61B0017120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>holders or packages for suture materials <sref ref="A61B0017040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="d" symbol="A61L0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<sref ref="A61B0017060000" refType="/" refLevel="c"></sref>
+								</transferredTo>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

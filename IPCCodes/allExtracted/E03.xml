@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="5690">
+	<ipcEntry kind="s" symbol="E" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION E <emdash></emdash> FIXED CONSTRUCTIONS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="E01" endSymbol="E01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BUILDING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="E03" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>WATER SUPPLY</text>
+					</titlePart>
+					<titlePart><text>SEWERAGE</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="E03B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>INSTALLATIONS OR METHODS FOR OBTAINING, COLLECTING, OR DISTRIBUTING WATER</text>
+							<entryReference>drilling wells, obtaining fluids in general from deep wells <sref ref="E21B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pipe-line systems in general <sref ref="F17D" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E03C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DOMESTIC PLUMBING INSTALLATIONS FOR FRESH WATER OR WASTE WATER</text>
+							<entryReference>not connected to either water- supply main or to waste pipe <sref ref="A47K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>devices of the kind used in the ground <sref ref="E03B" refType="/" refLevel="c"></sref>, <sref ref="E03F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>SINKS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E03D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WATER-CLOSETS OR URINALS WITH FLUSHING DEVICES</text>
+						</titlePart>
+						<titlePart><text>FLUSHING VALVES THEREFOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E03F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SEWERS</text>
+						</titlePart>
+						<titlePart><text>CESSPOOLS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

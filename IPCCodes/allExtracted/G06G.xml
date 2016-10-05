@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="61510">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G06" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMPUTING</text>
+					</titlePart>
+					<titlePart><text>CALCULATING</text>
+					</titlePart>
+					<titlePart><text>COUNTING</text>
+						<entryReference>score computers for games <sref ref="A63B0071060000" refType="/" refLevel="c"></sref>, <sref ref="A63D0015200000" refType="/" refLevel="c"></sref>, <sref ref="A63F0001180000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>combinations of writing appliances with computing devices <sref ref="B43K0029080000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G06" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>The term "data" is understood to be synonymous with "information", and the term "information" is therefore not used in sub-class <sref ref="G06C" refType="/" refLevel="c"/> or <sref ref="G06F" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>The terms "calculating" and "computing" are both understood to include, inter alia, operations on numerical values and on data expressed in numerical form; of these words "computing" is used throughout the class. "Computation" is derived from this interpretation of "computing". In the French language the word "calcul" will serve for either word.</text>
+								</noteParagraph>
+								<noteParagraph><text>In those sub-classes which include simulators:</text>
+									<subnote type="roman">
+										<noteParagraph><text>a simulator in class <sref ref="G06" refType="/" refLevel="c"/> is concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</text>
+										</noteParagraph>
+										<noteParagraph><text>control functions derived from simulators are not in class <sref ref="G06" refType="/" refLevel="c"/> but are generally in class <sref ref="G05" refType="/" refLevel="c"/>, although they may be in the sub-class for the device controlled;</text>
+										</noteParagraph>
+										<noteParagraph><text>measurement of an individual variable to serve as an input to a simulator is in class <sref ref="G01" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator is regarded as a teaching or training device proper to class <sref ref="G09" refType="/" refLevel="c"/> if the simulator gives perceptible sensations having a likeness to the sensations the student would experience in reality in response to actions taken by him. Simulators which demonstrate, by means involving computing, the functioning of apparatus or of a system are in class <sref ref="G06" refType="/" refLevel="c"/>, if no provision exists elsewhere. Components of simulators, if identical with real devices or machines, are classified in the relevant sub-class for these devices or machines and not in class <sref ref="G06" refType="/" refLevel="c"/> or <sref ref="G09" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator may use the same time scale as the real device or operate on an expanded or compressed time scale;</text>
+										</noteParagraph>
+										<noteParagraph><text>models of real devices to reduced or expanded scales are not regarded as simulators.</text>
+										</noteParagraph>
+									</subnote>
+								</noteParagraph>
+								<noteParagraph><text>The term "record carrier" is understood to mean a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G06G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ANALOGUE COMPUTERS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="G06G0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Hand-manipulated computing devices</text>
+								<entryReference>planimeters <sref ref="G01B0005260000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06G0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices in which computing is effected by adding, subtracting, or comparing lengths of parallel or concentric graduated scales</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06G0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by construction</text>
+										<entryReference><sref ref="G06G0001100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G06G0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with rectilinear scales, e.g. slide rule</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G06G0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with circular or helical scales</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the graduation</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G06G0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>logarithmic graduations, e.g. for multiplication</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which a straight or curved line has to be drawn from given points on one or more input scales to one or more points on a result scale</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which a straight or curved line has to be drawn through related points on one or more families of curves</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06G0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices in which the computing operation is performed mechanically</text>
+								<entryReference><sref ref="G06G0001000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06G0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for performing additions or subtractions, e.g. differential gearing</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for performing multiplications or divisions, e.g. variable-ratio gearing</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for evaluating functions by using cams and cam followers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for integrating or differentiating, e.g. by wheel and disc</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for simulating specific processes, systems, or devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06G0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices in which the computing operation is performed by means of fluid-pressure elements</text>
+								<entryReference>such elements in general <sref ref="F15C" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06G0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices in which the computing operation is performed by varying electric or magnetic quantities</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06G0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details not covered by groups <mref ref="G06G0007040000" endRef="G06G0007100000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>input or output devices</text>
+									<entryReference>graph readers <sref ref="G06K0011000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>function plotters, co-ordinate plotters <sref ref="G06K0015220000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Programming arrangements, e.g. plugboard for interconnecting functional units of the computer</text>
+								</titlePart>
+								<titlePart><text>Digital programming</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0007100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Power supply arrangements</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G06G0007120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for performing computing operations, e.g. amplifiers specially adapted therefor</text>
+									<entryReference>amplifiers in general <sref ref="H03F" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G06G0007122000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for optimisation, e.g. least square fitting, linear programming, critical path analysis, gradient method</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for addition or subtraction</text>
+										<entryReference>of vector quantities <sref ref="G06G0007220000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for multiplication or division</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007161000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with pulse modulation, e.g. modulation of amplitude, width, frequency, phase, or form</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007162000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using galvano-magnetic effects, e.g. Hall effect</text>
+										</titlePart>
+										<titlePart><text>using similar magnetic effects</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007163000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using a variable impedance controlled by one of the input signals, variable amplification or transfer function</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007164000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using means for evaluating powers, e.g. quarter square multiplier</text>
+											<entryReference>evaluating powers <sref ref="G06G0007200000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for integration or differentiation</text>
+										<entryReference><sref ref="G06G0007190000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="G06G0007182000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using magnetic elements</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="G06G0007184000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using capacitive elements</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19800101" kind="4" symbol="G06G0007186000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using an operational amplifier comprising a capacitor or a resistor in the feedback loop</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="G06G0007188000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using electromechanical elements</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for forming integrals of products, e.g. Fourier integrals, Laplace integrals, correlation integrals</text>
+									</titlePart>
+									<titlePart><text>for analysis or synthesis of functions using orthogonal functions</text>
+										<entryReference>Fourier or spectrum analysis <sref ref="G01R0023160000" refType="/" refLevel="c"></sref>
+										</entryReference>
+										<entryReference>sound analysis or synthesis <sref ref="G10L" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="G06G0007195000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using electro-acoustic elements</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for evaluating powers, roots, polynomes, mean square values, standard deviation</text>
+										<entryReference><sref ref="G06G0007122000" refType="/" refLevel="c"></sref>, <sref ref="G06G0007280000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+										<entryReference>gamma correction in television systems <sref ref="H04N0005200000" refType="/" refLevel="c"></sref>, <sref ref="H04N0009530000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for evaluating trigonometric functions</text>
+									</titlePart>
+									<titlePart><text>for conversion of co-ordinates</text>
+									</titlePart>
+									<titlePart><text>for computations involving vector quantities</text>
+										<entryReference>trigonometric computations using simultaneous equations <sref ref="G06G0007340000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for evaluating logarithmic or exponential functions, e.g. hyperbolic functions</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G06G0007250000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for discontinuous functions, e.g. backlash, dead zone, limiting, absolute value, or peak value</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Arbitrary function generators</text>
+										<entryReference>using orthogonal functions, e.g. Fourier series, <sref ref="G06G0007190000" refType="/" refLevel="c"></sref>
+										</entryReference>
+										<entryReference>using curve follower <sref ref="G06K0011020000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G06G0007280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for synthesising functions by piecewise approximation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G06G0007300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for interpolation or extrapolation</text>
+										<entryReference><sref ref="G06G0007122000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for solving of equations</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>of simultaneous equations</text>
+											<entryReference><sref ref="G06G0007122000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G06G0007360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>of single equations of quadratic or higher degree</text>
+											<entryReference><sref ref="G06G0007220000" refType="/" refLevel="c"></sref>, <sref ref="G06G0007240000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G06G0007380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>of differential or integral equations</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="G06G0007400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>of partial differential equations</text>
+												<entryReference>simulating specific devices <sref ref="G06G0007480000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="5" symbol="G06G0007420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using electrolytic tank</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry kind="5" symbol="G06G0007440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using continuous medium, current-sensitive paper</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry kind="5" symbol="G06G0007460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using discontinuous medium, e.g. resistance network</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G06G0007480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Analogue computers for specific processes, systems, or devices, e.g. simulators</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G06G0007500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for distribution networks, e.g. for fluids</text>
+										<entryReference><sref ref="G06G0007620000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for economic systems</text>
+									</titlePart>
+									<titlePart><text>for statistics</text>
+										<entryReference><sref ref="G06G0007122000" refType="/" refLevel="c"></sref>, <sref ref="G06G0007190000" refType="/" refLevel="c"></sref>, <sref ref="G06G0007200000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for nuclear physics, e.g. nuclear reactors, radioactive fallout</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for heat flow</text>
+										<entryReference><sref ref="G06G0007580000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007570000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for fluid flow</text>
+										<entryReference><sref ref="G06G0007500000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for chemical processes</text>
+										<entryReference><sref ref="G06G0007750000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for living beings, e.g. their nervous systems</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007620000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for electric systems or apparatus</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007625000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for impedance networks, e.g. determining response, determining poles or zeros, determining the Nyquist diagram</text>
+											<entryReference>measuring impedance <sref ref="G01R0027000000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G06G0007630000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for power apparatus, e.g. motors, or supply distribution networks</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="G06G0007635000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>for determining the most economical distribution in power systems</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007640000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for non-electric machines, e.g. turbine</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007660000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for control systems</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007680000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for civil-engineering structures, e.g. beam, strut, girder</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007700000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for vehicles, e.g. to determine permissible loading of ships</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G06G0007720000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Flight simulator</text>
+											<entryReference>Link trainers <sref ref="G09B0009080000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G06G0007750000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for component analysis, e.g. of mixtures, of colours</text>
+										<entryReference><sref ref="G06G0007122000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007760000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for traffic</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G06G0007780000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for direction-finding, locating, distance or velocity measuring, or navigation systems</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G06G0007800000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for gunlaying</text>
+									</titlePart>
+									<titlePart><text>for bomb aiming</text>
+									</titlePart>
+									<titlePart><text>for guiding missiles</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06G0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices in which mathematical operations are carried out with the aid of optical or electro-optical elements</text>
+								<entryReference>optical elements <u>per se</u>
+									<sref ref="G02B" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>electro-optical elements <u>per se</u>
+									<sref ref="H01L" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

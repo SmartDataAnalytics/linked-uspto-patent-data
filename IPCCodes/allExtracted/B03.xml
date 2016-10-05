@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="9478">
+	<ipcEntry kind="s" symbol="B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION B <emdash></emdash> PERFORMING OPERATIONS</text>
+				</titlePart>
+				<titlePart><text>TRANSPORTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="B01" endSymbol="B01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SEPARATING AND MIXING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="B03" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SEPARATION OF SOLID MATERIALS USING LIQUIDS OR USING PNEUMATIC TABLES OR JIGS</text>
+					</titlePart>
+					<titlePart><text>MAGNETIC OR ELECTROSTATIC SEPARATION</text>
+						<entryReference>separating isotopes <sref ref="B01D0059000000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>crushing or disintegrating <sref ref="B02C" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>centrifuges or vortex apparatus for carrying out physical processes <sref ref="B04" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="B03B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SEPARATING SOLID MATERIALS USING LIQUIDS OR USING PNEUMATIC TABLES OR JIGS</text>
+							<entryReference>removing fluids from solids <sref ref="B01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>magnetic or electrostatic separation <sref ref="B03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>flotation, differential sedimentation <sref ref="B03D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>separating by dry methods <sref ref="B07" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>screening or sifting <sref ref="B07B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>by picking <sref ref="B07C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>separating peculiar to particular materials and provided for in other single classes, see the relevant classes</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B03C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MAGNETIC OR ELECTROSTATIC SEPARATION</text>
+							<entryReference>conditioning gases for such separation, separating isotopes <sref ref="B01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>filters making use of electricity or magnetism <sref ref="B01D0035060000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>conditioning solids for such separation <sref ref="B03B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combinations of magnetic or electrostatic separation with separation of solids by other means <sref ref="B03B" refType="/" refLevel="c"></sref>, <sref ref="B07B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>separating sheets from piles <sref ref="B65H0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>magnets or magnet coils <u>per se</u>
+								<sref ref="H01F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B03D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FLOTATION</text>
+						</titlePart>
+						<titlePart><text>DIFFERENTIAL SEDIMENTATION</text>
+							<entryReference>sedimentation in general <sref ref="B01D0021000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>in combination with other separation of solids <sref ref="B03B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sink-float separation <sref ref="B03B0005280000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>collecting, frothing, and depression agents <sref ref="C11D" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

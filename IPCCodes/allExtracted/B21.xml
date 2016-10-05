@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="23936">
+	<ipcEntry kind="s" symbol="B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION B <emdash></emdash> PERFORMING OPERATIONS</text>
+				</titlePart>
+				<titlePart><text>TRANSPORTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="B21" endSymbol="B21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SHAPING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="B21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL</text>
+					</titlePart>
+					<titlePart><text>PUNCHING METAL</text>
+						<entryReference>casting, powder metallurgy <sref ref="B22" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>shearing <sref ref="B23D" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>soldering, welding, flame-cutting <sref ref="B23K" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>miscellaneous metal-working <sref ref="B23P" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>punching sheet material in general <sref ref="B26F" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>processes for changing of physical properties of metals <sref ref="C21D" refType="/" refLevel="c"></sref>, <sref ref="C22F" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>electroforming <sref ref="C25D0001000000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="B21" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Combinations of operations covered by different sub-classes of class <sref ref="B21" refType="/" refLevel="c"/> are dealt with in <sref ref="B23P" refType="/" refLevel="c"/>. Combinations of operations covered by any particular sub-class with operations covered by other classes, e.g. with operations involving removal of material, are also dealt with in <sref ref="B23P" refType="/" refLevel="c"/>, except that if the operations covered by the other classes are subsidiary to the operations properly covered in a single sub-class of <sref ref="B21" refType="/" refLevel="c"/> the combination is classified in that sub-class.</text>
+						</noteParagraph>
+						<noteParagraph><text>Processes of a kind covered by this class but applied to non-metallic materials may be classified here if they are applicable to metal and cannot be classified fully in one other class.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ROLLING OF METAL</text>
+							<entryReference>auxiliary operations used in connection with metal-working operations covered in <sref ref="B21" refType="/" refLevel="c"></sref>, see <sref ref="B21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>bending by rolling <sref ref="B21D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>manufacture of particular objects, e.g. screws, wheels, rings, barrels, balls, by rolling <sref ref="B21H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pressure welding by means of a rolling mill <sref ref="B23K0020040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B21B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>In this sub-class, the term "rolling" is understood to refer to rolling operations in which plastic deformations occur.</text>
+							</noteParagraph>
+							<noteParagraph edition="19740701"><text>The term "continuous process" as used in this sub-class means one employing a mill train designed to have the workpiece enter one pair of rolls before leaving the preceding pair.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MANUFACTURE OF METAL SHEETS, WIRE, RODS, TUBES OR PROFILES, OTHERWISE THAN BY ROLLING</text>
+						</titlePart>
+						<titlePart><text>AUXILIARY OPERATIONS USED IN CONNECTION WITH METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WORKING OR PROCESSING OF SHEET METAL OR METAL TUBES, RODS OR PROFILES WITHOUT ESSENTIALLY REMOVING MATERIAL</text>
+						</titlePart>
+						<titlePart><text>PUNCHING</text>
+							<entryReference>operations of the kind involved in the manufacture of such products <u>per se</u>
+								<sref ref="B21B" refType="/" refLevel="c"></sref>, <sref ref="B21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>working or processing of wire <sref ref="B21F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>cutting or severing devices or machines in general <sref ref="B26" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>presses in general <sref ref="B30B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B21D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In so far as this sub-class provides for cutting or perforating of sheet metal or other stock material, attention is drawn to the fact that it does not include working of metal foils workable in a manner analogous to paper, which is covered by classes <sref ref="B26" refType="/" refLevel="c"/>, <sref ref="B31" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WORKING OR PROCESSING OF WIRE</text>
+							<entryReference>rolling of metal <sref ref="B21B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>by drawing, auxiliary operations used in connection with metal-working without essentially removing material <sref ref="B21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>bundling articles <sref ref="B65B0013000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MAKING NEEDLES, PINS, OR NAILS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MAKING PARTICULAR METAL OBJECTS BY ROLLING, e.g. SCREWS, WHEELS, RINGS, BARRELS, BALLS</text>
+							<entryReference>essentially from sheet metal <sref ref="B21D" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B21H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes only rolling operations which are specially adapted for use in the manufacture of particular objects and which, so far as the invention is concerned, are not combined with any different metal-working operation unless the latter is a subsidiary operation performed in the same machine.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FORGING</text>
+						</titlePart>
+						<titlePart><text>HAMMERING</text>
+						</titlePart>
+						<titlePart><text>PRESSING</text>
+						</titlePart>
+						<titlePart><text>RIVETING</text>
+						</titlePart>
+						<titlePart><text>FORGE FURNACES</text>
+							<entryReference>rolling of metal <sref ref="B21B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>making particular products by forging or pressing <sref ref="B21K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>cladding or plating <sref ref="B23K" refType="/" refLevel="c"></sref> finishing surfaces by hammering <sref ref="B23P0009040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>compacting surfaces by blasting with particulate material <sref ref="B24C0001100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>general features of presses, presses for consolidating scrap <sref ref="B30B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>furnaces in general <sref ref="F27" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MAKING FORGED OR PRESSED PRODUCTS, e.g. HORSE-SHOES, RIVETS, BOLTS, WHEELS</text>
+							<entryReference>making particular articles by working sheet metal without essentially removing material <sref ref="B21D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>processing wire <sref ref="B21F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>making pins, needles or nails <sref ref="B21G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>making particular articles by rolling <sref ref="B21H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>forging machines, pressing machines, hammering machines, in general <sref ref="B21J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>making chains <sref ref="B21L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>plating <sref ref="B23K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B21K" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes only forging, pressing, or hammering operations which are specially adapted for use in the manufacture of particular objects and which, so far as the invention is concerned, are not combined with any different metal-working operation unless the latter is a subsidiary operation performed in the same machine.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B21L" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MAKING CHAINS</text>
+							<entryReference>chains <u>per se</u>
+								<sref ref="F16G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

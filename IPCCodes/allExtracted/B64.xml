@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="9898">
+	<ipcEntry kind="s" symbol="B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION B <emdash></emdash> PERFORMING OPERATIONS</text>
+				</titlePart>
+				<titlePart><text>TRANSPORTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="B60" endSymbol="B60" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>TRANSPORTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="B64" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>AIRCRAFT</text>
+					</titlePart>
+					<titlePart><text>AVIATION</text>
+					</titlePart>
+					<titlePart><text>COSMONAUTICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="B64B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>LIGHTER-THAN-AIR AIRCRAFT</text>
+							<entryReference>ground installations for aircraft in general <sref ref="B64F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B64C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>AEROPLANES</text>
+						</titlePart>
+						<titlePart><text>HELICOPTERS</text>
+							<entryReference>air-cushion vehicles <sref ref="B60V" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B64C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>As far as possible, an invention is classified primarily according to constructional features; classification according to particular kinds of aircraft is normally regarded as being of secondary importance, except in cases where this is understood to be the characteristic feature.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B64D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>EQUIPMENT FOR FITTING IN OR TO AIRCRAFT</text>
+						</titlePart>
+						<titlePart><text>FLYING SUITS</text>
+						</titlePart>
+						<titlePart><text>PARACHUTES</text>
+						</titlePart>
+						<titlePart><text>ARRANGEMENTS OR MOUNTING OF POWER PLANTS OR PROPULSION TRANSMISSIONS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B64F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GROUND OR AIRCRAFT-CARRIER-DECK INSTALLATIONS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B64F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>In this sub-class, the term "installations" embraces equipment, including mobile equipment, peculiar to use in connection with aircraft and not fitted thereto.</text>
+							</noteParagraph>
+							<noteParagraph><text>The term "ground installations" in this sub-class embraces waterborne installations.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="B64G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>COSMONAUTICS</text>
+						</titlePart>
+						<titlePart><text>VEHICLES OR EQUIPMENT THEREFOR</text>
+							<entryReference>apparatus for, or methods of, winning materials from extraterrestrial sources <sref ref="E21C0051000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="B64G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>In this sub-class, the term "cosmonautics" includes all transport outside the earth's atmosphere, and thus includes artificial earth satellites, and interplanetary and interstellar travel.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class deals only with vehicles, equipment, etc., which are peculiarly adapted for cosmonautics. Thus, vehicles and equipment applicable to both cosmonautics and aeronautics are classified in the appropriate aeronautical sub-class of class <sref ref="B64" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

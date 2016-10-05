@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="13124">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G06" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMPUTING</text>
+					</titlePart>
+					<titlePart><text>CALCULATING</text>
+					</titlePart>
+					<titlePart><text>COUNTING</text>
+						<entryReference>score computers for games <sref ref="A63B0071060000" refType="/" refLevel="c"></sref>, <sref ref="A63D0015200000" refType="/" refLevel="c"></sref>, <sref ref="A63F0001180000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>combinations of writing appliances with computing devices <sref ref="B43K0029080000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G06" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>The term "data" is understood to be synonymous with "information", and the term "information" is therefore not used in sub-class <sref ref="G06C" refType="/" refLevel="c"/> or <sref ref="G06F" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>The terms "calculating" and "computing" are both understood to include, inter alia, operations on numerical values and on data expressed in numerical form; of these words "computing" is used throughout the class. "Computation" is derived from this interpretation of "computing". In the French language the word "calcul" will serve for either word.</text>
+								</noteParagraph>
+								<noteParagraph><text>In those sub-classes which include simulators:</text>
+									<subnote type="roman">
+										<noteParagraph><text>a simulator in class <sref ref="G06" refType="/" refLevel="c"/> is concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</text>
+										</noteParagraph>
+										<noteParagraph><text>control functions derived from simulators are not in class <sref ref="G06" refType="/" refLevel="c"/> but are generally in class <sref ref="G05" refType="/" refLevel="c"/>, although they may be in the sub-class for the device controlled;</text>
+										</noteParagraph>
+										<noteParagraph><text>measurement of an individual variable to serve as an input to a simulator is in class <sref ref="G01" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator is regarded as a teaching or training device proper to class <sref ref="G09" refType="/" refLevel="c"/> if the simulator gives perceptible sensations having a likeness to the sensations the student would experience in reality in response to actions taken by him. Simulators which demonstrate, by means involving computing, the functioning of apparatus or of a system are in class <sref ref="G06" refType="/" refLevel="c"/>, if no provision exists elsewhere. Components of simulators, if identical with real devices or machines, are classified in the relevant sub-class for these devices or machines and not in class <sref ref="G06" refType="/" refLevel="c"/> or <sref ref="G09" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator may use the same time scale as the real device or operate on an expanded or compressed time scale;</text>
+										</noteParagraph>
+										<noteParagraph><text>models of real devices to reduced or expanded scales are not regarded as simulators.</text>
+										</noteParagraph>
+									</subnote>
+								</noteParagraph>
+								<noteParagraph><text>The term "record carrier" is understood to mean a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G06J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HYBRID COMPUTING ARRANGEMENTS</text>
+							<entryReference>analogue/digital conversion or <u>vice versa</u>
+								<sref ref="H03K0013000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G06J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>A hybrid computing arrangement is one in which part of the computation is digital and part is analogue.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06J0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Hybrid computing arrangements</text>
+								<entryReference>digitally- programmed analogue computers <sref ref="G06G0007060000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G06J0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Differential analysers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G06J0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Systems for conjoint operation of complete digital and complete analogue computers</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

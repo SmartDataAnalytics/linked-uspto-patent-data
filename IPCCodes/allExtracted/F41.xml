@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="14162">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F41" endSymbol="F41" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>WEAPONS</text>
+					</titlePart>
+					<titlePart><text>BLASTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F41" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>WEAPONS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F41" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Semi-automatic firearm" <emdash/> a firearm from which one shot is fired after actuation of the trigger and which then returns to a condition for firing a subsequent shot upon renewed actuation of the trigger.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Automatic gun" <emdash/> a gun which will continue firing so long as the initial firing pressure is maintained on the trigger.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Sighting" <emdash/> bringing into visual coincidence a direction defined by a so-called "sighting" device with the direction of a target.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Aiming" <emdash/> bringing a weapon to a direction differing from the sighting direction by corrections in order that the projectile may hit the target.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Laying" <emdash/> setting a weapon in the correct position for hitting a mark.</text>
+								</noteParagraph>
+								<noteParagraph><text>(not applicable in English).</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+						<noteParagraph><text>Although simulators are generally in class <sref ref="G09" refType="/" refLevel="c"/>, provision is included in class <sref ref="F41" refType="/" refLevel="c"/> for means for practice and training which may have aspects of simulation, e.g. in apparatus for so-called "military games".</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WEAPONS FOR PROJECTING MISSILES WITHOUT USE OF EXPLOSIVE OR PROPELLANT CHARGE</text>
+						</titlePart>
+						<titlePart><text>WEAPONS NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>spears <sref ref="A01K" refType="/" refLevel="c"></sref>, <sref ref="A63B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>boomerangs <sref ref="A63B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>throwing or slinging toys <sref ref="A63H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>knives, axes <sref ref="B26B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HAND FIREARMS</text>
+							<entryReference>air- or spring-loaded guns <sref ref="F41B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>automatic smallarms <sref ref="F41D" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>ACCESSORIES THEREFOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>AUTOMATIC GUNS, e.g. MACHINE GUNS</text>
+							<entryReference>guns requiring auxiliary power for loading <sref ref="F41F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ORDNANCE</text>
+						</titlePart>
+						<titlePart><text>GUNS</text>
+						</titlePart>
+						<titlePart><text>MOUNTINGS OR CARRIAGES THEREFOR</text>
+						</titlePart>
+						<titlePart><text>MISSILE LAUNCHERS</text>
+						</titlePart>
+						<titlePart><text>RECOILLESS GUNS</text>
+						</titlePart>
+						<titlePart><text>HARPOON GUNS</text>
+							<entryReference>automatic guns <sref ref="F41D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>flame-throwers <sref ref="F41H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F41F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Arrangement of armaments, adaptation of mountings therefor, and arrangements of ammunition handlers on ships or aircraft are classified in sub-class <sref ref="B63G" refType="/" refLevel="c"/> or <sref ref="B64D" refType="/" refLevel="c"/> if they present a shipbuilding or aircraft-building aspect.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WEAPON SIGHTS</text>
+						</titlePart>
+						<titlePart><text>AIMING</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ARMOUR</text>
+						</titlePart>
+						<titlePart><text>ARMOURED TURRETS</text>
+						</titlePart>
+						<titlePart><text>ARMOURED OR ARMED VEHICLES</text>
+						</titlePart>
+						<titlePart><text>MEANS OF ATTACK OR DEFENCE, e.g. CAMOUFLAGE, IN GENERAL</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F41J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TARGETS</text>
+						</titlePart>
+						<titlePart><text>TARGET RANGES</text>
+						</titlePart>
+						<titlePart><text>BULLET CATCHERS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

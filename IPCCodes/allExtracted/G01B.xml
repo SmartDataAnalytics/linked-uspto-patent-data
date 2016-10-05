@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="127430">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MEASURING</text>
+						<entryReference>counting <sref ref="G06M" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>TESTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G01B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING LENGTH, THICKNESS, OR SIMILAR LINEAR DIMENSIONS</text>
+						</titlePart>
+						<titlePart><text>MEASURING ANGLES</text>
+						</titlePart>
+						<titlePart><text>MEASURING AREAS</text>
+						</titlePart>
+						<titlePart><text>MEASURING IRREGULARITIES OF SURFACES OR CONTOURS</text>
+							<entryReference>measuring human body, <u>see</u> the relevant places, where such exist, e.g. <sref ref="A41H0001000000" refType="/" refLevel="c"></sref>, <sref ref="A43D0001020000" refType="/" refLevel="c"></sref>, <sref ref="A61B0005100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring appliances combined with walking-sticks <sref ref="A45B0003080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sorting according to dimensions <sref ref="B07" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>tool-setting or drawing instruments not specially modified for measuring <sref ref="B23B0049000000" refType="/" refLevel="c"></sref>, <sref ref="B23Q0015000000" refType="/" refLevel="c"></sref>, <sref ref="B23Q0017000000" refType="/" refLevel="c"></sref>, <sref ref="B43L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combinations of measuring devices with writing-appliances <sref ref="B43K0029080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>geodetical, nautical or aeronautical measuring, surveying, rangefinding <sref ref="G01C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>photogrammetry <sref ref="G01C0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring force <sref ref="G01L0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>investigating particle size, investigating surface area of porous material <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>using radar, using sonar, using analogous systems employing other waves <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>geophysical measuring <sref ref="G01V" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring length or roll diameter of film in cameras or projectors <sref ref="G03B0001600000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combinations of measuring devices with means for controlling or regulating <sref ref="G05" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring elapsed travel of recording medium in recording and playback equipment, sensing diameter of record in autochange gramophones <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>means structurally associated with electric rotary current collectors for indicating brush wear <sref ref="H01R0039580000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>indicating consumption of electrodes in arc lamps <sref ref="H05B0031340000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>Measuring, by methods of general application, displacements, e.g. of the pointer of a measuring instrument, which are caused by variables of which the measurement is not covered by this sub-class, is dealt with in sub-class <sref ref="G01D" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>The groups of this sub-class are distinguished by the means of measurement which is of major importance. Thus the mere application of other means for giving a final indication does not affect the classification.</text>
+							</noteParagraph>
+							<noteParagraph><text>Machines operated on similar principles to the hand-held devices specified in this sub-class are classified with these devices.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G01B0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring instruments characterised by the selection of material therefor</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G01B0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Instruments as specified in the sub-groups and characterised by the use of mechanical measuring means</text>
+								<entryReference>arrangements for measuring particular parameters <sref ref="G01B0005000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Rulers or tapes with scales or marks for direct reading</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0003040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>rigid</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G01B0003060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>folding</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G01B0003080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>extensible</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0003100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>flexible</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003110000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Chains for measuring length</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Measuring wheels</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Templates for checking contours</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Compasses, i.e. with a pair of pivoted arms</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Micrometers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Slide gauges</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Feeler-pin gauges, e.g. dial gauges</text>
+									<entryReference>for determining profiles <sref ref="G01B0005200000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0003240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with open yoke, i.e. calipers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0003260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Plug gauges</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0003280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Depth gauges</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Bars, blocks, or strips in which the distance between a pair of faces is fixed, although it may be preadjustable, e.g. end measure, feeler strip</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0003320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Holders therefor</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Ring or other apertured gauges, e.g. "go/no-go" gauge</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0003360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for external screw threads</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Gauges with an open yoke and opposed faces, i.e. calipers, in which the internal distance between the faces is fixed, although it may be preadjustable</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0003400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for external screw threads</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0003420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of limit-gauge type, i.e. "go/no-go"</text>
+										<entryReference><sref ref="G01B0003400000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G01B0003440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>preadjustable for wear or tolerance</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Plug gauges for internal dimensions with engaging surfaces which are at a fixed distance, although they may be preadjustable</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0003480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for internal screw threads</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0003500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of limit-gauge type, i.e. "go/no-go"</text>
+										<entryReference><sref ref="G01B0003480000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G01B0003520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>preadjustable for wear or tolerance</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0003560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Gauges for measuring angles or tapers, e.g. conical calipers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G01B0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements characterised by the use of mechanical means</text>
+								<entryReference>instruments of the types covered by group <sref ref="G01B0003000000" refType="/" refLevel="c"></sref>
+									<u>per se</u>
+									<sref ref="G01B0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring length, width, or thickness</text>
+									<entryReference><sref ref="G01B0005080000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0005030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by measuring coordinates of points</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted for measuring length or width of objects while moving</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0005060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for measuring thickness, e.g. of sheet material</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring diameters</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0005100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of objects while moving, e.g. cable</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0005120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>internal diameters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring distance or clearance between spaced objects or spaced apertures</text>
+									<entryReference><sref ref="G01B0005240000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0005160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>between a succession of regularly spaced objects or regularly spaced apertures, e.g. screw threads, stamp perforations</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring depth</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring contours or curvatures, e.g. determining profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0005220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Spherometers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring angles or tapers</text>
+								</titlePart>
+								<titlePart><text>for testing the alignment of axes</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0005250000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing the alignment of axes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0005255000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing wheel alignment</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring areas, e.g. planimeter</text>
+									<entryReference>integrators in general <sref ref="G06G" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring roughness or irregularity of surfaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0005300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid, e.g. mechanical strain gauge</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G01B0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements characterised by the use of electric or magnetic means</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring length, width, or thickness</text>
+									<entryReference><sref ref="G01B0007120000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0007030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by measuring coordinates of points</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted for measuring length or width of objects while moving</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0007060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for measuring thickness, e.g. of sheet material, of coating</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G01B0007080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using capacitive means</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G01B0007100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using magnetic means, e.g. by measuring change of reluctance</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring diameters</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring distance or clearance between spaced objects or spaced apertures</text>
+									<entryReference><sref ref="G01B0007300000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid, e.g. resistance strain gauge</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0007180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using change in resistance</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G01B0007200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>formed by printed-circuit technique</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0007220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using change in capacitance</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0007240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using change in magnetic properties</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring depth</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring contours or curvatures, e.g. determining profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring angles or tapers</text>
+								</titlePart>
+								<titlePart><text>for testing the alignment of axes</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0007310000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing the alignment of axes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0007315000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing wheel alignment</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring areas</text>
+									<entryReference>integrators in general <sref ref="G06G" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0007340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring roughness or irregularity of surfaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G01B0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Instruments as specified in the sub-groups and characterised by the use of optical measuring means</text>
+								<entryReference>arrangements for measuring particular parameters <sref ref="G01B0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Interferometers</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G01B0009021000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using holographic techniques</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G01B0009023000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for contour producing</text>
+											<entryReference><mref ref="G01B0009025000" endRef="G01B0009029000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G01B0009025000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Double-exposure technique</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G01B0009027000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in real time</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G01B0009029000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by time averaging</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0009040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Measuring microscopes</text>
+									<entryReference>microscopes <u>per se</u>
+										<sref ref="G02B0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0009060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Measuring telescopes</text>
+									<entryReference>telescopes <u>per se</u>
+										<sref ref="G02B0023000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0009080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Optical projection comparators, e.g. for profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0009100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Goniometers for measuring angles between surfaces, e.g. of crystals or prisms</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G01B0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements characterised by the use of optical means</text>
+								<entryReference>instruments of the types covered by group <sref ref="G01B0009000000" refType="/" refLevel="c"></sref>
+									<u>per se</u>
+									<sref ref="G01B0009000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0011020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring length, width, or thickness</text>
+									<entryReference><sref ref="G01B0011080000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0011030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by measuring coordinates of points</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0011040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted for measuring length or width of objects while moving</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0011060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for measuring thickness, e.g. of sheet material</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring diameters</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0011100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of objects while moving, e.g. cable</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0011120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>internal diameters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring distance or clearance between spaced objects or spaced apertures</text>
+									<entryReference><sref ref="G01B0011260000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									<entryReference>rangefinders <u>per se</u>
+										<sref ref="G01C" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid, e.g. optical strain gauge</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0011180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using photoelastic elements</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0011200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using brittle lacquer</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring depth</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring contours or curvatures, e.g. determining profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring angles or tapers</text>
+								</titlePart>
+								<titlePart><text>for testing the alignment of axes</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0011270000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing the alignment of axes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0011275000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing wheel alignment</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring areas</text>
+									<entryReference>integrators in general <sref ref="G06G" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0011300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring roughness or irregularity of surfaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G01B0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements characterised by the use of fluids</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring length, width, or thickness</text>
+									<entryReference><sref ref="G01B0013080000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0013030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by measuring coordinates of points</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted for measuring length or width of objects while moving</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0013060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for measuring thickness, e.g. of sheet material</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring diameters</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0013100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>internal diameters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring distance or clearance between spaced objects or spaced apertures</text>
+									<entryReference><sref ref="G01B0013180000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring depth</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring contours or curvatures, e.g. determining profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring angles or tapers</text>
+								</titlePart>
+								<titlePart><text>for testing the alignment of axes</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G01B0013190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing the alignment of axes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G01B0013195000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing wheel alignment</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring areas, e.g. pneumatic planimeter</text>
+									<entryReference>integrators in general <sref ref="G06G" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0013220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring roughness or irregularity of surfaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0013240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G01B0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements characterised by the use of wave or particle radiation</text>
+								<entryReference><sref ref="G01B0009000000" refType="/" refLevel="c"></sref>, <sref ref="G01B0011000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								<entryReference>using reflection of electric pulses <sref ref="G01S" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>by radar technique <sref ref="G01S" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring thickness</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring contours or curvatures, e.g. determining profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0015060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G01B0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements characterised by the use of infrasonic, sonic, or ultrasonic vibrations</text>
+								<entryReference>by sonar technique <sref ref="G01S" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G01B0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring thickness</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G01B0017040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid, e.g. by vibrating string</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="G01B0019000000" endSymbol="G01B0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021020000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021060000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019080000" endSymbol="G01B0019100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021080000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021100000" refType="/" refLevel="c"></sref>
+										<sref ref="G01B0021140000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021160000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019160000" endSymbol="G01B0019220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021320000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021180000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021200000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021220000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019290000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021240000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019295000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021260000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021280000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021300000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021020000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019370000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021060000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021080000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021100000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021120000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021140000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021160000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019480000" endSymbol="G01B0019500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021320000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021180000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021200000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021220000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019570000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021240000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019575000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021260000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021280000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021300000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019620000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019640000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021020000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019660000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021060000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019680000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021080000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019700000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021100000" refType="/" refLevel="c"></sref>
+										<sref ref="G01B0021120000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019720000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021140000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019740000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021160000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019760000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021180000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019780000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021200000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019800000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021220000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019810000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021240000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019815000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021260000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019820000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021280000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019840000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021300000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019860000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019880000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021020000" refType="/" refLevel="c"></sref>
+										<sref ref="G01B0021080000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019900000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021200000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019920000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021320000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019940000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019960000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021020000" refType="/" refLevel="c"></sref>
+										<sref ref="G01B0021080000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="d" symbol="G01B0019980000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G01B0021320000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="G01B0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Measuring arrangements or details thereof in so far as they are not adapted to particular types of measuring means of the preceding groups</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="G01B0021000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph edition="19800101"><text>Inventions covered by two or more of groups <mref ref="G01B0003000000" endRef="G01B0017000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/> are classified in this group if no single other group can be selected as being predominantly applicable.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring length, width, or thickness</text>
+									<entryReference><sref ref="G01B0021100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by measuring coordinates of points</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>specially adapted for measuring length or width of objects while moving</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for measuring thickness</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring diameters</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of objects while moving</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>internal diameters</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring distance or clearance between spaced objects</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring depth</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring contours or curvatures, e.g. determining profile</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring angles or tapers</text>
+								</titlePart>
+								<titlePart><text>for testing the alignment of axes</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing the alignment of axes</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="G01B0021260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for testing wheel alignment</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring areas</text>
+									<entryReference>integrators in general <sref ref="G06G" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring roughness or irregularity of surfaces</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G01B0021320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>for measuring the deformation in a solid</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

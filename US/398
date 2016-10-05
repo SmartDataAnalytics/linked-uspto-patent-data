@@ -1,0 +1,217 @@
+1	FAULT RECOVERY
+2	FAULT RECOVERY Bypass inoperative element
+3	FAULT RECOVERY Bypass inoperative element In a ring or loop
+4	FAULT RECOVERY Bypass inoperative element In a ring or loop Using a secondary ring or loop
+5	FAULT RECOVERY Bypass inoperative element Spare channel or standby optical fiber
+6	FAULT RECOVERY In a repeater system
+7	FAULT RECOVERY WDM
+8	FAULT RECOVERY TDM
+9	DIAGNOSTIC TESTING
+10	DIAGNOSTIC TESTING Fault location
+11	DIAGNOSTIC TESTING Fault location Repeater
+12	DIAGNOSTIC TESTING Fault location Switch
+13	DIAGNOSTIC TESTING Fault location Fiber or waveguide
+14	DIAGNOSTIC TESTING Fault location WDM
+15	DIAGNOSTIC TESTING Fault location Stop transmission or reduce power
+16	DIAGNOSTIC TESTING Test signal
+17	DIAGNOSTIC TESTING Fault detection
+18	DIAGNOSTIC TESTING Fault detection Repeater
+19	DIAGNOSTIC TESTING Fault detection Switch
+20	DIAGNOSTIC TESTING Fault detection Optical fiber
+21	DIAGNOSTIC TESTING Fault detection Optical fiber Determined by reflection from break in fiber
+22	DIAGNOSTIC TESTING Fault detection Transceiver
+23	DIAGNOSTIC TESTING Fault detection Transmitter
+24	DIAGNOSTIC TESTING Fault detection Receiver
+25	DIAGNOSTIC TESTING Determination of communication parameter
+26	DIAGNOSTIC TESTING Determination of communication parameter Signal to noise ratio
+27	DIAGNOSTIC TESTING Determination of communication parameter Bit error rate
+28	DIAGNOSTIC TESTING Determination of communication parameter Fiber characteristic
+29	DIAGNOSTIC TESTING Determination of communication parameter Fiber characteristic Dispersion
+30	DIAGNOSTIC TESTING Determination of communication parameter Using supervisory signal
+31	DIAGNOSTIC TESTING Determination of communication parameter Using supervisory signal Different wavelengths for diagnostic and communication
+32	DIAGNOSTIC TESTING Determination of communication parameter Using supervisory signal Pilot signal
+33	DIAGNOSTIC TESTING Determination of communication parameter Using supervisory signal Monitoring
+34	DIAGNOSTIC TESTING Determination of communication parameter WDM system
+35	DIAGNOSTIC TESTING Determination of communication parameter TDM system
+36	DIAGNOSTIC TESTING Determination of communication parameter Collision detection
+37	DIAGNOSTIC TESTING Determination of communication parameter Amplifier or repeater operation
+38	DIAGNOSTIC TESTING Determination of communication parameter Power
+39	INTERFERENCE SIGNAL TRANSMISSION OR ELIMINATION (E.G., JAMMING OR ANTIJAMMING)
+40	EAVESDROPPING
+41	DUPLEX
+42	DUPLEX Wavelength division
+43	MULTIPLEX
+44	MULTIPLEX Mode
+45	MULTIPLEX Optical switching
+46	MULTIPLEX Optical switching Hybrid
+47	MULTIPLEX Optical switching Hybrid Time and wavelength
+48	MULTIPLEX Optical switching Wavelength
+49	MULTIPLEX Optical switching Wavelength Router
+50	MULTIPLEX Optical switching Wavelength Crossconnect
+51	MULTIPLEX Optical switching Wavelength Including photonic packet switching
+52	MULTIPLEX Optical switching Time
+53	MULTIPLEX Optical switching Time Including delay
+54	MULTIPLEX Optical switching Time Including photonic packet switching
+55	MULTIPLEX Optical switching space
+56	MULTIPLEX Optical switching space Crossconnect
+57	MULTIPLEX Optical switching space Path finding or path routing
+58	MULTIPLEX Optical local area network (LAN)
+59	MULTIPLEX Optical local area network (LAN) Ring or loop
+60	MULTIPLEX Optical local area network (LAN) Bus
+61	MULTIPLEX Optical local area network (LAN) Active star
+62	MULTIPLEX Optical local area network (LAN) Active star Repeater
+63	MULTIPLEX Optical local area network (LAN) Passive star
+64	MULTIPLEX Optical local area network (LAN) Passive star Repeater
+65	MULTIPLEX Polarization
+66	MULTIPLEX Broadcast and distribution system
+67	MULTIPLEX Broadcast and distribution system Bidirectional
+68	MULTIPLEX Broadcast and distribution system WDM
+69	MULTIPLEX Broadcast and distribution system WDM With variable frequency channel assignment
+70	MULTIPLEX Broadcast and distribution system WDM Hub or central office
+71	MULTIPLEX Broadcast and distribution system WDM Hub or central office Including subscribers
+72	MULTIPLEX Broadcast and distribution system WDM Hub or central office Including subscribers Bidirectional
+73	MULTIPLEX Broadcast and distribution system WDM Bus
+74	MULTIPLEX Hybrid
+75	MULTIPLEX Hybrid Time and wavelength division
+76	MULTIPLEX Subcarrier multiplexing
+77	MULTIPLEX Code division multiplexing
+78	MULTIPLEX Code division multiplexing Multiple Access (e.g., CDMA)
+79	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.)
+80	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Soliton
+81	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Dispersion compensation
+82	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling
+83	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling Add or drop
+84	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling Add or drop Grating
+85	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling Add or drop Filter
+86	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling Prism
+87	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling Grating
+88	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) By optical coupling Lens
+89	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Multiple Access (e.g., WDMA)
+90	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Electrically controlled single source
+91	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Different sources
+92	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Different sources Including pumping
+93	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Including feedback
+94	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Including feedback Power control
+95	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Including feedback Wavelength control
+96	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Through free space
+97	MULTIPLEX Wavelength division or frequency division (e.g., Raman, Brillouin, etc.) Repeater
+98	MULTIPLEX Time division
+99	MULTIPLEX Time division Multiple access (e.g., TDMA, CSMA)
+100	MULTIPLEX Time division Subscriber system
+101	MULTIPLEX Time division By specific optical element
+102	MULTIPLEX Time division Including delay
+103	MULTIPLEX Time division Through free space
+104	UNDERWATER
+105	UNDERWATER Cable repeater
+106	REMOTE CONTROL
+107	REMOTE CONTROL Bidirectional (i.e., monitoring or acknowledge)
+108	REMOTE CONTROL Bidirectional (i.e., monitoring or acknowledge) Interrogator system
+109	REMOTE CONTROL In industrial environment or hazardous environmrnt
+110	REMOTE CONTROL In industrial environment or hazardous environmrnt Through optical fiber or waveguide
+111	REMOTE CONTROL Switching
+112	REMOTE CONTROL Plural
+113	REMOTE CONTROL Through optical fiber or waveguide
+114	REMOTE CONTROL Rotating part
+115	HYBRID COMMUNICATION SYSTEM (E.G., OPTICAL AND RF)
+116	HYBRID COMMUNICATION SYSTEM (E.G., OPTICAL AND RF) Including specific optical interface
+117	HYBRID COMMUNICATION SYSTEM (E.G., OPTICAL AND RF) Including specific optical interface Housing or mounting
+118	OPTICAL COMMUNICATION OVER FREEE SPACE
+119	OPTICAL COMMUNICATION OVER FREEE SPACE Compensation
+120	OPTICAL COMMUNICATION OVER FREEE SPACE Compensation Power control
+121	OPTICAL COMMUNICATION OVER FREEE SPACE Satellite system
+122	OPTICAL COMMUNICATION OVER FREEE SPACE Satellite system Including alignment
+123	OPTICAL COMMUNICATION OVER FREEE SPACE Satellite system Including alignment Feedback control
+124	OPTICAL COMMUNICATION OVER FREEE SPACE Satellite system Space to space
+125	OPTICAL COMMUNICATION OVER FREEE SPACE Satellite system Space to ground or ground to space
+126	OPTICAL COMMUNICATION OVER FREEE SPACE Specific repeater
+127	OPTICAL COMMUNICATION OVER FREEE SPACE In an office environment
+128	OPTICAL COMMUNICATION OVER FREEE SPACE Transceivers
+129	OPTICAL COMMUNICATION OVER FREEE SPACE Transceivers Including alignment
+130	OPTICAL COMMUNICATION OVER FREEE SPACE Transmitter and receiver
+131	OPTICAL COMMUNICATION OVER FREEE SPACE Transmitter and receiver Including alignment
+132	PHOTOPHONE
+133	PHOTOPHONE Specific transducer
+134	PHOTOPHONE Specific transducer Including optical fiber or waveguide
+135	OPTICAL TRANSCEIVER
+136	OPTICAL TRANSCEIVER Including compensation
+137	OPTICAL TRANSCEIVER Including feedback
+138	OPTICAL TRANSCEIVER Single device as transmitter and receiver
+139	OPTICAL TRANSCEIVER Including optical fiber or waveguide
+140	TRANSMITTER AND RECEIVER SYSTEM
+141	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide
+142	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Specific type of fiber or waveguide
+143	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Specific type of fiber or waveguide Multimode
+144	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Specific type of fiber or waveguide Monomode
+145	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Specific type of fiber or waveguide Redundant fibers
+146	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Soliton
+147	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Dispersion compensation
+148	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Dispersion compensation Using dispersion compensation optical fiber (e.g., DCOF)
+149	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Dispersion compensation Using equalizing filter (e.g., interferometer, grating)
+150	TRANSMITTER AND RECEIVER SYSTEM Including optical waveguide Dispersion compensation Using optical phase conjugation
+151	TRANSMITTER AND RECEIVER SYSTEM Presence detection
+152	TRANSMITTER AND RECEIVER SYSTEM Including polarization
+153	TRANSMITTER AND RECEIVER SYSTEM One transmitter, plural receivers
+154	TRANSMITTER AND RECEIVER SYSTEM Including synchronization
+155	TRANSMITTER AND RECEIVER SYSTEM Including synchronization Clock recovery
+156	TRANSMITTER AND RECEIVER SYSTEM Including alignment between transmitter and receiver
+157	TRANSMITTER AND RECEIVER SYSTEM Including pumping
+158	TRANSMITTER AND RECEIVER SYSTEM Including compensation
+159	TRANSMITTER AND RECEIVER SYSTEM Including compensation Reducing distortion or dispersion
+160	TRANSMITTER AND RECEIVER SYSTEM Including compensation Using optical amplifier
+161	TRANSMITTER AND RECEIVER SYSTEM Including compensation Using delay
+162	TRANSMITTER AND RECEIVER SYSTEM Including feedback from receiver
+163	TRANSMITTER AND RECEIVER SYSTEM Including electrical oscillator
+164	TRANSMITTER AND RECEIVER SYSTEM Including optical circuit board
+165	TRANSMITTER AND RECEIVER SYSTEM Plural stations
+166	TRANSMITTER AND RECEIVER SYSTEM Plural stations Address directing connections
+167	TRANSMITTER AND RECEIVER SYSTEM Plural stations Unidirectional or loopback
+167.5	TRANSMITTER AND RECEIVER SYSTEM Plural stations Central or master station
+168	TRANSMITTER AND RECEIVER SYSTEM Passive system
+169	TRANSMITTER AND RECEIVER SYSTEM Passive system Retroreflection
+170	TRANSMITTER AND RECEIVER SYSTEM Retroreflection
+171	TRANSMITTER AND RECEIVER SYSTEM Received signal supplies power distribution to diverse devices
+172	TRANSMITTER AND RECEIVER SYSTEM Including visible light modulation
+173	OPTICAL REPEATER SYSTEM
+174	OPTICAL REPEATER SYSTEM Demodulating
+175	OPTICAL REPEATER SYSTEM Regenerative
+176	OPTICAL REPEATER SYSTEM Regenerative Modulation conversion
+177	OPTICAL REPEATER SYSTEM Monitoring
+178	OPTICAL REPEATER SYSTEM Specific optical waveguide
+179	OPTICAL REPEATER SYSTEM Specific optical waveguide Soliton
+180	OPTICAL REPEATER SYSTEM Specific optical elements
+181	OPTICAL REPEATER SYSTEM Supervisory signal by repeater
+182	TRANSMITTER
+183	TRANSMITTER Having particular modulation
+184	TRANSMITTER Having particular modulation Including polarization
+185	TRANSMITTER Having particular modulation Hybrid modulation
+186	TRANSMITTER Having particular modulation Intensity modulation
+187	TRANSMITTER Having particular modulation Frequency modulation
+188	TRANSMITTER Having particular modulation Phase modulation
+189	TRANSMITTER Having particular modulation Pulse modulation
+190	TRANSMITTER Having particular modulation Pulse modulation Pulse-code
+191	TRANSMITTER Having particular modulation Pulse modulation Pulse time
+192	TRANSMITTER Including compensation
+193	TRANSMITTER Including compensation Precompensation (e.g., prechirping, predistortion
+194	TRANSMITTER Including compensation For noise or distortion
+195	TRANSMITTER Including compensation Including feedback
+196	TRANSMITTER Including compensation Including feedback For wavelength control
+197	TRANSMITTER Including compensation Including feedback For power control
+198	TRANSMITTER Including compensation Including feedback For modulator control
+199	TRANSMITTER Chirping
+200	TRANSMITTER Including optical waveguide
+201	TRANSMITTER Including specific optical elements
+202	RECEIVER
+203	RECEIVER Homodyne
+204	RECEIVER Heterodyne
+205	RECEIVER Heterodyne Including polarization
+206	RECEIVER Heterodyne Including polarization Having feedback
+207	RECEIVER Heterodyne Specific optical elements
+208	RECEIVER Including postcompensation
+209	RECEIVER Including postcompensation Feedback
+210	RECEIVER Including postcompensation Amplitude
+211	RECEIVER Including postcompensation Intermodulation
+212	RECEIVER Including optical element (e.g., lens, mirror, etc.)
+213	RECEIVER Including optical element (e.g., lens, mirror, etc.) Having feedback
+214	RECEIVER Including optical waveguide
+FOR000	CLASS-RELATED FOREIGN DOCUMENTS
+FOR100	OPTICAL COMMUNICATION (359/109)

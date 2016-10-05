@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="5474">
+	<ipcEntry kind="s" symbol="D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION D <emdash></emdash> TEXTILES AND PAPER</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="D01" endSymbol="D01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>TEXTILES AND FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="D05" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SEWING</text>
+					</titlePart>
+					<titlePart><text>EMBROIDERING</text>
+					</titlePart>
+					<titlePart><text>TUFTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="D05B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SEWING</text>
+							<entryReference>appliances for the tailoring trade <sref ref="A41H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sewing tables <sref ref="A47B0029000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sewing in bookbinding <sref ref="B42B0002000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sewing machines modified for knitting <sref ref="D04B0039080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="D05B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>The groups in this sub-class designating sewing apparatus or machines also include sewing processes dependent on their use, and the thread seams produced thereby.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="D05C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>EMBROIDERING</text>
+						</titlePart>
+						<titlePart><text>TUFTING</text>
+							<entryReference>making non-woven fabrics <sref ref="D04H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sewing <sref ref="D05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

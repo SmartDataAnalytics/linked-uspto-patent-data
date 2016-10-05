@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="34594">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H03" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BASIC ELECTRONIC CIRCUITRY</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="H03B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GENERATION OF OSCILLATIONS, DIRECTLY OR BY FREQUENCY-CHANGING, BY CIRCUITS EMPLOYING ACTIVE ELEMENTS WHICH OPERATE IN A NON-SWITCHING MANNER</text>
+						</titlePart>
+						<titlePart><text>GENERATION OF NOISE BY SUCH CIRCUITS</text>
+							<entryReference>measuring, testing <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generators adapted for electrophonic musical instruments <sref ref="G10H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>synthesis of sound waves <sref ref="G10L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>masers, lasers <sref ref="H01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>dynamo-electric machines <sref ref="H02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>power inverter circuits <sref ref="H02M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>by using pulse techniques <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>automatic control of generators <sref ref="H03L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>starting, synchronisation or stabilisation of generators where the type of generator is irrelevant or unspecified <sref ref="H03L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generation of oscillations in plasma <sref ref="H05H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MODULATION</text>
+							<entryReference>measuring, testing <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>masers, lasers <sref ref="H01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>modulators specially adapted for use in dc amplifiers <sref ref="H03F0003380000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>modulating pulses <sref ref="H03K0007000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pulse code modulation <sref ref="H03K0013000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>so-called modulators capable only of switching between predetermined states of amplitude, frequency or phase <sref ref="H03K0017000000" refType="/" refLevel="c"></sref>, <sref ref="H04L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>synchronous modulators specially adapted for colour television <sref ref="H04N0009500000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals only with modulation, keying, or interruption of sinusoidal oscillations or electromagnetic waves, the modulating signal having any desired waveform.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, circuits usable both as modulator and demodulator are classified in the group dealing with the type of modulator involved.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DEMODULATION OR TRANSFERENCE OF MODULATION FROM ONE CARRIER TO ANOTHER</text>
+							<entryReference>masers, lasers <sref ref="H01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>circuits capable of acting both as modulator and demodulator <sref ref="H03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>details applicable to both modulators and frequency-changers <sref ref="H03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>demodulating pulses <sref ref="H03K0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transforming types of pulse modulation <sref ref="H03K0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pulse code modulation <sref ref="H03K0013000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>repeater stations <sref ref="H04B0007140000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>demodulators adapted for ac systems of digital-information transmission <sref ref="H04L0027000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>synchronous demodulators adapted for colour television <sref ref="H04N0009500000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals only with (a) demodulation or transference of signals modulated on a sinusoidal carrier or on electromagnetic waves, and (b) comparing phase or frequency of two mutually-independent oscillations.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>AMPLIFIERS</text>
+							<entryReference>measuring, testing <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>optical parametric amplifiers <sref ref="G02F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>circuit arrangements with secondary emission tubes <sref ref="H01J0043300000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>masers, lasers <sref ref="H01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>control of amplification <sref ref="H03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>coupling arrangements independent of the nature of the amplifier, voltage dividers <sref ref="H03H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>amplifiers capable only of dealing with pulses <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>repeater circuits in transmission lines <sref ref="H04B0003360000" refType="/" refLevel="c"></sref>, <sref ref="H04B0003580000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>application of speech amplifiers in telephonic communication <sref ref="H04M0001600000" refType="/" refLevel="c"></sref>, <sref ref="H04M0003400000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with (a) linear amplification, there being linear relationship between the amplitudes of input and output, and the output having substantially the same waveform as the input, (b) dielectric amplifiers, magnetic amplifiers, and parametric amplifiers when used as oscillators or frequency-changers, and (c) constructions of active elements of dielectric amplifiers and parametric amplifiers for which no provision exists elsewhere.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONTROL OF AMPLIFICATION</text>
+							<entryReference>impedance networks, e.g. attenuators, <sref ref="H03H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>control of transmission in lines <sref ref="H04B0003040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with (a) control of gain of amplifiers or frequency-changers, (b) control of frequency range of amplifiers, and (c) limiting amplitude or rate of change of amplitude.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>Attention is drawn to the note following the title of sub-class <sref ref="H03F" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>IMPEDANCE NETWORKS, e.g. RESONANT CIRCUITS</text>
+						</titlePart>
+						<titlePart><text>RESONATORS</text>
+							<entryReference>measuring, testing <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>impedance networks or resonators consisting of distributed impedances, e.g. of the waveguide type, <sref ref="H01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>control of amplification, e.g. bandwidth control of amplifiers, <sref ref="H03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>tuning resonant circuits, e.g. tuning coupled resonant circuits, <sref ref="H03J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>networks for modifying the frequency characteristics of communication systems <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with (a) networks comprising lumped impedance elements, (b) networks comprising distributed impedance elements together with lumped impedance elements, (c) networks comprising electromechanical or electro-acoustic devices, (d) networks simulating reactances and comprising discharge tubes or semiconductor devices, and (e) constructions of electromechanical resonators.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>In this sub-class, the term "passive elements" refers to resistors, capacitors, inductors, mutual inductors, or diodes.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>Main groups with a higher number take precedence.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TUNING RESONANT CIRCUITS</text>
+						</titlePart>
+						<titlePart><text>SELECTING RESONANT CIRCUITS</text>
+							<entryReference>indicating arrangements for measuring <sref ref="G01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring, testing <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>remote-control in general <sref ref="G05" refType="/" refLevel="c"></sref>, <sref ref="G08" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>automatic control or stabilisation of generators <sref ref="H03L" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19800101"><text>This sub-class also covers the control of tuning, including the combined control of tuning and other functions, e.g. combinations of tuning control and volume control, combinations of control of local oscillator and of supplementary resonant circuits.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PULSE TECHNIQUE</text>
+							<entryReference>measuring pulse characteristics <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>mechanical counters having an electrical input <sref ref="G06M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>information storage devices in general <sref ref="G11" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sample-and-hold arrangements in electric analogue stores <sref ref="G11C0027020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>construction of switches involving contact making and breaking for generation of pulses, e.g. by using a moving magnet, <sref ref="H01H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>static conversion of electric power <sref ref="H02M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generation of oscillations by circuits employing active elements which operate in a non-switching manner <sref ref="H03B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>modulating sinusoidal oscillations with pulses <sref ref="H03C" refType="/" refLevel="c"></sref>, <sref ref="H04L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>discriminator circuits involving pulse counting <sref ref="H03D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>automatic control of generators <sref ref="H03L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>starting, synchronisation, or stabilisation of generators where the type of generator is irrelevant or unspecified <sref ref="H03L" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03K" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with (a) methods, circuits, devices, or apparatus using active elements operating in a discontinuous or switching manner for generating, counting, amplifying, shaping, modulating, demodulating, coding, decoding, or otherwise manipulating signals, (b) electronic switching not involving contact-making and braking, and (c) logic circuits handling electric pulses.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, an "active element" is understood to exercise control over the conversion of input energy into an oscillation or a discontinuous flow of energy.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H03L" ipcLevel="C" edition="19800101" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>AUTOMATIC CONTROL, STARTING, SYNCHRONISATION, OR STABILISATION OF GENERATORS OF ELECTRONIC OSCILLATIONS OR PULSES</text>
+							<entryReference>of dynamo-electric generators <sref ref="H02P" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H03L" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19800101"><text>This sub-class includes automatic control circuits for generators of electronic oscillations or pulses and also includes starting, synchronisation, or stabilisation circuits for generators where the type of generator is irrelevant or unspecified. Stabilisation or starting circuits specially adapted to only one specific type of generator are classified with the generator in the relevant sub-group of sub-classes <sref ref="H03B" refType="/" refLevel="c"/>, <sref ref="H03K" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>The term "automatic control" includes only closed loop systems.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

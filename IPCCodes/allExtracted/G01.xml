@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="67684">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MEASURING</text>
+						<entryReference>counting <sref ref="G06M" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>TESTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G01B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING LENGTH, THICKNESS, OR SIMILAR LINEAR DIMENSIONS</text>
+						</titlePart>
+						<titlePart><text>MEASURING ANGLES</text>
+						</titlePart>
+						<titlePart><text>MEASURING AREAS</text>
+						</titlePart>
+						<titlePart><text>MEASURING IRREGULARITIES OF SURFACES OR CONTOURS</text>
+							<entryReference>measuring human body, <u>see</u> the relevant places, where such exist, e.g. <sref ref="A41H0001000000" refType="/" refLevel="c"></sref>, <sref ref="A43D0001020000" refType="/" refLevel="c"></sref>, <sref ref="A61B0005100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring appliances combined with walking-sticks <sref ref="A45B0003080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sorting according to dimensions <sref ref="B07" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>tool-setting or drawing instruments not specially modified for measuring <sref ref="B23B0049000000" refType="/" refLevel="c"></sref>, <sref ref="B23Q0015000000" refType="/" refLevel="c"></sref>, <sref ref="B23Q0017000000" refType="/" refLevel="c"></sref>, <sref ref="B43L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combinations of measuring devices with writing-appliances <sref ref="B43K0029080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>geodetical, nautical or aeronautical measuring, surveying, rangefinding <sref ref="G01C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>photogrammetry <sref ref="G01C0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring force <sref ref="G01L0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>investigating particle size, investigating surface area of porous material <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>using radar, using sonar, using analogous systems employing other waves <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>geophysical measuring <sref ref="G01V" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring length or roll diameter of film in cameras or projectors <sref ref="G03B0001600000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combinations of measuring devices with means for controlling or regulating <sref ref="G05" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring elapsed travel of recording medium in recording and playback equipment, sensing diameter of record in autochange gramophones <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>means structurally associated with electric rotary current collectors for indicating brush wear <sref ref="H01R0039580000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>indicating consumption of electrodes in arc lamps <sref ref="H05B0031340000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>Measuring, by methods of general application, displacements, e.g. of the pointer of a measuring instrument, which are caused by variables of which the measurement is not covered by this sub-class, is dealt with in sub-class <sref ref="G01D" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>The groups of this sub-class are distinguished by the means of measurement which is of major importance. Thus the mere application of other means for giving a final indication does not affect the classification.</text>
+							</noteParagraph>
+							<noteParagraph><text>Machines operated on similar principles to the hand-held devices specified in this sub-class are classified with these devices.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING DISTANCES, LEVELS, OR BEARINGS, FOR SURVEYING OR NAVIGATION</text>
+						</titlePart>
+						<titlePart><text>GYROSCOPIC INSTRUMENTS</text>
+						</titlePart>
+						<titlePart><text>PHOTOGRAMMETRY</text>
+							<entryReference>measuring angles or linear dimensions in general <sref ref="G01B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring liquid level <sref ref="G01F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring intensity or direction of magnetic fields, other than the earth's field, in general <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>involving the emission and reception of radio waves, other electromagnetic waves or sonic waves <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>optical systems therefor <sref ref="G02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>maps, globes <sref ref="G09B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the title of class <sref ref="G01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, "navigation" means determining the position and course of land vehicles, ships, aircraft, and space vehicles.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>INDICATING OR RECORDING IN CONNECTION WITH MEASURING IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>DEVICES OR INSTRUMENTS FOR MEASURING TWO OR MORE VARIABLES NOT COVERED IN A SINGLE OTHER SUB-CLASS</text>
+						</titlePart>
+						<titlePart><text>TARIFF METERING APPARATUS</text>
+						</titlePart>
+						<titlePart><text>MEASURING OR TESTING NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>means structurally associated with lightning or other overvoltage discharging apparatus for recording the operation thereof <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>displaying information in general <sref ref="G09F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>recording in a way which requires playback through a transducer <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class includes:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>devices for indicating or recording the results of measurements, not peculiar to variables covered in a single other sub-class;</text>
+									</noteParagraph>
+									<noteParagraph><text>analogous apparatus but in which the input is not a variable to be measured, e.g. a hand operation;</text>
+									</noteParagraph>
+									<noteParagraph><text>details of measuring instruments, which are of general interest;</text>
+									</noteParagraph>
+									<noteParagraph><text>measurement transducers not adapted solely for the measurement of a single specified variable and not provided for elsewhere;</text>
+									</noteParagraph>
+									<noteParagraph><text>measuring or testing not otherwise provided for.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING VOLUME, VOLUME FLOW, MASS FLOW, OR LIQUID LEVEL</text>
+						</titlePart>
+						<titlePart><text>METERING BY VOLUME</text>
+							<entryReference>burettes or pipettes <sref ref="B01L0003020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangements of liquid volume meters or volume-flow meters in liquid-delivering apparatus, e.g. for retail sale purposes, <sref ref="B67D0005160000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pumps, fluid motors, details common to measuring or metering devices and pumps or fluid motors <mref ref="F01" endRef="F04" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WEIGHING</text>
+							<entryReference>sorting by weighing <sref ref="B07C0005160000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASUREMENT OF MECHANICAL VIBRATIONS, e.g. OF SOUND WAVES</text>
+							<entryReference>generation of mechanical vibrations without measurement <sref ref="B06B" refType="/" refLevel="c"></sref>, <sref ref="G10" refType="/" refLevel="c"></sref>, <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring position, direction or velocity of an object <sref ref="G01C" refType="/" refLevel="c"></sref>, <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transducers <u>per se</u>, <u>see</u> the relevant sub-classes, e.g. <sref ref="G01L" refType="/" refLevel="c"></sref>, <sref ref="H01L" refType="/" refLevel="c"></sref>, <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>determining unbalance <sref ref="G01M0001140000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>determining properties of materials by sonic or ultrasonic waves transmitted therethrough <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>seismology, seismic prospecting, acoustic prospecting <sref ref="G01V0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>recording vibrations for subsequent reproduction <sref ref="G10L" refType="/" refLevel="c"></sref>, <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>manufacture of electromechanical resonators by processes which include measurement of frequency with consequential modification of the resonator <sref ref="H03H0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class includes the combination of generation and measurement of mechanical vibrations.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01J" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASUREMENT OF INTENSITY, VELOCITY, SPECTRAL CONTENT, POLARISATION, OR PHASE OF INFRA-RED, VISIBLE OR ULTRA-VIOLET LIGHT</text>
+						</titlePart>
+						<titlePart><text>COLORIMETRY</text>
+						</titlePart>
+						<titlePart><text>RADIATION PYROMETRY</text>
+							<entryReference>light sources <sref ref="F21" refType="/" refLevel="c"></sref>, <sref ref="H01J" refType="/" refLevel="c"></sref>, <sref ref="H01K" refType="/" refLevel="c"></sref>, <sref ref="H05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>investigating properties of materials by optical means <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class includes the detection of the presence or absence of infra-red, visible, or ultra-violet light, not otherwise provided for.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING TEMPERATURE</text>
+						</titlePart>
+						<titlePart><text>MEASURING QUANTITY OF HEAT</text>
+						</titlePart>
+						<titlePart><text>THERMALLY-SENSITIVE ELEMENTS NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>sensing temperature changes for compensating measurements of other variables or for compensating readings of instruments for variation in temperature, see <sref ref="G01D" refType="/" refLevel="c"></sref> or relevant sub-class for variable measured</entryReference>
+							<entryReference>radiation pyrometry <sref ref="G01J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>testing or determining physical or chemical properties of materials by measuring temperatures <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>compound sensitive elements, e.g. bimetallic, <sref ref="G12B0001020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01K" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the word "thermometer" includes thermally-sensitive elements not provided for in other sub-classes.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01L" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING FORCE, TORQUE, WORK, MECHANICAL POWER, MECHANICAL EFFICIENCY, OR FLUID PRESSURE</text>
+							<entryReference>sensing pressure changes for compensating measurements of other variables or for compensating readings of instruments for variations in pressure <sref ref="G01D" refType="/" refLevel="c"></sref> or relevant sub-class for the variable measured</entryReference>
+							<entryReference>weighing <sref ref="G01G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01L" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01M" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TESTING STATIC OR DYNAMIC BALANCE OF MACHINES OR STRUCTURES</text>
+						</titlePart>
+						<titlePart><text>TESTING STRUCTURES OR APPARATUS NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01M" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01N" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>INVESTIGATING CHEMICAL OR PHYSICAL PROPERTIES OF MATERIALS</text>
+							<entryReference>apparatus fully provided for in a single other sub-class, <u>see</u> the relevant sub-class, e.g. <sref ref="B01L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>separating components of materials in general <sref ref="B01D" refType="/" refLevel="c"></sref>, <sref ref="B01J" refType="/" refLevel="c"></sref>, <sref ref="B03" refType="/" refLevel="c"></sref>, <sref ref="B07" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring or testing involving enzymes or micro-organisms <sref ref="C12M" refType="/" refLevel="c"></sref>, <sref ref="C12Q" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>investigation of foundation soil <u>in situ</u>
+								<sref ref="E02D0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensing humidity changes for compensating measurements of other variables or for compensating readings of instruments for variations in humidity, see <sref ref="G01D" refType="/" refLevel="c"></sref> or relevant sub-class for variable measured</entryReference>
+							<entryReference>testing or determining the properties of structures <sref ref="G01M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring or investigating electric or magnetic properties of materials <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>determining sensitivity, graininess, or density of photographic materials <sref ref="G03C0005020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>testing component parts of nuclear reactors <sref ref="G21C0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01N" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the term "investigating" means testing or determining, and the term "materials" includes solid, liquid, and gaseous media, e.g. the atmosphere.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01P" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING LINEAR OR ANGULAR SPEED, ACCELERATION, DECELERATION, OR SHOCK</text>
+						</titlePart>
+						<titlePart><text>INDICATING PRESENCE, ABSENCE, OR DIRECTION, OF MOVEMENT</text>
+							<entryReference>monitoring speed or deceleration of electrically-propelled vehicles <sref ref="B60L0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>vehicle lighting systems adapted to indicate speed <sref ref="B60Q0001540000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>determining position or course in navigation, measuring ground distance in geodesy or surveying <sref ref="G01C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combined measuring devices for measuring two or more variables of movement <sref ref="G01C0023000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring velocity of sound <sref ref="G01H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring velocity of light <sref ref="G01J0007000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>by reception or emission of radio waves, other electromagnetic waves, or sonic waves, and based on propagation time <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring speed of nuclear radiation <sref ref="G01T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring acceleration of gravity <sref ref="G01V" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01P" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01R" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASURING ELECTRIC VARIABLES</text>
+						</titlePart>
+						<titlePart><text>MEASURING MAGNETIC VARIABLES</text>
+							<entryReference>measuring physical variables of any kind by conversion into electric variables, see Note (4) following the title of class <sref ref="G01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring diffusion of ions in an electric field, e.g. electrophoresis, electro-osmosis, <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>investigating non-electric or non-magnetic properties of materials by using electric or magnetic methods <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>indicating correct tuning of resonant circuits <sref ref="H03J0003120000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>monitoring electronic pulse counters <sref ref="H03K0021340000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>monitoring operation of communication systems <sref ref="H04" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01R" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class deals with (a) measuring all kinds of electric and magnetic variables directly or by derivation from other electric or magnetic variables; (b) measuring all kinds of electric and magnetic properties of materials; (c) testing electric and magnetic devices, apparatus, and networks (e.g. discharge tubes, amplifiers) and measuring their characteristics; (d) indicating presence or sign of current or voltage; (e) equipment for generating signals to be used for carrying out such tests and measurements.</text>
+							</noteParagraph>
+							<noteParagraph><text>The expression "measuring" is used to include investigating.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>The expression "arrangements for measuring" is used to mean "apparatus, circuits, or methods for measuring".</text>
+									</noteParagraph>
+									<noteParagraph><text>Electric measuring instruments of the general types dealt with in groups <sref ref="G01R0005000000" refType="/" refLevel="c"/>, <sref ref="G01R0007000000" refType="/" refLevel="c"/>, <sref ref="G01R0009000000" refType="/" refLevel="c"/> but specially adapted for measuring a specific variable, e.g. frequency, phase, impedance, are dealt with in the groups relevant to such variables.</text>
+									</noteParagraph>
+									<noteParagraph><text>Group <sref ref="G01R0017000000" refType="/" refLevel="c"/> takes precedence over groups <mref ref="G01R0019000000" endRef="G01R0031000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01S" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>RADIO DIRECTION-FINDING, LOCATING, DISTANCE OR VELOCITY MEASURING</text>
+						</titlePart>
+						<titlePart><text>RADIO NAVIGATION SYSTEMS</text>
+						</titlePart>
+						<titlePart><text>ANALOGOUS SYSTEMS EMPLOYING OTHER WAVES</text>
+							<entryReference>for special applications, <u>see</u> the relevant sub-classes, e.g. <sref ref="A61B" refType="/" refLevel="c"></sref>, <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>navigation in general <sref ref="G01C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring infrasonic, sonic, or ultrasonic vibrations in general <sref ref="G01H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring infra-red, visible, or ultra-violet radiation in general <sref ref="G01J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transducers <u>per se</u>, <u>see</u> the relevant sub-classes, e.g. <sref ref="G01L" refType="/" refLevel="c"></sref>, <sref ref="H01L" refType="/" refLevel="c"></sref>, <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring electric or magnetic variables in general <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>detecting masses or objects not involving reflection or reradiation, geophysics <sref ref="G01V" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>aerials <sref ref="H01Q" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01S" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>), and to Note (1) following the title of sub-class <sref ref="G09B" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01T" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MEASUREMENT OF NUCLEAR OR X-RADIATION</text>
+							<entryReference>radiation analysis of materials, mass spectrometry <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>counters <u>per se</u>
+								<sref ref="G06M" refType="/" refLevel="c"></sref>, <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electric discharge tubes for analysing radiation or particles <sref ref="H01J0040000000" refType="/" refLevel="c"></sref>, <sref ref="H01J0047000000" refType="/" refLevel="c"></sref>, <sref ref="H01J0049000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01T" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class deals with the measurement of X-radiation, gamma radiation, corpuscular radiation, cosmic radiation, or neutron radiation.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01V" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GEOPHYSICS</text>
+						</titlePart>
+						<titlePart><text>GRAVITATIONAL MEASUREMENTS</text>
+						</titlePart>
+						<titlePart><text>DETECTING MASSES OR OBJECTS</text>
+							<entryReference>detecting or locating foreign bodies for diagnostic, surgical or person-identification purposes <sref ref="A61B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>means for indicating the location of accidentally buried, e.g. snow-buried, persons <sref ref="A63B0029020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring chemical or physical properties of earth materials <sref ref="G01N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>measuring electric or magnetic variables in general, other than direction or magnitude of the earth's field <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>radar, sonar or analogous methods <sref ref="G01S0013000000" refType="/" refLevel="c"></sref>, <sref ref="G01S0015000000" refType="/" refLevel="c"></sref>, <sref ref="G01S0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01V" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>The geophysical methods of this sub-class apply both to the earth and to other celestial objects, e.g. planets.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G01W" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>METEOROLOGY</text>
+							<entryReference>influencing weather conditions <sref ref="A01G0015000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>dispersing fog <sref ref="E01H0013000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>instruments for measuring single variables in general, <u>see</u> the appropriate sub-class of class <sref ref="G01" refType="/" refLevel="c"></sref>, e.g. <sref ref="G01K" refType="/" refLevel="c"></sref>, <sref ref="G01L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>obtaining meteorological information by radar <sref ref="G01S0013950000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G01W" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes immediately following the class title (<sref ref="G01" refType="/" refLevel="c"/>).</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the term "meteorology" includes measurement of certain ambient atmospheric conditions.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

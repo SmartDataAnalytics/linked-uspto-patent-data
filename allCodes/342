@@ -1,0 +1,388 @@
+1	RADIO WAVE ABSORBER
+2	RADIO WAVE ABSORBER For aircraft or missile
+3	RADIO WAVE ABSORBER For camouflage
+4	RADIO WAVE ABSORBER With particular geometric configuration
+5	RADAR REFLECTOR
+6	RADAR REFLECTOR With modulation
+7	RADAR REFLECTOR Corner
+8	RADAR REFLECTOR Corner Inflatable or collapsable
+9	RADAR REFLECTOR Corner Decoy or tow target
+10	RADAR REFLECTOR Inflatable or collapsable
+11	RADAR REFLECTOR With spherical lens (e.g., Luneberg lens)
+12	RADAR REFLECTOR Chaff
+13	RADAR EW (ELECTRONIC WARFARE)
+14	RADAR EW (ELECTRONIC WARFARE) ECM (Electronic countermeasures, i.e., jamming)
+15	RADAR EW (ELECTRONIC WARFARE) ECM (Electronic countermeasures, i.e., jamming) With repeater
+16	RADAR EW (ELECTRONIC WARFARE) ECCM (Electronic counter-countermeasures, i.e., antijamming)
+17	RADAR EW (ELECTRONIC WARFARE) ECCM (Electronic counter-countermeasures, i.e., antijamming) Radar reacts to jamming
+18	RADAR EW (ELECTRONIC WARFARE) ECCM (Electronic counter-countermeasures, i.e., antijamming) Radar reacts to jamming By changing frequency
+19	RADAR EW (ELECTRONIC WARFARE) ECCM (Electronic counter-countermeasures, i.e., antijamming) Radar reacts to jamming By varying gain or blocking receiver
+20	RADAR EW (ELECTRONIC WARFARE) Detection of surveilance
+21	BASE BAND SYSTEM
+22	TRANSMISSION THROUGH MEDIA OTHER THAN AIR OR FREE SPACE
+23	BERTHING OR DOCKING
+24	BLIND AID
+25R	SYNTHETIC APERTURE RADAR
+25A	SYNTHETIC APERTURE RADAR Mapping or imaging using synthetic aperture radar (EPO)
+25B	SYNTHETIC APERTURE RADAR Mapping or imaging using synthetic aperture radar (EPO) Specially adapted for moving target detection (EPO)
+25C	SYNTHETIC APERTURE RADAR Mapping or imaging using synthetic aperture radar (EPO) Combined with monopulse or interferometric (EPO)
+25D	SYNTHETIC APERTURE RADAR Mapping or imaging using synthetic aperture radar (EPO) With frequency domain processing of the SAR signals in azimuth (EPO)
+25E	SYNTHETIC APERTURE RADAR Mapping or imaging using synthetic aperture radar (EPO) With time domain processing of the SAR signals in azimuth, e.g. time focusing (EPO)
+25F	SYNTHETIC APERTURE RADAR Mapping or imaging using synthetic aperture radar (EPO) Particular SAR processing techniques (e.g., squint mode, doppler beam-sharpening mode, spotlight mode, bistatic SAR, inverse SAR) (EPO)
+26R	RADAR FOR METEOROLOGICAL USE (EPO)
+26A	RADAR FOR METEOROLOGICAL USE (EPO) Mounted on satellite (EPO)
+26B	RADAR FOR METEOROLOGICAL USE (EPO) Mounted on aircraft (EPO)
+26C	RADAR FOR METEOROLOGICAL USE (EPO) Mounted on ship (EPO)
+26D	RADAR FOR METEOROLOGICAL USE (EPO) Ground based (EPO)
+27	PRESENCE DETECTION ONLY
+28	PRESENCE DETECTION ONLY By motion detection
+29	AIRCRAFT COLLISION AVOIDANCE SYSTEM (CAS)
+30	AIRCRAFT COLLISION AVOIDANCE SYSTEM (CAS) With transponder
+31	AIRCRAFT COLLISION AVOIDANCE SYSTEM (CAS) With transponder Including synchronized clock
+32	AIRCRAFT COLLISION AVOIDANCE SYSTEM (CAS) With transponder Included in Secondary Surveilance Radar (SSR) or Air Traffic Control Radio Beacon System (ATCRBS)
+33	AIRCRAFT LANDING SYSTEM
+34	AIRCRAFT LANDING SYSTEM Ground control approach (GCA)
+35	AIRCRAFT LANDING SYSTEM Microwave landing system (MLS)
+36	AIR TRAFFIC CONTROL
+37	AIR TRAFFIC CONTROL Secondary Surveilance Radar (SSR) or Air Traffic Control Radar Beacon System (ATCRBS)
+38	AIR TRAFFIC CONTROL Secondary Surveilance Radar (SSR) or Air Traffic Control Radar Beacon System (ATCRBS) With altitude information
+39	AIR TRAFFIC CONTROL Secondary Surveilance Radar (SSR) or Air Traffic Control Radar Beacon System (ATCRBS) With side lobe suppression
+40	AIR TRAFFIC CONTROL Secondary Surveilance Radar (SSR) or Air Traffic Control Radar Beacon System (ATCRBS) With defruiting or degarbling
+41	SHIP COLLISION AVOIDANCE
+42	RADAR TRANSPONDER SYSTEM
+43	RADAR TRANSPONDER SYSTEM Combined with primary radar system
+44	RADAR TRANSPONDER SYSTEM Unique identity
+45	RADAR TRANSPONDER SYSTEM IFF or SIF
+46	RADAR TRANSPONDER SYSTEM Navigational
+47	RADAR TRANSPONDER SYSTEM Navigational Distance measuring equipment (DME)
+48	RADAR TRANSPONDER SYSTEM Navigational Distance measuring equipment (DME) With automatic lock-on
+49	RADAR TRANSPONDER SYSTEM Navigational Distance measuring equipment (DME) With VOR/TACAN
+50	RADAR TRANSPONDER SYSTEM With Telemetry
+51	RADAR TRANSPONDER SYSTEM Radar transponder only
+52	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM
+53	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM With infrared device
+54	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM With laser
+55	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM With television
+56	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM With direction finding
+57	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM With radio voice communication
+58	COMBINED WITH DIVERSE TYPE RADIANT ENERGY SYSTEM With transmission to a remote station
+59	PLURAL RADAR
+60	TRANSMITTING INTELLIGENCE
+61	RETURN SIGNAL CONTROLS EXTERNAL DEVICE
+62	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Missile or spacecraft guidance
+63	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Aircraft guidance
+64	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Aircraft guidance With map matching
+65	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Aircraft guidance With terrain avoidance or alarm
+66	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Camera
+67	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Gun (e.g., fire control)
+68	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Proximity fuze
+69	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Device actuated by presence of land vehicle
+70	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Radar mounted on and controls land vehicle
+71	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Radar mounted on and controls land vehicle With control of brakes or steering
+72	RETURN SIGNAL CONTROLS EXTERNAL DEVICE Radar mounted on and controls land vehicle With control of safety device (e.g., air bags)
+73	RETURN SIGNAL CONTROLS RADAR SYSTEM
+74	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control
+75	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Physical orientation
+76	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Physical orientation With ground tracking
+77	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Physical orientation With signal error correction
+78	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Physical orientation Conical scan
+79	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Physical orientation Lobe switching
+80	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Physical orientation Monopulse
+81	RETURN SIGNAL CONTROLS RADAR SYSTEM Antenna control Beam direction by phase or frequency control
+82	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter
+83	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter Signal phase or frequency other than pulse repetition frequency (PRF)
+84	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter Signal phase or frequency other than pulse repetition frequency (PRF) Function of doppler frequency
+85	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter Signal phase or frequency other than pulse repetition frequency (PRF) Function of distance
+86	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter Signal phase or frequency other than pulse repetition frequency (PRF) Function of distance With constant phase
+87	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter Signal phase or frequency other than pulse repetition frequency (PRF) Function of distance With constant beat frequency
+88	RETURN SIGNAL CONTROLS RADAR SYSTEM Transmitter Transmission timing (e.g., ring around)
+89	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver
+90	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Automatic target detection
+91	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gain or threshold
+92	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gain or threshold Automatic gain control (AGC)
+93	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gain or threshold Constant false alarm rate (CFAR)
+94	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gating
+95	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gating Automatic range tracking
+96	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gating Automatic range tracking Automatic track while scan (ATWS)
+97	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Gating Automatic range tracking With automatic lock-on
+98	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Frequency
+99	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Frequency Doppler frequency tracking
+100	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Frequency Doppler frequency tracking With local oscillator control
+101	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Frequency Doppler frequency tracking With filter control
+102	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Frequency Phase
+103	RETURN SIGNAL CONTROLS RADAR SYSTEM Receiver Frequency Phase Phase locked loop
+104	DETERMINING VELOCITY
+105	DETERMINING VELOCITY Other than doppler (e.g., range rate)
+106	DETERMINING VELOCITY Combined with determining acceleration
+107	DETERMINING VELOCITY Combined with determining distance and direction
+108	DETERMINING VELOCITY Combined with determining distance and direction With correlation
+109	DETERMINING VELOCITY Combined with determining distance
+110	DETERMINING VELOCITY Combined with determining distance With plural fixed range gates
+111	DETERMINING VELOCITY Combined with determining distance With plural receiver frequency band separation
+112	DETERMINING VELOCITY Combined with determining distance With plural frequencies transmission
+113	DETERMINING VELOCITY Combined with determining direction (i.e., bearing)
+114	DETERMINING VELOCITY Combined with determining sense of motion (i.e., approaching or receding)
+115	DETERMINING VELOCITY Digital
+116	DETERMINING VELOCITY With plural received frequency band separation
+117	DETERMINING VELOCITY With plural beams (e.g., "Janus")
+118	DETERMINING DISTANCE
+119	DETERMINING DISTANCE Miss distance indicator (MDI)
+120	DETERMINING DISTANCE Altimeter
+121	DETERMINING DISTANCE Altimeter With additional indicator
+122	DETERMINING DISTANCE Altimeter FM type
+123	DETERMINING DISTANCE Height finder
+124	DETERMINING DISTANCE Material level within container
+125	DETERMINING DISTANCE With remote cooperating station
+126	DETERMINING DISTANCE Triangulation
+127	DETERMINING DISTANCE Phase comparison
+128	DETERMINING DISTANCE With frequency modulation
+129	DETERMINING DISTANCE With frequency modulation Plural frequencies transmitted
+130	DETERMINING DISTANCE With frequency modulation Plural modulation
+131	DETERMINING DISTANCE With frequency modulation Plural modulation Combined with pulse modulation (e.g., frequency agile)
+132	DETERMINING DISTANCE With frequency modulation Plural modulation Combined with pulse modulation (e.g., frequency agile) With pulse modulation (e.g., "Chirp")
+133	DETERMINING DISTANCE With frequency modulation Combined with determining direction
+134	DETERMINING DISTANCE With pulse modulation
+135	DETERMINING DISTANCE With pulse modulation Digital (e.g., with counter)
+136	DETERMINING DISTANCE With pulse modulation Digital (e.g., with counter) With plural fixed range gates
+137	DETERMINING DISTANCE With pulse modulation With variable pulse repetition frequency (PRF) or pulse width
+138	DETERMINING DISTANCE With pulse modulation With type "A" or "J" range scope
+139	DETERMINING DISTANCE With pulse modulation Combined with determining direction
+140	DETERMINING DISTANCE With pulse modulation Combined with determining direction With azimuth and elevation determination
+141	DETERMINING DISTANCE With pulse modulation Combined with determining direction Off boresight
+142	DETERMINING DISTANCE With pulse modulation Combined with determining direction With CRT display
+143	DETERMINING DISTANCE With pulse modulation Combined with determining direction With CRT display Plural
+144	DETERMINING DISTANCE With pulse modulation Combined with determining direction With CRT display PPI type
+145	DETERMINING DISTANCE With correlation
+146	DETERMINING DISTANCE Combined with determining direction
+147	DETERMINING DIRECTION
+148	DETERMINING DIRECTION Low angle processing
+149	DETERMINING DIRECTION Monopulse
+150	DETERMINING DIRECTION Monopulse With common IF channel
+151	DETERMINING DIRECTION Monopulse With channel equalization
+152	DETERMINING DIRECTION Monopulse With quadrature difference processing
+153	DETERMINING DIRECTION Monopulse With particular antenna or waveguide
+154	DETERMINING DIRECTION Monopulse Combined with beam steering
+155	DETERMINING DIRECTION Lobe switching
+156	DETERMINING DIRECTION Interferometer
+157	DETERMINING DIRECTION With frequency or phase steering
+158	DETERMINING DIRECTION Scanning
+159	CLUTTER ELIMINATION
+160	CLUTTER ELIMINATION MTI (Moving target indicator)
+161	CLUTTER ELIMINATION MTI (Moving target indicator) With vehicle movement compensation (e.g., AMTI (Airborn MTI))
+162	CLUTTER ELIMINATION MTI (Moving target indicator) Digital
+163	CLUTTER ELIMINATION MTI (Moving target indicator) With blind speed elimination
+164	CLUTTER ELIMINATION MTI (Moving target indicator) With storage tube
+165	TESTING OR CALIBRATING OF RADAR SYSTEM
+166	TESTING OR CALIBRATING OF RADAR SYSTEM Proximity fuze
+167	TESTING OR CALIBRATING OF RADAR SYSTEM With laser
+168	TESTING OR CALIBRATING OF RADAR SYSTEM With noise generation
+169	TESTING OR CALIBRATING OF RADAR SYSTEM By simulation
+170	TESTING OR CALIBRATING OF RADAR SYSTEM By simulation Microwave
+171	TESTING OR CALIBRATING OF RADAR SYSTEM By simulation Doppler
+172	TESTING OR CALIBRATING OF RADAR SYSTEM By simulation With delay
+173	TESTING OR CALIBRATING OF RADAR SYSTEM By monitoring
+174	TESTING OR CALIBRATING OF RADAR SYSTEM By monitoring Calibrating
+175	WITH PARTICULAR CIRCUIT
+176	WITH PARTICULAR CIRCUIT Display
+177	WITH PARTICULAR CIRCUIT Display Plural
+178	WITH PARTICULAR CIRCUIT Display Projection type
+179	WITH PARTICULAR CIRCUIT Display Image production
+180	WITH PARTICULAR CIRCUIT Display Stereoscopic or tridimensional
+181	WITH PARTICULAR CIRCUIT Display Color
+182	WITH PARTICULAR CIRCUIT Display Electronic marker generation
+183	WITH PARTICULAR CIRCUIT Display Electronic marker generation Cursor
+184	WITH PARTICULAR CIRCUIT Display With stabilization (e.g., True Motion, True North)
+185	WITH PARTICULAR CIRCUIT Display Scan conversion
+186	WITH PARTICULAR CIRCUIT Display With sweep expansion
+187	WITH PARTICULAR CIRCUIT Augmenter
+188	WITH PARTICULAR CIRCUIT With polarization
+189	WITH PARTICULAR CIRCUIT For correlation
+190	WITH PARTICULAR CIRCUIT With recording
+191	WITH PARTICULAR CIRCUIT With recording Mapping
+192	WITH PARTICULAR CIRCUIT Spectrum analysis
+193	WITH PARTICULAR CIRCUIT Spectrum analysis Harmonic
+194	WITH PARTICULAR CIRCUIT Complex signal (in phase and quadrature)
+195	WITH PARTICULAR CIRCUIT Digital processing
+196	WITH PARTICULAR CIRCUIT Digital processing Fast fourier transform (FFT)
+197	WITH PARTICULAR CIRCUIT Digital processing With video quantizer
+198	WITH PARTICULAR CIRCUIT For receiver protection
+199	WITH PARTICULAR CIRCUIT Automatic frequency control (AFC)
+200	WITH PARTICULAR CIRCUIT For frequency modulation
+201	WITH PARTICULAR CIRCUIT For frequency modulation Combined with pulse modulation
+202	WITH PARTICULAR CIRCUIT For pulse modulation
+203	WITH PARTICULAR CIRCUIT For pulse modulation With noise reduction
+204	WITH PARTICULAR CIRCUIT For pulse modulation With pulse shaping
+205	WITH PARTICULAR CIRCUIT Sensitivity time control (STC)
+350	DIRECTIVE
+351	DIRECTIVE Including a radiometer
+352	DIRECTIVE Including a satellite
+353	DIRECTIVE Including a satellite Having a signal repeater
+354	DIRECTIVE Including a satellite With beam steering
+355	DIRECTIVE Including a satellite With control of satellite attitude
+356	DIRECTIVE Including a satellite Synchronous satellite
+357.2	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC)
+357.21	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system
+357.22	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC)
+357.23	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Correcting position, velocity, or attitude
+357.24	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Correcting position, velocity, or attitude Differential correction; e.g., DGPS [differential GPS] (IPC)
+357.25	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC)
+357.26	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) Using carrier phase measurements; e.g., kinematic positioning; using long or short baseline interferometry (IPC)
+357.27	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) Using carrier phase measurements; e.g., kinematic positioning; using long or short baseline interferometry (IPC) Carrier phase ambiguity resolution; floating ambiguity; LAMBDA [Least-squares AMBiguity Declaration Adjustment] method (IPC)
+357.28	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) By combining measurements of signals from the satellite radio beacon positioning system with a supplementary measurement (IPC)
+357.29	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) By combining measurements of signals from the satellite radio beacon positioning system with a supplementary measurement (IPC) The supplementary measurement being of a radio-wave signal type (IPC)
+357.3	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) By combining measurements of signals from the satellite radio beacon positioning system with a supplementary measurement (IPC) The supplementary measurement being an inertial measurement; e.g., tightly coupled inertial (IPC)
+357.31	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) By combining or switching between position solutions derived from the satellite radio beacon positioning system and position solutions derived from a further system (IPC)
+357.32	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) By combining or switching between position solutions derived from the satellite radio beacon positioning system and position solutions derived from a further system (IPC) Whereby the further system is an inertial position system; e.g., loosely coupled (IPC)
+357.33	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) Whereby the position solution is constrained to lie upon a particular curve or surface; e.g., for locomotives on railway tracks (IPC)
+357.34	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining position (IPC) Relative positioning (IPC)
+357.35	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining velocity (IPC)
+357.36	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining attitude (IPC)
+357.37	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining attitude (IPC) Using carrier phase measurements; using long or short baseline interferometry (IPC)
+357.38	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system Satellite radio beacon positioning system transmitting time-stamped messages; e.g., GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Determining attitude (IPC) Using carrier phase measurements; using long or short baseline interferometry (IPC) Carrier phase ambiguity resolution; floating ambiguity; LAMBDA [Least-squares AMBiguity Declaration Adjustment] method)
+357.39	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC)
+357.395	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Details of the space or ground control segments (IPC)
+357.4	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC)
+357.41	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing carrier phase data (IPC)
+357.42	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing aiding data (IPC)
+357.43	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing aiding data (IPC) Employing an initial estimate of the location of the receiver as aiding data or in generating aiding data (IPC)
+357.44	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing data for correcting measured positioning data; e.g., DGPS [differential GPS] or ionosphere corrections (IPC)
+357.45	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing integrity information; e.g., health of satellites or quality of ephemeris data (IPC)
+357.46	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing processing capability normally carried out by the receiver (IPC)
+357.47	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing dedicated supplementary positioning signals (IPC)
+357.48	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing dedicated supplementary positioning signals (IPC) Wherein the cooperating elements are pseudolites or satellite radio beacon positioning system signal repeaters (IPC)
+357.49	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Cooperating elements; interaction or communication between different cooperating elements or between cooperating elements and receivers (IPC) Providing dedicated supplementary positioning signals (IPC) Wherein the cooperating elements are telecommunication base stations (IPC)
+357.51	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC)
+357.52	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Specially adapted for specific applications (IPC)
+357.53	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Specially adapted for specific applications (IPC) Aircraft landing systems (IPC)
+357.54	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Specially adapted for specific applications (IPC) Anti-theft; abduction (IPC)
+357.55	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Specially adapted for specific applications (IPC) Emergency applications (IPC)
+357.56	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Specially adapted for specific applications (IPC) Military applications (IPC)
+357.57	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Specially adapted for specific applications (IPC) Sporting applications (IPC)
+357.58	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Integrity monitoring, fault detection or fault isolation of space segment)
+357.59	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Interference-related issues (IPC)
+357.61	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Multipath-related issues (IPC)
+357.62	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Testing, monitoring, correcting or calibrating of a receiver element (IPC)
+357.63	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC)
+357.64	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC) Involving aiding data received from a cooperating element; e.g., assisted GPS (IPC)
+357.65	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC) Involving a sensor measurement for aiding acquisition or tracking (IPC)
+357.66	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC) Creating, predicting or correcting ephemeris or almanac data within the receiver (IPC)
+357.67	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC) Satellite selection (IPC)
+357.68	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC) Carrier related (IPC)
+357.69	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of signals transmitted by the system (IPC) Code related (IPC)
+357.71	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Acquisition or tracking of other signals for positioning (IPC)
+357.72	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Multimode operation in a single same satellite system; e.g., GPS L1/L2 (IPC)
+357.73	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Multimode operation in different systems which transmit time-stamped messages; e.g., GPS/GLONASS (IPC)
+357.74	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Power consumption
+357.75	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Constructional details or hardware or software details of the signal processing chain (IPC)
+357.76	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Constructional details or hardware or software details of the signal processing chain (IPC) Relating to the receiver frond end (IPC)
+357.77	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Satellite radio beacon positioning system transmitting time-stamped messages; e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO (IPC) Receivers (IPC) Constructional details or hardware or software details of the signal processing chain (IPC) Hardware or software details of the signal processing chain (IPC)
+357.78	DIRECTIVE Including a satellite With position, velocity, or attitude determination (IPC) Using Doppler frequency shift
+358	DIRECTIVE Including a satellite With satellite signal correction
+359	DIRECTIVE Including antenna orientation
+360	DIRECTIVE Including antenna pattern plotting
+361	DIRECTIVE Including polarized signal communication transmitter or receiver
+362	DIRECTIVE Including polarized signal communication transmitter or receiver Receiver only
+363	DIRECTIVE Including polarized signal communication transmitter or receiver Receiver only Circular
+364	DIRECTIVE Including polarized signal communication transmitter or receiver Receiver only Eliptical
+365	DIRECTIVE Including polarized signal communication transmitter or receiver Circular
+366	DIRECTIVE Including polarized signal communication transmitter or receiver Eliptical
+367	DIRECTIVE Including directive communication system
+368	DIRECTIVE Including a steerable array
+369	DIRECTIVE Including a steerable array Injection radiation type
+370	DIRECTIVE Including a steerable array Retrodirective
+371	DIRECTIVE Including a steerable array With electronic scanning
+372	DIRECTIVE Including a steerable array With electronic scanning Controlled
+373	DIRECTIVE Including a steerable array With a matrix
+374	DIRECTIVE Including a steerable array With a switch
+375	DIRECTIVE Including a steerable array With a delay line (e.g., serpentine transmission line, frequency scanning)
+376	DIRECTIVE Including a steerable array Including a remote energy source
+377	DIRECTIVE Including a steerable array Including a computer
+378	DIRECTIVE Utilizing correlation techniques
+379	DIRECTIVE Utilizing correlation techniques Side lobe elimination
+380	DIRECTIVE Utilizing correlation techniques Side lobe elimination Sum of each antenna channel signal
+381	DIRECTIVE Utilizing correlation techniques Side lobe elimination Difference of each antenna channel signal
+382	DIRECTIVE Utilizing correlation techniques Side lobe elimination Mixing each antenna channel signal
+383	DIRECTIVE Utilizing correlation techniques Sum of each antenna signal
+384	DIRECTIVE Utilizing correlation techniques Difference of each antenna channel signal
+385	DIRECTIVE Beacon or receiver
+386	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals
+387	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-chronic type
+388	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-chronic type Loran
+389	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-chronic type Loran Loran-C
+390	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-chronic type Loran Loran-C With cycle selection
+391	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-chronic type Loran Loran-A
+392	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-chronic type With automatic gain control
+393	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-frequency type
+394	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-phase type
+395	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-phase type With hetrodyne synchronization
+396	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-phase type Omega
+397	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Iso-phase type Decca
+398	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Rotating beacon signal
+399	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan
+400	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan Receiver only
+401	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan Receiver only VOR
+402	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan Receiver only VOR Doppler
+403	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan Receiver only VOR Doppler With circular array of antennas
+404	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan VOR
+405	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan VOR Doppler
+406	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Tacan VOR Doppler With circular array of antennas
+407	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating
+408	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Moving beam
+409	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating With superimposed images
+410	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Glide slope transmitter or receiver
+411	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Glide slope transmitter or receiver Receiver only
+412	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Glide slope transmitter or receiver Transmitter only
+413	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Localizer transmitter or receiver
+414	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Distinctive frequencies equi-signal type
+415	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Distinctive frequencies equi-signal type Coded equi-signal (e.g., A and N type)
+416	DIRECTIVE Beacon or receiver With transmisson of bearing or position determinative signals Fixed course or bearing indicating Distinctive frequencies equi-signal type Sequentially effective reflectors
+417	DIRECTIVE Beacon or receiver Direction-finding receiver only
+418	DIRECTIVE Beacon or receiver Direction-finding receiver only Doppler
+419	DIRECTIVE Beacon or receiver Direction-finding receiver only Portable
+420	DIRECTIVE Beacon or receiver Direction-finding receiver only With error or deviatioan compensator or eliminator
+421	DIRECTIVE Beacon or receiver Direction-finding receiver only With error or deviatioan compensator or eliminator Pulse-type noise elimination or compensation (e.g., sky waves)
+422	DIRECTIVE Beacon or receiver Direction-finding receiver only With self-orienting antenna pattern
+423	DIRECTIVE Beacon or receiver Direction-finding receiver only With self-orienting antenna pattern Plural antennas
+424	DIRECTIVE Beacon or receiver Direction-finding receiver only With self-orienting antenna pattern Plural antennas Tracking interferometer
+425	DIRECTIVE Beacon or receiver Direction-finding receiver only With self-orienting antenna pattern Conical scan antenna type
+426	DIRECTIVE Beacon or receiver Direction-finding receiver only With self-orienting antenna pattern Step track antenna type
+427	DIRECTIVE Beacon or receiver Direction-finding receiver only With self-orienting antenna pattern Monopulse or pseuodo monopulse tracking antenna type
+428	DIRECTIVE Beacon or receiver Direction-finding receiver only With continuously movable antenna pattern
+429	DIRECTIVE Beacon or receiver Direction-finding receiver only With continuously movable antenna pattern Including a stationary antenna
+430	DIRECTIVE Beacon or receiver Direction-finding receiver only With continuously movable antenna pattern Including plural moving antennas
+431	DIRECTIVE Beacon or receiver Direction-finding receiver only With continuously movable antenna pattern Including a goniometer
+432	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing
+433	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Successively commutated
+434	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Successively commutated Including more than two antennas
+435	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Successively commutated By diode switching
+436	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Successively commutated By modulation
+437	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Including more than two antennas
+438	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Including separate indicators
+439	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Including combined effect indicator
+440	DIRECTIVE Beacon or receiver Direction-finding receiver only With plural fixed antenna pattern comparing Including a goniometer
+441	DIRECTIVE Beacon or receiver Direction-finding receiver only Having a goniometer
+442	DIRECTIVE Beacon or receiver Direction-finding receiver only Having a phase detector
+443	DIRECTIVE Beacon or receiver Direction-finding receiver only Having a direction indicator
+444	DIRECTIVE Beacon or receiver Direction-finding receiver only Having plural receivers
+445	DIRECTIVE Beacon or receiver Direction-finding receiver only Having more than two antennas
+446	DIRECTIVE Beacon or receiver Direction-finding receiver only Having more than two antennas Unequal distance between at least three antennas
+447	DIRECTIVE Beacon or receiver Direction-finding receiver only Having a spiral antennas
+448	DIRECTIVE Beacon or receiver Direction-finding receiver only Having a coil or loop type antenna
+449	DIRECTIVE Beacon or receiver Direction-finding receiver only Having a moving antenna
+450	DIRECTIVE Position indicating (e.g., triangulation)
+451	DIRECTIVE Position indicating (e.g., triangulation) By computer
+452	DIRECTIVE Position indicating (e.g., triangulation) By plotting table
+453	DIRECTIVE Position indicating (e.g., triangulation) By deflected or repeated signal
+454	DIRECTIVE Position indicating (e.g., triangulation) Traffic
+455	DIRECTIVE Position indicating (e.g., triangulation) Traffic Having collision avoidance
+456	DIRECTIVE Position indicating (e.g., triangulation) Traffic Having traffic control
+457	DIRECTIVE Position indicating (e.g., triangulation) Land vehicle location (e.g., bus, police car
+458	DIRECTIVE Position indicating (e.g., triangulation) Distance
+459	DIRECTIVE Position indicating (e.g., triangulation) Underground object location
+460	DIRECTIVE Position indicating (e.g., triangulation) Storm or atomic explosion location
+461	DIRECTIVE Position indicating (e.g., triangulation) With speed determination
+462	DIRECTIVE Position indicating (e.g., triangulation) With altitude determination
+463	DIRECTIVE Position indicating (e.g., triangulation) Having plural transmitters or receivers
+464	DIRECTIVE Position indicating (e.g., triangulation) Having plural transmitters or receivers Plural transmitters only
+465	DIRECTIVE Position indicating (e.g., triangulation) Having plural transmitters or receivers Plural receivers only
+FOR000	CLASS-RELATED FOREIGN DOCUMENTS

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="41318">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F01" endSymbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINES AND PUMPS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MACHINES OR ENGINES IN GENERAL</text>
+						<entryReference>combustion engines <sref ref="F02" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>machines for liquids <sref ref="F03" refType="/" refLevel="c"></sref>, <sref ref="F04" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>ENGINE PLANTS IN GENERAL</text>
+					</titlePart>
+					<titlePart><text>STEAM ENGINES</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMBUSTION ENGINES</text>
+						<entryReference>cyclically operating valves therefor, lubricating, exhausting, or silencing engines <sref ref="F01" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>HOT-GAS OR COMBUSTION-PRODUCT ENGINE PLANTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F03" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MACHINES OR ENGINES FOR LIQUIDS</text>
+						<entryReference>for liquids and elastic fluids <sref ref="F01" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>positive-displacement machines for liquids <sref ref="F04" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>WIND, SPRING, WEIGHT, OR MISCELLANEOUS MOTORS</text>
+					</titlePart>
+					<titlePart><text>PRODUCING MECHANICAL POWER OR A REACTIVE PROPULSIVE THRUST, NOT OTHERWISE PROVIDED FOR</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F04" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>POSITIVE-DISPLACEMENT MACHINES FOR LIQUIDS</text>
+					</titlePart>
+					<titlePart><text>PUMPS FOR LIQUIDS OR ELASTIC FLUIDS</text>
+						<entryReference>charging or scavenging combustion engines by pumps <sref ref="F02B" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>engine fuel-injection pumps <sref ref="F02M" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>ion pumps <sref ref="H01J0041120000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>electrodynamic pumps <sref ref="H02K0044020000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F04" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>Combinations of positive-displacement and non-positive-displacement pumps are to be found in the following sub-classes: <sref ref="F04B" refType="/" refLevel="c"/> as a general sub-class for pumps; <sref ref="F04C" refType="/" refLevel="c"/>, <sref ref="F04D" refType="/" refLevel="c"/> in respect of matter peculiar to these sub-classes.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="t" symbol="F15" endSymbol="F15" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINEERING IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F15" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>FLUID-PRESSURE ACTUATORS</text>
+					</titlePart>
+					<titlePart><text>HYDRAULICS OR PNEUMATICS IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F16" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINEERING ELEMENTS OR UNITS</text>
+					</titlePart>
+					<titlePart><text>GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS</text>
+					</titlePart>
+					<titlePart><text>THERMAL INSULATION IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F17" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>STORING OR DISTRIBUTING GASES OR LIQUIDS</text>
+						<entryReference>water supply <sref ref="E03B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING</text>
+						<entryReference>electric aspects or elements Section H, e.g. electric light sources <sref ref="H01J" refType="/" refLevel="c"></sref>, <sref ref="H01K" refType="/" refLevel="c"></sref>, <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F21" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the note (Note III) following the Contents of Section of Section H.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Portable" means "intended to be carried personally".</text>
+								</noteParagraph>
+								<noteParagraph><text>"Non-portable" means "not intended to be carried personally, even if capable of being moved from place to place".</text>
+								</noteParagraph>
+								<noteParagraph><text>"Electric" includes "not stated to be non-electric".</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F22" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>STEAM GENERATION</text>
+						<entryReference>chemical or physical apparatus for generating gases <sref ref="B01J" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>chemical generation of gas, e.g. under pressure, Section C</entryReference>
+						<entryReference>generating combustion products of high pressure or high velocity <sref ref="F23R" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>water heaters not for steam generation <sref ref="F24H" refType="/" refLevel="c"></sref>, <sref ref="F28" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F22" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the term "steam" also covers other condensable vapours, e.g. mercury, diphenyl, diphenyl oxide.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F23" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMBUSTION APPARATUS</text>
+					</titlePart>
+					<titlePart><text>COMBUSTION PROCESSES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F23" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Combustion" means the direct combination of oxygen gas, e.g. in air, and a burnable substance. Any other heat-producing combination of chemical substances, e.g. hydrogen peroxide and methane, iron oxide and aluminium, is provided for in Section C or in sub-class <sref ref="F24J" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Combustion chamber" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Burner" means a device by which fluent fuel is passed to a combustion space where it burns to produce a self-supporting flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Air" means a mixture of gases containing free oxygen and able to promote or support combustion.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F24" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HEATING</text>
+					</titlePart>
+					<titlePart><text>RANGES</text>
+					</titlePart>
+					<titlePart><text>VENTILATING</text>
+						<entryReference>protecting plants by heating in gardens, orchards, or forests <sref ref="A01G0013060000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>baking ovens and apparatus <sref ref="A21B" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>cooking devices other than ranges <sref ref="A47J" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>specially adapted for vehicles, <u>see</u> the relevant sub-classes of classes <mref ref="B60" endRef="B64" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+						</entryReference>
+						<entryReference>combustion apparatus in general <sref ref="F23" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>drying <sref ref="F26B" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>ovens in general <sref ref="F27" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>electric heating elements and arrangements <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F24" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Stove" includes an open fire.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Range" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F25" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>REFRIGERATION OR COOLING</text>
+					</titlePart>
+					<titlePart><text>MANUFACTURE OR STORAGE OF ICE</text>
+					</titlePart>
+					<titlePart><text>LIQUEFACTION OR SOLIDIFICATION OF GASES</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F26" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>DRYING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F27" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>FURNACES</text>
+					</titlePart>
+					<titlePart><text>KILNS</text>
+					</titlePart>
+					<titlePart><text>OVENS</text>
+					</titlePart>
+					<titlePart><text>RETORTS</text>
+						<entryReference>specially adapted for a purpose covered by a single other class and specifically mentioned <u>per se</u> in that class, <u>see</u> the class in question, e.g. bakery ovens <sref ref="A21B" refType="/" refLevel="c"></sref>, coke or gas-making apparatus <sref ref="C10B" refType="/" refLevel="c"></sref>, <sref ref="C10J" refType="/" refLevel="c"></sref>, apparatus for craking hydrocarbons <sref ref="C10G" refType="/" refLevel="c"></sref>, blast furnaces <sref ref="C21B" refType="/" refLevel="c"></sref>, Bessemer converters for making steel <sref ref="C21C" refType="/" refLevel="c"></sref>, furnaces for heat treatment of metal <sref ref="C21D" refType="/" refLevel="c"></sref>, enamelling ovens <sref ref="C23D" refType="/" refLevel="c"></sref>, combustion apparatus <sref ref="F23" refType="/" refLevel="c"></sref>, electric heating <sref ref="H05B" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F27" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>This class deals with furnaces, kilns, ovens, retorts, open sintering apparatus, and details or accessories therefor, in general. It includes the arrangement of electrical heating elements in or on furnaces, but not the elements themselves. It is not concerned with the processes carried on within the furnaces.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, where appropriate, the term "furnaces" is to be understood as covering kilns, ovens, or retorts.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F28" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HEAT EXCHANGE IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F28" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Apparatus using heat exchange or heat transfer (as defined below) for specific purposes is classified either in sub-class <sref ref="F28B" refType="/" refLevel="c"/> or in the appropriate sub-classes of, for example, classes <sref ref="F22" refType="/" refLevel="c"/>, <sref ref="F24" refType="/" refLevel="c"/>, <sref ref="F25" refType="/" refLevel="c"/>, <sref ref="F26" refType="/" refLevel="c"/>, or <sref ref="F27" refType="/" refLevel="c"/>; if no such other sub-class is appropriate, such apparatus is classified in sub-clas <sref ref="F28C" refType="/" refLevel="c"/> or <sref ref="F28D" refType="/" refLevel="c"/>.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Heat exchange" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Heat transfer" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="t" symbol="F41" endSymbol="F41" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>WEAPONS</text>
+					</titlePart>
+					<titlePart><text>BLASTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F41" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>WEAPONS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F41" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Semi-automatic firearm" <emdash/> a firearm from which one shot is fired after actuation of the trigger and which then returns to a condition for firing a subsequent shot upon renewed actuation of the trigger.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Automatic gun" <emdash/> a gun which will continue firing so long as the initial firing pressure is maintained on the trigger.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Sighting" <emdash/> bringing into visual coincidence a direction defined by a so-called "sighting" device with the direction of a target.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Aiming" <emdash/> bringing a weapon to a direction differing from the sighting direction by corrections in order that the projectile may hit the target.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Laying" <emdash/> setting a weapon in the correct position for hitting a mark.</text>
+								</noteParagraph>
+								<noteParagraph><text>(not applicable in English).</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+						<noteParagraph><text>Although simulators are generally in class <sref ref="G09" refType="/" refLevel="c"/>, provision is included in class <sref ref="F41" refType="/" refLevel="c"/> for means for practice and training which may have aspects of simulation, e.g. in apparatus for so-called "military games".</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F42" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>AMMUNITION</text>
+					</titlePart>
+					<titlePart><text>BLASTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F42" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Although simulators are generally in class <sref ref="G09" refType="/" refLevel="c"/>, provision is included in class <sref ref="F42" refType="/" refLevel="c"/> for means for practice or training which may have aspects of simulation.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Primer" effects the first explosive step in the sequence of explosion.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Percussion cap" <emdash/> a primer which is struck to explode.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Igniter" effects the first spark-producing or heat-producing step but may not be explosive.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Firing-means", "initiator" (used respectively in the arts of weaponry and blasting) <emdash/> the device acting directly on the primer, which device may or may not form part of the fuze.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Detonator charge" <emdash/> a charge used to amplify the explosion of the primer.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Fuze" <emdash/> an assembly which determines the moment of the explosion (instantaneous or delayed) and which incorporates firing-means for initiating the explosion spark.</text>
+								</noteParagraph>
+								<noteParagraph edition="19740701"><text>"Ammunition" covers expulsion charge and projectile whether or not forming a single body, unless otherwise made clear.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

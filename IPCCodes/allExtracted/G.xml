@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="24872">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MEASURING</text>
+						<entryReference>counting <sref ref="G06M" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>TESTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>OPTICS</text>
+						<entryReference>making optical elements or apparatus <sref ref="B24B" refType="/" refLevel="c"></sref>, <sref ref="B29D" refType="/" refLevel="c"></sref>, <sref ref="C03" refType="/" refLevel="c"></sref>, or other appropriate sub-classes or classes</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G03" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>PHOTOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>CINEMATOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>ELECTROGRAPHY</text>
+					</titlePart>
+					<titlePart><text>HOLOGRAPHY</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G04" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HOROLOGY</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G05" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CONTROLLING</text>
+					</titlePart>
+					<titlePart><text>REGULATING</text>
+						<entryReference>specially adapted to a particular field of use, <u>see</u> the relevant sub-class, e.g. <sref ref="B23Q" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G05" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>This class covers methods, systems, and apparatus for controlling in general.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Controlling" means influencing a variable in any way, e.g. changing its direction or its value (including changing it to or from zero), maintaining it constant, limiting its range of variation.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Regulation" means maintaining a variable automatically at a desired value or within a desired range of values. The desired value or range may be fixed, or manually varied, or may vary with time according to a predetermined "programme" or according to variation of another variable. Regulation is a form of control; the term "automatic control" is often used in the art as a synonym for "regulation".</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G06" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMPUTING</text>
+					</titlePart>
+					<titlePart><text>CALCULATING</text>
+					</titlePart>
+					<titlePart><text>COUNTING</text>
+						<entryReference>score computers for games <sref ref="A63B0071060000" refType="/" refLevel="c"></sref>, <sref ref="A63D0015200000" refType="/" refLevel="c"></sref>, <sref ref="A63F0001180000" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>combinations of writing appliances with computing devices <sref ref="B43K0029080000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G06" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>The term "data" is understood to be synonymous with "information", and the term "information" is therefore not used in sub-class <sref ref="G06C" refType="/" refLevel="c"/> or <sref ref="G06F" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>The terms "calculating" and "computing" are both understood to include, inter alia, operations on numerical values and on data expressed in numerical form; of these words "computing" is used throughout the class. "Computation" is derived from this interpretation of "computing". In the French language the word "calcul" will serve for either word.</text>
+								</noteParagraph>
+								<noteParagraph><text>In those sub-classes which include simulators:</text>
+									<subnote type="roman">
+										<noteParagraph><text>a simulator in class <sref ref="G06" refType="/" refLevel="c"/> is concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</text>
+										</noteParagraph>
+										<noteParagraph><text>control functions derived from simulators are not in class <sref ref="G06" refType="/" refLevel="c"/> but are generally in class <sref ref="G05" refType="/" refLevel="c"/>, although they may be in the sub-class for the device controlled;</text>
+										</noteParagraph>
+										<noteParagraph><text>measurement of an individual variable to serve as an input to a simulator is in class <sref ref="G01" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator is regarded as a teaching or training device proper to class <sref ref="G09" refType="/" refLevel="c"/> if the simulator gives perceptible sensations having a likeness to the sensations the student would experience in reality in response to actions taken by him. Simulators which demonstrate, by means involving computing, the functioning of apparatus or of a system are in class <sref ref="G06" refType="/" refLevel="c"/>, if no provision exists elsewhere. Components of simulators, if identical with real devices or machines, are classified in the relevant sub-class for these devices or machines and not in class <sref ref="G06" refType="/" refLevel="c"/> or <sref ref="G09" refType="/" refLevel="c"/>;</text>
+										</noteParagraph>
+										<noteParagraph><text>a simulator may use the same time scale as the real device or operate on an expanded or compressed time scale;</text>
+										</noteParagraph>
+										<noteParagraph><text>models of real devices to reduced or expanded scales are not regarded as simulators.</text>
+										</noteParagraph>
+									</subnote>
+								</noteParagraph>
+								<noteParagraph><text>The term "record carrier" is understood to mean a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G07" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CHECKING-DEVICES</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G08" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SIGNALLING</text>
+						<entryReference>indicating or display devices <u>per se</u>
+							<sref ref="G09F" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>transmission of pictures <sref ref="H04N" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>arrangements for selective calling from one station to another <sref ref="H04Q0009000000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G09" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>EDUCATING</text>
+					</titlePart>
+					<titlePart><text>CRYPTOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>DISPLAY</text>
+					</titlePart>
+					<titlePart><text>ADVERTISING</text>
+					</titlePart>
+					<titlePart><text>SEALS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G10" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MUSICAL INSTRUMENTS</text>
+					</titlePart>
+					<titlePart><text>ACOUSTICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G10" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>This class covers generally all sound-emitting devices, whether or not they may be considered as being musical.</text>
+						</noteParagraph>
+						<noteParagraph><text>The term "musical instrument", used in this class, should not be understood as excluding devices emitting a single sound signal.</text>
+						</noteParagraph>
+						<noteParagraph><text>For the convenience of users, the following Class Index is given in place of Sub-class Indexes, to show the grouping of the elaborations belonging to different sub-classes, under the three fundamental types:</text>
+							<subnote type="none">
+								<noteParagraph><text>Wind instruments </text>
+								</noteParagraph>
+								<noteParagraph><text>String instruments </text>
+								</noteParagraph>
+								<noteParagraph><text>Percussion instruments </text>
+								</noteParagraph>
+								<noteParagraph><text>which relate clearly to the majority of instruments.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+						<noteParagraph><text>There are of course some instruments of which the principle of operation belongs less clearly to one of these three types. They correspond to groups <sref ref="G10D0017000000" refType="/" refLevel="c"/> and <sref ref="G10K0007000000" refType="/" refLevel="c"/>, <sref ref="G10K0009000000" refType="/" refLevel="c"/>, <sref ref="G10K0010000000" refType="/" refLevel="c"/>, all the other groups normally finding a definite place.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G11" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INFORMATION STORAGE</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G12" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENT DETAILS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="t" symbol="G21" endSymbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEONICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEAR PHYSICS</text>
+					</titlePart>
+					<titlePart><text>NUCLEAR ENGINEERING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

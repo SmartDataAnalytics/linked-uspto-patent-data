@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="4148">
+	<ipcEntry kind="s" symbol="A" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION A <emdash></emdash> HUMAN NECESSITIES</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="A21" endSymbol="A21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>FOODSTUFFS AND TOBACCO</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="A22" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BUTCHERING</text>
+					</titlePart>
+					<titlePart><text>MEAT TREATMENT</text>
+					</titlePart>
+					<titlePart><text>PROCESSING POULTRY OR FISH</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="A22B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SLAUGHTERING</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="A22C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PROCESSING MEAT, POULTRY OR FISH</text>
+							<entryReference>preserving <sref ref="A23B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>obtaining proteins from meat or fish <sref ref="A23J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fish, meat or poultry preparations <sref ref="A23L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>disintegrating, e.g. chopping meat, <sref ref="B02C0018000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

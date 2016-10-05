@@ -1,0 +1,2462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="249424">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BASIC ELECTRIC ELEMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="H01" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01L" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SEMICONDUCTOR DEVICES</text>
+						</titlePart>
+						<titlePart><text>ELECTRIC SOLID STATE DEVICES NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>use of semiconductor devices for measuring <sref ref="G01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>resistors in general <sref ref="H01C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>magnets, inductors, transformers <sref ref="H01F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>capacitors in general <sref ref="H01G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrolytic devices <sref ref="H01G0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>batteries, accumulators <sref ref="H01M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>waveguides, resonators, or lines of the waveguide type <sref ref="H01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>line connectors, current collectors <sref ref="H01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>stimulated-emission devices <sref ref="H01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical resonators <sref ref="H03H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical transducers for electrical communication <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electric light sources in general <sref ref="H05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>printed circuits, hybrid circuits, casings or constructional details of electrical apparatus, manufacture of assemblages of electrical components <sref ref="H05K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>use of semiconductor devices in circuits having a particular application, <u>see</u> the sub-class for the application</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01L" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19740701"><text>This sub-class provides for electric solid state devices which are not provided for in any other sub-class and details thereof, and includes: semiconductor devices adapted for rectifying, amplifying, oscillating or switching; semiconductor devices sensitive to radiation; electric solid state devices using thermoelectric, superconductive, piezo-electric, electrostrictive, magnetostrictive, galvano-magnetic or bulk negative resistance effects and integrated circuit devices. Also provided for in this sub-class are photoresistors, magnetic field dependent resistors, field effect resistors, capacitors with potential-jump barrier, resistors with potential-jump barrier or surface barrier, incoherent light emitting diodes and thin-film or thick-film circuits. Furthermore, it provides for processes and apparatus adapted for the manufacture or treatment of such devices, except where such processes relate to single-step processes for which provision exists elsewhere.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="bullet">
+									<noteParagraph><text>The expression "solid state body" refers to the body of material within which, or at the surface of which, the physical effects characteristic of the device occur. In thermoelectric devices, it includes all materials in the current path.</text>
+									</noteParagraph>
+									<noteParagraph><text>Regions in or on the body of the device (other than the solid state body itself), which exert an influence on the solid state body electrically, are considered to be "electrodes" whether or not an external electrical connection is made thereto. An electrode may include several portions and the term includes metallic regions which exert influence on the solid state body through an insulating region (e.g. capacitive coupling) and inductive coupling arrangements to the body. The dielectric region in a capacitive arrangement is regarded as part of the electrode. In arrangements including several portions, only those portions which exert an influence on the solid state body by virtue of their shape, size, or disposition or the material of which they are formed are considered to be part of the electrode. The other portions are considered to be "arrangements for conducting electric current to or from the solid state body" or "interconnections between solid state components formed in or on a common substrate", i.e. leads.</text>
+									</noteParagraph>
+									<noteParagraph><text>The word "device" refers to an electric circuit element; where an electric circuit element is one of a plurality of elements formed in or on a common substrate it is referred to as a "component". A "complete device" is a device in its fully assembled state which may or may not require further treatment, e.g. electroforming, before it is ready for use but which does not require the addition of further structural units. The word "parts" includes all structural units which are included in a complete device.</text>
+									</noteParagraph>
+									<noteParagraph><text>A "container" is an enclosure forming part of the complete device and is essentially a solid construction in which the body of the device is placed, or which is formed around the body without forming an intimate layer thereon. An enclosure which consists of one or more layers formed on the body and in intimate contact therewith is referred to as an "encapsulation". </text>
+									</noteParagraph>
+									<noteParagraph edition="19740701"><text>"Integrated circuit" is a device where all components, e.g. diodes, resistors, are built up on a common substrate and form the device including interconnections between the components. "Assembly" of a device is the building up of the device from its component constructional units and includes the provision of fillings in containers.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Processes or apparatus adapted for the manufacture or treatment of semiconductor or solid state devices or of parts thereof</text>
+								<entryReference>processes or apparatus peculiar to the manufacture or treatment of devices provided for in groups <mref ref="H01L0031000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> or of parts thereof, see these groups</entryReference>
+								<entryReference>single-step processes covered by other sub-classes, <u>see</u> the relevant sub-classes, e.g. <sref ref="C23C" refType="/" refLevel="c"></sref>, <sref ref="C30B" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>preparation of originals for the photo-mechanical production of textured or patterned surfaces <sref ref="G03F0001000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="H01L0021020000" endSymbol="H01L0021680000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph edition="19740701"><text>Group <sref ref="H01L0021700000" refType="/" refLevel="c"/> takes precedence over groups <mref ref="H01L0021020000" endRef="H01L0021680000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Manufacture or treatment of semiconductor devices or of parts thereof</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the devices having at least one potential-jump barrier or surface barrier, e.g. PN junction, depletion layer, carrier concentration layer</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the devices having semiconductor bodies comprising selenium or tellurium in uncombined form other than as impurities in semiconductor bodies of other materials</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Preparation of the foundation plate</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Preliminary treatment of the selenium or tellurium, its application to the foundation plate, or the subsequent treatment of the combination</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021103000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Conversion of the selenium or tellurium to the conductive state</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021105000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Treatment of the surface of the selenium or tellurium layer after having been made conductive</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021108000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Provision of discrete insulating layers, i.e. non-genetic barrier layers</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Application of an electrode to the exposed surface of the selenium or tellurium after the selenium or tellurium has been applied to the foundation plate</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Treatment of the complete device, e.g. by electroforming to form a barrier</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021145000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Ageing</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the devices having semiconductor bodies comprising cuprous oxide or cuprous iodide</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the devices having semiconductor bodies comprising elements of the fourth group of the Periodic System or AIII BV compounds with or without impurities, e.g. doping materials</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Deposition of semiconductor materials on a substrate, e.g. epitaxial growth</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021203000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using physical deposition, e.g. vacuum deposition, sputtering</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021205000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using reduction or decomposition of a gaseous compound yielding a solid condensate, i.e. chemical deposition</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021208000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using liquid deposition</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Diffusion of impurity materials, e.g. doping materials, electrode materials, into, or out of, a semiconductor body, or between semiconductor regions</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021223000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using diffusion into, or out of, a solid from or into a gaseous phase</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021225000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using diffusion into, or out of, a solid from or into a solid phase, e.g. a doped oxide layer</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021228000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using diffusion into, or out of, a solid from or into a liquid phase, e.g. alloy diffusion processes</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Alloying of impurity materials, e.g. doping materials, electrode materials, with a semiconductor body</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Bombardment with radiation</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021263000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>with high-energy radiation</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021265000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>producing ion implantation</text>
+														<entryReference>ion-beam tubes for localised treatment <sref ref="H01J0037300000" refType="/" refLevel="c"></sref>
+														</entryReference>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021268000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>using electromagnetic radiation, e.g. laser radiation</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Manufacture of electrodes on semiconductor bodies using processes or apparatus not provided for in groups <mref ref="H01L0021200000" endRef="H01L0021268000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021283000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Deposition of conductive or insulating materials for electrodes</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021285000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>from a gas or vapour, e.g. condensation</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021288000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>from a liquid, e.g. electrolytic deposition</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Treatment of semiconductor bodies using processes or apparatus not provided for in groups <mref ref="H01L0021200000" endRef="H01L0021260000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</text>
+												<entryReference>manufacture of electrodes thereon <sref ref="H01L0021280000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021302000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>to change their surface-physical characteristics or shape, e.g. etching, polishing, cutting</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021304000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>Mechanical treatment, e.g. grinding, ultrasonic treatment</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021306000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>Chemical or electrical treatment, e.g. electrolytic etching</text>
+														<entryReference>to form insulating layers <sref ref="H01L0021310000" refType="/" refLevel="c"></sref>
+														</entryReference>
+													</titlePart>
+												</title>
+											</textBody>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021308000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>using masks</text>
+														</titlePart>
+													</title>
+												</textBody>
+											</ipcEntry>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021310000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>to form insulating layers thereon, e.g. for masking</text>
+														<entryReference>layers forming electrodes <sref ref="H01L0021280000" refType="/" refLevel="c"></sref>
+														</entryReference>
+														<entryReference>encapsulating layers <sref ref="H01L0021560000" refType="/" refLevel="c"></sref>
+														</entryReference>
+													</titlePart>
+												</title>
+											</textBody>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021312000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>organic layers, e.g. photoresist</text>
+														</titlePart>
+													</title>
+												</textBody>
+											</ipcEntry>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021314000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>inorganic layers</text>
+														</titlePart>
+													</title>
+												</textBody>
+												<ipcEntry edition="19740701" kind="8" symbol="H01L0021316000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+													<textBody><title>
+															<titlePart><text>composed of oxides or glassy oxides or oxide-based glass</text>
+															</titlePart>
+														</title>
+													</textBody>
+												</ipcEntry>
+												<ipcEntry edition="19740701" kind="8" symbol="H01L0021318000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+													<textBody><title>
+															<titlePart><text>composed of nitrides</text>
+															</titlePart>
+														</title>
+													</textBody>
+												</ipcEntry>
+											</ipcEntry>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>using masks</text>
+															<entryReference><sref ref="H01L0021308000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+														</titlePart>
+													</title>
+												</textBody>
+											</ipcEntry>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021322000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>to modify their internal properties, e.g. to produce internal imperfections</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021324000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Thermal treatment for modifying the properties of semiconductor bodies, e.g. annealing, sintering</text>
+													<entryReference><mref ref="H01L0021200000" endRef="H01L0021288000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, <mref ref="H01L0021302000" endRef="H01L0021322000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021326000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Application of electric currents or fields, e.g. for electroforming</text>
+													<entryReference><mref ref="H01L0021200000" endRef="H01L0021288000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, <mref ref="H01L0021302000" endRef="H01L0021324000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the devices having semiconductor bodies not provided for in groups <sref ref="H01L0021060000" refType="/" refLevel="c"></sref>, <sref ref="H01L0021160000" refType="/" refLevel="c"></sref>, and <sref ref="H01L0021180000" refType="/" refLevel="c"></sref> with or without impurities, e.g. doping materials</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Deposition of semiconductor materials on a substrate, e.g. epitaxial growth</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021363000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using physical deposition, e.g. vacuum deposition, sputtering</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021365000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using reduction or decomposition of a gaseous compound yielding a solid condensate, i.e. chemical deposition</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021368000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using liquid deposition</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Diffusion of impurity materials, e.g. doping materials, electrode materials, into, or out of, a semiconductor body, or between semiconductor regions</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021383000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using diffusion into, or out of, a solid from or into a gaseous phase</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021385000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using diffusion into, or out of, a solid from or into a solid phase, e.g. a doped oxide layer</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021388000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using diffusion into, or out of, a solid from or into a liquid phase, e.g. alloy diffusion processes</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Alloying of impurity materials, e.g. doping materials, electrode materials, with a semiconductor body</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Bombardment with radiation</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021423000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>with high-energy radiation</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021425000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>producing ion implantation</text>
+														<entryReference>ion-beam tubes for localised treatment <sref ref="H01J0037300000" refType="/" refLevel="c"></sref>
+														</entryReference>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021428000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>using electromagnetic radiation, e.g. laser radiation</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Manufacture of electrodes on semiconductor bodies using processes or apparatus not provided for in groups <mref ref="H01L0021360000" endRef="H01L0021428000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021441000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Deposition of conductive or insulating materials for electrodes</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021443000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>from a gas or vapour, e.g. condensation</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021445000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>from a liquid, e.g. electrolytic deposition</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021447000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>involving the application of pressure, e.g. thermo-compression bonding</text>
+													<entryReference><sref ref="H01L0021607000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021449000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>involving the application of mechanical vibrations, e.g. ultrasonic vibrations</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Treatment of semiconductor bodies using processes or apparatus not provided for in groups <mref ref="H01L0021360000" endRef="H01L0021428000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</text>
+												<entryReference>manufacture of electrodes thereon <sref ref="H01L0021440000" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021461000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>to change their surface-physical characteristics or shape, e.g. etching, polishing, cutting</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021463000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>Mechanical treatment, e.g. grinding, ultrasonic treatment</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021465000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>Chemical or electrical treatment, e.g. electrolytic etching</text>
+														<entryReference>to form insulating layers <sref ref="H01L0021469000" refType="/" refLevel="c"></sref>
+														</entryReference>
+													</titlePart>
+												</title>
+											</textBody>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021467000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>using masks</text>
+														</titlePart>
+													</title>
+												</textBody>
+											</ipcEntry>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0021469000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>to form insulating layers thereon, e.g. for masking</text>
+														<entryReference>layers forming electrodes <sref ref="H01L0021440000" refType="/" refLevel="c"></sref>
+														</entryReference>
+														<entryReference>encapsulation layers <sref ref="H01L0021560000" refType="/" refLevel="c"></sref>
+														</entryReference>
+													</titlePart>
+												</title>
+											</textBody>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021470000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>organic layers, e.g. photoresist</text>
+														</titlePart>
+													</title>
+												</textBody>
+											</ipcEntry>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021471000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>inorganic layers</text>
+														</titlePart>
+													</title>
+												</textBody>
+												<ipcEntry edition="19740701" kind="8" symbol="H01L0021473000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+													<textBody><title>
+															<titlePart><text>composed of oxides or glassy oxides or oxide-based glass</text>
+															</titlePart>
+														</title>
+													</textBody>
+												</ipcEntry>
+											</ipcEntry>
+											<ipcEntry edition="19740701" kind="7" symbol="H01L0021475000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+												<textBody><title>
+														<titlePart><text>using masks</text>
+															<entryReference><sref ref="H01L0021467000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+														</titlePart>
+													</title>
+												</textBody>
+											</ipcEntry>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021477000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Thermal treatment for modifying the properties of semiconductor bodies, e.g. annealing, sintering</text>
+													<entryReference><mref ref="H01L0021360000" endRef="H01L0021449000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, <mref ref="H01L0021461000" endRef="H01L0021475000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021479000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Application of electric currents or fields, e.g. for electroforming</text>
+													<entryReference><mref ref="H01L0021360000" endRef="H01L0021449000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, <mref ref="H01L0021461000" endRef="H01L0021477000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Manufacture or treatment of parts, e.g. containers, prior to assembly of the devices, using processes not provided for in a single one of the groups <mref ref="H01L0021060000" endRef="H01L0021326000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+											</text>
+											<entryReference>containers, encapsulations, fillings, mountings <u>per se</u>
+												<sref ref="H01L0023000000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Assembly of semiconductor devices using processes or apparatus not provided for in a single one of the groups <mref ref="H01L0021060000" endRef="H01L0021326000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+											</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Mounting semiconductor bodies in containers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Providing fillings in containers, e.g. gas fillings</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Encapsulations, e.g. encapsulation layers, coatings</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Mounting semiconductor devices on supports</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Attaching leads or other conductive members, to be used for carrying current to or from the device in operation</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021603000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>involving the application of pressure, e.g. thermo-compression bonding</text>
+													<entryReference><sref ref="H01L0021607000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0021607000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>involving the application of mechanical vibrations, e.g. ultrasonic vibrations</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021620000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the devices having no potential-jump barriers or surface barriers</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0021640000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Manufacture or treatment of solid state devices other than semiconductor devices, or of parts thereof, not peculiar to a single device provided for in groups <mref ref="H01L0031000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0021660000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Testing or measuring during manufacture or treatment</text>
+									<entryReference>after manufacture <sref ref="G01R0031260000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0021680000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Apparatus for supporting or positioning components during manufacture, e.g. jigs</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0021700000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Manufacture or treatment of devices consisting of a plurality of solid state components formed in or on a common substrate or of parts thereof</text>
+								</titlePart>
+								<titlePart><text>Manufacture of integrated circuit devices or of parts thereof</text>
+									<entryReference>manufacture of assemblies consisting of preformed electrical components <sref ref="H05K0003000000" refType="/" refLevel="c"></sref>, <sref ref="H05K0013000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021720000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the substrate being a semiconductor body</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021740000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Making of buried regions of high impurity concentration, e.g. buried collector layers, internal connections</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021760000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Making of isolation regions between components, e.g. PN junctions, dielectric layers, air gaps</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021780000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with subsequent division of the substrate into a plurality of individual components</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0021800000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>each individual component consisting of a plurality of components formed in or on a common substrate</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021820000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>without subsequent division of the substrate into a plurality of individual components, e.g. integrated circuits</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021840000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the substrate being other than a semiconductor body, e.g. being an insulating body</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021860000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the insulating body being sapphire, e.g. silicon on sapphire structure, i.e. SOS</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021880000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Applying leads or other conductive members to be used for carrying current</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021900000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>within the device from one component in operation to the other</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021920000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>to or from the device in operation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021940000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Forming insulating layers or insulating regions</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0021950000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>within the device</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021960000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Manufacture or treatment of parts, e.g. containers, for devices consisting of a plurality of solid state components formed in or on a common substrate, prior to assembly of the devices</text>
+									</titlePart>
+									<titlePart><text>Manufacture or treatment of parts, e.g. containers, for integrated circuit devices, prior to assembly of the devices</text>
+										<entryReference>containers, encapsulations, fillings, mountings <u>per se</u>
+											<sref ref="H01L0023000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0021980000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Assembly of devices consisting of solid state components formed in or on a common substrate</text>
+									</titlePart>
+									<titlePart><text>Assembly of integrated circuit devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Details of semiconductor or other solid state devices</text>
+								<entryReference><sref ref="H01L0025000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>details of semiconductor bodies or of electrodes of devices provided for in group <sref ref="H01L0029000000" refType="/" refLevel="c"></sref> are classified therein</entryReference>
+								<entryReference>details peculiar to devices provided for in a single group of groups <mref ref="H01L0031000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> are classified therein</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Containers</text>
+								</titlePart>
+								<titlePart><text>Seals</text>
+									<entryReference><sref ref="H01L0023120000" refType="/" refLevel="c"></sref>, <sref ref="H01L0023340000" refType="/" refLevel="c"></sref>, <sref ref="H01L0023480000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the shape</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the material of the container or its electrical properties</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0023080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the material being an electrical insulator, e.g. glass</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the material or arrangement of seals between parts, e.g. between containers and mountings</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Mountings</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the material or its electrical properties</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Fillings</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the material or its physical or chemical properties or its arrangement within the complete device</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="n" symbol="H01L0023200000" endSymbol="H01L0023240000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody>
+									<note type="none">
+										<noteParagraph edition="19740701"><text>Group <sref ref="H01L0023260000" refType="/" refLevel="c"/> takes precedence over groups <mref ref="H01L0023200000" endRef="H01L0023240000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>.</text>
+										</noteParagraph>
+									</note>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0023200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>gaseous at the normal operating temperature of the device</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0023220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>liquid at the normal operating temperature of the device</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0023240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>solid or gel, at the normal operating temperature of the device</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0023260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>including materials for absorbing or reacting with moisture or other undesired substances</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Encapsulations</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the material or arrangement of the encapsulation</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Holders for supporting the complete device in operation</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cooling arrangements</text>
+								</titlePart>
+								<titlePart><text>Heating arrangements</text>
+								</titlePart>
+								<titlePart><text>Ventilating arrangements</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Selection of materials, or shaping, to facilitate cooling or heating, e.g. heat sinks</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cooling arrangements using the Peltier effect</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Mountings or securing means for detachable cooling or heating arrangements</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Fillings selected or arranged to facilitate heating or cooling, e.g. by change of state</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the complete device being wholly immersed in a fluid other than air</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>involving the transfer of heat by flowing fluids</text>
+										<entryReference><sref ref="H01L0023420000" refType="/" refLevel="c"></sref>, <sref ref="H01L0023440000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for conducting electric current to or from the solid state body in operation, e.g. leads, terminal arrangements</text>
+									<entryReference>in general <sref ref="H01R" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0023500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for integrated circuit devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Arrangements for conducting electric current within the device in operation from one component to another</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details of semiconductor or other solid state devices or of electrodes thereof, e.g. selection of materials therefor, not peculiar to devices provided for in a single group of groups <mref ref="H01L0031000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</text>
+									<entryReference><sref ref="H01L0029000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0023560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Circuit arrangements not adapted to a particular application of the device, e.g. for temperature compensation</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0025000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Assemblies consisting of a plurality of individual semiconductor or other solid state devices</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>details of complete circuit assemblies for which provision exists in another sub-class, e.g. details of television receivers, <u>see</u> the relevant sub-class, e.g. <sref ref="H04N" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>details of assemblies of electrical components in general <sref ref="H05K" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0025020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the devices all being of a type provided for in the same main group of groups <mref ref="H01L0027000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>, e.g. assemblies of rectifiers</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0025040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the devices not having separate containers</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0025060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Apertured devices mounted on one or more rods passed through the apertures</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0025080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Stacked arrangements of non-apertured devices</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0025100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the devices having separate containers</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0025120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>having one terminal in common</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0025140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Stacked arrangements, e.g. of sandwich-type rectifiers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0025160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>the devices being of types provided for in two or more different main groups of groups <mref ref="H01L0027000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+									</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0027000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices consisting of a plurality of semiconductor or other solid-state components formed in or on a common substrate</text>
+								<entryReference>processes or apparatus adapted for the manufacture or treatment thereof or of parts thereof <sref ref="H01L0021700000" refType="/" refLevel="c"></sref>, <mref ref="H01L0031000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+								</entryReference>
+								<entryReference>details thereof <sref ref="H01L0023000000" refType="/" refLevel="c"></sref>, <mref ref="H01L0029000000" endRef="H01L0049000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+								</entryReference>
+								<entryReference>assemblies consisting of a plurality of individual solid state devices <sref ref="H01L0025000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>assemblies of electrical components in general <sref ref="H05K" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="H01L0027010000" endSymbol="H01L0027260000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph edition="19740701"><text>In groups <mref ref="H01L0027010000" endRef="H01L0027260000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>, subject matter is classified in the last appropriate place.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="H01L0027010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>comprising only passive thin-film or thick-film elements formed on a common insulating substrate</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including semiconductor components adapted for rectifying, oscillating, amplifying, switching or including integrated passive circuit elements with at least one potential-jump barrier or surface barrier</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0027040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the substrate being a semiconductor body</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0027060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>including a plurality of individual components in a non-repetitive configuration</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0027080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>including only semiconductor components of a single kind</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0027100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>including a plurality of individual components in a repetitive configuration</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0027120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the substrate being other than a semiconductor body, e.g. an insulating body</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="H01L0027130000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>combined with thin-film or thick-film passive components</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including semiconductor components sensitive to infra-red radiation, light, electromagnetic radiation of a shorter wavelength, or corpuscular radiation and adapted for the conversion of the energy of such radiation into electrical energy or for the control of electrical energy by such radiation</text>
+									<entryReference>radiation-sensitive components structurally associated with one or more electric light sources only <sref ref="H01L0031140000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027150000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including semiconductor components with at least one potential-jump barrier or surface barrier adapted for light emission</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including thermoelectric components with or without a junction of dissimilar materials</text>
+								</titlePart>
+								<titlePart><text>including thermomagnetic components</text>
+									<entryReference>using the Peltier effect only for cooling of semiconductor or other solid state devices <sref ref="H01L0023380000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including components exhibiting superconductivity</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including piezo-electric components</text>
+								</titlePart>
+								<titlePart><text>including electrostrictive components</text>
+								</titlePart>
+								<titlePart><text>including magnetostrictive components</text>
+								</titlePart>
+								<titlePart><text>including semiconductor components adapted for use as electromechanical transducers</text>
+									<entryReference>electromechanical transducers adapted for electrical communication technique <sref ref="H04R" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including components using galvano-magnetic effects, e.g. Hall effect</text>
+								</titlePart>
+								<titlePart><text>using similar magnetic field effects</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including solid state components for rectifying, amplifying, or switching without a potential-jump barrier or surface barrier</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0027260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>including bulk negative resistance effect components</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0029000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Semiconductor devices adapted for rectifying, amplifying, oscillating, or switching, or capacitors or resistors with at least one potential-jump barrier or surface barrier, e.g. PN-junction depletion layer or carrier concentration layer</text>
+							</titlePart>
+							<titlePart><text>Details of semiconductor bodies or of electrodes thereof</text>
+								<entryReference><mref ref="H01L0031000000" endRef="H01L0047000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+								<entryReference>processes or apparatus adapted for the manufacture or treatment thereof or of parts thereof <sref ref="H01L0021000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>details other than of semiconductor bodies or of electrodes thereof <sref ref="H01L0023000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>resistors in general <sref ref="H01C" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>capacitors in general <sref ref="H01G" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="H01L0029020000" endSymbol="H01L0029640000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph edition="19740701"><text>Matter is classified both in groups <mref ref="H01L0029020000" endRef="H01L0029640000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/> and in groups <mref ref="H01L0029660000" endRef="H01L0029960000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/> so far as each of these sets of groups is relevant.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0029020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by their semiconductor bodies</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by their crystalline structure, e.g. polycrystalline, cubic, particular orientation of crystalline planes</text>
+										<entryReference>imperfections <sref ref="H01L0029300000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by their shape</text>
+									</titlePart>
+									<titlePart><text>characterised by the shapes, relative sizes, or dispositions of the semiconductor regions</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with semiconductor regions connected to an electrode carrying current to be rectified, amplified, or switched and such electrode being part of a semiconductor device which comprises three or more electrodes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with semiconductor regions connected to an electrode not carrying current to be rectified, amplified, or switched and such electrode being part of a semiconductor device which comprises three or more electrodes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the materials of which they are formed</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Inorganic materials</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>including, apart from doping materials or other impurities, only elements of the fourth group of the Periodic System in uncombined form</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029161000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>including two or more of the elements provided for in group <sref ref="H01L0029160000" refType="/" refLevel="c"></sref>
+													</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0029163000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>in the same semiconductor region</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0029165000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>in different semiconductor regions</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029167000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>further characterised by the doping material</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Selenium or tellurium only, apart from doping materials or other impurities</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>including, apart from doping materials or other impurities, only AIII BV compounds</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029201000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>including two or more compounds</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0029203000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>in the same semiconductor region</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0029205000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>in different semiconductor regions</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029207000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>further characterised by the doping material</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>including, apart from doping materials or other impurities, only AII BVI compounds</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029221000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>including two or more compounds</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0029223000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>in the same semiconductor region</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+										<ipcEntry edition="19740701" kind="6" symbol="H01L0029225000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><title>
+													<titlePart><text>in different semiconductor regions</text>
+													</titlePart>
+												</title>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029227000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>further characterised by the doping material</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>including, apart from doping materials or other impurities, only semiconductor materials not provided for in groups <sref ref="H01L0029160000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029180000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029200000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029220000" refType="/" refLevel="c"></sref>
+												</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>including, apart from doping materials or other impurities, elements provided for in two or more of the groups <sref ref="H01L0029160000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029180000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029200000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029220000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029240000" refType="/" refLevel="c"></sref>
+												</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029263000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>in the same semiconductor region</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029267000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>in different semiconductor regions</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Organic materials</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by physical imperfections</text>
+									</titlePart>
+									<titlePart><text>having polished or roughened surface</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the imperfections being within the semiconductor body</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the imperfections being on the surface</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the concentration or distribution of impurities</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by combination of features provided for in two or more of the groups <sref ref="H01L0029040000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029060000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029120000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029300000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029360000" refType="/" refLevel="c"></sref>
+										</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0029400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by their electrodes</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>carrying the current to be rectified, amplified, or switched and such electrodes being part of a semiconductor device which comprises one or two electrodes</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by their shapes, relative sizes, or dispositions</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by the materials of which they are formed</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for surface barrier, e.g. Schottky barrier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>carrying the current to be rectified, amplified, or switched and such electrodes being part of a semiconductor device which comprises three or more electrodes</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by their shapes, relative sizes, or dispositions</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by the materials of which they are formed</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for surface barrier, e.g. Schottky barrier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>not carrying the current to be rectified, amplified, or switched and such electrodes being part of a semiconductor device which comprises three or more electrodes</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by their shapes, relative sizes, or dispositions</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029620000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by the material of which they are formed</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029640000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for surface barrier, e.g. Schottky barrier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0029660000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>characterised by their operation</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029680000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>controllable only by the electric current supplied, or the electric potential applied, to an electrode which does not carry the current to be rectified, amplified, or switched</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029700000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Bipolar devices</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029720000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>continuously controllable</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029740000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>not continuously controllable, e.g. thyristors</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029743000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Reverse blocking thyristors</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19740701" kind="5" symbol="H01L0029747000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>Bidirectional thyristors</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029760000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Unipolar devices, e.g. field-effect transistors</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029780000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with field effect produced by an insulated gate</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029800000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>with field effect produced by a PN or other rectifying junction gate</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029820000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>controllable only by variation of the magnetic field applied to the device</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029840000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>controllable only by variation of applied mechanical force, e.g. of pressure</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029860000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>non-controllable</text>
+									</titlePart>
+									<titlePart><text>controllable only by variation of the electric current supplied, or the electric potential applied, to one or more of the electrodes carrying the current to be rectified, amplified, oscillated, or switched</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029880000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Tunnel diodes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029900000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Breakdown diodes, e.g. Zener diodes, avalanche diodes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029910000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Rectifier diodes</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0029920000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Capacitors with potential-jump barrier or surface barrier</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029930000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Variable-capacitance diodes, e.g. varactors</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029940000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Metal-insulator-semiconductors, e.g. MOS</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19740701" kind="4" symbol="H01L0029950000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Ceramic barrier-layer capacitors</text>
+												<entryReference>ceramic capacitors in general <sref ref="H01G" refType="/" refLevel="c"></sref>
+												</entryReference>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0029960000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>controllable by methods provided for in at least two of the groups <sref ref="H01L0029680000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029820000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029840000" refType="/" refLevel="c"></sref>, <sref ref="H01L0029860000" refType="/" refLevel="c"></sref>
+										</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0031000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Semiconductor devices sensitive to infra-red radiation, light, electromagnetic radiation of shorter wavelength, or corpuscular radiation and adapted either for the conversion of the energy of such radiation into electrical energy or for the control of electrical energy by such radiation</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+							</titlePart>
+							<titlePart><text>Details thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate, other than combinations of radiation-sensitive components with one or more electric light sources, <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>measurement of nuclear or X-radiation with semiconductor detectors <sref ref="G01T0001240000" refType="/" refLevel="c"></sref>, with resistance detectors <sref ref="G01T0001260000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>obtaining energy from radioactive sources <sref ref="G21H" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0031020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0031040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>adapted as conversion devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0031060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by at least one potential-jump barrier or surface barrier</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0031080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which radiation controls flow of current through the device, e.g. photoresistors</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0031100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by at least one potential-jump barrier or surface barrier, e.g. phototransistors</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0031120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>structurally associated with, e.g. formed in or on a common substrate with, one or more electric light sources, e.g. electroluminescent light sources, and electrically or optically coupled thereto</text>
+									<entryReference>amplifiers using electroluminescent element and photocell <sref ref="H03F0017000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>electroluminescent light sources <u>per se</u>
+										<sref ref="H05B0033000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0031140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the light source or sources being controlled by the semiconductor device sensitive to radiation, e.g. image converters, image amplifiers, image storage devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0031160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>the semiconductor device sensitive to radiation being controlled by the light source or sources</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0031180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment of these devices or of parts thereof</text>
+									<entryReference>not peculiar thereto <sref ref="H01L0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0033000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Semiconductor devices with at least one potential-jump barrier or surface barrier adapted for light emission, e.g. infra-red</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+							</titlePart>
+							<titlePart><text>Details thereof</text>
+								<entryReference>semiconductor lasers with potential-jump barrier or surface barrier <sref ref="H01S0003190000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>electroluminescent light sources <u>per se</u>
+									<sref ref="H05B0033000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0035000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Thermoelectric devices comprising a junction of dissimilar materials, i.e. exhibiting Seebeck or Peltier effect with or without other thermoelectric effects or thermomagnetic effects</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+							</titlePart>
+							<titlePart><text>Details thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>refrigerating machines using electric or magnetic effects <sref ref="F25B0021000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>thermometers using thermoelectric or thermomagnetic elements <sref ref="G01K0007000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>obtaining energy from radioactive sources <sref ref="G21H" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0035020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0035040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Structural details of the junction</text>
+									</titlePart>
+									<titlePart><text>Connections of leads</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>detachable, e.g. using a spring</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>non-detachable, e.g. cemented, sintered, soldered</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Connections of leads</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0035120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Selection of the material for the legs of the junction</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0035140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using inorganic compositions</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>comprising tellurium or selenium or sulphur</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>comprising arsenic or antimony or bismuth</text>
+											<entryReference><sref ref="H01L0035160000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>comprising metals only</text>
+											<entryReference><sref ref="H01L0035160000" refType="/" refLevel="c"></sref>, <sref ref="H01L0035180000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0035220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>comprising compounds containing boron, carbon, oxygen, or nitrogen</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0035240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using organic compositions</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0035260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using compositions changing continuously or discontinuously inside the material</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0035280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>operating with Peltier or Seebeck effect only</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0035300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the heat-exchanging means at the junction</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0035320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the structure or configuration of the cell or thermo-couple forming the device</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0035340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment of these devices or of parts thereof</text>
+									<entryReference>not peculiar thereto <sref ref="H01L0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0037000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Thermoelectric devices without a junction of dissimilar materials</text>
+							</titlePart>
+							<titlePart><text>Thermomagnetic devices, e.g. using Nernst-Ettinghausen effect</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>thermometers using thermoelectric or thermomagnetic elements <sref ref="G01K0007000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>selection of materials for magnetography, e.g. for Curie-point writing <sref ref="G03G0005000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0037020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using thermal change of dielectric constant, e.g. working above and below the Curie point</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0037040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>using thermal change of magnetic permeability, e.g. working above and below the Curie point</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0039000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices using superconductivity</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>superconductive coils or windings <sref ref="H01F" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>amplifiers using superconductivity <sref ref="H03F0019000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0039020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0039040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Containers</text>
+									</titlePart>
+									<titlePart><text>Mountings</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0039060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the current path</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0039080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the shape of the element</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0039100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the means for switching</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0039120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>characterised by the material</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0039140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Permanent superconductor devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0039160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices switchable between superconductive and normal states</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0039180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Cryotrons</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="H01L0039200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Power cryotrons</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0039220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Devices comprising a junction of dissimilar materials, e.g. Josephson-effect devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0039240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment of devices provided for in group <sref ref="H01L0039000000" refType="/" refLevel="c"></sref> or of parts thereof</text>
+									<entryReference>not peculiar thereto <sref ref="H01L0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0041000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Piezo-electric devices</text>
+							</titlePart>
+							<titlePart><text>Electrostrictive devices</text>
+							</titlePart>
+							<titlePart><text>Magnetostrictive devices</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+							</titlePart>
+							<titlePart><text>Details thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>use of transducers as sensing elements for measuring <sref ref="G01" refType="/" refLevel="c"></sref>, <sref ref="G04" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>electromechanical resonators <sref ref="H03H" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>magnetostrictive transducers for electric communication <sref ref="H04R0015000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>piezo-electric or electrostrictive transducers for electrical communication <sref ref="H04R0017000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0041020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0041040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of piezo-electric or electrostrictive devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0041060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of magnetostrictive devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0041080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Piezo-electric or electrostrictive devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="H01L0041100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<coveredBy>
+										<sref ref="H01L0041080000" refType="/" refLevel="c"></sref>
+									</coveredBy>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0041120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Magnetostrictive devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="H01L0041140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<coveredBy>
+										<sref ref="H01L0041120000" refType="/" refLevel="c"></sref>
+									</coveredBy>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0041160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Selection of materials</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0041180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for piezo-electric or electrostrictive devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0041200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for magnetostrictive devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0041220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment of these devices or of parts thereof</text>
+									<entryReference>not peculiar thereto <sref ref="H01L0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0043000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Devices using galvano-magnetic or similar magnetic effects</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>devices with potential-jump barrier or surface barrier controllable by variation of a magnetic field <sref ref="H01L0029820000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0043020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0043040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>of Hall-effect devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0043060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Hall-effect devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0043080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Magnetic-field-controlled resistors</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0043100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Selection of materials</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0043120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment of these devices or of parts thereof</text>
+									<entryReference>not peculiar thereto <sref ref="H01L0021000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="H01L0043140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for Hall-effect devices</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0045000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Solid state devices adapted for rectifying, amplifying, oscillating, or switching without a potential-jump barrier or surface barrier, e.g. dielectric triodes</text>
+							</titlePart>
+							<titlePart><text>Ovshinsky-effect devices</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>devices using superconductivity <sref ref="H01L0039000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>piezo-electric devices <sref ref="H01L0041000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>bulk negative resistance effect devices <sref ref="H01L0047000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0045020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Solid state travelling-wave devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0047000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Bulk negative resistance effect devices, e.g. Gunn-effect devices</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+								<entryReference>devices consisting of a plurality of solid state components formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0047020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Gunn-effect devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="H01L0049000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Solid state devices not provided for in groups <mref ref="H01L0027000000" endRef="H01L0047000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> and not provided for in any other sub-class</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus peculiar to the manufacture or treatment thereof or of parts thereof</text>
+								<entryReference>devices consisting of a plurality of solid state devices formed in or on a common substrate <sref ref="H01L0027000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="H01L0049020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Thin-film or thick-film devices</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

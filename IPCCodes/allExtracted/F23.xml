@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="22816">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F23" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMBUSTION APPARATUS</text>
+					</titlePart>
+					<titlePart><text>COMBUSTION PROCESSES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F23" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Combustion" means the direct combination of oxygen gas, e.g. in air, and a burnable substance. Any other heat-producing combination of chemical substances, e.g. hydrogen peroxide and methane, iron oxide and aluminium, is provided for in Section C or in sub-class <sref ref="F24J" refType="/" refLevel="c"/>.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Combustion chamber" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Burner" means a device by which fluent fuel is passed to a combustion space where it burns to produce a self-supporting flame.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Air" means a mixture of gases containing free oxygen and able to promote or support combustion.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>COMBUSTION APPARATUS USING ONLY SOLID FUEL</text>
+							<entryReference>for lump and another kind of fuel simultaneously or alternatively <sref ref="F23C0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combustion in fluidised beds <sref ref="F23C0011020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>burning of low-grade fuel <sref ref="F23G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>grates <sref ref="F23H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>feeding solid fuel to combustion apparatus <sref ref="F23K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>constructional details of combustion chambers not otherwise provided for <sref ref="F23M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>domestic apparatus <sref ref="F24" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>central heating boilers <sref ref="F24D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>package boilers <sref ref="F24H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F23B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class is only concerned with the combustion of lump fuel, or of pulverulent or granulated fuel if no use is made of its fluent nature.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>COMBUSTION APPARATUS USING FLUENT FUEL</text>
+							<entryReference>combustion apparatus for solid fuel only <sref ref="F23B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>burners <sref ref="F23D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>constructional details of combustion chambers not otherwise provided for <sref ref="F23M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combustion chambers for generating combustion products of high pressure or high velocity <sref ref="F23R" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>BURNERS</text>
+							<entryReference>generating combustion products of high pressure or high velocity <sref ref="F23R" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CREMATION FURNACES</text>
+						</titlePart>
+						<titlePart><text>CONSUMING WASTE PRODUCTS BY COMBUSTION</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F23G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes the burning of low-grade fuel of solid, liquid, or gaseous nature.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GRATES</text>
+						</titlePart>
+						<titlePart><text>CLEANING OR RAKING GRATES</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>REMOVAL OR TREATMENT OF COMBUSTION PRODUCTS OR COMBUSTION RESIDUES</text>
+						</titlePart>
+						<titlePart><text>FLUES</text>
+							<entryReference>precipitating dust from flue gases <sref ref="B01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>composition of fuels <sref ref="C10" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combustion apparatus for consuming smoke or fumes, e.g. exhaust gases, <sref ref="F23G0007060000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F23J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes the cleaning of external surfaces of water tubes of boilers.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FEEDING FUEL TO COMBUSTION APPARATUS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23L" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>AIR SUPPLY</text>
+						</titlePart>
+						<titlePart><text>DRAUGHT-INDUCING</text>
+						</titlePart>
+						<titlePart><text>SUPPLYING NON-COMBUSTIBLE LIQUID OR GAS</text>
+							<entryReference>air-supply arrangements for fluent fuels <sref ref="F23C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>dampers and throat restrictors for open fire-places <sref ref="F24" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>air inlet valves for open fire fronts <sref ref="F24" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23M" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONSTRUCTIONAL DETAILS OF COMBUSTION CHAMBERS, NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>construction or support of tube walls for steam boilers <sref ref="F22B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generating combustion products of high pressure or high velocity <sref ref="F23R" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23N" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>REGULATING OR CONTROLLING COMBUSTION</text>
+							<entryReference>regulating in general <sref ref="G05" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23Q" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>IGNITION</text>
+							<entryReference>devices for igniting matches <sref ref="A24F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>explosive or thermic compositions <sref ref="C06B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>chemical igniters <sref ref="C06C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>devices or installations peculiar to internal-combustion engines, except glowing plugs, <sref ref="F02P" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>EXTINGUISHING DEVICES</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F23R" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GENERATING COMBUSTION PRODUCTS OF HIGH PRESSURE OR HIGH VELOCITY, e.g. GAS-TURBINE COMBUSTION CHAMBERS</text>
+							<entryReference>using such products for specific purposes, <u>see</u> the relevant classes for the purposes</entryReference>
+							<entryReference>chemical aspects of gas production <sref ref="C06D0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gas-turbine plants characterised by the arrangement of the combustion chamber in the plant <sref ref="F02C0003140000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangement of afterburners in jet-propulsion plants <sref ref="F02K0003100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combustion chambers of rocket engine plants <sref ref="F02K0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

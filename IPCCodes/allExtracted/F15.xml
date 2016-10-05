@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="11686">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F15" endSymbol="F15" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINEERING IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F15" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>FLUID-PRESSURE ACTUATORS</text>
+					</titlePart>
+					<titlePart><text>HYDRAULICS OR PNEUMATICS IN GENERAL</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F15B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SYSTEMS ACTING BY MEANS OF FLUIDS IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>FLUID-PRESSURE ACTUATORS, e.g. SERVOMOTORS</text>
+						</titlePart>
+						<titlePart><text>DETAILS OF FLUID-PRESSURE SYSTEMS, NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>motors, turbines, compressors, blowers, pumps <mref ref="F01" endRef="F04" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+							</entryReference>
+							<entryReference>fluid dynamics <sref ref="F15D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid clutches or brakes <sref ref="F16D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid springs <sref ref="F16F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid gearing <sref ref="F16H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pistons, cylinders, packing <sref ref="F16J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>valves, taps, cocks, actuating-floats <sref ref="F16K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>safety valves with auxiliary fluid operation of the main valve <sref ref="F16K0017100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid-operating means for valves <sref ref="F16K0031120000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>pipes, pipe joints <sref ref="F16L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>lubricating <sref ref="F16N" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F15B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the following terms are used with the meanings indicated:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>"Telemotor" means a system or device in which a substantially constant amount of fluid is trapped between an input member and an output member to act as a fluid link.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Servomotor" means a fluid-pressure actuator, e.g. a piston and cylinder, directly controlled by a valve or other device which is responsive to operation of an initial controlling member; "Servomotor" <u>does not cover</u> a telemotor. The initial controlling member may be adjacent to the servomotor or at a distance, and may be, for example, a hand lever.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F15C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FLUID-CIRCUIT ELEMENTS PREDOMINANTLY USED FOR COMPUTING OR CONTROL PURPOSES</text>
+							<entryReference>transducers <sref ref="F15B0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fluid dynamics in general <sref ref="F15D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>computers comprising fluid elements <sref ref="G06D" refType="/" refLevel="c"></sref>, <sref ref="G06G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F15D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FLUID DYNAMICS, i.e. METHODS OR MEANS FOR INFLUENCING THE FLOW OF GASES OR LIQUIDS</text>
+							<entryReference>fluid-circuit elements <sref ref="F15C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F15D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class comprises boundary-layer control and other arrangements and methods, not provided for in other classes, for influencing the flow of fluids relative to constraining surfaces and after leaving these surfaces, e.g. producing or removing turbulence, deflecting jets, guiding flow through bends in conduits, affecting distribution of fluid in a conduit, reducing fluid friction.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="12564">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G10" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>MUSICAL INSTRUMENTS</text>
+					</titlePart>
+					<titlePart><text>ACOUSTICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G10" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>This class covers generally all sound-emitting devices, whether or not they may be considered as being musical.</text>
+						</noteParagraph>
+						<noteParagraph><text>The term "musical instrument", used in this class, should not be understood as excluding devices emitting a single sound signal.</text>
+						</noteParagraph>
+						<noteParagraph><text>For the convenience of users, the following Class Index is given in place of Sub-class Indexes, to show the grouping of the elaborations belonging to different sub-classes, under the three fundamental types:</text>
+							<subnote type="none">
+								<noteParagraph><text>Wind instruments </text>
+								</noteParagraph>
+								<noteParagraph><text>String instruments </text>
+								</noteParagraph>
+								<noteParagraph><text>Percussion instruments </text>
+								</noteParagraph>
+								<noteParagraph><text>which relate clearly to the majority of instruments.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+						<noteParagraph><text>There are of course some instruments of which the principle of operation belongs less clearly to one of these three types. They correspond to groups <sref ref="G10D0017000000" refType="/" refLevel="c"/> and <sref ref="G10K0007000000" refType="/" refLevel="c"/>, <sref ref="G10K0009000000" refType="/" refLevel="c"/>, <sref ref="G10K0010000000" refType="/" refLevel="c"/>, all the other groups normally finding a definite place.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G10L" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ANALYSIS OR SYNTHESIS OF SOUND WAVES</text>
+						</titlePart>
+						<titlePart><text>RECORDING WAVE-FORMS OF SOUND WAVES, e.g. SPEECH</text>
+							<entryReference>measurement of mechanical vibrations <sref ref="G01H" refType="/" refLevel="c"></sref>, e.g. <sref ref="G01H0003080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrophonic musical instruments <sref ref="G10H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="G10L0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Analysis or synthesis of sound waves, e.g. vocoder</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G10L0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Derivation or interpretation of characteristics of sound waves</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G10L0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Detecting absence or presence of specific characteristics</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G10L0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Removing redundancy of information contained in sound waves, e.g. to decrease frequency band required for transmission</text>
+									<entryReference><sref ref="G10L0001100000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									<entryReference>modifications of systems to decrease bandwidth of signals in general <sref ref="H04B0001660000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G10L0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Conversion of speech into digital information or <u>vice versa</u>
+									</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G10L0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Synthesis of sound waves using generators responding to characteristic wave-forms of sound, e.g. noise generator responding to whispering</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G10L0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Recording or displaying of wave-forms of speech</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G10L0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by displaying on screen of cathode-ray tube</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G10L0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Methods or arrangements for printing-out speech</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

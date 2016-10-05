@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="18324">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>GENERATION, CONVERSION, OR DISTRIBUTION OF ELECTRIC POWER</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="H02N" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTRIC MACHINES NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H02N" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with (a) electrostatic generators, motors, clutches, or holding devices, (b) other non-dynamo-electric generators or motors, (c) holding or levitation devices using magnetic attraction or repulsion, and (d) arrangements for starting, regulating, braking, or otherwise controlling such machines unless in conjoint operation with a second machine.</text>
+							</noteParagraph>
+							<noteParagraph><text>Specific provision exists for generators, motors, and other means for converting between electric and other forms of energy, e.g. in sub-classes <sref ref="H01L" refType="/" refLevel="c"/>, <sref ref="H01M" refType="/" refLevel="c"/>, <sref ref="H02K" refType="/" refLevel="c"/>, <sref ref="H04R" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02N0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Electrostatic generators or motors using a solid moving electrostatic charge carrier</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="H02N0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Friction generators</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="H02N0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Influence generators</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="H02N0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with conductive charge carrier, i.e. capacitor machines</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="H02N0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with non-conductive charge carrier</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="H02N0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in the form of a conveyer belt, e.g. van de Graaff machine</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02N0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Generators in which thermal or kinetic energy is converted into electrical energy by ionisation of a fluid and removal of the charge therefrom</text>
+								<entryReference>discharge tubes functioning as thermionic generators <sref ref="H01J0045000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="d" symbol="H02N0004000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<sref ref="H02K0044000000" refType="/" refLevel="c"></sref>
+								</transferredTo>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="d" symbol="H02N0004020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<mref ref="H02K0044080000" endRef="H02K0044280000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+								</transferredTo>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="d" symbol="H02N0004200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<sref ref="H02K0044020000" refType="/" refLevel="c"></sref>
+								</transferredTo>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="d" symbol="H02N0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><deleted>
+								<transferredTo>
+									<sref ref="H02N0010000000" refType="/" refLevel="c"></sref>
+								</transferredTo>
+								<coveredBy>
+									<sref ref="F03G0007060000" refType="/" refLevel="c"></sref>
+								</coveredBy>
+							</deleted>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="H02N0010000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Electric motors using thermal effects</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02N0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Generators or motors not provided for elsewhere</text>
+							</titlePart>
+							<titlePart><text>Alleged perpetua mobilia obtained by electric or magnetic means</text>
+								<entryReference>by hydrostatic pressure <sref ref="F03B0017040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>by dynamo-electric means <sref ref="H02K0053000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="H02N0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Clutches or holding devices using electrostatic attraction, e.g. using Johnson-Rahbek effect</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19800101" kind="m" symbol="H02N0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Holding or levitation devices using magnetic attraction or repulsion, not otherwise provided for</text>
+								<entryReference>electric or magnetic devices for holding work on machine tools <sref ref="B23Q0003150000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>sliding or levitation devices for railway systems <sref ref="B61B0013080000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>material handling devices associated with conveyers incorporating devices with electrostatic or magnetic grippers <sref ref="B65G0047920000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>separating thin or filamentary articles from piles using magnetic force <sref ref="B65H0003160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>delivering thin or filamentary articles from magnetic holders by air blast or suction <sref ref="B65H0029240000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>bearings using magnetic or electric supporting means <sref ref="F16C0032040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>relieving bearing loads using magnetic means <sref ref="F16C0039060000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>magnets <sref ref="H01F0007000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>dynamo-electric clutches or brakes <sref ref="H02K0049000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19800101" kind="1" symbol="H02N0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>by Foucault currents</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="H02N0015040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Repulsion by the Meissner effect</text>
+									<entryReference>superconductors in general <sref ref="H01L0039000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

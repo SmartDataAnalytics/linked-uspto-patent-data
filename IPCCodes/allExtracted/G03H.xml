@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="22356">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G03" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>PHOTOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>CINEMATOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>ELECTROGRAPHY</text>
+					</titlePart>
+					<titlePart><text>HOLOGRAPHY</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G03H" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HOLOGRAPHIC PROCESSES OR APPARATUS</text>
+							<entryReference>holograms, e.g. point holograms, used as ordinary optical elements <sref ref="G02B0005320000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>producing stereoscopic or other three-dimensional effects <sref ref="G02B0027220000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>diffraction-grating systems <sref ref="G02B0027440000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems using moire fringes <sref ref="G02B0027600000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>optical logic elements <sref ref="G02F0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>stereo-photography <sref ref="G03B0035000000" refType="/" refLevel="c"></sref>, <sref ref="G03C0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>analogue computers performing mathematical operations with the aid of optical elements <sref ref="G06G0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>holographic digital storage <sref ref="G11C0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G03H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19740701"><text>This sub-class comprises means for producing a record of the phase and amplitude information of a wave-front, which information can be used to reconstruct the original wave-front, or means to reconstruct the original wave-front from a record containing the phase and amplitude information of the wave-front.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G03H0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Holographic processes or apparatus using light, infra-red, or ultra-violet waves for obtaining holograms or for obtaining an image from them</text>
+							</titlePart>
+							<titlePart><text>Details peculiar thereto</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G03H0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Details</text>
+									<entryReference>record carriers in general <sref ref="G03C" refType="/" refLevel="c"></sref>, <sref ref="G11" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G03H0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus for producing holograms</text>
+									<entryReference><sref ref="G03H0001260000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using incoherent light</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Synthesising holograms</text>
+										<entryReference>using electric digital computers <sref ref="G06F" refType="/" refLevel="c"></sref>
+										</entryReference>
+										<entryReference>using optical analogue computers <sref ref="G06G0009000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using modulated reference beam</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G03H0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Spatial modulation, e.g. ghost imaging</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry edition="19740701" kind="3" symbol="G03H0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Temporal modulation, e.g. extending depth of field or phase compensation for object motion</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using Fourier transform</text>
+										<entryReference><sref ref="G03H0001120000" refType="/" refLevel="c"></sref>, <sref ref="G03H0001140000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+										<entryReference>analogue computers <sref ref="G06G" refType="/" refLevel="c"></sref>, e.g. <sref ref="G06G0007190000" refType="/" refLevel="c"></sref>, <sref ref="G06G0009000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Particular processing of hologram record carriers, e.g. for obtaining blazed holograms</text>
+										<entryReference>photographic processing in general <sref ref="G03C" refType="/" refLevel="c"></sref>, <sref ref="G03D" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Copying holograms by holographic means</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G03H0001220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus for obtaining an optical image from holograms</text>
+									<entryReference><mref ref="G03H0001260000" endRef="G03H0001340000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>using white light</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G03H0001260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Processes or apparatus specially adapted to produce multiple holograms or to obtain images from them, e.g. multicolour technique</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>superimposed holograms only</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G03H0001300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>discrete holograms only</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G03H0001320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Systems for obtaining speckle elimination</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G03H0001340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Systems for reducing the space-spatial bandwidth product</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G03H0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Holographic processes or apparatus using ultrasonic, sonic, or infrasonic waves for obtaining holograms</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus for obtaining an optical image from them</text>
+								<entryReference><sref ref="G03H0001220000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G03H0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Holographic processes or apparatus using other electromagnetic waves or subatomic particles for obtaining holograms</text>
+							</titlePart>
+							<titlePart><text>Processes or apparatus for obtaining an optical image from them</text>
+								<entryReference><sref ref="G03H0001220000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>construction of electron microscopes <sref ref="H01J0037260000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

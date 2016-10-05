@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="4770">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G12" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENT DETAILS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G12B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DETAILS OF INSTRUMENTS, OR COMPARABLE DETAILS OF OTHER APPARATUS, NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G12B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class includes only details which are not restricted to measuring instruments or to any other apparatus covered by a single class. Details which are covered by any other sub-class in Section A, F, G, or H are classified in the relevant sub-class. In particular, details which are restricted to measuring instruments are covered by the relevant sub-class of class <sref ref="G01" refType="/" refLevel="c"/>, e.g. <sref ref="G01D" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>Constructional details restricted to electric apparatus, e.g. casings, screenings, are covered by sub-class <sref ref="H05K" refType="/" refLevel="c"/> or the relevant sub-class in Section H.</text>
+							</noteParagraph>
+							<noteParagraph><text>Attention is drawn to the notes on page 7 of this Section, in particular to the definition of "measuring" in Note (2).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

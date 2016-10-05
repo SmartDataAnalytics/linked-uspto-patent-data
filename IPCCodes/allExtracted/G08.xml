@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="16182">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G08" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>SIGNALLING</text>
+						<entryReference>indicating or display devices <u>per se</u>
+							<sref ref="G09F" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>transmission of pictures <sref ref="H04N" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>arrangements for selective calling from one station to another <sref ref="H04Q0009000000" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G08B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SIGNALLING OR CALLING ARRANGEMENTS</text>
+						</titlePart>
+						<titlePart><text>ALARM ARRANGEMENTS</text>
+							<entryReference>signalling arrangements on vehicles <sref ref="B60Q" refType="/" refLevel="c"></sref>, <sref ref="B62D0041000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>railway signalling systems or devices <sref ref="B61L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>on cycles <sref ref="B62J0003000000" refType="/" refLevel="c"></sref>, <sref ref="B62J0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>signalling or alarm devices in mines <sref ref="E21F0017180000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>lamps and shutters therefor <sref ref="F21" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensitive measuring elements, <u>see</u> the appropriate sub-classes of <sref ref="G01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>traffic control systems <sref ref="G08G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>visual indicating means <sref ref="G09" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sound-producing devices <sref ref="G10" refType="/" refLevel="c"></sref>, <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>radio or near-field calling-systems <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangements for selective calling from one station to another <sref ref="H04Q0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G08B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>The term "arrangements" may cover also devices peculiar thereto.</text>
+							</noteParagraph>
+							<noteParagraph><text>The mere provision of an audible or visible signalling device on measuring or switching apparatus is not included.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class includes also means for identifying or incapacitating burglars or the like.</text>
+							</noteParagraph>
+							<noteParagraph><text>Alarm arrangements for indicating that a specific variable has exceeded, or fallen below, a predetermined value are classified in the relevant sub-classes of class <sref ref="G01" refType="/" refLevel="c"/> for the measurement of that variable.</text>
+							</noteParagraph>
+							<noteParagraph><text>Alarms for specific processes or types of machines or apparatus are classified in the relevant sub-classes for the processes, machines, or apparatus.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G08C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TRANSMISSION SYSTEMS FOR MEASURED VALUES, CONTROL OR SIMILAR SIGNALS</text>
+							<entryReference>fluid pressure transmission systems <sref ref="F15B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensing members for specific physical variables, <u>see</u> the relevant sub-classes, e.g. of <sref ref="G01" refType="/" refLevel="c"></sref>, of <sref ref="H01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>indicators or recorders, see the relevant sub-classes, e.g. <sref ref="G01D" refType="/" refLevel="c"></sref>, <sref ref="G09F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>mechanical means for transferring the output of a sensing member <sref ref="G01D0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>means for converting the output of the sensing member into a different variable <sref ref="G01D0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>self-balancing bridges <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>position control in general <sref ref="G05D0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>mechanical control systems <sref ref="G05G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems for transmitting "on/off" signals only, systems for transmitting alarm conditions <sref ref="G08B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>order telegraph systems <sref ref="G08B0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generating, coding or decoding electric pulses <sref ref="H03K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>radio or line transmission systems in general <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transmission of digital information <sref ref="H04L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>selective calling from one station to another <sref ref="H04Q0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G08G" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TRAFFIC CONTROL SYSTEMS</text>
+							<entryReference>disposition of road signs or traffic signals <sref ref="E01F0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>radar systems or analogous systems <sref ref="G01S0013000000" refType="/" refLevel="c"></sref>, <sref ref="G01S0015000000" refType="/" refLevel="c"></sref>, <sref ref="G01S0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G08G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>identification of traffic offenders;</text>
+									</noteParagraph>
+									<noteParagraph><text>indication of the position of scheduled vehicles;</text>
+									</noteParagraph>
+									<noteParagraph><text>indication of free spaces in parking areas.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

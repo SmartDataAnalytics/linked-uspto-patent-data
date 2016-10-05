@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="59400">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BASIC ELECTRIC ELEMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="H01" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CABLES</text>
+						</titlePart>
+						<titlePart><text>CONDUCTORS</text>
+						</titlePart>
+						<titlePart><text>INSULATORS</text>
+						</titlePart>
+						<titlePart><text>SELECTION OF MATERIALS FOR THEIR CONDUCTIVE, INSULATING, OR DIELECTRIC PROPERTIES</text>
+							<entryReference>selection for magnetic properties <sref ref="H01F0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>waveguides <sref ref="H01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>installation of cables or lines <sref ref="H02G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>RESISTORS</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19740701"><text>In this sub-class, the term "adjustable" means mechanically adjustable.</text>
+							</noteParagraph>
+							<noteParagraph edition="19740701"><text>Variable resistors, the value of which is changed non-mechanically, e.g. by voltage or temperature, are classified in group <sref ref="H01C0007000000" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MAGNETS</text>
+						</titlePart>
+						<titlePart><text>INDUCTANCES</text>
+						</titlePart>
+						<titlePart><text>TRANSFORMERS</text>
+						</titlePart>
+						<titlePart><text>SELECTION OF MATERIALS FOR THEIR MAGNETIC PROPERTIES</text>
+							<entryReference>ceramics based on ferrites <sref ref="C04B0035260000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>alloys <sref ref="C22C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>thermomagnetic devices <sref ref="H01L0037000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Inductances and transformers are regarded in this sub-class as being "for power supply" if they are intended for this purpose even in systems operating at frequencies above 60 cycles/sec.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CAPACITORS</text>
+						</titlePart>
+						<titlePart><text>CAPACITORS, RECTIFIERS, DETECTORS, SWITCHING DEVICES, OR LIGHT-SENSITIVE DEVICES OF THE ELECTROLYTIC TYPE</text>
+							<entryReference>selection of specified materials as dielectric <sref ref="H01B0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTRIC SWITCHES</text>
+						</titlePart>
+						<titlePart><text>RELAYS</text>
+						</titlePart>
+						<titlePart><text>SELECTORS</text>
+						</titlePart>
+						<titlePart><text>EMERGENCY PROTECTIVE DEVICES</text>
+							<entryReference>contact cables <sref ref="H01B0007100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>overvoltage protection resistors, resistive arresters <sref ref="H01C0007120000" refType="/" refLevel="c"></sref>, <sref ref="H01C0008040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrolytic self-interrupters <sref ref="H01G0009180000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>switching devices of the waveguide type <sref ref="H01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>devices for interrupted current collection <sref ref="H01R0039000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>spark-gap arresters <sref ref="H01T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>emergency protective circuit arrangements <sref ref="H02H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>switching by electronic means without contact-making <sref ref="H03K0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Bases, casings, or covers accommodating two or more switching devices, or a switching device as well as another electric component, e.g. bus-bar, line connector, are classified in <sref ref="H02B0001080000" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>For the purpose of this sub-class, the term "relay" is used to denote a switching device having contacts which are operated from electric inputs which supply, directly or indirectly, all the mechanical energy necessary to cause both the closure and the opening of the contacts.</text>
+							</noteParagraph>
+							<noteParagraph><text>Under the heading "emergency protective devices", this sub-class deals with devices for the protection of electric lines or electric machines or apparatus in the event of undesired change from normal electric working conditions, the electrical condition serving directly as the input to the device.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>The expression "driving mechanism" refers to the means by which an operating force applied to the switch is transmitted to the moving contact or contacts. The word "operating" is used in a broader sense than "actuating" which is reserved for those parts not touched by hand to effect switching. The words "acting" and "action" denote a self-induced movement of parts at one stage of the switching. These connotations apply to all parts of the verbs "to operate", "to actuate", and "to act", and to words derived therefrom, e.g. to "actuation".</text>
+									</noteParagraph>
+									<noteParagraph><text>Details of an unspecified type of switching device, or stated to be applicable to two or more kinds of switching devices designated by the terms "switches", "relays", "selector switches", and "emergency protective devices", are classified in groups <mref ref="H01H0001000000" endRef="H01H0009000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>. Details of an unspecified type of switch, or stated to be applicable to two or more types of switches as defined by groups <mref ref="H01H0013000000" endRef="H01H0043000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/> and sub-groups <sref ref="H01H0035020000" refType="/" refLevel="c"/>, <sref ref="H01H0035060000" refType="/" refLevel="c"/>, <sref ref="H01H0035140000" refType="/" refLevel="c"/>, <sref ref="H01H0035180000" refType="/" refLevel="c"/>, <sref ref="H01H0035240000" refType="/" refLevel="c"/>, and <sref ref="H01H0035420000" refType="/" refLevel="c"/>, all hereinafter termed basic types, are classified in groups <mref ref="H01H0001000000" endRef="H01H0009000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>. Details of an unspecified type of relay, or stated to be applicable to two or more types of relays as defined by groups <mref ref="H01H0051000000" endRef="H01H0061000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>, hereinafter called basic types, are classified in <sref ref="H01H0045000000" refType="/" refLevel="c"/>. Details of an unspecified protective device, or applicable to two or more types of protective devices as defined by groups <mref ref="H01H0073000000" endRef="H01H0083000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/>, hereinafter called basic types, are classified in <sref ref="H01H0071000000" refType="/" refLevel="c"/>. However, a detail only described with reference to, or clearly only applicable to, switching devices of a single basic type, is classified in the group or sub-group appropriate to switching devices of that basic type, e.g. <sref ref="H01H0019020000" refType="/" refLevel="c"/>, <sref ref="H01H0075040000" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTRIC DISCHARGE TUBES OR DISCHARGE LAMPS</text>
+							<entryReference>spark-gap arresters <sref ref="H01T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arc lamps with consumable electrodes <sref ref="H05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>particle accelerators <sref ref="H05H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals only with devices for producing, influencing, or using a flow of electrons or ions, e.g. for controlling, indicating, or switching of electric current, counting electric pulses, producing light or other electromagnetic oscillations, such as X-rays, or for separating or analysing radiation or particles, and having a closed or substantially closed casing containing a chosen gas, vapour, or vacuum, upon the pressure and nature of which the characteristics of the device depend. Light sources using a combination (other than covered by group <sref ref="H01J0061960000" refType="/" refLevel="c"/> of this sub-class) of discharge and other kinds of light generation are dealt with in <sref ref="H05B0035000000" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the term "lamp" is understood to include tubes emitting ultra-violet or infra-red light.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>Details of tubes and lamps: Groups <mref ref="H01J0001000000" endRef="H01J0007000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"/> relate only (i) to details of an unspecified kind of discharge tube or lamp, and (ii) to details stated in a specification as applicable to two or more kinds of tubes or lamps as defined by groups <sref ref="H01J0011000000" refType="/" refLevel="c"/>, <sref ref="H01J0013000000" refType="/" refLevel="c"/>, <sref ref="H01J0015000000" refType="/" refLevel="c"/>, <sref ref="H01J0017000000" refType="/" refLevel="c"/>, <sref ref="H01J0021000000" refType="/" refLevel="c"/>, <sref ref="H01J0025000000" refType="/" refLevel="c"/>, <sref ref="H01J0027000000" refType="/" refLevel="c"/>, <sref ref="H01J0031000000" refType="/" refLevel="c"/>, <sref ref="H01J0033000000" refType="/" refLevel="c"/>, <sref ref="H01J0035000000" refType="/" refLevel="c"/>, <sref ref="H01J0037000000" refType="/" refLevel="c"/>, <sref ref="H01J0040000000" refType="/" refLevel="c"/>, <sref ref="H01J0041000000" refType="/" refLevel="c"/>, <sref ref="H01J0047000000" refType="/" refLevel="c"/>, <sref ref="H01J0049000000" refType="/" refLevel="c"/>, <sref ref="H01J0061000000" refType="/" refLevel="c"/>, <sref ref="H01J0063000000" refType="/" refLevel="c"/>, and <sref ref="H01J0065000000" refType="/" refLevel="c"/>, hereinafter termed basic kinds. A detail only described with reference to, or clearly only applicable to, tubes or lamps of a single basic kind is classified in the detail group appropriate to tubes or lamps of that basic kind, e.g. <sref ref="H01J0017040000" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+									<noteParagraph><text>Manufacture: Apparatus or processes specially adapted to the manufacture of electric discharge tubes, discharge lamps, or parts thereof are classified in group <sref ref="H01J0009000000" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTRIC INCANDESCENT LAMPS</text>
+							<entryReference>details or apparatus or processes for manufacture applicable to both discharge devices and incandescent lamps <sref ref="H01J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>light sources using a combination of incandescent and other types of light generation <sref ref="H01J0061960000" refType="/" refLevel="c"></sref>, <sref ref="H05B0035000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>circuits therefor <sref ref="H05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01K" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the term "lamp" is intended to include tubes emitting ultra-violet or infra-red light.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01L" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SEMICONDUCTOR DEVICES</text>
+						</titlePart>
+						<titlePart><text>ELECTRIC SOLID STATE DEVICES NOT OTHERWISE PROVIDED FOR</text>
+							<entryReference>use of semiconductor devices for measuring <sref ref="G01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>resistors in general <sref ref="H01C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>magnets, inductors, transformers <sref ref="H01F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>capacitors in general <sref ref="H01G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrolytic devices <sref ref="H01G0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>batteries, accumulators <sref ref="H01M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>waveguides, resonators, or lines of the waveguide type <sref ref="H01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>line connectors, current collectors <sref ref="H01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>stimulated-emission devices <sref ref="H01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical resonators <sref ref="H03H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electromechanical transducers for electrical communication <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electric light sources in general <sref ref="H05B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>printed circuits, hybrid circuits, casings or constructional details of electrical apparatus, manufacture of assemblages of electrical components <sref ref="H05K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>use of semiconductor devices in circuits having a particular application, <u>see</u> the sub-class for the application</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01L" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19740701"><text>This sub-class provides for electric solid state devices which are not provided for in any other sub-class and details thereof, and includes: semiconductor devices adapted for rectifying, amplifying, oscillating or switching; semiconductor devices sensitive to radiation; electric solid state devices using thermoelectric, superconductive, piezo-electric, electrostrictive, magnetostrictive, galvano-magnetic or bulk negative resistance effects and integrated circuit devices. Also provided for in this sub-class are photoresistors, magnetic field dependent resistors, field effect resistors, capacitors with potential-jump barrier, resistors with potential-jump barrier or surface barrier, incoherent light emitting diodes and thin-film or thick-film circuits. Furthermore, it provides for processes and apparatus adapted for the manufacture or treatment of such devices, except where such processes relate to single-step processes for which provision exists elsewhere.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="bullet">
+									<noteParagraph><text>The expression "solid state body" refers to the body of material within which, or at the surface of which, the physical effects characteristic of the device occur. In thermoelectric devices, it includes all materials in the current path.</text>
+									</noteParagraph>
+									<noteParagraph><text>Regions in or on the body of the device (other than the solid state body itself), which exert an influence on the solid state body electrically, are considered to be "electrodes" whether or not an external electrical connection is made thereto. An electrode may include several portions and the term includes metallic regions which exert influence on the solid state body through an insulating region (e.g. capacitive coupling) and inductive coupling arrangements to the body. The dielectric region in a capacitive arrangement is regarded as part of the electrode. In arrangements including several portions, only those portions which exert an influence on the solid state body by virtue of their shape, size, or disposition or the material of which they are formed are considered to be part of the electrode. The other portions are considered to be "arrangements for conducting electric current to or from the solid state body" or "interconnections between solid state components formed in or on a common substrate", i.e. leads.</text>
+									</noteParagraph>
+									<noteParagraph><text>The word "device" refers to an electric circuit element; where an electric circuit element is one of a plurality of elements formed in or on a common substrate it is referred to as a "component". A "complete device" is a device in its fully assembled state which may or may not require further treatment, e.g. electroforming, before it is ready for use but which does not require the addition of further structural units. The word "parts" includes all structural units which are included in a complete device.</text>
+									</noteParagraph>
+									<noteParagraph><text>A "container" is an enclosure forming part of the complete device and is essentially a solid construction in which the body of the device is placed, or which is formed around the body without forming an intimate layer thereon. An enclosure which consists of one or more layers formed on the body and in intimate contact therewith is referred to as an "encapsulation". </text>
+									</noteParagraph>
+									<noteParagraph edition="19740701"><text>"Integrated circuit" is a device where all components, e.g. diodes, resistors, are built up on a common substrate and form the device including interconnections between the components. "Assembly" of a device is the building up of the device from its component constructional units and includes the provision of fillings in containers.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01M" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL INTO ELECTRICAL ENERGY</text>
+							<entryReference>electrochemical processes or apparatus in general <sref ref="C25" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>semiconductor or other solid state devices for converting light or heat into electrical energy <sref ref="H01L" refType="/" refLevel="c"></sref>, e.g. <sref ref="H01L0031000000" refType="/" refLevel="c"></sref>, <sref ref="H01L0035000000" refType="/" refLevel="c"></sref>, <sref ref="H01L0037000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01M" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with galvanic primary or secondary cells or batteries, and fuel cells or batteries.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01P" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>WAVEGUIDES</text>
+						</titlePart>
+						<titlePart><text>RESONATORS, LINES, OR OTHER DEVICES OF THE WAVEGUIDE TYPE</text>
+							<entryReference>operating at optical frequencies <sref ref="G02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>aerials <sref ref="H01Q" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>networks comprising lumped impedance elements <sref ref="H03H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01P" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the term "waveguide type" as applied to transmission lines includes only high-frequency coaxial cables or Lecher lines, and as applied to resonators, delay lines, or other devices includes all devices having distributed inductance and capacitance.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01Q" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>AERIALS</text>
+							<entryReference>microwave radiators for near-field therapeutic treatment <sref ref="A61N0005040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>apparatus for testing aerials or for measuring aerial characteristics <sref ref="G01R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>waveguides <sref ref="H01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>radiators or aerials for microwave heating <sref ref="H05B0006720000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01Q" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>In addition to the primary active radiating elements, this sub-class includes (a) secondary devices for absorbing or for modifying the direction or polarisation of waves radiated from aerials, and (b) combinations with auxiliary devices such as earthing switches, lead-in devices, and lightning protectors.</text>
+							</noteParagraph>
+							<noteParagraph><text>Devices of the waveguide type, such as resonators or lines, not designed as radiating elements are classified in sub-class <sref ref="H01P" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>This sub-class covers both transmitting and receiving aerials, and the use of terminology such as "active radiating element" is to be understood as covering corresponding parts of a receiving aerial.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01R" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>LINE CONNECTORS</text>
+						</titlePart>
+						<titlePart><text>CURRENT COLLECTORS</text>
+							<entryReference>switches, fuses <sref ref="H01H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>coupling devices of the waveguide type <sref ref="H01P0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>switchboards, distribution gear <sref ref="H02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>installations of electric lines, cables, or auxiliary apparatus <sref ref="H02G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>printed means for providing electric connections to or between printed circuits <sref ref="H05K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01R" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19800101"><text>This sub-class deals with all kinds of contact-making disconnectible and non-disconnectible electric line connectors, coupling devices, lamp or similar holders or current collectors for all kinds of electric lines, cables or apparatus. It also deals with non-printed means for electric connections to or between printed circuits. Mounting of connections in or on specified apparatus is classified in the sub-class for such apparatus, e.g. mounting in junction or distribution boxes is classified in sub-class <sref ref="H02B" refType="/" refLevel="c"/> or <sref ref="H02G" refType="/" refLevel="c"/>, high-temperature connections for heating elements in group <sref ref="H05B0003080000" refType="/" refLevel="c"/>. Structural association of one part of a two-part coupling device with specific electric apparatus is classified with the apparatus, e.g. association of cap with incandescent lamp is classified in sub-class <sref ref="H01K" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>In this sub-class, a contact in a coupling device is only regarded as an additional earth contact if this contact is clearly designed for that purpose. General details are classified in groups <sref ref="H01R0004000000" refType="/" refLevel="c"/>, <sref ref="H01R0009000000" refType="/" refLevel="c"/>, <sref ref="H01R0011000000" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01S" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DEVICES USING STIMULATED EMISSION</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H01S" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19740701"><text>This sub-class includes devices for the generation or amplification, by using stimulated emission, of coherent electromagnetic waves or other forms of wave energy. Also included are such functions as modulating, demodulating, controlling, or stabilising such waves.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H01T" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SPARK GAPS</text>
+						</titlePart>
+						<titlePart><text>OTHER NON-ENCLOSED-DISCHARGE APPARATUS</text>
+							<entryReference>working metal by arc discharge <sref ref="B23" refType="/" refLevel="c"></sref>, particularly <sref ref="B23P0001000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arc lamps <sref ref="H05B0031000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

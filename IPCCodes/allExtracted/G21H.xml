@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="19812">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G21" endSymbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEONICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEAR PHYSICS</text>
+					</titlePart>
+					<titlePart><text>NUCLEAR ENGINEERING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G21H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>OBTAINING ENERGY FROM RADIOACTIVE SOURCES</text>
+						</titlePart>
+						<titlePart><text>APPLICATIONS OF RADIATION FROM RADIOACTIVE SOURCES</text>
+						</titlePart>
+						<titlePart><text>UTILISING COSMIC RADIATION</text>
+							<entryReference>measurement of nuclear or X-radiation <sref ref="G01T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fusion reactors <sref ref="G21B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>nuclear reactors <sref ref="G21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>semiconductor devices sensitive to electromagnetic or corpuscular radiation <sref ref="H01L0031000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="G21H0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for obtaining electrical energy from radioactive sources, e.g. from radioactive isotopes</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G21H0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cells charged directly by beta radiation</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G21H0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cells using secondary emission induced by alpha radiation, beta radiation, or gamma radiation</text>
+									<entryReference>discharge tubes <sref ref="H01J0040000000" refType="/" refLevel="c"></sref>, <sref ref="H01J0047000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G21H0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cells wherein radiation is applied to the junction of different semiconductor materials</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G21H0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cells in which radiation ionises a gas in the presence of a junction of two dissimilar metals, i.e. contact potential-difference cells</text>
+									<entryReference>discharge tubes <sref ref="H01J" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G21H0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cells in which radiation heats a thermoelectric junction or a thermionic converter</text>
+									<entryReference>discharge tubes functioning as thermionic generators <sref ref="H01J0045000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>thermoelectric devices comprising a junction of dissimilar materials <sref ref="H01L0035000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G21H0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Cells using conversion of the radiation into light combined with subsequent photoelectric conversion into electric energy</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G21H0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for direct conversion of radiation energy from radioactive sources into forms of energy other than electric energy, e.g. light</text>
+								<entryReference>lasers <sref ref="H01S0003000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G21H0003020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>in which material is excited to luminesce by the radiation</text>
+									<entryReference>lamps in which a gas filling or screen or coating is excited to luminesce by radioactive material structurally associated with the lamp <sref ref="H01J0065000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G21H0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Applications of radiation from radioactive sources or arrangements therefor</text>
+								<entryReference>producing mutation in plants <sref ref="A01H0001060000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>preservation of dairy products <sref ref="A23C" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>preservation of foodstuffs <sref ref="A23L0003260000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for therapeutic purposes <sref ref="A61N0005100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>in chemical, physical or physicochemical processes in general <sref ref="B01J0019080000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>in electrostatic separation <sref ref="B03C0003380000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for after-treatment of coatings applied as liquids or other fluent materials <sref ref="B05D0003060000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for action between electric vehicles and tracked apparatus <sref ref="B61L0001100000" refType="/" refLevel="c"></sref>, <sref ref="B61L0003060000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>introducing isotopes into organic compounds <sref ref="C07B0023000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for preparation of organic chemical compounds <sref ref="C07" refType="/" refLevel="c"></sref>, <sref ref="C08" refType="/" refLevel="c"></sref>, e.g. <sref ref="C08F0002460000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for treating macromolecular substances or articles made therefrom <sref ref="C08J0003280000" refType="/" refLevel="c"></sref>, <sref ref="C08J0007100000" refType="/" refLevel="c"></sref>, <sref ref="C08J0007180000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for cracking of hydrocarbon oils <sref ref="C10G0015000000" refType="/" refLevel="c"></sref>, <sref ref="C10G0032040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for reforming naphtha <sref ref="C10G0035160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>preservation or ageing of products obtained from fermentation processes <sref ref="C12H0001060000" refType="/" refLevel="c"></sref>, <sref ref="C12H0001160000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for bleaching fibres <sref ref="D06L0003040000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>measuring <sref ref="G01" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>irradiation devices, gamma- or X-ray microscopes <sref ref="G21K" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>in discharge tubes <sref ref="H01J" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>apparatus for generating ions to be introduced into non-enclosed gases, e.g. into the atmosphere, <sref ref="H01T0020020000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>for carrying-off electrostatic charges <sref ref="H05F0003060000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G21H0005020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>as tracers</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G21H0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Using effects of cosmic radiation</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

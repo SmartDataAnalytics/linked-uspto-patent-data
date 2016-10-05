@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="6684">
+	<ipcEntry kind="s" symbol="E" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION E <emdash></emdash> FIXED CONSTRUCTIONS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="E01" endSymbol="E01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>BUILDING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="E02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>HYDRAULIC ENGINEERING</text>
+					</titlePart>
+					<titlePart><text>FOUNDATIONS</text>
+					</titlePart>
+					<titlePart><text>SOIL-SHIFTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="E02B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HYDRAULIC ENGINEERING</text>
+							<entryReference>ship-lifting <sref ref="E02C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>dredging <sref ref="E02F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E02C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SHIP-LIFTING DEVICES OR MECHANISMS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E02D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FOUNDATIONS</text>
+						</titlePart>
+						<titlePart><text>EXCAVATIONS</text>
+						</titlePart>
+						<titlePart><text>EMBANKMENTS</text>
+							<entryReference>specially adapted for hydraulic engineering <sref ref="E02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>UNDERGROUND OR UNDERWATER STRUCTURES</text>
+							<entryReference>tunnels, tunnelling, mining <sref ref="E21" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E02F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>DREDGING</text>
+						</titlePart>
+						<titlePart><text>SOIL-SHIFTING</text>
+							<entryReference>winning peat <sref ref="E21C0049000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="E02F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class is primarily concerned with equipment for excavating or loosening earth or for moving loose earth. It is to be understood as covering equipment for working similarly on other materials and similar equipment for loading or unloading materials.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="33622">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F01" endSymbol="F01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ENGINES AND PUMPS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>COMBUSTION ENGINES</text>
+						<entryReference>cyclically operating valves therefor, lubricating, exhausting, or silencing engines <sref ref="F01" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+					<titlePart><text>HOT-GAS OR COMBUSTION-PRODUCT ENGINE PLANTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F02B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>INTERNAL-COMBUSTION PISTON ENGINES</text>
+						</titlePart>
+						<titlePart><text>COMBUSTION ENGINES IN GENERAL</text>
+							<entryReference>plants in which engines use combustion products <sref ref="F02C" refType="/" refLevel="c"></sref>, <sref ref="F02G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>internal-combustion turbines <sref ref="F02C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>, specially as regards Note 2 (a).</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>The following words are used with the meanings indicated:</text>
+										<subnote type="roman">
+											<noteParagraph><text>"Positive ignition" means ignition by a source external to the working fluid, e.g. by spark or incandescent source.</text>
+											</noteParagraph>
+											<noteParagraph><text>"Charging" means forcing air or fuel-air mixture into engine cylinders, and thus embraces supercharging.</text>
+											</noteParagraph>
+											<noteParagraph><text>"Scavenging" means forcing the combustion residues from the cylinders other than by movement of the working pistons, and thus embraces tuned exhaust systems.</text>
+											</noteParagraph>
+										</subnote>
+									</noteParagraph>
+									<noteParagraph><text>Engines with specified cycles or number of cylinders are classified in group <sref ref="F02B0075020000" refType="/" refLevel="c"/> or <sref ref="F02B0075160000" refType="/" refLevel="c"/>, unless other classifying features predominate.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>GAS-TURBINE PLANTS</text>
+						</titlePart>
+						<titlePart><text>AIR INTAKES FOR JET-PROPULSION PLANTS</text>
+						</titlePart>
+						<titlePart><text>CONTROLLING FUEL SUPPLY IN AIR-BREATHING JET-PROPULSION PLANTS</text>
+							<entryReference>construction of turbines <sref ref="F01D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>jet-propulsion plants <sref ref="F02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>construction of compressors or fans <sref ref="F04" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gas-turbine combustion chambers <sref ref="F23R" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>using gas turbines in compression refrigeration plants <sref ref="F25B0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>using gas-turbine plants in vehicles, <u>see</u> the relevant vehicle classes</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class comprises:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>combustion product or hot gas turbine plants (steam turbine plants <sref ref="F01K" refType="/" refLevel="c"/>);</text>
+									</noteParagraph>
+									<noteParagraph><text>internal combustion turbines or turbine plants;</text>
+									</noteParagraph>
+									<noteParagraph><text>turbine plants in which the working fluid is an unheated, pressurised gas (special vapour plants <sref ref="F01K" refType="/" refLevel="c"/>).</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the term "gas-turbine plants" covers all the above subject-matter and it additionally embraces features of jet-propulsion plants common to gas-turbine plants.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONTROLLING COMBUSTION ENGINES</text>
+							<entryReference>cyclically operating valves for combustion engines <sref ref="F01L" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>controlling combustion engine lubrication <sref ref="F01M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>cooling internal-combustion engines <sref ref="F01P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>supplying combustion engines with combustible mixtures or constituents thereof, e.g. carburettors, injection pumps, <sref ref="F02M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>starting of combustion engines <sref ref="F02N" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>controlling of ignition <sref ref="F02P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>controlling gas-turbine plants, jet-propulsion plants, or combustion-product engine plants, <u>see</u> the relevant sub-classes for these plants</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the following words are used with the meanings indicated:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>"Fuel injection" means the introduction of a combustible substance into a space, e.g. cylinder, by means of a pressure source, e.g. a pump, continuously or cyclically acting behind the substance.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Supercharging" means supplying to the working space, e.g. cylinder, combustion-air pressurised by means of a pressure source, e.g. a pump.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CYLINDERS, PISTONS, OR CASINGS FOR COMBUSTION ENGINES</text>
+						</titlePart>
+						<titlePart><text>ARRANGEMENTS OF SEALINGS IN COMBUSTION ENGINES</text>
+							<entryReference>specially adapted for rotary-piston or oscillating-piston internal-combustion engines <sref ref="F02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>specially adapted for gas-turbine plants <sref ref="F02C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>specially adapted for jet-propulsion plants <sref ref="F02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>In considering the relationship between class <sref ref="F16" refType="/" refLevel="c"/> and sub-class <sref ref="F02F" refType="/" refLevel="c"/>, class <sref ref="F16" refType="/" refLevel="c"/> will take precedence unless the subject-matter is specific to combustion engines.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HOT GAS OR COMBUSTION-PRODUCT POSITIVE-DISPLACEMENT ENGINE PLANTS</text>
+							<entryReference>steam engine plants, special vapour plants, plants operating on either hot gas or combustion-product gases together with other fluid <sref ref="F01K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gas-turbine plants <sref ref="F02C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>jet-propulsion plants <sref ref="F02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>USE OF WASTE HEAT OF COMBUSTION ENGINES, NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>JET-PROPULSION PLANTS</text>
+							<entryReference>arrangement or mounting of jet-propulsion plants in land vehicles or vehicles in general <sref ref="B60K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangement or mounting of jet-propulsion plants in waterborne vessels <sref ref="B63H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>controlling aircraft attitude, flight direction, or altitude by jet reaction <sref ref="B64C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangement or mounting of jet-propulsion plants in aircraft <sref ref="B64D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>plants characterised by the power of the working fluid being divided between jet propulsion and another form of propulsion, e.g. propeller, <sref ref="F02B" refType="/" refLevel="c"></sref>, <sref ref="F02C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>features of jet-propulsion plants common to gas-turbine plants, air intakes or fuel supply control of air-breathing jet-propulsion plants <sref ref="F02C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02K" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the term "jet-propulsion plants" means plants using combustion to produce a fluid stream from which a propulsive thrust on the plants is obtained on the reaction principle.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02M" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SUPPLYING COMBUSTION ENGINES IN GENERAL WITH COMBUSTIBLE MIXTURES OR CONSTITUENTS THEREOF</text>
+							<entryReference>charging such engines <sref ref="F02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02M" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, the following terms are used with the meanings indicated:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>"Carburettors" means essentially apparatus for mixing fuel with air, the fuel being brought into mixing contact with the air by lowering the air pressure, e.g. in a venturi.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Fuel-injection apparatus" means apparatus for introducing fuel into a space, e.g. engine cylinder, by pressurising the fuel, e.g. by a pump acting behind the fuel, and thus embraces the so-called "solid-fuel injection" in which liquid fuel is introduced without any admixture of gas.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Low-pressure fuel injection" means fuel injection in which the fuel-air mixture containing fuel thus injected will be substantially compressed in the compression stroke of the engine.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Pumping element" means a single piston-cylinder unit in a reciprocating-piston fuel-injection pump or the equivalent unit in any other type of fuel-injection pump.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02N" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>STARTING OF COMBUSTION ENGINES</text>
+							<entryReference>starting of free-piston combustion-engines <sref ref="F02B0071020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>starting of gas-turbine plants <sref ref="F02C0007260000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>STARTING AIDS FOR SUCH ENGINES, NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F02N" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Attention is drawn to the notes preceding class <sref ref="F01" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>The starting of engines which are not explicitly stated to be combustion engines is classified in this sub-class in so far as their starting is equivalent to that of combustion engines.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F02P" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>IGNITION, OTHER THAN COMPRESSION IGNITION, FOR INTERNAL-COMBUSTION ENGINES</text>
+						</titlePart>
+						<titlePart><text>TESTING OF IGNITION TIMING IN COMPRESSION-IGNITION ENGINES</text>
+							<entryReference>specially adapted for rotary-piston or oscillating-piston engines <sref ref="F02B0053120000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>ignition of combustion apparatus in general, glowing plugs <sref ref="F23Q" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrical components in general Section H</entryReference>
+							<entryReference>sparking plugs <sref ref="H01T" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

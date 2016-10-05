@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="80844">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G05" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CONTROLLING</text>
+					</titlePart>
+					<titlePart><text>REGULATING</text>
+						<entryReference>specially adapted to a particular field of use, <u>see</u> the relevant sub-class, e.g. <sref ref="B23Q" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G05" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>This class covers methods, systems, and apparatus for controlling in general.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Controlling" means influencing a variable in any way, e.g. changing its direction or its value (including changing it to or from zero), maintaining it constant, limiting its range of variation.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Regulation" means maintaining a variable automatically at a desired value or within a desired range of values. The desired value or range may be fixed, or manually varied, or may vary with time according to a predetermined "programme" or according to variation of another variable. Regulation is a form of control; the term "automatic control" is often used in the art as a synonym for "regulation".</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G05B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONTROL OR REGULATING SYSTEMS IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>FUNCTIONAL ELEMENTS OF SUCH SYSTEMS</text>
+						</titlePart>
+						<titlePart><text>MONITORING OR TESTING ARRANGEMENTS FOR SUCH SYSTEMS OR ELEMENTS</text>
+							<entryReference>fluid-pressure actuators or systems acting by means of fluids in general <sref ref="F15B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>valves <u>per se</u>
+								<sref ref="F16K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>characterised by mechanical features only <sref ref="G05G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensitive elements, <u>see</u> the appropriate sub-classes, e.g. <sref ref="G12B" refType="/" refLevel="c"></sref>, sub-classes of <sref ref="G01" refType="/" refLevel="c"></sref>, <sref ref="H01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>correcting units, <u>see</u> the appropriate sub-classes, e.g. <sref ref="H02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G05B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Applications of control systems or elements for regulating specific variables are covered by sub-classes <sref ref="G05D" refType="/" refLevel="c"/>, <sref ref="G05F" refType="/" refLevel="c"/>, and not by this sub-class. However, features of such systems or elements which are clearly more generally applicable are classified in this sub-class.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>The term "automatic controller" means a system, circuit, or device in which a signal from the detecting element is compared with a signal representing the desired value and which operates in such a way as to reduce the deviation. The automatic controller generally does not include the sensitive element, i.e. that element which measures the value of the condition to be corrected, or the correcting element, i.e. that element which adjusts the condition to be corrected.</text>
+									</noteParagraph>
+									<noteParagraph><text>The term "electric" is intended to include "electromechanical", "electrohydraulic", and "electropneumatic".</text>
+									</noteParagraph>
+									<noteParagraph><text>Details of specific control systems are classified in the group relevant to the system, if not otherwise provided for.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Comparing elements, i.e. elements for effecting comparison directly or indirectly between a desired value and existing or anticipated values</text>
+								<entryReference>comparing phase or frequency of two electric signals <sref ref="H03D0013000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0001010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G05B0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for comparing analogue signals</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G05B0001030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for comparing digital signals</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with sensing of the position of the pointer of a measuring instrument</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>continuous sensing</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>stepwise sensing</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0001110000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0005000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Anti-hunting arrangements</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0005010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0005040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0006000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Internal feedback arrangements for obtaining particular characteristics, e.g. proportional, integral, differential</text>
+								<entryReference>in automatic controllers <sref ref="G05B0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0006020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0006050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Arrangements for obtaining smooth engagement or disengagement of automatic control</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0007020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0007040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0009000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Safety arrangements</text>
+								<entryReference><sref ref="G05B0007000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>safety valves <sref ref="F16K0017000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>emergency protective circuit arrangements in general <sref ref="H02H" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0009020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G05B0009030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with multiple-channel loop, i.e. redundant control systems</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0009050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0011000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Automatic controllers</text>
+								<entryReference><sref ref="G05B0013000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0011010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G05B0011060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the output signal represents a continuous function of the deviation from the desired value, i.e. continuous controllers</text>
+										<entryReference><sref ref="G05B0011260000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0011100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the signal transmitted being dc</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0011120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>the signal transmitted being modulated on an ac carrier</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0011140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the output signal represents a discontinuous function of the deviation from the desired value, i.e. discontinuous controllers</text>
+										<entryReference><sref ref="G05B0011260000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0011160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Two-step controllers, e.g. with on/off action</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0011180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Multi-step controllers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0011260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>in which the output signal is a pulse-train</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0011280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using pulse-height modulation</text>
+										</titlePart>
+										<titlePart><text>using pulse-width modulation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0011300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using pulse-frequency modulation</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0011320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with inputs from more than one sensing element</text>
+									</titlePart>
+									<titlePart><text>with outputs to more than one correcting element</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0011360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with provision for obtaining particular characteristics, e.g. proportional, integral, differential</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0011380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for obtaining a proportional characteristic</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0011400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for obtaining an integral characteristic</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0011420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>for obtaining a characteristic which is both proportional and time-dependent, e.g. P. I., P. I. D.</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G05B0011440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>pneumatic only</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G05B0011460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>without auxiliary power</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0011480000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with auxiliary power</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0011500000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in which the output signal represents a continuous function of the deviation from the desired value, i.e. continuous controllers</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0011520000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>in which the output signal represents a discontinuous function of the deviation from the desired value, i.e. discontinuous controllers</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="G05B0011540000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Two-step controllers, e.g. with on/off action</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="G05B0011560000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Multi-step controllers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0011580000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>with inputs from more than one sensing element</text>
+									</titlePart>
+									<titlePart><text>with outputs to more than one correcting element</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="G05B0011600000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>hydraulic only</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0013000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Adaptive control systems, i.e. systems automatically adjusting themselves to have a performance which is optimum according to some preassigned criterion</text>
+								<entryReference><sref ref="G05B0019000000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>details of the computer <sref ref="G06F0015180000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0013020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G05B0013040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>involving the use of models or simulators</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0015000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Systems controlled by a computer</text>
+								<entryReference><sref ref="G05B0013000000" refType="/" refLevel="c"></sref>, <sref ref="G05B0019000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								<entryReference>automatic controllers with particular characteristics <sref ref="G05B0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>computers <u>per se</u>
+									<sref ref="G06" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0015020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0017000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Systems involving the use of models or simulators of said systems</text>
+								<entryReference><sref ref="G05B0013000000" refType="/" refLevel="c"></sref>, <sref ref="G05B0015000000" refType="/" refLevel="c"></sref>, <sref ref="G05B0019000000" refType="/" refLevel="c"></sref> take precedence</entryReference>
+								<entryReference>analogue computers for specific processes, systems or devices, e.g. simulators, <sref ref="G06G0007480000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0017020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0019000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Programme-control systems</text>
+								<entryReference>specific applications, <u>see</u> the relevant sub-classes, e.g. <sref ref="A47L0015460000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>clocks with attached or built-in means operating any device at a preselected time interval <sref ref="G04C0023000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>marking or sensing record carriers with digital information <sref ref="G06K" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>information storage <sref ref="G11" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>time or time-programme switches which automatically terminate their operation after the programme is completed <sref ref="H01H0043000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0019020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G05B0019040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Programme-control other than numerical, i.e. with the programme-storing device delivering other than numerical signals</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="G05B0019060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using cams, discs, rods, drums, or the like</text>
+											<entryReference>mechanical programme-control apparatus <sref ref="G05G0021000000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0019080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using plugboards, cross-bar distributors, matrix switches, or the like</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0019100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using selector switches</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="G05B0019120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>using record carriers</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="G05B0019140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using punched cards or tapes</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="G05B0019160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using magnetic record carriers</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0019180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Numerical programme-control, i.e. control by driving mechanisms and circuitry so that motions of controlled means will respond to numerically coded instructions on a suitable medium</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="G05B0019190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by the positioning means, e.g. the driving mechanism</text>
+											<entryReference>position control in general <sref ref="G05D0003000000" refType="/" refLevel="c"></sref>
+											</entryReference>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="d" symbol="G05B0019200000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><deleted>
+											<transferredTo>
+												<mref ref="G05B0019210000" endRef="G05B0019250000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+											</transferredTo>
+											<coveredBy>
+												<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+											</coveredBy>
+										</deleted>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019210000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using an incremental digital measuring device</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="d" symbol="G05B0019220000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><deleted>
+												<transferredTo>
+													<mref ref="G05B0019210000" endRef="G05B0019250000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</transferredTo>
+												<coveredBy>
+													<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+												</coveredBy>
+											</deleted>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019230000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for point-to-point control</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry kind="d" symbol="G05B0019240000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><deleted>
+													<transferredTo>
+														<mref ref="G05B0019210000" endRef="G05B0019250000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+													</transferredTo>
+													<coveredBy>
+														<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+													</coveredBy>
+												</deleted>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019250000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for continuous-path control</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry kind="d" symbol="G05B0019260000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><deleted>
+													<transferredTo>
+														<mref ref="G05B0019270000" endRef="G05B0019310000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+													</transferredTo>
+													<coveredBy>
+														<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+													</coveredBy>
+												</deleted>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019270000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using an absolute digital measuring device</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="d" symbol="G05B0019280000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><deleted>
+												<transferredTo>
+													<mref ref="G05B0019270000" endRef="G05B0019310000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</transferredTo>
+												<coveredBy>
+													<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+												</coveredBy>
+											</deleted>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019290000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for point-to-point control</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry kind="d" symbol="G05B0019300000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><deleted>
+													<transferredTo>
+														<mref ref="G05B0019270000" endRef="G05B0019310000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+													</transferredTo>
+													<coveredBy>
+														<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+													</coveredBy>
+												</deleted>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019310000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for continuous-path control</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry kind="d" symbol="G05B0019320000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><deleted>
+													<transferredTo>
+														<mref ref="G05B0019330000" endRef="G05B0019370000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+													</transferredTo>
+													<coveredBy>
+														<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+													</coveredBy>
+												</deleted>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019330000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using an analogue measuring device</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry kind="d" symbol="G05B0019340000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><deleted>
+												<transferredTo>
+													<mref ref="G05B0019330000" endRef="G05B0019370000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+												</transferredTo>
+												<coveredBy>
+													<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+												</coveredBy>
+											</deleted>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019350000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for point-to-point control</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry kind="d" symbol="G05B0019360000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><deleted>
+													<transferredTo>
+														<mref ref="G05B0019330000" endRef="G05B0019370000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+													</transferredTo>
+													<coveredBy>
+														<sref ref="G05B0019180000" refType="/" refLevel="c"></sref>
+													</coveredBy>
+												</deleted>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019370000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>for continuous-path control</text>
+												</titlePart>
+											</title>
+										</textBody>
+										<ipcEntry kind="d" symbol="G05B0019380000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+											<textBody><deleted>
+													<transferredTo>
+														<sref ref="G05B0019390000" refType="/" refLevel="c"></sref>
+													</transferredTo>
+												</deleted>
+											</textBody>
+										</ipcEntry>
+									</ipcEntry>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019390000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>using a combination of the means covered by at least two of the preceding sub-groups <sref ref="G05B0019210000" refType="/" refLevel="c"></sref>, <sref ref="G05B0019270000" refType="/" refLevel="c"></sref> and <sref ref="G05B0019330000" refType="/" refLevel="c"></sref>
+												</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry kind="4" symbol="G05B0019400000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Open loop systems, e.g. using stepping motor</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="G05B0019403000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by the computer used for interpolating or synchronizing data from the program in order to generate signals for the positioning means</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019405000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Input arrangements</text>
+											</titlePart>
+											<titlePart><text>Monitoring arrangements</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019407000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Generation of velocity, acceleration or deceleration control signals</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+								<ipcEntry edition="19800101" kind="4" symbol="G05B0019410000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Generation of continuous-path control signals</text>
+											</titlePart>
+										</title>
+									</textBody>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019413000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using analogue interpolators</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+									<ipcEntry edition="19800101" kind="5" symbol="G05B0019415000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+										<textBody><title>
+												<titlePart><text>using digital interpolators</text>
+												</titlePart>
+											</title>
+										</textBody>
+									</ipcEntry>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="G05B0019417000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Controlling a plurality of numerically-controlled machines by a central computer</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="G05B0019420000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Recording and playback systems, i.e. in which the programme is recorded from a cycle of operations, e.g. the cycle of operations being manually controlled, after which this record is played back on the same machine</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19800101" kind="1" symbol="G05B0019430000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="G05B0019440000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>pneumatic</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19800101" kind="2" symbol="G05B0019460000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>hydraulic</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0021000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Systems involving sampling of the variable controlled</text>
+								<entryReference><mref ref="G05B0013000000" endRef="G05B0019000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+								<entryReference>signal transmission systems <u>per se</u>
+									<sref ref="G08C" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>electronic switching or gating <u>per se</u>
+									<sref ref="H03K0017000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0021020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="d" symbol="G05B0022000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><deleted>
+									<transferredTo>
+										<sref ref="G04G0015000000" refType="/" refLevel="c"></sref>
+									</transferredTo>
+									<coveredBy>
+										<sref ref="G05B0024000000" refType="/" refLevel="c"></sref>
+										<sref ref="G04C0023000000" refType="/" refLevel="c"></sref>
+										<sref ref="G04F0003000000" refType="/" refLevel="c"></sref>
+										<sref ref="H01H0043000000" refType="/" refLevel="c"></sref>
+										<sref ref="H03K0017000000" refType="/" refLevel="c"></sref>
+									</coveredBy>
+								</deleted>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G05B0023000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Testing or monitoring of control systems or parts thereof</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="G05B0023020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Electric testing or monitoring</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G05B0024000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Open-loop automatic control systems not otherwise provided for</text>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0024020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>electric</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G05B0024040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>fluidic</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

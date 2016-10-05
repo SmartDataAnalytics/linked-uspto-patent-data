@@ -1,0 +1,465 @@
+600	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS
+601	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS Tools to automate schema definition process
+602	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS Data extraction, transformation, and loading (ETL)
+603	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS Reporting, knowledge discovery (KD) systems
+604	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS Using a denormalized schema
+605	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS Using a denormalized schema Using a star schema
+606	DATA WAREHOUSE, DATA MART, ONLINE ANALYTICAL PROCESSING (OLAP), DECISION SUPPORT SYSTEMS Using a denormalized schema Using a snowflake schema
+607	ONLINE TRANSACTIONAL PROCESSING (OLTP) SYSTEM
+608	COLLABORATIVE DOCUMENT DATABASE AND WORKFLOW
+609	FILE OR DATABASE MAINTENANCE
+610	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication)
+611	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Synchronous
+612	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Synchronous Multiway synchronization
+613	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Asynchronous synchronization (e.g., message or notification based)
+614	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Asynchronous synchronization (e.g., message or notification based) Multiway synchronization
+615	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Asynchronous synchronization (e.g., message or notification based) Transactional replication
+616	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Asynchronous synchronization (e.g., message or notification based) Merge replication
+617	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Connection based synchronization
+618	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Scheduled synchronization
+619	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Scheduled synchronization Background replication
+620	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Synchronization environment
+621	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Synchronization environment Portable devices
+622	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Synchronization environment Peer-to-peer
+623	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Synchronization environment Master/slave
+624	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Incremental synchronization
+625	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Incremental synchronization Change records or delta
+626	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication
+627	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Publication
+628	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Push subscriptions
+629	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Push subscriptions Push-to-master
+630	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Push subscriptions Push-to-nearest-neighbor
+631	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Push subscriptions Push-to-broadcast
+632	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Pull subscriptions
+633	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Objects of replication Replication agent
+634	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Management, interface, monitoring and configurations of replication
+635	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Replication-to-heterogeneous database
+636	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Distributor management
+637	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Optimizing replication
+638	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Replication version control (i.e., version management)
+639	FILE OR DATABASE MAINTENANCE Synchronization (i.e., replication) Snapshot replication
+640	FILE OR DATABASE MAINTENANCE Database backup
+641	FILE OR DATABASE MAINTENANCE Database backup Merging data for backup
+642	FILE OR DATABASE MAINTENANCE Database backup Data dump
+643	FILE OR DATABASE MAINTENANCE Database backup Batch
+644	FILE OR DATABASE MAINTENANCE Database backup Types of backup
+645	FILE OR DATABASE MAINTENANCE Database backup Types of backup Full backup
+646	FILE OR DATABASE MAINTENANCE Database backup Types of backup Incremental backup
+647	FILE OR DATABASE MAINTENANCE Database backup Types of backup Partial backup
+648	FILE OR DATABASE MAINTENANCE Database backup Types of backup Transaction log backup (i.e, audit file, journal)
+649	FILE OR DATABASE MAINTENANCE Database backup Types of backup Database snapshots or database checkpointing
+650	FILE OR DATABASE MAINTENANCE Database backup Types of backup System data backup
+651	FILE OR DATABASE MAINTENANCE Database backup Types of backup Hierarchical backup
+652	FILE OR DATABASE MAINTENANCE Database backup Types of backup Distributed backup
+653	FILE OR DATABASE MAINTENANCE Database backup Types of backup Customized backup
+654	FILE OR DATABASE MAINTENANCE Database backup Backup interface, scheduling and management
+655	FILE OR DATABASE MAINTENANCE Database backup Database mirroring
+656	FILE OR DATABASE MAINTENANCE Database backup Database mirroring Synchronous mirroring
+657	FILE OR DATABASE MAINTENANCE Database backup Database mirroring Synchronous mirroring Copy-on-write
+658	FILE OR DATABASE MAINTENANCE Database backup Database mirroring Asynchronous mirroring
+659	FILE OR DATABASE MAINTENANCE Database backup Database mirroring Mirroring configuration and management
+660	FILE OR DATABASE MAINTENANCE Database backup Database mirroring Mirroring optimization
+661	FILE OR DATABASE MAINTENANCE Database archive
+662	FILE OR DATABASE MAINTENANCE Database archive Deletion, retention or expiration of archive records
+663	FILE OR DATABASE MAINTENANCE Database archive Deletion, retention or expiration of archive records Deletion due to expiration
+664	FILE OR DATABASE MAINTENANCE Database archive Deletion, retention or expiration of archive records Deletion due to duplication
+665	FILE OR DATABASE MAINTENANCE Database archive Rules for archiving
+666	FILE OR DATABASE MAINTENANCE Database archive Rules for archiving Records that have expired in the database
+667	FILE OR DATABASE MAINTENANCE Database archive Means for or methods of archiving
+668	FILE OR DATABASE MAINTENANCE Database archive Means for or methods of archiving Automatic archiving
+669	FILE OR DATABASE MAINTENANCE Database archive Means for or methods of archiving Automatic archiving Data dump
+670	FILE OR DATABASE MAINTENANCE Database archive Means for or methods of archiving Automatic archiving Transparently archiving data
+671	FILE OR DATABASE MAINTENANCE Database archive Means for or methods of archiving Manual archiving
+672	FILE OR DATABASE MAINTENANCE Database archive Log of the archive
+673	FILE OR DATABASE MAINTENANCE Database archive Indexing the archive
+674	FILE OR DATABASE MAINTENANCE Database recovery
+675	FILE OR DATABASE MAINTENANCE Database recovery Database recovery model
+676	FILE OR DATABASE MAINTENANCE Database recovery Database recovery model Full database recovery
+677	FILE OR DATABASE MAINTENANCE Database recovery Database recovery model Simple database recovery
+678	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase
+679	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase Database restore
+680	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase Database restore Complete database restore
+681	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase Database restore Differential database restore
+682	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase Database restore Restoring backups of transaction log
+683	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase Redo (i.e., roll forward)
+684	FILE OR DATABASE MAINTENANCE Database recovery Database recovery phase Undo (i.e., roll back)
+685	FILE OR DATABASE MAINTENANCE Database recovery Incremental Recovery
+686	FILE OR DATABASE MAINTENANCE Database recovery Recovery optimization
+687	DATA INTEGRITY
+688	DATA INTEGRITY Statistics maintenance
+689	DATA INTEGRITY Detection of expired data
+690	DATA INTEGRITY Checking consistency
+691	DATA INTEGRITY Checking consistency Repair consistency errors
+692	DATA INTEGRITY Data cleansing, data scrubbing, and deleting duplicates
+693	DATA INTEGRITY Fragmentation, compaction and compression
+694	DATA INTEGRITY Policy, rule-based management of records, files, and documents
+695	DATA INTEGRITY Policy, rule-based management of records, files, and documents Version management
+696	DATA INTEGRITY Index maintenance
+697	DATA INTEGRITY Using checksum
+698	DATA INTEGRITY Using checksum Using hash function
+699	DATA INTEGRITY Using checksum Using cyclic redundancy checking (CRC)
+700	DATA INTEGRITY Range checking
+701	DATA INTEGRITY Type checking
+702	DATA INTEGRITY Triggers, stored procedures, user defined function (UDF)
+703	DATA INTEGRITY Transactional processing
+704	DATA INTEGRITY Concurrent read/write management using locks
+705	DATABASE AND FILE ACCESS
+706	DATABASE AND FILE ACCESS Search engines
+707	DATABASE AND FILE ACCESS Search engines Search engine portal (e.g., metasearch engine)
+708	DATABASE AND FILE ACCESS Search engines Search engine portal (e.g., metasearch engine) Analyzing or parsing query to determine topic or category
+709	DATABASE AND FILE ACCESS Search engines Web crawlers
+710	DATABASE AND FILE ACCESS Search engines Web crawlers Category specific web crawling
+711	DATABASE AND FILE ACCESS Search engines Index generation
+712	DATABASE AND FILE ACCESS Search engines Embedded or hardware based search engine
+713	DATABASE AND FILE ACCESS Query optimization
+714	DATABASE AND FILE ACCESS Query optimization Based on joins
+715	DATABASE AND FILE ACCESS Query optimization Based on index optimization
+716	DATABASE AND FILE ACCESS Query optimization Based on access path
+717	DATABASE AND FILE ACCESS Query optimization Based on materialized view
+718	DATABASE AND FILE ACCESS Query optimization Query execution plan
+719	DATABASE AND FILE ACCESS Query optimization Query cost estimation
+720	DATABASE AND FILE ACCESS Query optimization Query cost estimation Based on resource consumption
+721	DATABASE AND FILE ACCESS Query optimization Based on query history
+722	DATABASE AND FILE ACCESS Post processing of search results
+723	DATABASE AND FILE ACCESS Post processing of search results Ranking search results
+724	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Spatial (i.e., location based)
+725	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Temporal (i.e., time based)
+726	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Links from other files or link content analysis
+727	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Frequency of document selection
+728	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Relevance of document based on features in query
+729	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Relevance of document based on features in query Location of features in the document
+730	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Relevance of document based on features in query Frequency of features in the document
+731	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Based on category of the query and the document
+732	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Personalized results
+733	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Personalized results Explicit profile
+734	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Personalized results Implicit profile
+735	DATABASE AND FILE ACCESS Post processing of search results Ranking search results Artificial Inflation of Search Rank
+736	DATABASE AND FILE ACCESS Preparing data for information retrieval
+737	DATABASE AND FILE ACCESS Preparing data for information retrieval Clustering and grouping
+738	DATABASE AND FILE ACCESS Preparing data for information retrieval Clustering and grouping Based on topic
+739	DATABASE AND FILE ACCESS Preparing data for information retrieval Clustering and grouping Latent semantic index or analysis (LSI or LSA)
+740	DATABASE AND FILE ACCESS Preparing data for information retrieval Clustering and grouping Cataloging
+741	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index
+742	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index Inverted index
+743	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index Spatial index
+744	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index Sparse index
+745	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index Bitmap index
+746	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index Temporal index
+747	DATABASE AND FILE ACCESS Preparing data for information retrieval Generating an index Using a hash
+748	DATABASE AND FILE ACCESS Preparing data for information retrieval Ranking, scoring, and weighting records
+749	DATABASE AND FILE ACCESS Preparing data for information retrieval Ranking, scoring, and weighting records Based on record similarity and relevance
+750	DATABASE AND FILE ACCESS Preparing data for information retrieval Ranking, scoring, and weighting records Based on term frequency of appearance
+751	DATABASE AND FILE ACCESS Preparing data for information retrieval Ranking, scoring, and weighting records Based on historical data
+752	DATABASE AND FILE ACCESS Preparing data for information retrieval Sorting and ordering data
+753	DATABASE AND FILE ACCESS Preparing data for information retrieval Sorting and ordering data Sorting indices
+754	DATABASE AND FILE ACCESS Preparing data for information retrieval Filtering data
+755	DATABASE AND FILE ACCESS Preparing data for information retrieval Parsing data structures and data objects
+756	DATABASE AND FILE ACCESS Preparing data for information retrieval Transforming data structures and data objects
+757	DATABASE AND FILE ACCESS Preparing data for information retrieval Hiding and masking database data
+758	DATABASE AND FILE ACCESS Record, file, and data search and comparisons
+759	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification
+760	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Translating a query to another language or schema
+761	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Translating a query to another language or schema Verifying or testing translated query
+762	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Translating a query to another language or schema Legacy query generator
+763	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Translating a query to another language or schema Query mapping
+764	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification For parallel processing system
+765	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Query expansion or refinement
+766	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Query expansion or refinement Interactive query refinement
+767	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Query expansion or refinement Interactive query refinement Recommending or suggesting search terms and queries
+768	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Query statement modification Query expansion or refinement Based on query history
+769	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing
+770	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Distributed search and retrieval
+771	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Analyzing or parsing query to determine topic or category
+772	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Query-by-example
+773	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Recursive queries
+774	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Nested queries
+775	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Cascading queries
+776	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Data mining
+777	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Data mining Taxonomy discovery
+778	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Data mining Taxonomy discovery Hierarchical structures
+779	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Query templates
+780	DATABASE AND FILE ACCESS Record, file, and data search and comparisons Database query processing Fuzzy searching and comparisons
+781	DATABASE AND FILE ACCESS Database access control methods
+782	DATABASE AND FILE ACCESS Database access control methods Alternative access and redirection
+783	DATABASE AND FILE ACCESS Database access control methods Privileged access
+784	DATABASE AND FILE ACCESS Database access control methods Privileged access Based on user profile
+785	DATABASE AND FILE ACCESS Database access control methods Privileged access Based on user profile Access control lists
+786	DATABASE AND FILE ACCESS Database access control methods Privileged access Based on user profile Access control lists Hierarchical access control
+787	DATABASE AND FILE ACCESS Database access control methods Privileged access Based on user profile Access control lists Temporal access control
+788	DATABASE AND FILE ACCESS Database access control methods Privileged access Based on user profile Access control lists Spatial access control
+790	DATABASE DESIGN
+791	DATABASE DESIGN Data structure types
+792	DATABASE DESIGN Data structure types Database management system frameworks
+793	DATABASE DESIGN Data structure types Custom data structure types
+794	DATABASE DESIGN Data structure types Custom data structure types Semantic network
+795	DATABASE DESIGN Data structure types Custom data structure types Including data structures referencing externally stored data
+796	DATABASE DESIGN Data structure types Custom data structure types Including structural features to support data retrieval and/or manipulation
+797	DATABASE DESIGN Data structure types Trees
+798	DATABASE DESIGN Data structure types Graphs
+799	DATABASE DESIGN Data structure types Queues
+800	DATABASE DESIGN Data structure types Linked lists
+801	DATABASE DESIGN Data structure types Arrays
+802	DATABASE DESIGN Database and data structure management
+803	DATABASE DESIGN Database and data structure management Database, schema, and data structure creation and/or modification
+804	DATABASE DESIGN Database and data structure management Database, schema, and data structure creation and/or modification Automatic generation based on input file or data
+805	DATABASE DESIGN Database and data structure management Database, schema, and data structure creation and/or modification Via a graphical user interface
+806	DATABASE DESIGN Database and data structure management Database, schema, and data structure creation and/or modification Via a graphical user interface Maintaining schema version information
+807	DATABASE DESIGN Database and data structure management Database, schema, and data structure creation and/or modification Via a graphical user interface Through the use of structural data to support dynamic schemas
+808	DATABASE DESIGN Database and data structure management Database, schema, and data structure creation and/or modification Via a graphical user interface Merging schemas
+809	DATABASE DESIGN Database and data structure management Moving data from one schema or structure to another
+810	DATABASE DESIGN Database and data structure management Moving data from one schema or structure to another Through the use of a logical data model
+811	DATABASE DESIGN Database and data structure management Moving data from one schema or structure to another From unstructured or semi-structured data to structured data
+812	DATABASE DESIGN Database and data structure management Data storage operations
+813	GARBAGE COLLECTION
+814	GARBAGE COLLECTION Reference counting
+815	GARBAGE COLLECTION Reference counting Cyclic
+816	GARBAGE COLLECTION Mark-sweep
+817	GARBAGE COLLECTION Mark-compact
+818	GARBAGE COLLECTION Copying
+819	GARBAGE COLLECTION Generational
+820	GARBAGE COLLECTION Incremental
+821	FILE MANAGEMENT
+822	FILE MANAGEMENT File systems
+823	FILE MANAGEMENT File systems Disk file systems
+824	FILE MANAGEMENT File systems Flash file systems
+825	FILE MANAGEMENT File systems Database file systems
+826	FILE MANAGEMENT File systems Transactional file systems
+827	FILE MANAGEMENT File systems Network file systems
+828	FILE MANAGEMENT File directory structure
+829	FILE MANAGEMENT File directory structure Hierarchical structure
+830	FILE MANAGEMENT File directory structure Indexing structure
+831	FILE MANAGEMENT File directory structure Virtual directory structure
+899	MISCELLANEOUS
+E17.001	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO)
+E17.002	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Data Indexing; Abstracting; Data Reduction (EPO)
+E17.003	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Data Indexing; Abstracting; Data Reduction (EPO) Of chemical information (EPO)
+E17.004	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Data Indexing; Abstracting; Data Reduction (EPO) Of images (EPO)
+E17.005	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Interfaces; database management systems; updating (EPO)
+E17.006	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Interfaces; database management systems; updating (EPO) File format conversion (EPO)
+E17.007	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Concurrency control and recovery (EPO)
+E17.008	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Document retrieval systems (EPO)
+E17.009	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Information processing systems, e.g., multimedia systems, etc. (EPO)
+E17.01	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) File systems; file servers (EPO)
+E17.011	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing chained data, e.g., graphs, linked lists, etc. (EPO)
+E17.012	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing chained data, e.g., graphs, linked lists, etc. (EPO) Trees (EPO)
+E17.013	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing chained data, e.g., graphs, linked lists, etc. (EPO) Hypermedia (EPO)
+E17.014	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Query processing for the retrieval of structured data (EPO)
+E17.015	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Query processing for the retrieval of structured data (EPO) Natural language query interface (EPO)
+E17.016	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Query processing for the retrieval of structured data (EPO) Menu driven systems; graphical querying; query-by-example (EPO)
+E17.017	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Query processing for the retrieval of structured data (EPO) Query optimization (EPO)
+E17.018	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In geographical information databases (EPO)
+E17.019	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO)
+E17.02	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on image content (EPO)
+E17.021	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on image content (EPO) Using color (EPO)
+E17.022	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on image content (EPO) Using extracted text (EPO)
+E17.023	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on image content (EPO) Using a combination of image content features (EPO)
+E17.024	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on image content (EPO) Using shape and object relationship (EPO)
+E17.025	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on image content (EPO) Using texture (EPO)
+E17.026	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Based on bibliographical data of images (EPO)
+E17.027	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) The images having vectorial formats (EPO)
+E17.028	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) The images being video sequences (EPO)
+E17.029	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) By browsing (EPO)
+E17.03	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) By graphical querying (EPO)
+E17.031	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In image databases (EPO) Data organization and access thereof (EPO)
+E17.032	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Using distributed data base systems, e.g., networks, etc. (EPO)
+E17.033	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO)
+E17.034	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Random access (EPO)
+E17.035	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Random access (EPO) Using parallel associative memories (EPO)
+E17.036	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Random access (EPO) By address calculation or conversion, e.g., hashing, etc. (EPO)
+E17.037	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Random access (EPO) Using directory or table look-up (EPO)
+E17.038	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Random access (EPO) Using directory or table look-up (EPO) Using more than one table in sequence, i.e., systems with three or more layers, etc. (EPO)
+E17.039	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Sequential access, e.g., string matching, etc. (EPO)
+E17.04	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Sequential access, e.g., string matching, etc. (EPO) On static storage (EPO)
+E17.041	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Sequential access, e.g., string matching, etc. (EPO) Comparing simultaneously a plurality of search arguments with a simple file data, finite state machine (EPO)
+E17.042	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Sequential access, e.g., string matching, etc. (EPO) Comparing simultaneously search arguments with more than one file data (EPO)
+E17.043	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing unordered data (EPO) Sequential access, e.g., string matching, etc. (EPO) Comparing simultaneously search arguments with more than one file data (EPO) Comparing simultaneously search arguments with more than one file data (EPO)
+E17.044	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO)
+E17.045	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO)
+E17.046	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Clustering or classification (EPO)
+E17.047	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Clustering or classification (EPO) Including cluster or class visualization or browsing (EPO)
+E17.048	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Entity relationship models (EPO)
+E17.049	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Physical indexing structures (EPO)
+E17.05	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Physical indexing structures (EPO) Trees, e.g., B+ trees, etc. (EPO)
+E17.051	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Physical indexing structures (EPO) Vectors, bitmaps or matrices (EPO)
+E17.052	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Physical indexing structures (EPO) Hash tables (EPO)
+E17.053	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Physical indexing structures (EPO) Index managing details (EPO)
+E17.054	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Relational databases (EPO) Relational operators, e.g., joins, transitive closure, partitioning, etc. (EPO)
+E17.055	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Object oriented databases (EPO)
+E17.056	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Multidimensional databases (EPO)
+E17.057	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) In structured data stores (EPO) Multidimensional databases (EPO) Indexing (EPO)
+E17.058	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO)
+E17.059	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Filtering based on additional data, e.g., user or group profiles, etc. (EPO)
+E17.06	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Filtering based on additional data, e.g., user or group profiles, etc. (EPO) Profile generation, learning or modification (EPO)
+E17.061	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO)
+E17.062	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO)
+E17.063	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO) Reformulation based on results of preceding query (EPO)
+E17.064	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO) Reformulation based on results of preceding query (EPO) Using relevance feedback from the user, e.g., relevance feedback on documents, documents sets, document terms or passages, etc. (EPO)
+E17.065	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO) Reformulation based on results of preceding query (EPO) Using relevance feedback from the user, e.g., relevance feedback on documents, documents sets, document terms or passages, etc. (EPO) Using graphical result space presentation or visualization (EPO)
+E17.066	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO) Using system suggestions (EPO)
+E17.067	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO) Using system suggestions (EPO) Using document space presentation or visualization, e.g., category, hierarchy or range presentation and selection, etc. (EPO)
+E17.068	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query formulation (EPO) Natural language query formulation or dialogue systems (EPO)
+E17.069	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO)
+E17.07	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query translation (EPO)
+E17.071	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query translation (EPO) Selection or weighting of terms from queries, including natural language queries (EPO)
+E17.072	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query translation (EPO) Syntactic pre-processing steps, e.g., stopword elimination, stemming, etc. (EPO)
+E17.073	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query translation (EPO) Translation of the query language, e.g., Chinese to English, etc. (EPO)
+E17.074	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query translation (EPO) Query expansion (EPO)
+E17.075	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query execution (EPO)
+E17.076	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query execution (EPO) Using Boolean model (EPO)
+E17.077	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query execution (EPO) Using phonetics (EPO)
+E17.078	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query execution (EPO) Using natural language analysis (EPO)
+E17.079	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query execution (EPO) Using probabilistic model (EPO)
+E17.08	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Query execution (EPO) Using vector based model (EPO)
+E17.081	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Query processing (EPO) Reuse of stored results of previous queries (EPO)
+E17.082	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Querying (EPO) Presentation or visualization of query results (EPO)
+E17.083	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Indexing (EPO)
+E17.084	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Indexing (EPO) Selection or weighting of terms for indexing (EPO)
+E17.085	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Indexing (EPO) Physical indexing structures (EPO)
+E17.086	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Indexing (EPO) Physical indexing structures (EPO) Inverted lists (EPO)
+E17.087	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Indexing (EPO) Physical indexing structures (EPO) Trees (EPO)
+E17.088	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Indexing (EPO) Physical indexing structures (EPO) Index managing details (EPO)
+E17.089	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Clustering or classification (EPO)
+E17.09	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Clustering or classification (EPO) Into predefined classes (EPO)
+E17.091	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Clustering or classification (EPO) Including class or cluster creation or modification (EPO)
+E17.092	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Clustering or classification (EPO) Including cluster or class visualization or browsing (EPO)
+E17.093	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Browsing or visualization (EPO).
+E17.094	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Browsing or visualization (EPO). Summarization for human users (EPO)
+E17.095	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Based on associated metadata or manual classification, e.g., bibliographic data, etc. (EPO)
+E17.096	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Based on associated metadata or manual classification, e.g., bibliographic data, etc. (EPO) Using identifiers, e.g., barcodes, radio frequency identifications, etc. (EPO)
+E17.097	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Based on associated metadata or manual classification, e.g., bibliographic data, etc. (EPO) Using citations (EPO)
+E17.098	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Creation of semantic tools (EPO)
+E17.099	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Creation of semantic tools (EPO) Ontology (EPO)
+E17.1	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of unstructured textual data (EPO) Creation of semantic tools (EPO) Thesaurus (EPO)
+E17.101	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of audio data (EPO)
+E17.102	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of audio data (EPO) Based on associated metadata, e.g., bibliographic data, images associated with audio data, etc. (EPO)
+E17.103	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of audio data (EPO) Based on associated metadata, e.g., bibliographic data, images associated with audio data, etc. (EPO) Wherein the metadata is a transcript of the audio data (EPO)
+E17.104	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing sequentially ordered data, e.g., alpha-numerically ordered, etc. (EPO)
+E17.105	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing sequentially ordered data, e.g., alpha-numerically ordered, etc. (EPO) Binary access (EPO)
+E17.106	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Processing sequentially ordered data, e.g., alpha-numerically ordered, etc. (EPO) Sequential access (EPO)
+E17.107	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO)
+E17.108	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By querying, e.g., search engines or meta-search engines, crawling techniques, push systems, etc. (EPO)
+E17.109	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By querying, e.g., search engines or meta-search engines, crawling techniques, push systems, etc. (EPO) With filtering and personalization (EPO)
+E17.11	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By querying, e.g., search engines or meta-search engines, crawling techniques, push systems, etc. (EPO) Spatially dependent indexing and retrieval, e.g., location dependent results to queries, etc. (EPO)
+E17.111	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By navigation, e.g., using categorized browsing, portals, synchronized browsing, visual networks of documents, virtual worlds or tours, etc. (EPO)
+E17.112	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By using information identifiers, e.g., encoding URL in specific indicia, browsing history, etc. (EPO)
+E17.113	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By using information identifiers, e.g., encoding URL in specific indicia, browsing history, etc. (EPO) By using bar codes (EPO)
+E17.114	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By using information identifiers, e.g., encoding URL in specific indicia, browsing history, etc. (EPO) Bookmark management (EPO)
+E17.115	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) By using information identifiers, e.g., encoding URL in specific indicia, browsing history, etc. (EPO) URL specific, e.g., using aliases, detecting broken or misspelled links, etc. (EPO)
+E17.116	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) Web site content organization and management, e.g., publishing, automatic linking or maintaining pages, etc. (EPO)
+E17.117	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) Web site content organization and management, e.g., publishing, automatic linking or maintaining pages, etc. (EPO) Access to data in other repository systems, e.g., legacy data or dynamic web page generation, etc. (EPO)
+E17.118	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) Web site content organization and management, e.g., publishing, automatic linking or maintaining pages, etc. (EPO) Document structures and storage, e.g., HTML extensions, etc. (EPO)
+E17.119	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) Browsing optimization (EPO)
+E17.12	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) Browsing optimization (EPO) Of access to content, e.g., by caching, etc. (EPO)
+E17.121	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Retrieval from the Internet, e.g., browsers, etc. (EPO) Browsing optimization (EPO) Optimizing the visualization of content, e.g., distillation of HTML documents, etc. (EPO)
+E17.122	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO)
+E17.123	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) Indexing, e.g., of XML tags, etc. (EPO)
+E17.124	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) Mapping or conversion (EPO)
+E17.125	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) Mapping or conversion (EPO) Mapping to a database (EPO)
+E17.126	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) Mapping or conversion (EPO) Mark-up to mark-up conversion (EPO)
+E17.127	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO)
+E17.128	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO) Query formulation (EPO)
+E17.129	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO) Query processing (EPO)
+E17.13	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO) Query processing (EPO) Query translation (EPO)
+E17.131	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO) Query processing (EPO) Query optimization (EPO)
+E17.132	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO) Query processing (EPO) Query execution (EPO)
+E17.133	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Of semistructured data, the underlying structure being taken into account, e.g., mark-up language structure data, etc. (EPO) XML native databases, structures and querying (EPO) Results presentation (EPO)
+E17.134	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO)
+E17.135	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO)
+E17.136	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO) Query formulation (EPO)
+E17.137	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO) Query formulation (EPO) Using system suggestions (EPO)
+E17.138	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO) Query formulation (EPO) Using system suggestions (EPO) Using search space presentation or visualization, e.g., category or range presentation and selection, etc. (EPO)
+E17.139	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO) Query formulation (EPO) Natural language query formulation or dialogue systems (EPO)
+E17.14	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO) Query processing (EPO)
+E17.141	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Querying (EPO) Presentation or visualization of query results (EPO)
+E17.142	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Browsing or visualization (EPO)
+E17.143	INFORMATION RETRIEVAL; DATABASE STRUCTURES THEREFORE (EPO) Details of database functions independent of the retrieved data type (EPO) Retrieval based on associated meditate (EPO)
+912	APPLICATIONS OF A DATABASE
+913	APPLICATIONS OF A DATABASE Multimedia
+914	APPLICATIONS OF A DATABASE Multimedia Video
+915	APPLICATIONS OF A DATABASE Multimedia Image
+916	APPLICATIONS OF A DATABASE Multimedia Audio
+917	APPLICATIONS OF A DATABASE Text
+918	APPLICATIONS OF A DATABASE Location
+919	APPLICATIONS OF A DATABASE Location Geographic
+920	APPLICATIONS OF A DATABASE Location Geographic Navigation
+921	APPLICATIONS OF A DATABASE Location Spatial
+922	APPLICATIONS OF A DATABASE Communications
+923	APPLICATIONS OF A DATABASE Intellectual property
+924	APPLICATIONS OF A DATABASE Intellectual property Patent procedure
+925	APPLICATIONS OF A DATABASE Intellectual property Patent procedure Drafting an application
+926	APPLICATIONS OF A DATABASE Intellectual property Patent procedure Drafting drawing or figures
+927	APPLICATIONS OF A DATABASE Intellectual property Patent procedure Validation
+928	APPLICATIONS OF A DATABASE Intellectual property Patent procedure Electronic submission
+929	APPLICATIONS OF A DATABASE Intellectual property Patent procedure Docketing
+930	APPLICATIONS OF A DATABASE Intellectual property Intellectual property analysis
+931	APPLICATIONS OF A DATABASE Intellectual property Intellectual property analysis Patent comparison
+932	APPLICATIONS OF A DATABASE Intellectual property Intellectual property analysis Patent comparison Infringement detection
+933	APPLICATIONS OF A DATABASE Intellectual property Intellectual property analysis Citation analysis
+934	APPLICATIONS OF A DATABASE Intellectual property Intellectual property analysis Analyzing patent activity
+935	APPLICATIONS OF A DATABASE Intellectual property Intellectual property analysis Analyzing patent activity Company or stock valuation
+936	APPLICATIONS OF A DATABASE Intellectual property For use in research and development
+937	APPLICATIONS OF A DATABASE Intellectual property Intellectual property searching
+938	APPLICATIONS OF A DATABASE Intellectual property Intellectual property markets
+939	APPLICATIONS OF A DATABASE Intellectual property Idea solicitation
+940	APPLICATIONS OF A DATABASE Infrastructure
+941	APPLICATIONS OF A DATABASE Human sciences
+942	APPLICATIONS OF A DATABASE Legal/academic
+943	APPLICATIONS OF A DATABASE News
+944	APPLICATIONS OF A DATABASE Business related
+945	APPLICATIONS OF A DATABASE Business related Contract negotiation
+946	APPLICATIONS OF A DATABASE Business related Real estate
+947	APPLICATIONS OF A DATABASE Business related Human resources
+948	APPLICATIONS OF A DATABASE Business related Product or catalog
+949	APPLICATIONS OF A DATABASE Business related Inventory
+950	APPLICATIONS OF A DATABASE Financial
+951	APPLICATIONS OF A DATABASE Calendar or scheduling
+952	APPLICATIONS OF A DATABASE Malicious software
+953	ORGANIZATION OF DATA
+954	ORGANIZATION OF DATA Relational
+955	ORGANIZATION OF DATA Object-oriented
+956	ORGANIZATION OF DATA Hierarchical
+957	ORGANIZATION OF DATA Multidimensional
+958	ORGANIZATION OF DATA Data cubes
+959	ORGANIZATION OF DATA Network
+960	ORGANIZATION OF DATA Object-relational
+961	ORGANIZATION OF DATA Associative
+962	ORGANIZATION OF DATA Entity-attribute-value
+963	ORGANIZATION OF DATA Hybrid
+964	DATABASE ARRANGEMENT
+965	DATABASE ARRANGEMENT Standalone
+966	DATABASE ARRANGEMENT Distributed
+967	DATABASE ARRANGEMENT Distributed Peer-to-peer
+968	DATABASE ARRANGEMENT Distributed Peer-to-peer Partitioning
+969	DATABASE ARRANGEMENT Distributed Peer-to-peer Partitioning Horizontal partitioning
+970	DATABASE ARRANGEMENT Distributed Peer-to-peer Partitioning Vertical partitioning
+971	DATABASE ARRANGEMENT Distributed Federated
+972	DATABASE ARRANGEMENT Distributed Federated Partitioning
+973	DATABASE ARRANGEMENT Distributed Federated Partitioning Horizontal partitioning
+974	DATABASE ARRANGEMENT Distributed Federated Partitioning Vertical partitioning
+975	DATABASE ARRANGEMENT Portable database architecture
+999.001	DATABASE OR FILE ACCESSING (707/1)
+999.002	DATABASE OR FILE ACCESSING (707/1) Access augmentation or optimizing (707/2)
+999.003	DATABASE OR FILE ACCESSING (707/1) Query processing (i.e., searching) (707/3)
+999.004	DATABASE OR FILE ACCESSING (707/1) Query processing (i.e., searching) (707/3) Query formulation, input preparation, or translation (707/4)
+999.005	DATABASE OR FILE ACCESSING (707/1) Query processing (i.e., searching) (707/3) Query augmenting and refining (e.g., inexact access) (707/5)
+999.006	DATABASE OR FILE ACCESSING (707/1) Query processing (i.e., searching) (707/3) Pattern matching access (707/6)
+999.007	DATABASE OR FILE ACCESSING (707/1) Sorting (707/7)
+999.008	DATABASE OR FILE ACCESSING (707/1) Concurrency (e.g., lock management in shared database) (707/8)
+999.009	DATABASE OR FILE ACCESSING (707/1) Privileged access (707/9)
+999.01	DATABASE OR FILE ACCESSING (707/1) Distributed or remote access (707/10)
+999.1	DATABASE SCHEMA OR DATA STRUCTURE (707/100)
+999.101	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Manipulating data structure (e.g., compression, compaction, compilation) (707/101)
+999.102	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Generating database or data structure (e.g., via user interface) (707/102)
+999.103	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Object-oriented database structure (707/103R)
+999.104	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Object-oriented database structure (707/103R) Object-oriented database structure processing (707/103Y)
+999.105	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Object-oriented database structure (707/103R) Object-oriented database structure network (707/103X)
+999.106	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Object-oriented database structure (707/103R) Object-oriented database structure reference (707/103Z)
+999.107	DATABASE SCHEMA OR DATA STRUCTURE (707/100) Application of database or data structure (e.g., distributed, multimedia, image) (707/104.1)
+999.2	FILE OR DATABASE MAINTENANCE (707/200)
+999.201	FILE OR DATABASE MAINTENANCE (707/200) Coherency (e.g., same view to multiple users) (707/201)
+999.202	FILE OR DATABASE MAINTENANCE (707/200) Coherency (e.g., same view to multiple users) (707/201) Recoverability (707/202)
+999.203	FILE OR DATABASE MAINTENANCE (707/200) Coherency (e.g., same view to multiple users) (707/201) Version management (707/203)
+999.204	FILE OR DATABASE MAINTENANCE (707/200) Coherency (e.g., same view to multiple users) (707/201) Archiving or backup (707/204)
+999.205	FILE OR DATABASE MAINTENANCE (707/200) File allocation (707/205)
+999.206	FILE OR DATABASE MAINTENANCE (707/200) File allocation (707/205) Garbage collection (707/206)
+FOR000	CLASS-RELATED FOREIGN DOCUMENTS

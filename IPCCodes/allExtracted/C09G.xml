@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="13528">
+	<ipcEntry kind="s" symbol="C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION C <emdash></emdash> CHEMISTRY AND METALLURGY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="n" symbol="C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody>
+				<note type="none">
+					<noteParagraph><text>Definitions for Section C: </text>
+						<subnote type="bullet">
+							<noteParagraph><text>Alkali metals: Li, Na, K, Rb, Cs, Fr </text>
+							</noteParagraph>
+							<noteParagraph><text>Alkaline earth metals: Ca, Sr, Ba, Ra </text>
+							</noteParagraph>
+							<noteParagraph><text>Lanthanides: elements with atomic numbers 57 to 71 inclusive </text>
+							</noteParagraph>
+							<noteParagraph><text>Rare earths: Sc, Y, Lanthanides </text>
+							</noteParagraph>
+							<noteParagraph><text>Actinides: elements with atomic numbers 89 to 103 inclusive </text>
+							</noteParagraph>
+							<noteParagraph><text>Refractory metals: Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W </text>
+							</noteParagraph>
+							<noteParagraph><text>Halogens: F, Cl, Br, I, At </text>
+							</noteParagraph>
+							<noteParagraph><text>Noble gases: He, Ne, Ar, Kr, Xe, Rn </text>
+							</noteParagraph>
+							<noteParagraph><text>Platinum group: Os, Ir, Pt, Ru, Rh, Pd </text>
+							</noteParagraph>
+							<noteParagraph><text>Noble metals: Ag, Au, Platinum group </text>
+							</noteParagraph>
+							<noteParagraph><text>Light metals: alkali metals, alkaline earth metals, Be, Al, Mg </text>
+							</noteParagraph>
+							<noteParagraph><text>Heavy metals: metals other than light metals </text>
+							</noteParagraph>
+							<noteParagraph><text>Iron group: Fe, Co, Ni </text>
+							</noteParagraph>
+							<noteParagraph><text>Non-metals: H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens </text>
+							</noteParagraph>
+							<noteParagraph><text>Metals: elements other than non-metals </text>
+							</noteParagraph>
+							<noteParagraph><text>Transition elements: elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</text>
+							</noteParagraph>
+						</subnote>
+					</noteParagraph>
+				</note>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="t" symbol="C01" endSymbol="C01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CHEMISTRY</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="C09" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>DYES</text>
+					</titlePart>
+					<titlePart><text>PAINTS</text>
+					</titlePart>
+					<titlePart><text>POLISHES</text>
+					</titlePart>
+					<titlePart><text>NATURAL RESINS</text>
+					</titlePart>
+					<titlePart><text>ADHESIVES</text>
+					</titlePart>
+					<titlePart><text>MISCELLANEOUS COMPOSITIONS</text>
+					</titlePart>
+					<titlePart><text>MISCELLANEOUS APPLICATIONS OF MATERIALS</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="C09G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>POLISHING COMPOSITIONS OTHER THAN FRENCH POLISH</text>
+						</titlePart>
+						<titlePart><text>SKI WAXES</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="m" symbol="C09G0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Polishing compositions</text>
+								<entryReference>French polish <sref ref="C09F0011000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>detergents <sref ref="C11D" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="1" symbol="C09G0001020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>containing abrasives or grinding agents</text>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="C09G0001040000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Aqueous dispersions</text>
+									<entryReference><sref ref="C09G0001020000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry kind="1" symbol="C09G0001060000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Other polishing compositions</text>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry kind="2" symbol="C09G0001080000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>based on wax</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="C09G0001100000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>based on mixtures of wax and natural or synthetic resin</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry kind="4" symbol="C09G0001120000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>mixtures of wax and silicon-containing polycondensates</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry kind="2" symbol="C09G0001140000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>based on non-waxy substances</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry kind="3" symbol="C09G0001160000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>on natural or synthetic resins</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+							<ipcEntry kind="3" symbol="C09G0001180000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>on other substances</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="C09G0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Ski waxes</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

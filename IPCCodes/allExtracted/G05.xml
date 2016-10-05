@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="21808">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G05" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>CONTROLLING</text>
+					</titlePart>
+					<titlePart><text>REGULATING</text>
+						<entryReference>specially adapted to a particular field of use, <u>see</u> the relevant sub-class, e.g. <sref ref="B23Q" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="G05" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Attention is drawn to the notes (particularly the definition of the term "variable") on page 7 of this Section.</text>
+						</noteParagraph>
+						<noteParagraph><text>This class covers methods, systems, and apparatus for controlling in general.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Controlling" means influencing a variable in any way, e.g. changing its direction or its value (including changing it to or from zero), maintaining it constant, limiting its range of variation.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Regulation" means maintaining a variable automatically at a desired value or within a desired range of values. The desired value or range may be fixed, or manually varied, or may vary with time according to a predetermined "programme" or according to variation of another variable. Regulation is a form of control; the term "automatic control" is often used in the art as a synonym for "regulation".</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G05B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONTROL OR REGULATING SYSTEMS IN GENERAL</text>
+						</titlePart>
+						<titlePart><text>FUNCTIONAL ELEMENTS OF SUCH SYSTEMS</text>
+						</titlePart>
+						<titlePart><text>MONITORING OR TESTING ARRANGEMENTS FOR SUCH SYSTEMS OR ELEMENTS</text>
+							<entryReference>fluid-pressure actuators or systems acting by means of fluids in general <sref ref="F15B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>valves <u>per se</u>
+								<sref ref="F16K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>characterised by mechanical features only <sref ref="G05G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensitive elements, <u>see</u> the appropriate sub-classes, e.g. <sref ref="G12B" refType="/" refLevel="c"></sref>, sub-classes of <sref ref="G01" refType="/" refLevel="c"></sref>, <sref ref="H01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>correcting units, <u>see</u> the appropriate sub-classes, e.g. <sref ref="H02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G05B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>Applications of control systems or elements for regulating specific variables are covered by sub-classes <sref ref="G05D" refType="/" refLevel="c"/>, <sref ref="G05F" refType="/" refLevel="c"/>, and not by this sub-class. However, features of such systems or elements which are clearly more generally applicable are classified in this sub-class.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>The term "automatic controller" means a system, circuit, or device in which a signal from the detecting element is compared with a signal representing the desired value and which operates in such a way as to reduce the deviation. The automatic controller generally does not include the sensitive element, i.e. that element which measures the value of the condition to be corrected, or the correcting element, i.e. that element which adjusts the condition to be corrected.</text>
+									</noteParagraph>
+									<noteParagraph><text>The term "electric" is intended to include "electromechanical", "electrohydraulic", and "electropneumatic".</text>
+									</noteParagraph>
+									<noteParagraph><text>Details of specific control systems are classified in the group relevant to the system, if not otherwise provided for.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G05D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SYSTEMS FOR CONTROLLING OR REGULATING NON-ELECTRIC VARIABLES</text>
+							<entryReference>for continuous casting of metals <sref ref="B22D0011160000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>valves <u>per se</u>
+								<sref ref="F16K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>sensing non-electric variables, <u>see</u> the relevant sub-classes of <sref ref="G01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>for regulating electric or magnetic variables <sref ref="G05F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G05D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>The term "systems" in this sub-class includes self-contained devices such as speed governors, pressure regulators.</text>
+							</noteParagraph>
+							<noteParagraph><text>Features of general applicability to regulating systems, e.g. anti-hunting arrangements, are classified in sub-class <sref ref="G05B" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>Control systems designed specifically for particular apparatus, machines, or processes are classified in the sub-classes for the apparatus, machines, or processes, provided that (a) there is specific provision there for the control aspect and (b) the apparatus, machines, or processes are described in detail.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G05F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SYSTEMS FOR REGULATING ELECTRIC OR MAGNETIC VARIABLES</text>
+							<entryReference>regulating the timing or recurrence frequency of pulses in radar or radio navigation systems <sref ref="G01S" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>closed-loop systems for regulating non-electric variables by electric means <sref ref="G05D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>regulating current supply in networks <sref ref="H02J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>regulating the charging of batteries <sref ref="H02J0007000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>regulating motor current <sref ref="H02N" refType="/" refLevel="c"></sref>, <sref ref="H02P" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>regulating frequency response, gain, maximum output, amplitude, or bandwidth of amplifiers <sref ref="H03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>regulating tuning of resonant circuits <sref ref="H03J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>regulating characteristics of transmission lines <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electric control of X-ray apparatus <sref ref="H05G0001300000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G05F" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class includes the use of hydraulic, pneumatic, mechanical, and electrical motors for varying electric characteristics of devices which restore the quantity regulated.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class is restricted to systems, the elements <u>per se</u> being in the relevant sub-classes.</text>
+							</noteParagraph>
+							<noteParagraph><text>The regulation of the output, e.g. frequency, phase, amplitude, of electric generators, converters, or transformers is dealt with in <sref ref="H02N" refType="/" refLevel="c"/>, <sref ref="H02P0009000000" refType="/" refLevel="c"/>, <sref ref="H02P0013000000" refType="/" refLevel="c"/>, <sref ref="H03L" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G05G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONTROL DEVICES OR SYSTEMS INSOFAR AS CHARACTERISED BY MECHANICAL FEATURES ONLY</text>
+							<entryReference>"Bowden" or like mechanisms <sref ref="F16C0001100000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gearings or mechanisms not peculiar to this purpose <sref ref="F16H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems peculiar to the control of particular machines or apparatus classified in a single other class, <u>see</u> the class for such machines or apparatus</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G05G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class covers members of general applicability for mechanical control, and mechanical systems for moving members to one or more definite settings.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

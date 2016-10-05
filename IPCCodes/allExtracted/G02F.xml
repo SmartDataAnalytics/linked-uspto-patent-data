@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="34080">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G02" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>OPTICS</text>
+						<entryReference>making optical elements or apparatus <sref ref="B24B" refType="/" refLevel="c"></sref>, <sref ref="B29D" refType="/" refLevel="c"></sref>, <sref ref="C03" refType="/" refLevel="c"></sref>, or other appropriate sub-classes or classes</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G02F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONTROLLING THE INTENSITY, COLOUR, PHASE, POLARISATION, OR DIRECTION OF LIGHT BEAMS, e.g. SWITCHING, GATING, MODULATING, OR DEMODULATING</text>
+						</titlePart>
+						<titlePart><text>FREQUENCY-CHANGING</text>
+						</titlePart>
+						<titlePart><text>NON-LINEAR OPTICS</text>
+						</titlePart>
+						<titlePart><text>OPTICAL LOGIC ELEMENTS</text>
+						</titlePart>
+						<titlePart><text>OPTICAL ANALOGUE/DIGITAL CONVERTERS</text>
+							<entryReference>optical transfer means between sensing member and indicating or recording part in connection with measuring <sref ref="G01D0005260000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>devices in which mathematical operations are carried out with optical elements <sref ref="G06G0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrical signal transmission systems using optical means to convert the input signal <sref ref="G08C0019360000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>information-recording by electric or magnetic means and reproducing by sensing optical properties <sref ref="G11B0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>static stores using optical elements <sref ref="G11C0013040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transmission systems employing electromagnetic waves other than radio waves, e.g. light, infra-red radiation, <sref ref="H04B0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>television <sref ref="H04N" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry edition="19740701" kind="m" symbol="G02F0001000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Controlling the intensity, colour, phase, polarisation or direction of light beams arriving from an independent light source, e.g. switching, gating or modulating</text>
+							</titlePart>
+							<titlePart><text>Non-linear optics</text>
+								<entryReference>thermometers using change of colour or translucency <sref ref="G01K0011120000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>indicating arrangements consisting of an association of separate light control cells <sref ref="G09F0009000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>arrangements or circuits for control of indicating devices using static means to present variable information <sref ref="G09G" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>control of light sources <sref ref="H01S0003100000" refType="/" refLevel="c"></sref>, <mref ref="H05B0037000000" endRef="H05B0043000000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry kind="n" symbol="G02F0001000000" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody>
+							<note type="none">
+								<noteParagraph edition="19740701"><text>This main group includes only devices, e.g. cells, the optical operation of which is modified by changing the optical properties of the medium of the device by the influence or control of physical parameters, e.g. electric fields, electric current, magnetic fields, sound or mechanical vibrations, stress or thermal effects, and it includes devices in which the electric or magnetic field component of the light beams influences the optical properties of the medium, i.e. non-linear optics, and includes the control of light by electromagnetic waves, e.g. radio waves, or by electrons or other elementary particles.</text>
+								</noteParagraph>
+							</note>
+						</textBody>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G02F0001010000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Controlling the intensity, phase, polarisation or colour</text>
+									<entryReference><sref ref="G02F0001290000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									<entryReference>polarizing elements <u>per se</u>
+										<sref ref="G02B0005300000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>static storage <u>per se</u>
+										<sref ref="G11C" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>image tube screens acting as light valves by shutter operation <sref ref="H01J0029120000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>such screen acting by discoloration <sref ref="H01J0029140000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19800101" kind="2" symbol="G02F0001015000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using semiconductor devices with at least one potential jump barrier, e.g. PN, PIN junction</text>
+										<entryReference><sref ref="G02F0001030000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001030000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using electro-optical crystals, e.g. by Pockels or Kerr effect</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G02F0001050000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>with ferro-electric properties</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001070000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using electro-optical liquids exhibiting Kerr effect</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001090000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using magneto-optical devices, e.g. by Faraday effect</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001110000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using acousto-optical devices, e.g. using diffraction by sound or like mechanical waves</text>
+										<entryReference>acousto-optical deflection <sref ref="G02F0001330000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001130000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using liquid crystals</text>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="G02F0001133000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>Constructional arrangements</text>
+										</titlePart>
+										<titlePart><text>Operation of the cell</text>
+										</titlePart>
+										<titlePart><text>Circuit arrangements</text>
+										</titlePart>
+									</title>
+								</textBody>
+								<ipcEntry edition="19800101" kind="4" symbol="G02F0001135000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+									<textBody><title>
+											<titlePart><text>Liquid crystal cells structurally associated with a supplementary layer, e.g. a photoconducting or a ferro-electric layer, the properties of which can be electrically or optically varied</text>
+											</titlePart>
+										</title>
+									</textBody>
+								</ipcEntry>
+							</ipcEntry>
+							<ipcEntry edition="19800101" kind="3" symbol="G02F0001137000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>characterised by a particular electro- or magneto-optical effect, e.g. field-induced phase transition, orientation effect, guest-host interaction, dynamic scattering</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001170000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using variable absorption devices</text>
+										<entryReference><mref ref="G02F0001015000" endRef="G02F0001137000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001190000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by using variable reflection or refraction</text>
+										<entryReference><mref ref="G02F0001015000" endRef="G02F0001137000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001210000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>by interference</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001230000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Controlling colour</text>
+										<entryReference><mref ref="G02F0001030000" endRef="G02F0001210000" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref> take precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19740701" kind="3" symbol="G02F0001250000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>as to hue or predominant wavelength</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G02F0001290000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Controlling the position or the direction of light beams, i.e. deflection</text>
+									<entryReference>optical-mechanical scanning in general <sref ref="G02B0027170000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>indicating arrangements for variable information by selection or combination of individual elements <sref ref="G09F0009000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>static stores with electric or magnetic read-in and optical read-out <sref ref="G11C" refType="/" refLevel="c"></sref>
+									</entryReference>
+									<entryReference>lasers provided with means to change the location from which, or the direction in which, laser radiation is emitted <sref ref="H01S0003101000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001310000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Digital deflection</text>
+										<entryReference><sref ref="G02F0001330000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+							<ipcEntry edition="19800101" kind="3" symbol="G02F0001315000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+								<textBody><title>
+										<titlePart><text>by using controlled total internal reflection</text>
+										</titlePart>
+									</title>
+								</textBody>
+							</ipcEntry>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001330000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>Acousto-optical deflection</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+					<ipcEntry edition="19740701" kind="1" symbol="G02F0001350000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Non-linear optics</text>
+									<entryReference>lasers using stimulated Brillouin or Raman effect <sref ref="H01S0003300000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001370000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for second-harmonic generation</text>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+						<ipcEntry edition="19740701" kind="2" symbol="G02F0001390000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+							<textBody><title>
+									<titlePart><text>for parametric generation or amplification of light, infra-red, or ultra-violet waves</text>
+										<entryReference>electrical parametric amplifiers <sref ref="H03F0007000000" refType="/" refLevel="c"></sref>
+										</entryReference>
+									</titlePart>
+								</title>
+							</textBody>
+						</ipcEntry>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry edition="19740701" kind="m" symbol="G02F0002000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Demodulating light</text>
+							</titlePart>
+							<titlePart><text>Transferring the modulation of modulated light</text>
+							</titlePart>
+							<titlePart><text>Frequency-changing of light</text>
+								<entryReference><sref ref="G02F0001350000" refType="/" refLevel="c"></sref> takes precedence</entryReference>
+								<entryReference>photoelectric detecting or measuring devices <sref ref="G01J" refType="/" refLevel="c"></sref>, <sref ref="H01J0040000000" refType="/" refLevel="c"></sref>, <sref ref="H01L0031000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>demodulating laser arrangements <sref ref="H01S0003100000" refType="/" refLevel="c"></sref>
+								</entryReference>
+								<entryReference>demodulation or transference of modulation of modulated electromagnetic waves in general <sref ref="H03D0009000000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+					<ipcEntry edition="19740701" kind="1" symbol="G02F0002020000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+						<textBody><title>
+								<titlePart><text>Frequency-changing of light, e.g. by quantum counters</text>
+									<entryReference>luminescent materials <sref ref="C09K0011000000" refType="/" refLevel="c"></sref>
+									</entryReference>
+								</titlePart>
+							</title>
+						</textBody>
+					</ipcEntry>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G02F0003000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Optical logic elements</text>
+								<entryReference>electro-optical circuits <sref ref="H03K0019140000" refType="/" refLevel="c"></sref>
+								</entryReference>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+				<ipcEntry kind="m" symbol="G02F0007000000" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody><title>
+							<titlePart><text>Optical analogue/digital converters</text>
+							</titlePart>
+						</title>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

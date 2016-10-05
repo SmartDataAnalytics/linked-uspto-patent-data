@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="9160">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F22" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>STEAM GENERATION</text>
+						<entryReference>chemical or physical apparatus for generating gases <sref ref="B01J" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>chemical generation of gas, e.g. under pressure, Section C</entryReference>
+						<entryReference>generating combustion products of high pressure or high velocity <sref ref="F23R" refType="/" refLevel="c"></sref>
+						</entryReference>
+						<entryReference>water heaters not for steam generation <sref ref="F24H" refType="/" refLevel="c"></sref>, <sref ref="F28" refType="/" refLevel="c"></sref>
+						</entryReference>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F22" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the term "steam" also covers other condensable vapours, e.g. mercury, diphenyl, diphenyl oxide.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F22B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>METHODS OF STEAM GENERATION</text>
+						</titlePart>
+						<titlePart><text>STEAM BOILERS</text>
+							<entryReference>steam engine plants where engine aspects predominate <sref ref="F01K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>domestic central-heating systems using steam <sref ref="F24D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>heat exchange or heat transfer in general <sref ref="F28" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>generation of vapour in the cores of nuclear reactors <sref ref="G21" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F22B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class includes only methods of, and apparatus for, the generation of steam under pressure for heating or power purposes.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F22D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PREHEATING, OR ACCUMULATING PREHEATED, FEED-WATER</text>
+						</titlePart>
+						<titlePart><text>FEED-WATER SUPPLY</text>
+						</titlePart>
+						<titlePart><text>CONTROLLING WATER LEVEL</text>
+						</titlePart>
+						<titlePart><text>CIRCULATING WATER WITHIN BOILERS</text>
+							<entryReference>chemical treatment of water, e.g. purification, <sref ref="C02F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>enclosed heat-exchange apparatus in general <sref ref="F28D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>controlling in general <sref ref="G05" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F22G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SUPERHEATING OF STEAM</text>
+							<entryReference>steam-separating arrangements in boilers <sref ref="F22B0037260000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="7990">
+	<ipcEntry kind="s" symbol="E" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION E <emdash></emdash> FIXED CONSTRUCTIONS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="E21" endSymbol="E21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>EARTH DRILLING</text>
+					</titlePart>
+					<titlePart><text>MINING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="E21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>EARTH DRILLING</text>
+					</titlePart>
+					<titlePart><text>MINING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="E21" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="none">
+						<noteParagraph><text>In this class, the term "drilling" covers "boring" and <u>vice versa</u>.</text>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E21B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>EARTH DRILLING, e.g. DEEP DRILLING</text>
+							<entryReference>mining, quarrying <sref ref="E21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>making shafts, driving galleries or tunnels <sref ref="E21D" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>OBTAINING OIL, GAS, WATER, SOLUBLE OR MELTABLE MATERIALS FROM DEEP WELLS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E21C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MINING OR QUARRYING</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="E21C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph edition="19800101"><text>This sub-class covers methods or apparatus specific to mining or quarrying.</text>
+							</noteParagraph>
+							<noteParagraph edition="19800101"><text>Even though disclosed only for mining or quarrying, drill bits, bore reamers, core taking devices, drilling pipes or rods, handling, racking or connecting arrangements for drilling pipes or rods, counterboring or enlarging drilled holes, flame drilling, or other drilling apparatus not provided for in this sub-class, are covered by sub-class <sref ref="E21B" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E21D" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SHAFTS</text>
+						</titlePart>
+						<titlePart><text>TUNNELS</text>
+						</titlePart>
+						<titlePart><text>GALLERIES</text>
+							<entryReference>drilling or cutting machines for mining or quarrying <sref ref="E21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>safety devices, transport, rescue, ventilation or drainage <sref ref="E21F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="E21F" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SAFETY DEVICES, TRANSPORT, FILLING-UP, RESCUE, VENTILATION, OR DRAINAGE IN OR OF MINES OR TUNNELS</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

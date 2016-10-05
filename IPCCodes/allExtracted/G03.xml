@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="17356">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G01" endSymbol="G01" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>INSTRUMENTS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G03" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>PHOTOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>CINEMATOGRAPHY</text>
+					</titlePart>
+					<titlePart><text>ELECTROGRAPHY</text>
+					</titlePart>
+					<titlePart><text>HOLOGRAPHY</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G03B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>APPARATUS OR ARRANGEMENTS FOR TAKING PHOTOGRAPHS OR FOR PROJECTING OR VIEWING THEM</text>
+						</titlePart>
+						<titlePart><text>ACCESSORIES THEREFOR</text>
+							<entryReference>optical parts of such apparatus <sref ref="G02B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>preparing or processing photosensitive material <sref ref="G03C" refType="/" refLevel="c"></sref>, <sref ref="G03D" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G03B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>So far as processes are concerned, this sub-class covers only processes characterised by the use or manipulation of apparatus classifiable <u>per se</u> in this sub-class.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G03C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PHOTOSENSITIVE COMPOSITIONS OR BASES CARRYING THEM</text>
+						</titlePart>
+						<titlePart><text>PHOTOGRAPHIC PROCESSES, e.g. CINE, X-RAY, COLOUR, STEREO-PHOTOGRAPHIC PROCESSES</text>
+						</titlePart>
+						<titlePart><text>AUXILIARY PROCESSES IN PHOTOGRAPHY</text>
+							<entryReference>photographic processes characterised by the use or manipulation of apparatus classifiable <u>per se</u> in sub-class <sref ref="G03B" refType="/" refLevel="c"></sref>, see <sref ref="G03B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrography, electrophotography, magnetography <sref ref="G03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G03D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>APPARATUS FOR PROCESSING EXPOSED PHOTOGRAPHIC MATERIALS</text>
+						</titlePart>
+						<titlePart><text>ACCESSORIES THEREFOR</text>
+							<entryReference>chemical processes for photographic materials <sref ref="G03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrographic, electrophotographic, or magnetographic methods or apparatus <sref ref="G03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G03F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PHOTOMECHANICAL PRODUCTION OF TEXTURED OR PATTERNED SURFACES, e.g. FOR PRINTING, FOR PROCESSING OF SEMICONDUCTOR DEVICES</text>
+						</titlePart>
+						<titlePart><text>ORIGINALS THEREFOR</text>
+							<entryReference>phototypographic composing devices <sref ref="B41B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>photosensitive compositions, photographic processes <sref ref="G03C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electrography, sensitive layers or processes therefor <sref ref="G03G" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G03G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTROGRAPHY</text>
+						</titlePart>
+						<titlePart><text>ELECTROPHOTOGRAPHY</text>
+						</titlePart>
+						<titlePart><text>MAGNETOGRAPHY</text>
+							<entryReference>information storage based on relative movement between record carrier and transducer <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>static stores with means for writing-in or reading-out information <sref ref="G11C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>recording of television signals <sref ref="H04N0005760000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G03G" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with the production of permanent directly-visible pictures in conformity with an original picture or document, using an imagewise distribution of an electric or magnetic quantity, such as a charge pattern, an electric conductivity pattern, or a magnetic pattern. Using electric signals for the transmission of the picture information from the original to the reproduction, i.e. pictorial communication, is dealt with in sub-class <sref ref="H04N" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>The production of pictures by heat patterns exclusively, not using an electrostatic or magnetic pattern, is classified in group <sref ref="B41M0005000000" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+							<noteParagraph><text>The production of prints by transferring ink from a printing form to a printing surface, without physical contact and using the force of an electrostatic field, is dealt with in sub-class <sref ref="B41M" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G03H" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>HOLOGRAPHIC PROCESSES OR APPARATUS</text>
+							<entryReference>holograms, e.g. point holograms, used as ordinary optical elements <sref ref="G02B0005320000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>producing stereoscopic or other three-dimensional effects <sref ref="G02B0027220000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>diffraction-grating systems <sref ref="G02B0027440000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems using moire fringes <sref ref="G02B0027600000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>optical logic elements <sref ref="G02F0003000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>stereo-photography <sref ref="G03B0035000000" refType="/" refLevel="c"></sref>, <sref ref="G03C0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>analogue computers performing mathematical operations with the aid of optical elements <sref ref="G06G0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>holographic digital storage <sref ref="G11C0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G03H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19740701"><text>This sub-class comprises means for producing a record of the phase and amplitude information of a wave-front, which information can be used to reconstruct the original wave-front, or means to reconstruct the original wave-front from a record containing the phase and amplitude information of the wave-front.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="38908">
+	<ipcEntry kind="s" symbol="H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION H <emdash></emdash> ELECTRICITY</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="c" symbol="H04" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>ELECTRIC COMMUNICATION TECHNIQUE</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="H04B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TRANSMISSION</text>
+							<entryReference>broadcast communication <sref ref="H04H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>multiplex systems <sref ref="H04J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>secret communication <sref ref="H04K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with the transmission of information-carrying signals, the transmission being independent of the nature of the information, and includes monitoring and testing arrangements and the suppression and limitation of noise and interference.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>BROADCAST COMMUNICATION</text>
+							<entryReference>transmission in general <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>multiplex communication <sref ref="H04J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04H" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with (a) the distribution of entertainment or informative matter simultaneously to a number of receiving stations over transmission lines or over radio waves, and (b) the recording of the use made of the broadcast service.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>MULTIPLEX COMMUNICATION</text>
+							<entryReference>transmission in general <sref ref="H04B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>peculiar to transmission of digital information <sref ref="H04L0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems for transmitting television signals simultaneously or sequentially <sref ref="H04N0007080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>in exchanges <sref ref="H04Q0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>stereophonic systems <sref ref="H04S" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with (a) circuits or apparatus for combining or dividing signals for the purpose of transmitting them simultaneously or sequentially over the same transmission path, and (b) monitoring arrangements therefor.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04K" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SECRET COMMUNICATION</text>
+						</titlePart>
+						<titlePart><text>JAMMING OF COMMUNICATION</text>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04K" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>The term "secret communication" includes secret line and radiation transmission systems, i.e. those in which apparatus at the transmitting station modifies the signal in such a way that the information cannot be intelligibly received without corresponding modifying apparatus at the receiving station.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04L" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION</text>
+							<entryReference>typewriters <sref ref="B41J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>order telegraphs, fire or police telegraphs <sref ref="G08B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>visual telegraphy <sref ref="G08B" refType="/" refLevel="c"></sref>, <sref ref="G08C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>teleautographic systems <sref ref="G08C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>arrangements common to telegraphic and telephonic communication <sref ref="H04M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>selecting <sref ref="H04Q" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04L" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with transmission of signals having been supplied in digital form and includes data transmission, telegraphic communication, and methods or arrangements for monitoring.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04M" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TELEPHONIC COMMUNICATION</text>
+							<entryReference>counting mechanisms <sref ref="G06M" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>circuits for controlling other apparatus via a telephone cable and not involving telephone switching apparatus <sref ref="G08" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>reels or other take-up devices for cords <sref ref="H02G0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>multiplex transmission between switching centres <sref ref="H04J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>selecting arrangements <sref ref="H04Q" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>transducers <sref ref="H04R" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04M" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class includes (a) telephonic communication systems combined with other electrical systems, and (b) testing arrangements peculiar to telephonic communication systems.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>"Subscriber" is a general term for terminal equipment, e.g. telephone for public use.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Substation" means a subscriber of monitoring equipment which may connect a single subscriber to a line without choice as to subscriber.</text>
+									</noteParagraph>
+									<noteParagraph><text>A "satellite" is a type of exchange the operation of which depends upon control signals received from a supervisory exchange.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Switching centres" include exchanges and satellites.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04N" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PICTORIAL COMMUNICATION</text>
+						</titlePart>
+						<titlePart><text>TELEVISION</text>
+							<entryReference>measuring, testing <sref ref="G01" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>systems for autographic writing, e.g. writing telegraphy, which involve following an outline <sref ref="G08" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>information storage based on relative movement between record carrier and transducer <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>broadcast distribution or the recording of use made thereof <sref ref="H04H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04N" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with the transmission of pictures or their transient or permanent reproduction either locally or remotely, by methods involving both the following steps:</text>
+								<subnote type="none">
+									<noteParagraph><text>Step (a): the scanning of a picture, i.e. the analysis of the whole of a picture-containing area by resolving it into an area or a plurality of areas of which at least one of the two dimensions is elemental, simultaneously or in a sequence, and the derivation in response thereto of a picture-representative electric signal;</text>
+									</noteParagraph>
+									<noteParagraph><text>Step (b): the reproduction of the whole of a picture-containing area by the reproduction in response to a picture-representative electric signal of an area or a plurality of areas of which at least one of the two dimensions is elemental, simultaneously or in sequence.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, "pictorial communication systems" are those systems for the transmission and reproduction of arbitrarily composed pictures in which the local light variations composing a picture are not subject to variation with time, e.g. documents (both written and printed), maps, charts, photographs (other than cinematograph films).</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class, "television systems" are those systems for the transmission and reproduction of arbitrarily composed pictures in which the local light variations composing a picture may change with time, e.g. natural "live" scenes, recordings of such scenes such as cinematograph films.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class includes circuits specially designed for dealing with television or pictorial communication signals, as distinct from merely signals of a particular frequency range.</text>
+							</noteParagraph>
+							<noteParagraph><text>This sub-class does not include the following subject matter:</text>
+								<subnote type="roman">
+									<noteParagraph><text>Circuits or other parts of systems which form the subject of other sub-classes, which are dealt with in the corresponding sub-classes, e.g. <sref ref="H03C" refType="/" refLevel="c"/>, <sref ref="H03F" refType="/" refLevel="c"/>, <sref ref="H03J" refType="/" refLevel="c"/>, <sref ref="H04B" refType="/" refLevel="c"/>, <sref ref="H04H" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+									<noteParagraph><text>Systems in which legible alphanumeric or like character forms are analysed according to Step (a) to derive an electric signal from which the character is recognised by comparison with stored information, which are dealt with in <sref ref="G06K" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+									<noteParagraph><text>Systems for the direct photographic copying of an original picture in which an electric signal representative of the picture is derived according to Step (a) and employed to modify the operation of the system, which are dealt with in <sref ref="G03" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+									<noteParagraph><text>Systems for the reproduction according to Step (b) of pictures comprising alphanumeric or like character forms but involving the production of the equivalent of a signal which would be derived by Step (a), e.g. by cams, punched card or tape, coded control signal, or other means, which are dealt with in the sub-class for the application, e.g. <sref ref="G01D" refType="/" refLevel="c"/>, <sref ref="G06F" refType="/" refLevel="c"/>, <sref ref="H04L" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+									<noteParagraph><text>Systems involving Step (a) or Step (b) for producing (1) engraved, indented, apertured, or otherwise formed printing surfaces, or (2) photographs specially arranged for producing such printing surfaces or for use generally in printing or duplication, which are dealt with in <sref ref="G03F" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+									<noteParagraph><text>Systems involving Step (a) or Step (b) but otherwise specially modified for printing or duplication, which are dealt with in such sub-classes as <sref ref="B41M" refType="/" refLevel="c"/>, <sref ref="G03C" refType="/" refLevel="c"/>, <sref ref="G03F" refType="/" refLevel="c"/>.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+							<noteParagraph><text>Systems for the reproduction according to Step (b) of pictures comprising alphanumeric or like character forms and involving the generation according to Step (a) of picture-representative electric signals from a pre-arranged assembly of such characters, or records thereof, forming an integral part of the systems, are dealt with in the sub-class for the application, e.g. <sref ref="B41B" refType="/" refLevel="c"/>, <sref ref="G06K" refType="/" refLevel="c"/>, <sref ref="H04N" refType="/" refLevel="c"/>.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04Q" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>SELECTING</text>
+							<entryReference>switches, relays, selectors <sref ref="H01H" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>electronic switches <sref ref="H03K0017000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04Q" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="number">
+							<noteParagraph><text>This sub-class deals with methods, circuits, or apparatus for establishing selectively a connection between a desired number of stations (normally two), or between a main station and a desired number of substations (normally one) for the purpose of transferring information via this connection after it has been established. The sub-class also deals with selective calling arrangements over connections already established. In either case, the connection may be by means of electric conductors or electromagnetic waves.</text>
+							</noteParagraph>
+							<noteParagraph><text>In this sub-class:</text>
+								<subnote type="alpha">
+									<noteParagraph><text>"Subscriber" is a general term for terminal equipment, e.g. telephone for public use.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Substation" means a subscriber or monitoring equipment which may connect a single subscriber to a line without choice as to subscriber.</text>
+									</noteParagraph>
+									<noteParagraph><text>A "satellite" is a kind of exchange the operation of which depends upon control signals received from a supervisory exchange.</text>
+									</noteParagraph>
+									<noteParagraph><text>"Switching centres" include exchanges and satellites.</text>
+									</noteParagraph>
+								</subnote>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04R" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>ELECTROMECHANICAL TRANSDUCERS</text>
+							<entryReference>for performing mechanical work <sref ref="B06B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>use of transducers as sensing elements for measuring <sref ref="G01" refType="/" refLevel="c"></sref>, <sref ref="G04" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>construction or circuits of vibrators whose output is of frequency unrelated to that of the electric supply <sref ref="G10K" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>recording or reproducing heads incorporating transducers <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>dynamo-electric machines <sref ref="H02K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04R" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with (a) instruments capable of converting sonic, ultrasonic, or infrasonic waves, or other mechanical vibrations into variations of electric current or voltage or <u>vice versa</u>, (b) instruments actuated by variations of electric current or voltage for cutting grooves in records, (c) circuits for the instruments of (a) and (b), (d) deaf-aid sets, (e) public address systems, and (f) monitoring or testing the equipment of (a) to (e).</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="H04S" ipcLevel="C" edition="19800101" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>STEREOPHONIC SYSTEMS</text>
+							<entryReference>information storage on discs or tapes <sref ref="G11B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>broadcast systems for the distribution of stereophonic information <sref ref="H04H0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>multiplex systems in general <sref ref="H04J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="H04S" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19800101"><text>In this sub-class, the term "stereophonic systems" covers quadraphonic or similar systems.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

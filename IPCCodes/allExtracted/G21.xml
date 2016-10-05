@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="13086">
+	<ipcEntry kind="s" symbol="G" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION G <emdash></emdash> PHYSICS</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="G21" endSymbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEONICS</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="G21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>NUCLEAR PHYSICS</text>
+					</titlePart>
+					<titlePart><text>NUCLEAR ENGINEERING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="G21B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FUSION REACTORS</text>
+							<entryReference>uncontrolled reactors <sref ref="G21J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NUCLEAR REACTORS</text>
+							<entryReference>analogue computers therefor <sref ref="G06G0007540000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fusion reactors <sref ref="G21B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>nuclear explosives <sref ref="G21J" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NUCLEAR POWER PLANT</text>
+							<entryReference>electric or magnetic analogue computers, e.g. simulators, for nuclear physics <sref ref="G06G0007540000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PROTECTION AGAINST X-RADIATION, GAMMA RADIATION, CORPUSCULAR RADIATION, OR PARTICLE BOM- BARDMENT</text>
+						</titlePart>
+						<titlePart><text>DECONTAMINATION ARRANGEMENTS</text>
+						</titlePart>
+						<titlePart><text>TREATING RADIOACTIVELY-CONTAMINATED MATERIAL</text>
+							<entryReference>radiation protection by pharmaceutical means <sref ref="A61K0007400000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>in cosmonautic vehicles <sref ref="B64G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combined with a reactor <sref ref="G21C0011000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combined with X-ray tubes <sref ref="H01J0035160000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>combined with X-ray apparatus <sref ref="H05G0001020000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21G" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>CONVERSION OF CHEMICAL ELEMENTS</text>
+						</titlePart>
+						<titlePart><text>RADIOACTIVE SOURCES</text>
+							<entryReference>applications of radiation in general <sref ref="G21H0005000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>handling particles, e.g. neutrons, or electromagnetic radiation not otherwise provided for <sref ref="G21K" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21H" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>OBTAINING ENERGY FROM RADIOACTIVE SOURCES</text>
+						</titlePart>
+						<titlePart><text>APPLICATIONS OF RADIATION FROM RADIOACTIVE SOURCES</text>
+						</titlePart>
+						<titlePart><text>UTILISING COSMIC RADIATION</text>
+							<entryReference>measurement of nuclear or X-radiation <sref ref="G01T" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>fusion reactors <sref ref="G21B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>nuclear reactors <sref ref="G21C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>semiconductor devices sensitive to electromagnetic or corpuscular radiation <sref ref="H01L0031000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>NUCLEAR EXPLOSIVES</text>
+						</titlePart>
+						<titlePart><text>APPLICATIONS THEREOF</text>
+							<entryReference>electric or magnetic analogue computers, e.g. simulators, for nuclear physics <sref ref="G06G0007540000" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="G21J" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>This sub-class deals with uncontrolled fission or fusion reactions.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="G21K" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>TECHNIQUES FOR HANDLING PARTICLES OR ELECTROMAGNETIC RADIATION NOT OTHERWISE PROVIDED FOR</text>
+						</titlePart>
+						<titlePart><text>IRRADIATION DEVICES</text>
+						</titlePart>
+						<titlePart><text>GAMMA- OR X-RAY MICROSCOPES</text>
+							<entryReference>X-ray technique <sref ref="H05G" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>plasma technique <sref ref="H05H" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

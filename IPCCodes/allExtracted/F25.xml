@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="13056">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F21" endSymbol="F21" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>LIGHTING AND HEATING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F25" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>REFRIGERATION OR COOLING</text>
+					</titlePart>
+					<titlePart><text>MANUFACTURE OR STORAGE OF ICE</text>
+					</titlePart>
+					<titlePart><text>LIQUEFACTION OR SOLIDIFICATION OF GASES</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="u" symbol="F25B" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>REFRIGERATION MACHINES, PLANTS, OR SYSTEMS</text>
+						</titlePart>
+						<titlePart><text>COMBINED HEATING AND REFRIGERATION SYSTEMS, e.g. HEAT PUMP SYSTEMS</text>
+							<entryReference>pumps, compressors <sref ref="F04" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>use of heat pumps for domestic heating <sref ref="F24D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>use of refrigeration in air-conditioning <sref ref="F24F" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F25C" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>PRODUCTION, WORKING, STORING, OR DISTRIBUTION OF ICE</text>
+							<entryReference>frozen sweets, including ice-cream, their production <sref ref="A23G0009000000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>concentrating solutions by removing frozen solvents <sref ref="B01D0009040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>purification of water by freezing <sref ref="C02F0001220000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>refrigeration machines, plants, or systems <sref ref="F25B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>solidification of gases or gaseous mixtures <sref ref="F25J" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>freeze-drying <sref ref="F26B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F25C" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph edition="19740701"><text>In this sub-class, the term "ice" means any frozen liquid and is to be understood as also covering frozen semiliquids or pasty substances</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F25D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>REFRIGERATORS</text>
+						</titlePart>
+						<titlePart><text>COLD ROOMS</text>
+						</titlePart>
+						<titlePart><text>ICE-BOXES</text>
+						</titlePart>
+						<titlePart><text>COOLING OR FREEZING APPARATUS NOT COVERED BY ANY OTHER SUB-CLASS</text>
+							<entryReference>refrigerated show cases <sref ref="A47F0003040000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>refrigerated vehicles, <u>see</u> the appropriate sub-classes of classes <mref ref="B60" endRef="B64" refType="/" endRefType="/" refLevel="c" endRefLevel="c"></mref>
+							</entryReference>
+							<entryReference>thermally-insulated vessels for domestic use <sref ref="B65D" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>thermally-insulated vessels for liquefied or solidified gases <sref ref="F17C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>air-conditioning, ventilation <sref ref="F24F" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>refrigeration machines, plants, or systems <sref ref="F25B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>cooling of instruments and comparable apparatus without refrigeration <sref ref="G12B" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>cooling of engines or pumps, <u>see</u> the relevant classes</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F25D" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In this sub-class, the term "device" refers to an enclosed space to be cooled, such devices being associated either with refrigerating machinery, e.g. as in a refrigerator, or with other cold sources, e.g. as in an ice-box.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F25J" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>LIQUEFACTION, SOLIDIFICATION, OR SEPARATION OF GASES OR GASEOUS MIXTURES BY PRESSURE AND COLD TREATMENT</text>
+							<entryReference>cryogenic pumps <sref ref="F04B0037080000" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>gas storage vessels, gas-holders <sref ref="F17" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>filling vessels with, or discharging from vessels, compressed, liquefied, or solidified gases <sref ref="F17C" refType="/" refLevel="c"></sref>
+							</entryReference>
+							<entryReference>refrigeration machines, plants, or systems <sref ref="F25B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>

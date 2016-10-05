@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="ipcentry-double.xsl" type="text/xsl"?>
+<ipcEntries displayMode="e19800101;a19800101;c19800101" ipcLevel="c" split="subclass" languages=",en,fr," size="10454">
+	<ipcEntry kind="s" symbol="F" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+		<textBody><title>
+				<titlePart><text>SECTION F <emdash></emdash> MECHANICAL ENGINEERING</text>
+				</titlePart>
+				<titlePart><text>LIGHTING</text>
+				</titlePart>
+				<titlePart><text>HEATING</text>
+				</titlePart>
+				<titlePart><text>WEAPONS</text>
+				</titlePart>
+				<titlePart><text>BLASTING</text>
+				</titlePart>
+			</title>
+		</textBody>
+		<ipcEntry kind="t" symbol="F41" endSymbol="F41" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>WEAPONS</text>
+					</titlePart>
+					<titlePart><text>BLASTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+		</ipcEntry>
+		<ipcEntry kind="c" symbol="F42" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+			<textBody><title>
+					<titlePart><text>AMMUNITION</text>
+					</titlePart>
+					<titlePart><text>BLASTING</text>
+					</titlePart>
+				</title>
+			</textBody>
+			<ipcEntry kind="n" symbol="F42" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody>
+					<note type="number">
+						<noteParagraph><text>Although simulators are generally in class <sref ref="G09" refType="/" refLevel="c"/>, provision is included in class <sref ref="F42" refType="/" refLevel="c"/> for means for practice or training which may have aspects of simulation.</text>
+						</noteParagraph>
+						<noteParagraph><text>In this class, the following terms are used with the meanings indicated:</text>
+							<subnote type="alpha">
+								<noteParagraph><text>"Primer" effects the first explosive step in the sequence of explosion.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Percussion cap" <emdash/> a primer which is struck to explode.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Igniter" effects the first spark-producing or heat-producing step but may not be explosive.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Firing-means", "initiator" (used respectively in the arts of weaponry and blasting) <emdash/> the device acting directly on the primer, which device may or may not form part of the fuze.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Detonator charge" <emdash/> a charge used to amplify the explosion of the primer.</text>
+								</noteParagraph>
+								<noteParagraph><text>"Fuze" <emdash/> an assembly which determines the moment of the explosion (instantaneous or delayed) and which incorporates firing-means for initiating the explosion spark.</text>
+								</noteParagraph>
+								<noteParagraph edition="19740701"><text>"Ammunition" covers expulsion charge and projectile whether or not forming a single body, unless otherwise made clear.</text>
+								</noteParagraph>
+							</subnote>
+						</noteParagraph>
+					</note>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F42B" ipcLevel="C" edition="19740701" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>EXPLOSIVE CHARGES</text>
+						</titlePart>
+						<titlePart><text>AMMUNITION</text>
+						</titlePart>
+						<titlePart><text>MISSILES</text>
+							<entryReference>fuzes <sref ref="F42C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>FIREWORKS</text>
+							<entryReference>chemical compositions therefor <sref ref="C06B" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+					</title>
+				</textBody>
+				<ipcEntry kind="n" symbol="F42B" entryType="K" ipcLevel="C" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+					<textBody>
+						<note type="none">
+							<noteParagraph><text>In order to avoid confusion with devices that are variously described as guided missiles, self-propelled missiles, or rockets, such devices, if self-propelled, are classified in group <sref ref="F42B0015000000" refType="/" refLevel="c"/> except that when such devices are fired from a gun they are classified in group <sref ref="F42B0013280000" refType="/" refLevel="c"/>. If such devices are not self-propelled, they are classified in group <sref ref="F42B0025000000" refType="/" refLevel="c"/> when they fly by falling, and in group <sref ref="F42B0013000000" refType="/" refLevel="c"/> when they are fired from a gun.</text>
+							</noteParagraph>
+						</note>
+					</textBody>
+				</ipcEntry>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F42C" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>FUZES</text>
+							<entryReference>chemical aspects <sref ref="C06C" refType="/" refLevel="c"></sref>
+							</entryReference>
+						</titlePart>
+						<titlePart><text>ARMING OR SAFETY MEANS THEREFOR</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+			<ipcEntry kind="u" symbol="F42D" ipcLevel="C" entryType="K" isRenumbered="N" isDead="N" lang="EN" noadvanced="yes">
+				<textBody><title>
+						<titlePart><text>BLASTING</text>
+						</titlePart>
+					</title>
+				</textBody>
+			</ipcEntry>
+		</ipcEntry>
+	</ipcEntry>
+</ipcEntries>
