@@ -22,19 +22,19 @@ patent data. Another bash file is used to perform this process named **splitter.
 A processing step is performed for the individual patents files to be enriched. The additional data are descriptions related to the classifications codes. The codes for the role, kind, country, state and city are downloaded and saved as text files directly without using the jar. This is done by using the jar file **XMLProcessorV2.jar**. This jar performs different functionalities based on a given
 option. These functionalities are:
 
-* Extracting the codes and their descriptions from raw pages(HTML, XML,downloaded files...etc)
+### Extracting the codes and their descriptions from raw pages(HTML, XML,downloaded files...etc)
 
 > **java -jar XMLProcessorV2.jar ext classification-Type Raw-Code-Folder Structured-Code-Folder Missed-Code-Folder**
 
-*ext: The option to select the extraction functionality*
-*classification-Type: It specifies the type of classification to extract its descriptions. Its value is either **ipc** for international classification code or **us**  for the US classification (national)*
-*Raw-Code-Folder: The folder specifies the raw classificatin code files. There exist two types of folders based on the type of classification and differ in their contents. In case of **us** classification, the folder contains the top-level classification files where each file named after a top level code. Inside each file the sub-classes codes and descriptions. In case of **ipc** classification, the folder contains the files including different codes and their descriptions in xml formats*
-*Structured-Code-Folder: The folder where the pairs code-description files are stored*
-*Missed-Code-Folder: The folder where missed codes are stored for later review. It is useful in case of **us** classification*
+- *ext: The option to select the extraction functionality*
+- *classification-Type: It specifies the type of classification to extract its descriptions. Its value is either **ipc** for international classification code or **us**  for the US classification (national)*
+- *Raw-Code-Folder: The folder specifies the raw classificatin code files. There exist two types of folders based on the type of classification and differ in their contents. In case of **us** classification, the folder contains the top-level classification files where each file named after a top level code. Inside each file the sub-classes codes and descriptions. In case of **ipc** classification, the folder contains the files including different codes and their descriptions in xml formats*
+- *Structured-Code-Folder: The folder where the pairs code-description files are stored*
+- *Missed-Code-Folder: The folder where missed codes are stored for later review. It is useful in case of **us** classification*
 
 > *Example:* java -jar XMLProcessorV2.jar ext ipc/us /home/../IPC_Codes_XML/ /home/../IPCCodes
 
-* Processing the patents files
+### Processing the patents files
 
 **java -jar XMLProcessorV2.jar pro Splitted-Patents-Folder-Year Processed-Patents-Folder IPCCode-Folder USCode-Folder MissedCodes-Folder**
 
@@ -47,12 +47,12 @@ option. These functionalities are:
 > *Example:* java -jar XMLProcessorV2.jar pro /home/../patentsSplitted/2005/ /home/../patentsProcessed/2005/ /home/../IPCCodes/ /home/../US/ /home/../MissedCodes/2005/
 *Note: that the codes files must be in the same foder with the XMLProcessorV2.jar*
 
-* Classification of files with missed codes detected during processing the xml files based on the code type
+### Classification of files with missed codes detected during processing the xml files based on the code type
 > **java -jar XMLProcessorV2.jar classify MissedCodes-Folder MissedCodes-Classified-Folder Code-Type-EXpression**
-*classify: the option to classification*
-*MissedCodes-Folder: the folder contains the missed codes files per year*
-*MissedCodes-Classified-Folder: the folder contains the classified missed codes per year*
-*Code-Type-EXpression: the expression specifies the type of code in interest to differentiate between files that contain that missed code or not*
+- *classify: the option to classification*
+- *MissedCodes-Folder: the folder contains the missed codes files per year*
+- *MissedCodes-Classified-Folder: the folder contains the classified missed codes per year*
+- *Code-Type-EXpression: the expression specifies the type of code in interest to differentiate between files that contain that missed code or not*
 > *Example:* java -jar XMLProcessorV2.jar classify /home/../MissedCodes/2005/ /home/../Classified-MissedCodes/2005/ /us-patent-grant/us-bibliographic-data-grant/parties/agents/agent/addressbook/orgname*
 
 ## 4-Triplifying
