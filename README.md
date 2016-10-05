@@ -27,10 +27,10 @@ option. These functionalities are:
 > **java -jar XMLProcessorV2.jar ext classification-Type Raw-Code-Folder Structured-Code-Folder Missed-Code-Folder**
 
 - *ext: The option to select the extraction functionality*
-- *classification-Type: It specifies the type of classification to extract its descriptions. Its value is either **ipc** for international classification code or **us**  for the US classification (national)*
-- *Raw-Code-Folder: The folder specifies the raw classificatin code files. There exist two types of folders based on the type of classification and differ in their contents. In case of **us** classification, the folder contains the top-level classification files where each file named after a top level code. Inside each file the sub-classes codes and descriptions. In case of **ipc** classification, the folder contains the files including different codes and their descriptions in xml formats*
+- *classification-Type: It specifies the type of classification to extract its descriptions. Its value is either **ipc** for international classification code or __us__  for the US classification (national)*
+- *Raw-Code-Folder: The folder specifies the raw classificatin code files. There exist two types of folders based on the type of classification and differ in their contents. In case of __us__ classification, the folder contains the top-level classification files where each file named after a top level code. Inside each file the sub-classes codes and descriptions. In case of **ipc** classification, the folder contains the files including different codes and their descriptions in xml formats*
 - *Structured-Code-Folder: The folder where the pairs code-description files are stored*
-- *Missed-Code-Folder: The folder where missed codes are stored for later review. It is useful in case of **us** classification*
+- *Missed-Code-Folder: The folder where missed codes are stored for later review. It is useful in case of __us__ classification*
 
 > *Example:* java -jar XMLProcessorV2.jar ext ipc/us /home/../IPC_Codes_XML/ /home/../IPCCodes
 
@@ -43,7 +43,7 @@ option. These functionalities are:
  - *Processed-Patents-Folder: the folder containing the processed xml patents files*
  - *IPCCode-Folder: the folder contains the IPC codes*
  - *USCode-Folder: the folder contains the us codes*
- - *MissedCodes-Folder: the folder contains several sub-folders based on year where each folder includes a per-XMLfile text file for all types of missed codes *
+ - *MissedCodes-Folder: the folder contains several sub-folders based on year where each folder includes a per-XMLfile text file for all types of missed codes*
 > *Example:* java -jar XMLProcessorV2.jar pro /home/../patentsSplitted/2005/ /home/../patentsProcessed/2005/ /home/../IPCCodes/ /home/../US/ /home/../MissedCodes/2005/
 *Note: that the codes files must be in the same foder with the XMLProcessorV2.jar*
 
