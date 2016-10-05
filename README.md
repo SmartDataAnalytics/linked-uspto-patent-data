@@ -9,14 +9,14 @@ the year inside a specified destination folder where the downloadded zipped file
 > **bash downloadFiles.sh Path-To-URLs-Of-Year Destination-Folder**
 ***Note***: Inside the *Destination-Folder* a folder with the year name is created to download the zipped files in it.
 
-> *Example:* bash downloadFiles.sh /home/../2006 /home/../patentsDownloadedZipped/ , inside patentsDownloadedZipped folder named 2006 will be created.
+> _Example:_ bash downloadFiles.sh /home/../2006 /home/../patentsDownloadedZipped/ , inside patentsDownloadedZipped folder named 2006 will be created.
 
 ## 2-Unzipping and splitting:
 In this step, the zipped downloaded files are extracted and each XML file is splitted into multiple XML files. Each new XML file contains only an individual
 patent data. Another bash file is used to perform this process named **splitter.sh**. The syntax to use the bash file is:
 > **bash splitter.sh Path-To-Year-Folder Destination-Folder**
 
-> *Example:* bash splitter.sh /home/../patentsDownloadedZipped/2006/ /home/../patentsSplitted/2006/
+> _Example:_ bash splitter.sh /home/../patentsDownloadedZipped/2006/ /home/../patentsSplitted/2006/
 
 ## 3-Processing:
 A processing step is performed for the individual patents files to be enriched. The additional data are descriptions related to the classifications codes. The codes for the role, kind, country, state and city are downloaded and saved as text files directly without using the jar. This is done by using the jar file **XMLProcessorV2.jar**. This jar performs different functionalities based on a given
@@ -32,7 +32,7 @@ option. These functionalities are:
 - *Structured-Code-Folder: The folder where the pairs code-description files are stored*
 - *Missed-Code-Folder: The folder where missed codes are stored for later review. It is useful in case of __us__ classification*
 
-> *Example:* java -jar XMLProcessorV2.jar ext ipc/us /home/../IPC_Codes_XML/ /home/../IPCCodes
+> _Example:_ java -jar XMLProcessorV2.jar ext ipc/us /home/../IPC_Codes_XML/ /home/../IPCCodes
 
 ### Processing the patents files
 
@@ -44,7 +44,7 @@ option. These functionalities are:
  - *IPCCode-Folder: the folder contains the IPC codes*
  - *USCode-Folder: the folder contains the us codes*
  - *MissedCodes-Folder: the folder contains several sub-folders based on year where each folder includes a per-XMLfile text file for all types of missed codes*
-> *Example:* java -jar XMLProcessorV2.jar pro /home/../patentsSplitted/2005/ /home/../patentsProcessed/2005/ /home/../IPCCodes/ /home/../US/ /home/../MissedCodes/2005/
+> _Example:_ java -jar XMLProcessorV2.jar pro /home/../patentsSplitted/2005/ /home/../patentsProcessed/2005/ /home/../IPCCodes/ /home/../US/ /home/../MissedCodes/2005/
 *Note: that the codes files must be in the same foder with the XMLProcessorV2.jar*
 
 ### Classification of files with missed codes detected during processing the xml files based on the code type
@@ -53,9 +53,9 @@ option. These functionalities are:
 - *MissedCodes-Folder: the folder contains the missed codes files per year*
 - *MissedCodes-Classified-Folder: the folder contains the classified missed codes per year*
 - *Code-Type-EXpression: the expression specifies the type of code in interest to differentiate between files that contain that missed code or not*
-> *Example:* java -jar XMLProcessorV2.jar classify /home/../MissedCodes/2005/ /home/../Classified-MissedCodes/2005/ /us-patent-grant/us-bibliographic-data-grant/parties/agents/agent/addressbook/orgname*
+> _Example:_ java -jar XMLProcessorV2.jar classify /home/../MissedCodes/2005/ /home/../Classified-MissedCodes/2005/ /us-patent-grant/us-bibliographic-data-grant/parties/agents/agent/addressbook/orgname*
 
 ## 4-Triplifying
 It is the targeted step in the workflow where the XML files are transformed into RDF data. This is executed by using RML Mapping [http://rml.io/] and RML Processing [https://github.com/mmlab/RMLValidator/tree/rdfunit]. The syntax is:
 > **java -jar RMLMMF.jar RML-Mapping-File Processed-Patents-Folder**
-> *Example:*java -jar RMLMMF.jar /home/../mapping.ttl  /home/../patentsProcessed/2014/
+> _Example:_java -jar RMLMMF.jar /home/../mapping.ttl  /home/../patentsProcessed/2014/
