@@ -44,18 +44,24 @@ option. These functionalities are:
  - *IPCCode-Folder: the folder contains the IPC codes*
  - *USCode-Folder: the folder contains the us codes*
  - *MissedCodes-Folder: the folder contains several sub-folders based on year where each folder includes a per-XMLfile text file for all types of missed codes*
+
 > _Example:_ java -jar XMLProcessorV2.jar pro /home/../patentsSplitted/2005/ /home/../patentsProcessed/2005/ /home/../IPCCodes/ /home/../US/ /home/../MissedCodes/2005/
+
 *Note: that the codes files must be in the same foder with the XMLProcessorV2.jar*
 
 ### Classification of files with missed codes detected during processing the xml files based on the code type
 > **java -jar XMLProcessorV2.jar classify MissedCodes-Folder MissedCodes-Classified-Folder Code-Type-EXpression**
+
 - *classify: the option to classification*
 - *MissedCodes-Folder: the folder contains the missed codes files per year*
 - *MissedCodes-Classified-Folder: the folder contains the classified missed codes per year*
 - *Code-Type-EXpression: the expression specifies the type of code in interest to differentiate between files that contain that missed code or not*
+
 > _Example:_ java -jar XMLProcessorV2.jar classify /home/../MissedCodes/2005/ /home/../Classified-MissedCodes/2005/ /us-patent-grant/us-bibliographic-data-grant/parties/agents/agent/addressbook/orgname*
 
 ## 4-Triplifying
 It is the targeted step in the workflow where the XML files are transformed into RDF data. This is executed by using RML Mapping [http://rml.io/] and RML Processing [https://github.com/mmlab/RMLValidator/tree/rdfunit]. The syntax is:
+
 > **java -jar RMLMMF.jar RML-Mapping-File Processed-Patents-Folder**
+
 > _Example:_java -jar RMLMMF.jar /home/../mapping.ttl  /home/../patentsProcessed/2014/
